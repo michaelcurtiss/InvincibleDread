@@ -2532,7 +2532,7 @@ To teach Arachne the folly of her mad attempt, Minerva wove four corners with li
         <Document ID="60">
             <Title>Jeket</Title>
             <Synopsis>Pyetle is depressed. Wife is cheating on him with Salavan Saran. Goes to Salavan's house to kill him. Salavan figures it out, tries to kill Pyetle, but Ayram intervenes. Ayram lets Pyetle Kill Salavan. Salavan's wife stumbles into the scene. Pyetle pleads for her life.</Synopsis>
-            <Text>        The poet Mandrameen believed that the empire’s religions were all distortions of the Truth, but even so, they were our only way to access it. As such, he taught that any honest seeker of theTruth must be a practitioner of all religions. For this he built an analogy out of the famous Library of Jeket.
+            <Text>        The poet Mandrameen believed that the empire’s religions were all distortions of the Truth, but even so, they were our only way to access it. As such, he taught that any honest seeker of the Truth must be a practitioner of all religions. For this he built an analogy out of the famous Library of Jeket.
 If an artist were locked inside and wanted to paint a perfectly accurate picture of the marble Pillar of Saulistides which stands out in the garden, the artist must look through the building’s windows to see it - windows whose glass was fogged and warped with age. In the one window pane, the pillar would appear stretched. In another it would seem waved. In yet another it was so curved that the friezes of Saulistedes’ armies which wrapped around the marble seemed to climb up into the sky. 
 Since each window pane distorted the Pillar in its own peculiar way, it would be a mistake for the artist to paint their picture using only the information gleaned from a single view. The artist should instead move from window to window, from distortion to distortion, averaging out the truth of the Pillar’s shape from the lies.
 This was how Mandrameen practiced religion - by moving from one religion to another, averaging out the true shape of Reality from ancient myths so distorted with age. He would consider them together, and start with their similarities instead of their differences. From this exercise he found what he believed was the core of every religion: a story to explain the existence and nature of suffering.
@@ -3643,6 +3643,16 @@ Pyetle sees a door - Ayram is like, dont worry bout that little man.
 There are creatures there in the dark - but it seems to fear Ayram. </Synopsis>
             <Text>Pyetle sees a door - Ayram is like, don’t worry bout that little man. You're a curious fellow for a depressed husk of man
 </Text>
+        </Document>
+        <Document ID="82">
+            <Title>Cascading Conflict: The Science of Violence</Title>
+            <Text>Integrating complexity science with the study of violence.
+Night on bear mountain - emotion, psychology, fear. The ways that we think in terms of violence - blaming warmongering leaders and so on - vs. Looking at fundamental mathematical principles. Trying to suss out statistical regularities, that don’t have to do with that kind of emotion, psychology, or individual agency. Universal laws that move from the micro to the cellular, even further to genes, fundamental principles of energy and matter, all the way to the macro of complex organisms and even social systems. 
+
+- Lewis Richardson spawned this thinking- the coastline paradox - fractals. Scale-free theories. Things that occur at different scales but still occur at regular patterns. Richardson, using very little data and rudimentary math, posited that the frequency and the severity of deadly quarrels of all kinds could follow these universal statistical patterns called power laws that could explain severity and duration. 
+
+Evolutionary thinking: Most people are neo-darwinian in their thoughts about warfare and violence. That goes back to Darwin’s The Descent of Man - in that book darwin describes war as an agent of human evolution, that somehow conflict facilitated a series of transitions into the modern state - borrows from Hobbes Leviathan - primitive state of existence is one of hostility. Elaborated by Herbert Spencer in his Social Statics in 1851 - But really, Darwin’s primary debt was to Malthus - pop growth/distribution of scarce resources leads inevitably to conflict. 
+1940s and 50s, game theory pops up. Formal study of conflict of interest.</Text>
         </Document>
     </Documents>
 </SearchIndexes>
