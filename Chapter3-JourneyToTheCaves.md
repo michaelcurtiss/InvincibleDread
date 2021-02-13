@@ -1,5 +1,6 @@
+Seculla and Mandrameen inhabited two different social spheres. Mandrameen 
 
-Seculla and Mandrameen first met at a party. 
+
 
 Mandrameen spiel on the depression. THe western sand is the largest depression in the world. For since the beginning of creation, it has been spinning - winds in form - steal that shit.
 
