@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-02-17 00:03:53 -0500" ModID="EFE5FDFA-840B-4B4A-B906-003A8127BBB2">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-02-17 11:48:40 -0500" ModID="22031552-414B-46E0-9BD4-DDED40FC5763">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -547,13 +547,13 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="83" UUID="B3445AE4-697E-4599-9640-EDFB3ADB93ED" Created="2021-02-12 22:38:54 -0500" Modified="2021-02-13 18:42:39 -0500" Type="Text">
+                        <BinderItem ID="83" UUID="B3445AE4-697E-4599-9640-EDFB3ADB93ED" Created="2021-02-12 22:38:54 -0500" Modified="2021-02-17 02:59:01 -0500" Type="Text">
                             <Title>Immeasurable World</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2382,0</TextSelection>
+                                <TextSelection>5542,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -888,7 +888,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1262" Characters="5673" Date="2021-02-16 13:15:24 -0500"/>
+        <PreviousSession Words="0" Characters="5920" Date="2021-02-17 02:20:23 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
