@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-02-13 20:18:46 -0500" ModID="B643F104-8794-4786-8373-FEE4083E5E74">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-02-17 00:03:53 -0500" ModID="EFE5FDFA-840B-4B4A-B906-003A8127BBB2">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -29,7 +29,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2021-02-12 22:48:51 -0500" Type="Text">
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2021-02-16 21:55:15 -0500" Type="Text">
                     <Title>Ambush</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -37,7 +37,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18213,0</TextSelection>
+                        <TextSelection>3271,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -46,7 +46,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="60" UUID="CECE85E3-B226-40BC-B98C-6EE76985EF9C" Created="2021-02-12 18:37:19 -0500" Modified="2021-02-12 21:07:50 -0500" Type="Text">
+                <BinderItem ID="60" UUID="CECE85E3-B226-40BC-B98C-6EE76985EF9C" Created="2021-02-12 18:37:19 -0500" Modified="2021-02-16 23:39:43 -0500" Type="Text">
                     <Title>Jeket</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -54,11 +54,11 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1044,0</TextSelection>
+                        <TextSelection>29466,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-13 19:47:43 -0500" Type="Text">
+                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-16 23:39:52 -0500" Type="Text">
                     <Title>Underground</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -66,10 +66,11 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>4963,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="61" UUID="A6627895-1AA7-4B5B-9DCA-1006D53E2CBC" Created="2021-02-12 18:37:23 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
+                <BinderItem ID="61" UUID="A6627895-1AA7-4B5B-9DCA-1006D53E2CBC" Created="2021-02-12 18:37:23 -0500" Modified="2021-02-13 21:17:19 -0500" Type="Text">
                     <Title>Identity</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -506,23 +507,23 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-13 18:42:31 -0500" Type="Text">
+                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-16 22:58:09 -0500" Type="Text">
                             <Title>Dread Notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>56244,0</TextSelection>
+                                <TextSelection>337,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="43" UUID="7D14A9EA-4288-4F3D-B725-7E7A9757FF88" Created="2021-02-12 18:18:56 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
+                        <BinderItem ID="43" UUID="7D14A9EA-4288-4F3D-B725-7E7A9757FF88" Created="2021-02-12 18:18:56 -0500" Modified="2021-02-16 23:48:40 -0500" Type="Text">
                             <Title>Beksinski Notes #1</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>28712,0</TextSelection>
+                                <TextSelection>4950,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -552,7 +553,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>378,0</TextSelection>
+                                <TextSelection>2382,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -571,6 +572,16 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="86" UUID="48E112E8-4FC8-4F8D-A0DF-CE370B18F74B" Created="2021-02-13 22:09:35 -0500" Modified="2021-02-16 23:39:56 -0500" Type="Text">
+                            <Title>Beneath the Mountains</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>27540,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -877,7 +888,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-02-13 20:18:35 -0500"/>
+        <PreviousSession Words="1262" Characters="5673" Date="2021-02-16 13:15:24 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
