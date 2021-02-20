@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-02-19 21:42:45 -0500" ModID="0DDE71F9-1301-4371-9EFA-CF96CBC06C86">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-02-20 02:26:05 -0500" ModID="32FE1EC0-C683-477F-BD85-7516624AFF6A">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -29,7 +29,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2021-02-16 21:55:15 -0500" Type="Text">
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2021-02-20 01:35:38 -0500" Type="Text">
                     <Title>Ambush</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -37,7 +37,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3271,0</TextSelection>
+                        <TextSelection>9463,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -58,19 +58,20 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-19 00:23:12 -0500" Type="Text">
+                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-20 02:15:09 -0500" Type="Text">
                     <Title>Underground</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14345,0</TextSelection>
+                        <TextSelection>4647,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="61" UUID="A6627895-1AA7-4B5B-9DCA-1006D53E2CBC" Created="2021-02-12 18:37:23 -0500" Modified="2021-02-13 21:17:19 -0500" Type="Text">
+                <BinderItem ID="61" UUID="A6627895-1AA7-4B5B-9DCA-1006D53E2CBC" Created="2021-02-12 18:37:23 -0500" Modified="2021-02-20 01:56:43 -0500" Type="Text">
                     <Title>Identity</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -78,6 +79,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>21,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -508,14 +510,14 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-19 21:42:09 -0500" Type="Text">
+                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-20 01:47:02 -0500" Type="Text">
                             <Title>Dread Notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2843,0</TextSelection>
+                                <TextSelection>370,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -523,6 +525,7 @@
                             <Title>Beksinski Notes #1</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>4950,0</TextSelection>
@@ -533,6 +536,7 @@
                             <Title>Beksinski Notes #2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1175,0</TextSelection>
@@ -543,6 +547,7 @@
                             <Title>Cascading Conflict: The Science of Violence</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
@@ -552,6 +557,7 @@
                             <Title>Immeasurable World</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection Caret="20901">20899,2</TextSelection>
@@ -562,6 +568,7 @@
                             <Title>Vitae Patrum</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
@@ -571,6 +578,7 @@
                             <Title>Forgotten victims from the age of atrocity</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
@@ -580,9 +588,10 @@
                             <Title>Beneath the Mountains</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="898">897,1</TextSelection>
+                                <TextSelection Caret="5805">5803,2</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -590,9 +599,20 @@
                             <Title>JimKeller</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>991,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="88" UUID="C4EE3DEA-89E9-4986-8D43-025C103B52AD" Created="2021-02-19 23:42:50 -0500" Modified="2021-02-20 00:42:31 -0500" Type="Text">
+                            <Title>Hemingway</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2675,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -899,7 +919,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="454" Characters="2673" Date="2021-02-19 21:16:07 -0500"/>
+        <PreviousSession Words="494" Characters="2672" Date="2021-02-19 23:41:59 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
