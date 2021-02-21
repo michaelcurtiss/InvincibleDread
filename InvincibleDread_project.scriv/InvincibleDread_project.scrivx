@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-02-21 12:32:54 -0500" ModID="D1A82C3F-C5FE-4FA2-82B8-C8AA30135A9E">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-02-21 14:35:01 -0500" ModID="3E383DC9-F352-42BD-8D18-5976B13D51D9">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -54,11 +54,11 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>29466,0</TextSelection>
+                        <TextSelection>18675,49</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-20 02:15:09 -0500" Type="Text">
+                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-21 14:35:01 -0500" Type="Text">
                     <Title>Underground</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -67,7 +67,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4647,0</TextSelection>
+                        <TextSelection>14808,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -517,7 +517,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>166,0</TextSelection>
+                                <TextSelection Caret="7933">7677,256</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -591,7 +591,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12545,0</TextSelection>
+                                <TextSelection>16733,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -919,7 +919,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="156" Characters="865" Date="2021-02-20 20:26:55 -0500"/>
+        <PreviousSession Words="0" Characters="750" Date="2021-02-21 12:56:50 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
