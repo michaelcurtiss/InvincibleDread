@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-02-21 19:31:02 -0500" ModID="390FE62A-FD4A-4467-B33A-74EC42A68BE1">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-02-22 22:21:00 -0500" ModID="9ECD34D2-A401-4209-8B5F-AFE80A05A534">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -37,7 +37,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="3118">2960,158</TextSelection>
+                        <TextSelection>3339,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -58,7 +58,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-21 19:30:16 -0500" Type="Text">
+                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-22 01:04:17 -0500" Type="Text">
                     <Title>Underworld</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -67,7 +67,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10650,0</TextSelection>
+                        <TextSelection>2918,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -91,6 +91,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>8473,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -194,7 +195,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="72" UUID="85514DE1-E98A-40F9-9439-5473A620A378" Created="2021-02-12 18:38:29 -0500" Modified="2021-02-12 19:30:10 -0500" Type="Text">
+                <BinderItem ID="72" UUID="85514DE1-E98A-40F9-9439-5473A620A378" Created="2021-02-12 18:38:29 -0500" Modified="2021-02-21 21:21:10 -0500" Type="Text">
                     <Title>Reunion</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -202,6 +203,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>103,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -510,25 +512,24 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-20 23:48:04 -0500" Type="Text">
+                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-22 01:00:52 -0500" Type="Text">
                             <Title>Dread Notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="7933">7677,256</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="43" UUID="7D14A9EA-4288-4F3D-B725-7E7A9757FF88" Created="2021-02-12 18:18:56 -0500" Modified="2021-02-16 23:48:40 -0500" Type="Text">
+                        <BinderItem ID="43" UUID="7D14A9EA-4288-4F3D-B725-7E7A9757FF88" Created="2021-02-12 18:18:56 -0500" Modified="2021-02-22 01:03:20 -0500" Type="Text">
                             <Title>Beksinski Notes #1</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4950,0</TextSelection>
+                                <TextSelection>2443,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -918,7 +919,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="4162" Date="2021-02-21 15:25:11 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2021-02-22 19:26:07 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
