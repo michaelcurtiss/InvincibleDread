@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-02-25 19:23:48 -0500" ModID="8E812AE7-A417-4E73-AF50-7E702B4F9A68">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-02-27 02:05:25 -0500" ModID="62971B53-6B00-4219-B2FA-FB259B3F5322">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -29,13 +29,13 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="89" UUID="36DD2AEF-4D19-40AD-9DD1-F4CEA9B065DE" Created="2021-02-25 14:06:55 -0500" Modified="2021-02-25 14:07:21 -0500" Type="Text">
+                <BinderItem ID="89" UUID="36DD2AEF-4D19-40AD-9DD1-F4CEA9B065DE" Created="2021-02-25 14:06:55 -0500" Modified="2021-02-27 01:56:59 -0500" Type="Text">
                     <Title>Ambush-Mandrameen</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3121,0</TextSelection>
+                        <TextSelection>1792,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -522,14 +522,13 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-25 14:23:09 -0500" Type="Text">
+                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-27 01:22:05 -0500" Type="Text">
                             <Title>Dread Notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>509,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -565,13 +564,14 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="83" UUID="B3445AE4-697E-4599-9640-EDFB3ADB93ED" Created="2021-02-12 22:38:54 -0500" Modified="2021-02-18 15:36:28 -0500" Type="Text">
+                        <BinderItem ID="83" UUID="B3445AE4-697E-4599-9640-EDFB3ADB93ED" Created="2021-02-12 22:38:54 -0500" Modified="2021-02-26 16:11:04 -0500" Type="Text">
                             <Title>Immeasurable World</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection Caret="10907">10898,9</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -595,14 +595,14 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="86" UUID="48E112E8-4FC8-4F8D-A0DF-CE370B18F74B" Created="2021-02-13 22:09:35 -0500" Modified="2021-02-18 15:36:24 -0500" Type="Text">
+                        <BinderItem ID="86" UUID="48E112E8-4FC8-4F8D-A0DF-CE370B18F74B" Created="2021-02-13 22:09:35 -0500" Modified="2021-02-26 15:51:30 -0500" Type="Text">
                             <Title>Beneath the Mountains</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16733,0</TextSelection>
+                                <TextSelection>26754,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -930,7 +930,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="4120" Date="2021-02-25 13:19:36 -0500"/>
+        <PreviousSession Words="910" Characters="5028" Date="2021-02-26 16:25:10 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
