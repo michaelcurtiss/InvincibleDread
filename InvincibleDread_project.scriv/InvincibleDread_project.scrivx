@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-02-27 13:29:34 -0500" ModID="49E37C89-E597-4A85-9B8F-428ED53DD300">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-02-27 19:55:58 -0500" ModID="56267ECC-04F7-4A0F-A5F7-9C8C6E447044">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -29,32 +29,17 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="89" UUID="36DD2AEF-4D19-40AD-9DD1-F4CEA9B065DE" Created="2021-02-25 14:06:55 -0500" Modified="2021-02-27 02:51:40 -0500" Type="Text">
+                <BinderItem ID="89" UUID="36DD2AEF-4D19-40AD-9DD1-F4CEA9B065DE" Created="2021-02-25 14:06:55 -0500" Modified="2021-02-27 16:59:07 -0500" Type="Text">
                     <Title>Ambush-Mandrameen</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection Caret="201">195,6</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2021-02-24 01:42:59 -0500" Type="Text">
-                    <Title>Ambush</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1974,0</TextSelection>
+                        <TextSelection Caret="201">195,6</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>Yes</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="60" UUID="CECE85E3-B226-40BC-B98C-6EE76985EF9C" Created="2021-02-12 18:37:19 -0500" Modified="2021-02-16 23:39:43 -0500" Type="Text">
                     <Title>Jeket</Title>
@@ -522,14 +507,14 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-27 09:24:54 -0500" Type="Text">
+                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-02-27 15:07:05 -0500" Type="Text">
                             <Title>Dread Notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>223,0</TextSelection>
+                                <TextSelection>28,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -572,7 +557,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="10907">10898,9</TextSelection>
+                                <TextSelection>11664,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -630,6 +615,35 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="105" UUID="FB397151-4BAB-48A4-B87C-C435104F9D81" Created="2021-02-27 16:58:04 -0500" Modified="2021-02-27 16:58:12 -0500" Type="Folder">
+                    <Title>OldCopy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 12:33:03 -0500" Modified="2021-02-24 01:42:59 -0500" Type="Text">
+                            <Title>Ambush</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1974,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="20" UUID="0F62E5C2-41F2-41F7-B09A-AF381C34B686" Created="2010-10-19 08:57:18 -0500" Modified="2021-02-12 19:30:10 -0500" Type="Folder">
@@ -657,6 +671,7 @@
                         <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection Caret="14">10,4</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -680,6 +695,151 @@
                             <FreeformMode>Yes</FreeformMode>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="100" UUID="CFE2654E-07A2-4CD0-B846-D4D778362D70" Created="2021-02-27 14:15:31 -0500" Modified="2021-02-27 14:15:35 -0500" Type="Folder">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="101" UUID="B94E3252-5C00-4878-A715-AD5A1733E7ED" Created="2021-02-27 14:20:40 -0500" Modified="2021-02-27 14:49:02 -0500" Type="Text">
+                            <Title>Moteah</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>335,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="103" UUID="24E35A22-489E-4C93-ACD5-4ED846DD775B" Created="2021-02-27 14:22:45 -0500" Modified="2021-02-27 14:32:18 -0500" Type="Text">
+                            <Title>Lindrimuud</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>39,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="102" UUID="46069543-F900-49A2-9B74-28385C603B9D" Created="2021-02-27 14:20:43 -0500" Modified="2021-02-27 14:20:44 -0500" Type="Text">
+                            <Title>Sob</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="94" UUID="4F123818-B5F9-40B0-986D-27D9BD828E16" Created="2021-02-27 14:14:58 -0500" Modified="2021-02-27 14:20:24 -0500" Type="Text">
+                            <Title>Mazyd Oro</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>751,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="93" UUID="8BFE23E7-BEAC-4333-91E0-D47C0C5739D5" Created="2021-02-27 14:08:47 -0500" Modified="2021-02-27 14:14:41 -0500" Type="Text">
+                            <Title>Ayram</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>306,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="92" UUID="6413C951-99E3-443A-962D-62474806B39E" Created="2021-02-27 13:51:26 -0500" Modified="2021-02-27 14:03:40 -0500" Type="Text">
+                            <Title>Seculla</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>569,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="91" UUID="B648F9F2-429C-4D8E-B3AC-8E5E3A98C874" Created="2021-02-27 13:40:45 -0500" Modified="2021-02-27 17:02:46 -0500" Type="Text">
+                            <Title>Mandrameen</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>382,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="90" UUID="14DE4899-1AB6-4D4D-988A-0275E625056B" Created="2021-02-27 13:34:00 -0500" Modified="2021-02-27 13:40:30 -0500" Type="Text">
+                            <Title>Pyetle</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>587,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="104" UUID="636B6410-0896-425E-B44E-F7F71F1CBC7B" Created="2021-02-27 15:07:16 -0500" Modified="2021-02-27 15:36:51 -0500" Type="Text">
+                            <Title>Jansihine</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>629,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -899,6 +1059,76 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="95" UUID="2EB878E1-ED0F-47CD-B321-E974F3E68CF4" Created="2021-02-27 14:14:58 -0500" Modified="2021-02-27 14:14:58 -0500" Type="Text">
+                    <Title>Ayram</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="96" UUID="31A79137-859D-4C3D-8188-84062FE91B05" Created="2021-02-27 14:14:58 -0500" Modified="2021-02-27 14:14:58 -0500" Type="Text">
+                    <Title>Seculla</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="97" UUID="003494A2-F212-481C-BE6C-41DFB41D544F" Created="2021-02-27 14:14:58 -0500" Modified="2021-02-27 14:14:58 -0500" Type="Text">
+                    <Title>Mandrameen</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="98" UUID="829C8DFD-DB0A-4C4B-87CA-D2B570170561" Created="2021-02-27 14:14:58 -0500" Modified="2021-02-27 14:14:58 -0500" Type="Text">
+                    <Title>Pyetle</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="99" UUID="122262CF-ADF4-406A-9718-A36B8A5BAAEE" Created="2021-02-27 14:15:24 -0500" Modified="2021-02-27 14:15:24 -0500" Type="Text">
+                    <Title>Mazyd Oro-1</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -931,7 +1161,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="17" Characters="111" Date="2021-02-27 09:02:40 -0500"/>
+        <PreviousSession Words="0" Characters="9473" Date="2021-02-27 13:33:42 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
