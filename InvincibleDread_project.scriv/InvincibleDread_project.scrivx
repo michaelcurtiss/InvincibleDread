@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< 94236c2e0ddafe84567f3bd5b54ba49bca603351
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-FJNA7F4" Modified="2021-03-03 21:03:27 -0500" ModID="27E131B5-F47D-46EB-8744-5B110CAA8051">
-=======
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-03-03 08:47:56 -0500" ModID="BA1B6B1B-F9B6-4F4A-B37D-23562A2A1A9D">
->>>>>>> OH fuck
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-Q9SIJQ0" Modified="2021-03-05 13:53:55 -0500" ModID="3B38E4DC-341B-4836-8FD9-3C0BE4E6803A">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 16:48:19 -0500" Modified="2021-02-12 19:29:53 -0500" Type="Text">
             <Title>Novel Format</Title>
@@ -33,15 +29,15 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="89" UUID="36DD2AEF-4D19-40AD-9DD1-F4CEA9B065DE" Created="2021-02-25 14:06:55 -0500" Modified="2021-03-01 23:51:36 -0500" Type="Text">
-                    <Title>Ambush</Title>
+                <BinderItem ID="89" UUID="36DD2AEF-4D19-40AD-9DD1-F4CEA9B065DE" Created="2021-02-25 14:06:55 -0500" Modified="2021-02-27 16:59:07 -0500" Type="Text">
+                    <Title>Ambush-Mandrameen</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>214,0</TextSelection>
+                        <TextSelection Caret="201">195,6</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -57,7 +53,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-03-02 22:29:12 -0500" Type="Text">
+                <BinderItem ID="81" UUID="A36FAAE8-385E-44D9-8DC0-00E9C575E1FC" Created="2021-02-12 19:45:28 -0500" Modified="2021-02-22 01:04:17 -0500" Type="Text">
                     <Title>Underworld</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -66,7 +62,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>36,0</TextSelection>
+                        <TextSelection>2918,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -82,7 +78,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="62" UUID="C79DC8CF-2108-4199-900D-4227296337E2" Created="2021-02-12 18:37:39 -0500" Modified="2021-03-02 10:35:15 -0500" Type="Text">
+                <BinderItem ID="62" UUID="C79DC8CF-2108-4199-900D-4227296337E2" Created="2021-02-12 18:37:39 -0500" Modified="2021-02-24 19:22:16 -0500" Type="Text">
                     <Title>Oath</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -90,11 +86,11 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>247,312</TextSelection>
+                        <TextSelection>0,871</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="64" UUID="D703F18D-E344-4D34-A4F4-ADB5EC4E5BB0" Created="2021-02-12 18:37:51 -0500" Modified="2021-03-02 20:12:10 -0500" Type="Text">
+                <BinderItem ID="64" UUID="D703F18D-E344-4D34-A4F4-ADB5EC4E5BB0" Created="2021-02-12 18:37:51 -0500" Modified="2021-03-05 11:14:57 -0500" Type="Text">
                     <Title>Hermit</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -103,11 +99,11 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1042,0</TextSelection>
+                        <TextSelection>1298,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="63" UUID="3FE86903-3874-4142-AEED-ECD906083549" Created="2021-02-12 18:37:44 -0500" Modified="2021-03-02 20:12:29 -0500" Type="Text">
+                <BinderItem ID="63" UUID="3FE86903-3874-4142-AEED-ECD906083549" Created="2021-02-12 18:37:44 -0500" Modified="2021-02-12 19:30:10 -0500" Type="Text">
                     <Title>Kalemites</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -119,27 +115,26 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="65" UUID="C07FD356-7505-4D49-8467-52F4457AA3E1" Created="2021-02-12 18:37:59 -0500" Modified="2021-03-02 20:14:35 -0500" Type="Text">
-                    <Title>Chase into Underworld</Title>
+                <BinderItem ID="65" UUID="C07FD356-7505-4D49-8467-52F4457AA3E1" Created="2021-02-12 18:37:59 -0500" Modified="2021-02-12 19:30:10 -0500" Type="Text">
+                    <Title>To Urgiz</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>204,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="66" UUID="C6525630-519C-4F81-B4C2-82D9ED7E9242" Created="2021-02-12 18:38:04 -0500" Modified="2021-03-02 20:16:09 -0500" Type="Text">
-                    <Title>Underworld</Title>
+                <BinderItem ID="66" UUID="C6525630-519C-4F81-B4C2-82D9ED7E9242" Created="2021-02-12 18:38:04 -0500" Modified="2021-02-12 19:30:10 -0500" Type="Text">
+                    <Title>Urgiz</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>197,0</TextSelection>
+                        <TextSelection>0,197</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -515,22 +510,14 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-<<<<<<< 94236c2e0ddafe84567f3bd5b54ba49bca603351
                         <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-03-03 08:52:00 -0500" Type="Text">
-=======
-                        <BinderItem ID="42" UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Created="2021-02-12 18:15:54 -0500" Modified="2021-03-02 23:38:31 -0500" Type="Text">
->>>>>>> OH fuck
                             <Title>Dread Notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-<<<<<<< 94236c2e0ddafe84567f3bd5b54ba49bca603351
-                                <TextSelection>70,0</TextSelection>
-=======
-                                <TextSelection>1443,0</TextSelection>
->>>>>>> OH fuck
+                                <TextSelection>0,648</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -566,14 +553,14 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="83" UUID="B3445AE4-697E-4599-9640-EDFB3ADB93ED" Created="2021-02-12 22:38:54 -0500" Modified="2021-02-28 00:20:41 -0500" Type="Text">
+                        <BinderItem ID="83" UUID="B3445AE4-697E-4599-9640-EDFB3ADB93ED" Created="2021-02-12 22:38:54 -0500" Modified="2021-02-26 16:11:04 -0500" Type="Text">
                             <Title>Immeasurable World</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>21530,0</TextSelection>
+                                <TextSelection>11664,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -584,7 +571,6 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="2800">2076,724</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -650,7 +636,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>787,0</TextSelection>
+                                <TextSelection>1974,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -658,17 +644,6 @@
                                     <FreeformMode>Yes</FreeformMode>
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
-                        </BinderItem>
-                        <BinderItem ID="106" UUID="D54141A8-E619-4FDF-8152-0E7A0B506365" Created="2021-02-27 22:11:54 -0500" Modified="2021-02-27 22:12:00 -0500" Type="Text">
-                            <Title>Ambush_2</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>rtf</FileExtension>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>397,0</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -822,7 +797,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="91" UUID="B648F9F2-429C-4D8E-B3AC-8E5E3A98C874" Created="2021-02-27 13:40:45 -0500" Modified="2021-02-28 01:41:27 -0500" Type="Text">
+                        <BinderItem ID="91" UUID="B648F9F2-429C-4D8E-B3AC-8E5E3A98C874" Created="2021-02-27 13:40:45 -0500" Modified="2021-02-27 17:02:46 -0500" Type="Text">
                             <Title>Mandrameen</Title>
                             <MetaData>
                                 <LabelID>6</LabelID>
@@ -833,7 +808,7 @@
                                 <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>617,0</TextSelection>
+                                <TextSelection>382,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1189,11 +1164,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-<<<<<<< 94236c2e0ddafe84567f3bd5b54ba49bca603351
-        <PreviousSession Words="11" Characters="72" Date="2021-03-03 08:51:37 -0500"/>
-=======
-        <PreviousSession Words="981" Characters="5658" Date="2021-03-02 00:41:34 -0500"/>
->>>>>>> OH fuck
+        <PreviousSession Words="50" Characters="310" Date="2021-03-05 10:31:43 -0500"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
