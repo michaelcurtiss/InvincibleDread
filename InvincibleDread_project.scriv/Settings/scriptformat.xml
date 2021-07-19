@@ -16,16 +16,16 @@
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
                 <SpaceBefore>2</SpaceBefore>
-                <SpaceAfter>0</SpaceAfter>
                 <FirstLineIndent>0.5</FirstLineIndent>
                 <Indent>0.5</Indent>
                 <TailIndent>6.5</TailIndent>
                 <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
                 <FixedLineHeight>12</FixedLineHeight>
             </ParagraphFormat>
             <NextElement>Action</NextElement>
             <NextElementOnEmptyLineTab>Action</NextElementOnEmptyLineTab>
-            <TabbingAfterTypingBehavior>InsertText</TabbingAfterTypingBehavior>
             <NextElementOnTabAfterTyping>Scene Heading</NextElementOnTabAfterTyping>
             <TextToInsertOnTab>( - )</TextToInsertOnTab>
             <AutoCompleteList>
@@ -64,16 +64,16 @@
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
                 <SpaceBefore>1</SpaceBefore>
-                <SpaceAfter>0</SpaceAfter>
                 <FirstLineIndent>0.5</FirstLineIndent>
                 <Indent>0.5</Indent>
                 <TailIndent>6.5</TailIndent>
                 <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
                 <FixedLineHeight>12</FixedLineHeight>
             </ParagraphFormat>
             <NextElement>Action</NextElement>
             <NextElementOnEmptyLineTab>Character</NextElementOnEmptyLineTab>
-            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
             <NextElementOnTabAfterTyping>Action</NextElementOnTabAfterTyping>
             <AutoCompleteList/>
         </Element>
@@ -90,16 +90,16 @@
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
                 <SpaceBefore>1</SpaceBefore>
-                <SpaceAfter>0</SpaceAfter>
                 <FirstLineIndent>2.5</FirstLineIndent>
                 <Indent>2.5</Indent>
                 <TailIndent>6.25</TailIndent>
                 <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
                 <FixedLineHeight>12</FixedLineHeight>
             </ParagraphFormat>
             <NextElement>Dialogue</NextElement>
             <NextElementOnEmptyLineTab>Transition</NextElementOnEmptyLineTab>
-            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
             <NextElementOnTabAfterTyping>Parenthetical</NextElementOnTabAfterTyping>
             <AutoCompleteList>
                 <Completions>
@@ -126,17 +126,16 @@
                 <Parenthetical>Yes</Parenthetical>
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
-                <SpaceBefore>0</SpaceBefore>
-                <SpaceAfter>0</SpaceAfter>
                 <FirstLineIndent>2</FirstLineIndent>
                 <Indent>2</Indent>
                 <TailIndent>4.5</TailIndent>
                 <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
                 <FixedLineHeight>12</FixedLineHeight>
             </ParagraphFormat>
             <NextElement>Dialogue</NextElement>
             <NextElementOnEmptyLineTab>Dialogue</NextElementOnEmptyLineTab>
-            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
             <NextElementOnTabAfterTyping>Dialogue</NextElementOnTabAfterTyping>
             <AutoCompleteList>
                 <ProjectListAutoCompleteBehavior>GoToNextLine</ProjectListAutoCompleteBehavior>
@@ -152,17 +151,16 @@
             <ParagraphFormat>
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
-                <SpaceBefore>0</SpaceBefore>
-                <SpaceAfter>0</SpaceAfter>
                 <FirstLineIndent>1.5</FirstLineIndent>
                 <Indent>1.5</Indent>
                 <TailIndent>5</TailIndent>
                 <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
                 <FixedLineHeight>12</FixedLineHeight>
             </ParagraphFormat>
             <NextElement>Action</NextElement>
             <NextElementOnEmptyLineTab>Parenthetical</NextElementOnEmptyLineTab>
-            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
             <NextElementOnTabAfterTyping>Parenthetical</NextElementOnTabAfterTyping>
             <AutoCompleteList/>
         </Element>
@@ -178,16 +176,16 @@
                 <Alignment>Right</Alignment>
                 <Spacing>1</Spacing>
                 <SpaceBefore>1</SpaceBefore>
-                <SpaceAfter>0</SpaceAfter>
                 <FirstLineIndent>4.5</FirstLineIndent>
                 <Indent>4.5</Indent>
                 <TailIndent>6.12014</TailIndent>
                 <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
                 <FixedLineHeight>12</FixedLineHeight>
             </ParagraphFormat>
             <NextElement>Scene Heading</NextElement>
             <NextElementOnEmptyLineTab>Scene Heading</NextElementOnEmptyLineTab>
-            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
             <NextElementOnTabAfterTyping>Scene Heading</NextElementOnTabAfterTyping>
             <AutoCompleteList>
                 <Completions>
@@ -217,16 +215,16 @@
                 <Alignment>Left</Alignment>
                 <Spacing>1</Spacing>
                 <SpaceBefore>2</SpaceBefore>
-                <SpaceAfter>0</SpaceAfter>
                 <FirstLineIndent>0.5</FirstLineIndent>
                 <Indent>0.5</Indent>
                 <TailIndent>6.5</TailIndent>
                 <FirstTab>0</FirstTab>
+                <DefaultTabInterval>0</DefaultTabInterval>
+                <MinTabs>0</MinTabs>
                 <FixedLineHeight>12</FixedLineHeight>
             </ParagraphFormat>
             <NextElement>Action</NextElement>
             <NextElementOnEmptyLineTab>Shot</NextElementOnEmptyLineTab>
-            <TabbingAfterTypingBehavior>NewElement</TabbingAfterTypingBehavior>
             <NextElementOnTabAfterTyping>Shot</NextElementOnTabAfterTyping>
             <AutoCompleteList/>
         </Element>
