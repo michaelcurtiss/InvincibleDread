@@ -73,5 +73,15 @@
     <Day dwc="0" dcc="0" dtwc="45348" owc="1015" occ="6335" dtcc="248886">2021-09-09</Day>
     <Day dwc="0" dcc="0" dtwc="45348" owc="725" occ="4443" dtcc="248886">2021-09-11</Day>
     <Day dwc="0" dcc="0" dtwc="45348" owc="1115" occ="6508" dtcc="248886">2021-09-12</Day>
-    <Day dwc="0" dcc="0" owc="8" occ="45">2021-09-13</Day>
+    <Day dwc="0" dcc="0" dtwc="45348" owc="1047" occ="6369" dtcc="248886">2021-09-13</Day>
+    <Day dwc="0" dcc="0" dtwc="45348" owc="18" occ="100" dtcc="248886">2021-09-14</Day>
+    <Day dwc="0" dcc="0" dtwc="45348" owc="6262" occ="38267" dtcc="248886">2021-09-15</Day>
+    <Day dwc="0" dcc="0" dtwc="45348" owc="388" occ="2378" dtcc="248886">2021-09-16</Day>
+    <Day dwc="207" dcc="1084" dtwc="45555" owc="434" occ="2782" dtcc="249970">2021-09-17</Day>
+    <Day dwc="632" dcc="3388" dtwc="46187" owc="0" occ="3" dtcc="253358">2021-09-18</Day>
+    <Day dwc="0" dcc="0" dtwc="46187" owc="173" occ="1065" dtcc="253358">2021-09-19</Day>
+    <Day dwc="906" dcc="4848" dtwc="47093" owc="1024" occ="5365" dtcc="258206">2021-09-20</Day>
+    <Day dwc="122" dcc="689" dtwc="47215" owc="544" occ="2868" dtcc="258895">2021-09-21</Day>
+    <Day dwc="1632" dcc="8668" dtwc="42224" owc="2774" occ="16076" dtcc="231304">2021-09-22</Day>
+    <Day dwc="301" dcc="1643" owc="1" occ="-568">2021-09-23</Day>
 </WritingHistory>
