@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-01-06 10:46:17 -0500" ModID="535941E8-A5E7-48DA-9B17-B8948043C399">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-FJNA7F4" Modified="2022-01-06 14:20:11 -0500" ModID="64E677FF-EC2D-4A2A-A578-6C057604C026">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0500" Modified="2021-02-12 19:29:53 -0500">
             <Title>Novel Format</Title>
@@ -170,7 +170,16 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>816,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="60B50245-679B-44C7-96CD-B5B84FA4F3D7" Type="Text" Created="2022-01-06 10:50:34 -0500" Modified="2022-01-06 14:03:08 -0500">
+                                    <Title>Seculla River</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>619,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1133,13 +1142,13 @@
                                 <TextSelection>117,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0500" Modified="2022-01-05 12:48:13 -0500">
+                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0500" Modified="2022-01-06 14:20:07 -0500">
                             <Title>Juicy Dread notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2924,0</TextSelection>
+                                <TextSelection>99,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="FC57C92F-FE5E-468C-AB80-864CE2703A21" Type="Text" Created="2021-02-12 18:15:54 -0500" Modified="2021-12-23 19:19:41 -0500">
@@ -1206,7 +1215,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7504,0</TextSelection>
+                                <TextSelection>960,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="B3445AE4-697E-4599-9640-EDFB3ADB93ED" Type="Text" Created="2021-02-12 22:38:54 -0500" Modified="2021-05-07 20:25:45 -0500">
@@ -1349,13 +1358,13 @@
                                 <TextSelection>11871,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4B883D3A-58A3-49AC-85B2-B97D4C970371" Type="Text" Created="2021-12-15 17:20:12 -0500" Modified="2021-12-23 18:12:00 -0500">
+                        <BinderItem UUID="4B883D3A-58A3-49AC-85B2-B97D4C970371" Type="Text" Created="2021-12-15 17:20:12 -0500" Modified="2022-01-06 10:48:12 -0500">
                             <Title>Lexicon</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1007,0</TextSelection>
+                                <TextSelection>859,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="56AB4E64-48CB-4BCE-9535-FA2B19F9EAC7" Type="Text" Created="2021-12-15 18:56:14 -0500" Modified="2021-12-16 11:25:04 -0500">
@@ -2046,14 +2055,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-01-06 10:46:17 -0500"/>
+        <PreviousSession Words="749" Characters="4079" Date="2022-01-06 14:20:11 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2022-01-06 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>167</OtherWordCount>
-        <OtherCharCount>968</OtherCharCount>
+        <DraftWordCount>749</DraftWordCount>
+        <DraftCharCount>4079</DraftCharCount>
+        <OtherWordCount>191</OtherWordCount>
+        <OtherCharCount>1104</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
