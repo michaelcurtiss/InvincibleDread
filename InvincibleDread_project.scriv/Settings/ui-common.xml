@@ -12,6 +12,7 @@
             <ItemID>DB122EB2-A24A-49FB-8BD7-7ED3AA2E9423</ItemID>
             <ItemID>A36FAAE8-385E-44D9-8DC0-00E9C575E1FC</ItemID>
             <ItemID>1960C156-F905-4211-A2AD-368C14728AF4</ItemID>
+            <ItemID>60B50245-679B-44C7-96CD-B5B84FA4F3D7</ItemID>
             <ItemID>9679162D-8373-4F31-823C-5BACE326E5A7</ItemID>
             <ItemID>8DBB0DAB-BDA7-4BF6-B8E5-CAA829D1E58E</ItemID>
             <ItemID>C79DC8CF-2108-4199-900D-4227296337E2</ItemID>
@@ -30,7 +31,7 @@
             <ItemID>291A5EB7-DA53-44DB-92CD-35229AA003DB</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>EC607A79-2D9A-47B6-B1D5-A3E86B7720CB</ItemID>
+            <ItemID>4B43AC6D-F6C5-4C96-90DD-C9A2ECAA4111</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -40,7 +41,7 @@
         <Collapse></Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>Vertical</Split>
+    <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">Yes</Binder>
@@ -83,16 +84,8 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <Content>
-                    <ItemID>EC607A79-2D9A-47B6-B1D5-A3E86B7720CB</ItemID>
-                </Content>
+                <Content/>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">4AAEC201-DC70-4D6A-88C8-CAECEB19A389</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">DE009A5B-55F7-40F3-80C1-7A7F16D416B5</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">A36FAAE8-385E-44D9-8DC0-00E9C575E1FC</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">A6627895-1AA7-4B5B-9DCA-1006D53E2CBC</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">68D8EFBB-B98A-4234-AA61-E28B0AB13A2D</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">B2729159-2563-4B1B-95CC-5550C5174FB7</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">369D2DA1-E90C-4FF3-BA7D-DD67E117EDFF</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5D18D0CD-4B31-499E-BB8A-BC9CE001EB71</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">E69C4569-236C-45B3-A05A-B245BF9E3213</HistoryItem>
@@ -287,6 +280,12 @@
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">475F1951-26E8-43D7-8BD1-F558DEC3F168</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">369D2DA1-E90C-4FF3-BA7D-DD67E117EDFF</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">EC607A79-2D9A-47B6-B1D5-A3E86B7720CB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4B883D3A-58A3-49AC-85B2-B97D4C970371</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">5D01F7F5-B82B-44DC-83D8-E994391D2C92</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings">1960C156-F905-4211-A2AD-368C14728AF4</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">91583994-ED0C-4732-8485-E104BE0C0E98</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -294,7 +293,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>7504,0</Selection>
+                <Selection>54497,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -335,44 +334,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>91583994-ED0C-4732-8485-E104BE0C0E98</ItemID>
+                    <ItemID>4B43AC6D-F6C5-4C96-90DD-C9A2ECAA4111</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">A9A81989-AFF5-4E57-9C25-7E31C282ADED</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">AE9CF6A1-0529-4F1F-BB9A-19F533705202</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">0E50B426-CEA6-45BA-BAC6-F51B50AE0B77</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">994B6FE9-9C63-47D4-AE06-B2BEDCEC63CC</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Outliner">399C0CCC-17AD-4B67-A427-02A039B2EC48</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Outliner">4BD2385D-E5A5-4607-A553-C7FA567F1E60</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">994B6FE9-9C63-47D4-AE06-B2BEDCEC63CC</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Outliner">4BD2385D-E5A5-4607-A553-C7FA567F1E60</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">1BA40D88-E6F7-48EB-8D98-B11257CE252D</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Outliner">4BD2385D-E5A5-4607-A553-C7FA567F1E60</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">4679EBBD-254C-4C5C-B00D-94B73E55CE6A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Outliner">4BD2385D-E5A5-4607-A553-C7FA567F1E60</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">75F30313-E5AD-4B6C-81E8-191C83FC6C06</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">4679EBBD-254C-4C5C-B00D-94B73E55CE6A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">E5206EAA-7114-4DEA-8807-D9FDDD65E33A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">1BA40D88-E6F7-48EB-8D98-B11257CE252D</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">8FDFAF78-519F-4832-96F7-24C36A356859</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">FC57C92F-FE5E-468C-AB80-864CE2703A21</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">E5206EAA-7114-4DEA-8807-D9FDDD65E33A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">A36FAAE8-385E-44D9-8DC0-00E9C575E1FC</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">8FDFAF78-519F-4832-96F7-24C36A356859</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">1BA40D88-E6F7-48EB-8D98-B11257CE252D</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">6F7F79F0-32AF-4103-80FB-B985D9DF4CC2</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">75F30313-E5AD-4B6C-81E8-191C83FC6C06</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">1BA40D88-E6F7-48EB-8D98-B11257CE252D</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">994B6FE9-9C63-47D4-AE06-B2BEDCEC63CC</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">E69C4569-236C-45B3-A05A-B245BF9E3213</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">FC57C92F-FE5E-468C-AB80-864CE2703A21</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">B6374485-4753-49CC-98BF-C1ED504825AA</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">FC57C92F-FE5E-468C-AB80-864CE2703A21</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">C0E9A9A0-AD82-4CA7-9EC6-64E0637EABED</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">B6374485-4753-49CC-98BF-C1ED504825AA</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">8EB22824-89B1-4555-B5C3-A3442D3553A3</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">FC57C92F-FE5E-468C-AB80-864CE2703A21</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">CECE85E3-B226-40BC-B98C-6EE76985EF9C</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">1D64F676-2ACE-45AC-95DD-07FD9CDD4ECE</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">CECE85E3-B226-40BC-B98C-6EE76985EF9C</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">8EB22824-89B1-4555-B5C3-A3442D3553A3</HistoryItem>
@@ -538,6 +502,41 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">7D14A9EA-4288-4F3D-B725-7E7A9757FF88</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5AD55D26-4AD9-45A6-BA13-414A2508715D</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">91583994-ED0C-4732-8485-E104BE0C0E98</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4B883D3A-58A3-49AC-85B2-B97D4C970371</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">CECE85E3-B226-40BC-B98C-6EE76985EF9C</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Outliner">9679162D-8373-4F31-823C-5BACE326E5A7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Outliner">9679162D-8373-4F31-823C-5BACE326E5A7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">68D8EFBB-B98A-4234-AA61-E28B0AB13A2D</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Outliner">9679162D-8373-4F31-823C-5BACE326E5A7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">EBA57E8C-6707-4CBB-B9CD-9A43C7C664EB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">EBA57E8C-6707-4CBB-B9CD-9A43C7C664EB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3FE86903-3874-4142-AEED-ECD906083549</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">5D01F7F5-B82B-44DC-83D8-E994391D2C92</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">468A5350-35D0-4FEF-9B41-245431CEE08B</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">8EB22824-89B1-4555-B5C3-A3442D3553A3</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4B43AC6D-F6C5-4C96-90DD-C9A2ECAA4111</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">60B50245-679B-44C7-96CD-B5B84FA4F3D7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4B43AC6D-F6C5-4C96-90DD-C9A2ECAA4111</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4AB262F5-B58E-425D-B258-5FABEDBEBAC0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4B43AC6D-F6C5-4C96-90DD-C9A2ECAA4111</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
