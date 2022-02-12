@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-02-11 21:43:09 -0500" ModID="07997DFB-DF4B-4344-85A9-8303164611C1">
+=======
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-FJNA7F4" Modified="2022-01-14 14:21:15 -0500" ModID="BD8B0157-76E8-4FFE-8271-93B7D69B8083">
+>>>>>>> 1fc25498247281b392a48152c5b80d42fc501e7f
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0500" Modified="2021-02-12 19:29:53 -0500">
             <Title>Novel Format</Title>
@@ -1053,13 +1057,21 @@
                         <TextSelection>4615,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+<<<<<<< HEAD
                 <BinderItem UUID="0B1BEA10-0208-425F-917A-226E3B51F2A0" Type="Text" Created="2022-01-14 12:20:46 -0500" Modified="2022-01-17 22:34:17 -0500">
+=======
+                <BinderItem UUID="0B1BEA10-0208-425F-917A-226E3B51F2A0" Type="Text" Created="2022-01-14 12:20:46 -0500" Modified="2022-01-14 13:32:37 -0500">
+>>>>>>> 1fc25498247281b392a48152c5b80d42fc501e7f
                     <Title>Story V3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
+<<<<<<< HEAD
                         <TextSelection>1911,0</TextSelection>
+=======
+                        <TextSelection>1683,0</TextSelection>
+>>>>>>> 1fc25498247281b392a48152c5b80d42fc501e7f
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E69C4569-236C-45B3-A05A-B245BF9E3213" Type="Text" Created="2021-09-25 14:17:29 -0500" Modified="2022-01-04 21:08:47 -0500">
@@ -2245,6 +2257,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+<<<<<<< HEAD
         <PreviousSession Words="291" Characters="1575" Date="2022-02-11 21:43:09 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
@@ -2253,6 +2266,16 @@
         <DraftCharCount>1514</DraftCharCount>
         <OtherWordCount>100</OtherWordCount>
         <OtherCharCount>547</OtherCharCount>
+=======
+        <PreviousSession Words="0" Characters="0" Date="2022-01-14 14:21:15 -0500"/>
+    </ProjectTargets>
+    <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
+    <RecentWritingHistory Date="2022-01-14 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>534</OtherWordCount>
+        <OtherCharCount>3103</OtherCharCount>
+>>>>>>> 1fc25498247281b392a48152c5b80d42fc501e7f
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
