@@ -244,5 +244,29 @@
     <Day dwc="0" dcc="0" dtwc="70586" owc="187" occ="1008" dtcc="384430">2022-04-28</Day>
     <Day dwc="0" dcc="0" dtwc="70586" owc="6" occ="49" dtcc="384430">2022-04-29</Day>
     <Day dwc="592" dcc="3253" dtwc="70630" owc="1706" occ="9462" dtcc="384731">2022-04-30</Day>
-    <Day dwc="0" dcc="0" owc="0" occ="2">2022-05-01</Day>
+    <Day dwc="187" dcc="921" dtwc="70817" owc="34" occ="177" dtcc="385652">2022-05-01</Day>
+    <Day dwc="278" dcc="1577" dtwc="71095" owc="1015" occ="6523" dtcc="387229">2022-05-02</Day>
+    <Day dwc="391" dcc="2066" dtwc="71486" owc="134" occ="806" dtcc="389294">2022-05-03</Day>
+    <Day dwc="47" dcc="192" dtwc="71533" owc="124" occ="807" dtcc="389486">2022-05-04</Day>
+    <Day dwc="0" dcc="0" dtwc="71533" owc="34" occ="245" dtcc="389486">2022-05-05</Day>
+    <Day dwc="130" dcc="736" dtwc="71663" owc="207" occ="1312" dtcc="390222">2022-05-06</Day>
+    <Day dwc="0" dcc="0" dtwc="71663" owc="503" occ="3117" dtcc="390223">2022-05-07</Day>
+    <Day dwc="0" dcc="0" dtwc="71663" owc="212" occ="1412" dtcc="390223">2022-05-08</Day>
+    <Day dwc="132" dcc="602" dtwc="71795" owc="0" occ="0" dtcc="390825">2022-05-09</Day>
+    <Day dwc="-1" dcc="12" dtwc="71794" owc="0" occ="0" dtcc="390837">2022-05-10</Day>
+    <Day dwc="-345" dcc="-1699" dtwc="71449" owc="1369" occ="7311" dtcc="389138">2022-05-11</Day>
+    <Day dwc="-177" dcc="-962" dtwc="71272" owc="2" occ="11" dtcc="388176">2022-05-12</Day>
+    <Day dwc="311" dcc="1673" dtwc="71583" owc="826" occ="4391" dtcc="389849">2022-05-13</Day>
+    <Day dwc="17" dcc="82" dtwc="71600" owc="0" occ="0" dtcc="389931">2022-05-14</Day>
+    <Day dwc="0" dcc="0" dtwc="71600" owc="78" occ="452" dtcc="389931">2022-05-15</Day>
+    <Day dwc="0" dcc="0" dtwc="71600" owc="24" occ="142" dtcc="389930">2022-05-18</Day>
+    <Day dwc="0" dcc="0" dtwc="71600" owc="900" occ="5683" dtcc="389930">2022-05-19</Day>
+    <Day dwc="34" dcc="190" dtwc="71634" owc="326" occ="1870" dtcc="390120">2022-05-20</Day>
+    <Day dwc="0" dcc="0" dtwc="71634" owc="21" occ="124" dtcc="390120">2022-05-21</Day>
+    <Day dwc="0" dcc="0" dtwc="71634" owc="19" occ="119" dtcc="390120">2022-05-23</Day>
+    <Day dwc="0" dcc="0" dtwc="71634" owc="7" occ="43" dtcc="390121">2022-05-28</Day>
+    <Day dwc="0" dcc="0" dtwc="71634" owc="16" occ="80" dtcc="390120">2022-05-30</Day>
+    <Day dwc="0" dcc="0" dtwc="71634" owc="58" occ="329" dtcc="390120">2022-06-01</Day>
+    <Day dwc="0" dcc="0" dtwc="71634" owc="397" occ="2307" dtcc="390120">2022-06-02</Day>
+    <Day dwc="0" dcc="0" owc="2" occ="20">2022-06-03</Day>
 </WritingHistory>
