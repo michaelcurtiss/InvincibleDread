@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-06-03 11:37:13 -0400" ModID="4889245C-6C97-4740-B881-CDCD93A2F7E3">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-FJNA7F4" Modified="2022-06-03 21:02:14 -0400" ModID="9388FEDB-FCDE-4C20-8CF3-36F03EF5113F">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0400" Modified="2021-02-12 19:29:53 -0400">
             <Title>Novel Format</Title>
@@ -1119,13 +1119,14 @@
                         <TextSelection>6431,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="66539A3A-2007-45A7-ABC8-AA178AFABC72" Type="Text" Created="2022-05-13 14:09:25 -0400" Modified="2022-06-03 11:37:08 -0400">
+                <BinderItem UUID="66539A3A-2007-45A7-ABC8-AA178AFABC72" Type="Text" Created="2022-05-13 14:09:25 -0400" Modified="2022-06-03 17:08:45 -0400">
                     <Title>Story V4</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>494,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4774,0</TextSelection>
+                        <TextSelection>7236,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E69C4569-236C-45B3-A05A-B245BF9E3213" Type="Text" Created="2021-09-25 14:17:29 -0400" Modified="2022-01-04 21:08:47 -0400">
@@ -1210,13 +1211,13 @@
                                 <TextSelection>3216,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0400" Modified="2022-06-02 15:33:48 -0400">
+                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0400" Modified="2022-06-03 15:29:26 -0400">
                             <Title>Juicy Dread notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>33261,0</TextSelection>
+                                <TextSelection>51639,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3E33C0C8-6732-45EC-B7D4-8458AC9905E7" Type="Text" Created="2022-04-15 23:36:40 -0400" Modified="2022-04-16 00:19:31 -0400">
@@ -2413,14 +2414,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-06-03 11:37:13 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-06-03 21:02:14 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2022-06-03 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>18</OtherWordCount>
-        <OtherCharCount>113</OtherCharCount>
+        <OtherWordCount>138</OtherWordCount>
+        <OtherCharCount>745</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
