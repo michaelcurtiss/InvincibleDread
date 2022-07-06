@@ -291,5 +291,7 @@
     <Day dwc="69" dcc="489" dtwc="73222" owc="0" occ="0" dtcc="398554">2022-07-01</Day>
     <Day dwc="868" dcc="4635" dtwc="74090" owc="349" occ="2040" dtcc="403189">2022-07-02</Day>
     <Day dwc="915" dcc="4720" dtwc="75005" owc="225" occ="1286" dtcc="407909">2022-07-03</Day>
-    <Day dwc="3" dcc="12" owc="0" occ="0">2022-07-04</Day>
+    <Day dwc="232" dcc="1254" dtwc="75237" owc="1507" occ="8382" dtcc="409163">2022-07-04</Day>
+    <Day dwc="994" dcc="5282" dtwc="76231" owc="66" occ="343" dtcc="414445">2022-07-05</Day>
+    <Day dwc="132" dcc="740" owc="55" occ="326">2022-07-06</Day>
 </WritingHistory>
