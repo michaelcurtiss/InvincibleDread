@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-07-12 20:16:50 -0400" ModID="29E75A1E-1AA4-4CFE-B94E-6A7C7E3F044D">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-07-13 04:27:32 -0400" ModID="23135648-0D7B-4516-BA4F-C9E33F028750">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0400" Modified="2021-02-12 19:29:53 -0400">
             <Title>Novel Format</Title>
@@ -24,8 +24,82 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="E615E0F9-71E0-49FB-B7D1-A87E1564024E" Type="Folder" Created="2021-09-22 16:22:36 -0400" Modified="2021-09-22 16:22:41 -0400">
-                    <Title>Part I</Title>
+                <BinderItem UUID="9985A12B-3C08-48EA-8641-39904F3831EC" Type="Folder" Created="2022-07-12 20:17:14 -0400" Modified="2022-07-12 20:17:51 -0400">
+                    <Title>Working Draft</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E6117A5C-80B7-417F-8B4E-D8C8E0A7351C" Type="Folder" Created="2022-07-12 20:17:55 -0400" Modified="2022-07-12 20:18:49 -0400">
+                            <Title>Meskalem</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B6374485-4753-49CC-98BF-C1ED504825AA" Type="Text" Created="2021-09-18 11:49:08 -0400" Modified="2022-07-13 04:27:07 -0400">
+                                    <Title>Mandrameen's Field</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>120,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2144,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="73C92A86-7E3C-4DE9-B92E-89423EFEE060" Type="Text" Created="2022-07-12 20:19:36 -0400" Modified="2022-07-12 20:20:05 -0400">
+                                    <Title>Salavan Sa</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>303,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="187C7111-2A8C-4319-99D3-0C840BA7FC4B" Type="Folder" Created="2022-07-12 20:20:33 -0400" Modified="2022-07-12 20:20:35 -0400">
+                            <Title>Ambush</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E003C73C-9D76-427B-BC5B-2D1C5E3316A7" Type="Text" Created="2022-07-12 20:20:49 -0400" Modified="2022-07-12 20:24:30 -0400">
+                                    <Title>A Dead Body</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>303,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>12230,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 20:24:05 -0400" Modified="2022-07-12 20:24:38 -0400">
+                                    <Title>Ambush</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="E615E0F9-71E0-49FB-B7D1-A87E1564024E" Type="Folder" Created="2021-09-22 16:22:36 -0400" Modified="2022-07-12 20:17:29 -0400">
+                    <Title>Old Part I</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -57,7 +131,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9902,0</TextSelection>
+                                        <TextSelection Caret="677">676,1</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -109,8 +183,8 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="27CE3F4A-9D5A-4F25-96C3-EDECC3333926" Type="Text" Created="2022-04-07 14:36:46 -0400" Modified="2022-07-06 03:21:53 -0400">
-                                    <Title>Ambush</Title>
+                                <BinderItem UUID="27CE3F4A-9D5A-4F25-96C3-EDECC3333926" Type="Text" Created="2022-04-07 14:36:46 -0400" Modified="2022-07-12 20:23:54 -0400">
+                                    <Title>Discovery of the body</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>303,0</NotesTextSelection>
@@ -125,7 +199,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>434,0</TextSelection>
+                                        <TextSelection>345,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -189,7 +263,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B6374485-4753-49CC-98BF-C1ED504825AA" Type="Text" Created="2021-09-18 11:49:08 -0400" Modified="2022-05-20 21:55:21 -0400">
+                                <BinderItem UUID="B8331302-308E-4A82-AB68-0C3DA9AA1AF0" Type="Text" Created="2022-07-12 20:19:19 -0400" Modified="2022-07-12 20:19:30 -0400">
                                     <Title>Pyetle's Field</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1180,7 +1254,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>892,0</TextSelection>
+                        <TextSelection>852,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E69C4569-236C-45B3-A05A-B245BF9E3213" Type="Text" Created="2021-09-25 14:17:29 -0400" Modified="2022-01-04 21:08:47 -0400">
@@ -1265,13 +1339,13 @@
                                 <TextSelection>3216,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0400" Modified="2022-07-10 16:43:54 -0400">
+                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0400" Modified="2022-07-12 20:21:38 -0400">
                             <Title>Juicy Dread notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>55500,0</TextSelection>
+                                <TextSelection>56159,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3E33C0C8-6732-45EC-B7D4-8458AC9905E7" Type="Text" Created="2022-04-15 23:36:40 -0400" Modified="2022-07-04 20:43:54 -0400">
@@ -1450,7 +1524,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2135,76</TextSelection>
+                                <TextSelection>140,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E19BC892-E5E8-464C-B85D-5994FF1C63A8" Type="Text" Created="2021-12-26 08:29:51 -0400" Modified="2021-12-26 08:39:38 -0400">
@@ -2477,12 +2551,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-07-12 20:16:50 -0400"/>
+        <PreviousSession Words="643" Characters="3500" Date="2022-07-13 04:27:32 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2022-07-12 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2022-07-13 00:00:00 -0400">
+        <DraftWordCount>643</DraftWordCount>
+        <DraftCharCount>3500</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
