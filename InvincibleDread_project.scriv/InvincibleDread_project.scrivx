@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-09-28 14:13:43 -0400" ModID="D9F166AB-5479-403E-9A3B-E7D22AC9AA2E">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-09-30 22:12:59 -0400" ModID="633C8ABD-41D0-41A0-A599-12497177FA5A">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0400" Modified="2021-02-12 19:29:53 -0400">
             <Title>Novel Format</Title>
@@ -58,7 +58,7 @@
                                         <NotesTextSelection>62,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2831,0</TextSelection>
+                                        <TextSelection Caret="2203">1069,1134</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="73C92A86-7E3C-4DE9-B92E-89423EFEE060" Type="Text" Created="2022-07-12 20:19:36 -0400" Modified="2022-09-23 18:47:10 -0400">
@@ -94,11 +94,11 @@
                                         <TextSelection>41,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 20:24:05 -0400" Modified="2022-09-25 13:43:55 -0400">
+                                <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 20:24:05 -0400" Modified="2022-09-28 14:37:30 -0400">
                                     <Title>Ambush</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>49,0</NotesTextSelection>
+                                        <NotesTextSelection>103,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>9386,0</TextSelection>
@@ -221,15 +221,27 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="A5C119C8-FC44-43D6-B330-741A028AC15A" Type="Text" Created="2022-08-09 16:25:41 -0400" Modified="2022-09-28 14:10:37 -0400">
+                                <BinderItem UUID="A5C119C8-FC44-43D6-B330-741A028AC15A" Type="Text" Created="2022-08-09 16:25:41 -0400" Modified="2022-09-30 22:02:26 -0400">
                                     <Title>Post Battle</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>702,0</NotesTextSelection>
+                                        <NotesTextSelection>33,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>20296,0</TextSelection>
+                                        <TextSelection>39237,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="C99B31CD-20BC-4180-AF23-860D4DAE8216" Type="Text" Created="2022-09-28 16:35:30 -0400" Modified="2022-09-28 16:52:44 -0400">
+                                            <Title>Pickup Obo</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>23,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1507,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -242,13 +254,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A144D0E4-A5D2-466F-96D0-98FA6E12D9F4" Type="Text" Created="2022-08-08 17:45:42 -0400" Modified="2022-09-26 10:40:46 -0400">
+                                <BinderItem UUID="A144D0E4-A5D2-466F-96D0-98FA6E12D9F4" Type="Text" Created="2022-08-08 17:45:42 -0400" Modified="2022-09-30 22:12:55 -0400">
                                     <Title>Hrkkan Glory</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>142,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>99,0</TextSelection>
+                                        <TextSelection>75,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="A714D986-9AB5-4935-ABE6-DDA24DC5BEFC" Type="Text" Created="2022-09-19 16:24:57 -0400" Modified="2022-09-19 17:56:01 -0400">
@@ -2914,12 +2927,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="585" Characters="3289" Date="2022-09-28 14:13:43 -0400"/>
+        <PreviousSession Words="1251" Characters="7008" Date="2022-09-30 22:12:59 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2022-09-28 00:00:00 -0400">
-        <DraftWordCount>579</DraftWordCount>
-        <DraftCharCount>3266</DraftCharCount>
+    <RecentWritingHistory Date="2022-09-30 00:00:00 -0400">
+        <DraftWordCount>1250</DraftWordCount>
+        <DraftCharCount>7002</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
