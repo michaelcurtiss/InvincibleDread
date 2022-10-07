@@ -364,5 +364,10 @@
     <Day dwc="578" dcc="3226" dtwc="149578" owc="0" occ="0" dtcc="816997">2022-09-27</Day>
     <Day dwc="996" dcc="5492" dtwc="150574" owc="0" occ="0" dtcc="822489">2022-09-28</Day>
     <Day dwc="882" dcc="4774" dtwc="151456" owc="0" occ="0" dtcc="827263">2022-09-29</Day>
-    <Day dwc="-1" dcc="-6" owc="0" occ="0">2022-09-30</Day>
+    <Day dwc="1250" dcc="7002" dtwc="152706" owc="0" occ="0" dtcc="834265">2022-09-30</Day>
+    <Day dwc="1416" dcc="7701" dtwc="154116" owc="0" occ="0" dtcc="841935">2022-10-01</Day>
+    <Day dwc="53" dcc="299" dtwc="154169" owc="1230" occ="7367" dtcc="842234">2022-10-02</Day>
+    <Day dwc="892" dcc="4773" dtwc="155061" owc="113" occ="698" dtcc="847007">2022-10-03</Day>
+    <Day dwc="1097" dcc="6106" dtwc="156158" owc="5" occ="59" dtcc="853113">2022-10-05</Day>
+    <Day dwc="801" dcc="4421" dtwc="156959" owc="0" occ="0" dtcc="857534">2022-10-06</Day>
 </WritingHistory>
