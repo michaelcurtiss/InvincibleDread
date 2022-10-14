@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-FJNA7F4" Modified="2022-10-13 22:11:43 -0400" ModID="1F733062-6F1B-4E08-B481-1F0C2CE37296">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-10-13 23:07:47 -0400" ModID="2D74B725-B7BA-4ECE-969B-0EDF9659E871">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0400" Modified="2021-02-12 19:29:53 -0400">
             <Title>Novel Format</Title>
@@ -51,14 +51,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B6374485-4753-49CC-98BF-C1ED504825AA" Type="Text" Created="2021-09-18 11:49:08 -0400" Modified="2022-10-13 21:28:10 -0400">
+                                <BinderItem UUID="B6374485-4753-49CC-98BF-C1ED504825AA" Type="Text" Created="2021-09-18 11:49:08 -0400" Modified="2022-10-13 23:07:45 -0400">
                                     <Title>The starving artist</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>70,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1215,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="73C92A86-7E3C-4DE9-B92E-89423EFEE060" Type="Text" Created="2022-07-12 20:19:36 -0400" Modified="2022-10-13 21:25:25 -0400">
@@ -1798,7 +1798,7 @@
                                 <NotesTextSelection>548,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>73584,0</TextSelection>
+                                <TextSelection>73203,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3E33C0C8-6732-45EC-B7D4-8458AC9905E7" Type="Text" Created="2022-04-15 23:36:40 -0400" Modified="2022-07-04 20:43:54 -0400">
@@ -2428,6 +2428,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1291,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DE3D8809-D472-49C2-A25E-57C5F5985E17" Type="Text" Created="2022-10-13 22:27:14 -0400" Modified="2022-10-13 22:37:36 -0400">
+                            <Title>DFW</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>591,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3147,14 +3156,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="5551" Characters="30664" Date="2022-10-13 22:11:43 -0400"/>
+        <PreviousSession Words="5581" Characters="30838" Date="2022-10-13 23:07:47 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2022-10-13 00:00:00 -0400">
-        <DraftWordCount>5501</DraftWordCount>
-        <DraftCharCount>30432</DraftCharCount>
-        <OtherWordCount>1732</OtherWordCount>
-        <OtherCharCount>9813</OtherCharCount>
+        <DraftWordCount>5530</DraftWordCount>
+        <DraftCharCount>30601</DraftCharCount>
+        <OtherWordCount>1831</OtherWordCount>
+        <OtherCharCount>10404</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
