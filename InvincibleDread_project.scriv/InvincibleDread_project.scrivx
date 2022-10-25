@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.2.0" Device="DESKTOP-FJNA7F4" Modified="2022-10-23 22:08:50 -0400" ModID="AAC12D88-40D9-4A0F-9A46-A11CCEB16F83">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.2.0" Device="DESKTOP-FJNA7F4" Modified="2022-10-24 21:06:25 -0400" ModID="43D794FA-71D7-4928-AB7A-23D799B55D9E">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0400" Modified="2021-02-12 19:29:53 -0400">
             <Title>Novel Format</Title>
@@ -331,14 +331,14 @@
                                         <TextSelection>20055,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 19:08:54 -0400" Modified="2022-10-23 17:18:45 -0400">
+                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 19:08:54 -0400" Modified="2022-10-24 21:04:03 -0400">
                                     <Title>Kalemite Capture</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>2112,0</NotesTextSelection>
+                                        <NotesTextSelection>2523,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>18943,0</TextSelection>
+                                        <TextSelection>17269,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="765A8A4D-6617-45C5-B05A-63ED20C116D7" Type="Text" Created="2022-10-21 09:46:12 -0400" Modified="2022-10-21 09:46:52 -0400">
@@ -422,14 +422,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="2A0EBF60-8437-4A31-9A54-AD5E7265A728" Type="Text" Created="2022-10-12 19:30:50 -0400" Modified="2022-10-18 15:12:39 -0400">
+                                <BinderItem UUID="2A0EBF60-8437-4A31-9A54-AD5E7265A728" Type="Text" Created="2022-10-12 19:30:50 -0400" Modified="2022-10-24 15:54:06 -0400">
                                     <Title>Swamp delta</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>18,0</NotesTextSelection>
+                                        <NotesTextSelection>261,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>319,0</TextSelection>
+                                        <TextSelection>271,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="477585EA-0E7B-48BB-B924-A6A070DD5B3A" Type="Text" Created="2022-10-12 19:34:55 -0400" Modified="2022-10-12 20:39:50 -0400">
@@ -1824,14 +1824,14 @@
                                 <TextSelection>3862,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0400" Modified="2022-10-21 09:13:28 -0400">
+                        <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 18:38:44 -0400" Modified="2022-10-24 10:53:55 -0400">
                             <Title>Juicy Dread notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>548,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="17879">17760,119</TextSelection>
+                                <TextSelection>18009,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3E33C0C8-6732-45EC-B7D4-8458AC9905E7" Type="Text" Created="2022-04-15 23:36:40 -0400" Modified="2022-07-04 20:43:54 -0400">
@@ -2384,13 +2384,13 @@
                                 <TextSelection Caret="269">262,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="21B220A9-CE50-4948-8970-7B9AE58C701D" Type="Text" Created="2022-10-23 22:05:35 -0400" Modified="2022-10-23 22:08:34 -0400">
+                        <BinderItem UUID="21B220A9-CE50-4948-8970-7B9AE58C701D" Type="Text" Created="2022-10-23 22:05:35 -0400" Modified="2022-10-24 06:53:33 -0400">
                             <Title>Brad DeLong</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>187,0</TextSelection>
+                                <TextSelection>599,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3157,6 +3157,357 @@
                         <TextSelection>131,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="939FF2B3-36D5-4C60-986B-CFD44F26CFB6" Type="Text" Created="2022-10-24 14:35:48 -0400" Modified="2022-10-24 14:35:51 -0400">
+                    <Title>Ayram handed Mandri a few strings of jerked beef. It was a morning present to liven his spirits, and this it did with some aplomb, for the beef was spiced with peppercorn and, at some point in it’s humble existence, it had been soaked in a honeyed jelly.
+It buttered him up, but for what?
+Ayram said, “If you see a man on our journey through the pass, don’t stop and point. Don’t stop walking for any reason, unless I say.”
+“Why?”
+Ayram cringed as if Mandri had just spit on his boot.
+“Do what I say,” Ayram said, “and do it without question. Once we’re through the pass, you can piss in the wind all you like.”
+Ayram stomped off, his spud bar thudding against the dirt. His enormous pack was already fastened to his shoulders, and as he took off south along the edge of the mountain’s feet, and the rest of the Ayramun got up and followed him. Moto stayed behind and gave Mandri a kick.
+“Get up.”
+Mandri sighed, popped the last pinch of beef into his mouth, and savored its flavors. He stretched the moment with a beatific smile, and just before Moto was about to kick him again, he stood up, then put Obo in his litter. 
+As Mandri fitted the straps of Obo’s litter onto his back, Moto said, “One thing that Ayram forgot to mention: don’t talk.” He gave Obo an evil eye and added, “That goes doubly for you.”
+“But how will I pass the time?” Obo asked.
+“In silence.”
+“What are you so worried about? You said that every tribe would honor the sanctity of Goree Pass.”
+“Not at night. We can’t be found there at night, so we have to get through it in one day, which will be easy enough if you get a move on, Mandri.”
+“Alright, alright.”
+Mandri set off at a clip to catch up to Ayram’s column.
+They walked for an hour in the blue shadow of the mountains, Ayram the mother duck in front, and Moto in the back, with everyone in the middle keeping a tight formation.
+Twice Mandri clipped Moteah’s heels. The first time she ignored it. The second, she stopped and glared at him. Mandri said sorry and spiced it with a sheepish grin, then added that his legs were too used to flat ground. The rocks here popped up like roots, and it was hard to take his eyes off the massive, swooping, wind-carved edifices that towered to his left. The great bulk of the sandstone had such a smooth, cupped curve, that it looked like a giant red wave rolling into the desert.
+As they walked south, the character of the stone changed. It was more fractured, split, and crumbly. The ground was littered with boulders, they had to weave up into the foot of the mountain, and weave a trail around scattered boulders.
+As far as passes go, the Goree Pass was not easily passable. By the time their course headed east, the way was a maze of swerving stone pillars and water-carved canyons the width of person. Mandri tried to map the place mentally, but gave up the third time that Ayram led them into a dead end. More of a canyon root system, as if a tree the size of a storm cloud grew here, and it’s roots had carved out these paths.
+Striated canyons. Flanged red rock. At times the canyon walls belled out and Mandri could see the slopes of the mountains stretching up beyond vision, and those mountains weren’t the only thing that took getting used to. The air was buzzing with the faint, wheezing screeches of vultures soaring on thermals high overhead, out of sight, glimpsed, so far out that these shrieks reached Mandri’s ear like whispers. If he didn’t know better, he would have thought it was the haggard language of the rocks.
+And there were delights in these canyon paths - pools of water resting in shallow basins, sheltered from the sun, deep enough for Mandri to scrape a handful and splash his face.
+ It’s too easy to personify a landscape. Every painter does it. A rolling hill becomes a . A mountain becomes a. to greater or lesser degrees. A landscape has a character. 
+
+
+Obo gives sharp whistle, Mandri to cringe.
+Ayram stopped the march. He stepped out of line and glared at Mandri. Mandri pointed his thumb at Obo. 
+“Do I need to muzzle you?”
+ Obo’s clarient drawl d, “Could you please pick up that bone over there? On the other side of that rock, there’s a bone that I’d like to take a look at.”
+Mandri craned his neck around to see what Obo was talking about. In so doing, around to see.
+“Mandri, please turn back around.”
+“I want to see what you’re talking about.”
+Moto had wandered over to a knee-high shoulder of rock, and he knelt down to pick something up.
+A gleaming white ball joint and a short, splintered haft of bone.
+“It’s a leg knuckle,” Moto said. He handed it to Ayram.
+Mandri said, “It’s called a femur.”
+ Elrahet pushed through the gathering crowd and asked, “What’s the matter?”
+“The Mazyd wants to look at this bone.”
+Everyone looked at Mandri.
+“See that fracture?” Obo said, “That’s an unusual fracture.”
+“What’s unusual about it?” asked Seb.
+Obo said, “Breaking a bone along its length is not easy, not likely to happen accidentally.”
+In Ayrams probing hands the bone looked like a child’s. He said, “You’re saying there’s been a killing in the Pass?”
+Moto pointed at some discoloration on the and said, “Somewhat recent, too, by the looks of it.”
+“Not just a killing,” said Obo. “A blow to the leg would not result in a medial split like that. Well, that could happen, but the chances of that would be one in a million. Accidental.”
+Elrahet grumbled, “What’s your point?”
+Obo said, “I’ve seen material like this in a late Old Jandri site. A collapsed society. Too many people and not enough bread, and so the people started eating other people... See, that is the kind of fracture a human makes when he wants to gnaw on the spongy marrow.”
+Mandri’s mind ran flush with images of a barbarian gnawing on a bone as if it were an ear of corn. He turned around to get another look at that bone.
+Ayram tested the sharpness of the break with the tip of his finger.
+“How far away are the Hrks?” he asked.
+“The only thing I can say for certain is that they’re headed this way, and not just from the east. They’ll be looking to catch us coming out of the Pass from the west as well.”
+“Ahhh, fuck.”
+“We should be moving,” Seb said. “So what if there’s a bone? It doesn’t mean anything. This is the Goree Pass, no one would dare break its sanctity.”
+“Seb, be quiet.”
+“But we don’t have a choice! We’ve got to keep going!”
+“Seb, another word, and I’m going to get upset.”
+Mandri is like fuck. A bit humilitating. Watch Purl, bored.
+“There’s a whole mess of bones over here.”
+Everyone crowded around Purl. At her feet was a jumble of broken leg and arm bones.
+“Someone’s had a fest,” said 
+“Moto.”
+“Yes?”
+“I want you and your sister to scout ahead, the whole length of the pass. If there’s people, if there’s an ambush, I want to know about it.”
+“That will take a few hours.”
+“We need to know what we’re walking into. The rest of us will find a place to keep out of sight, near this spot.”
+“I should go too,” said Seb.
+“Two is enough.”
+Both Moto and Moteah dropped their shimmied out of their packs and Moto pulled out two long sandstone-colored cloaks, tossed one to Moteah, and then they clambered up the southern slope and disappeared from view.
+Ayram led the everyone else back east, where he’d seen a shallow mouth in the base of the northern slope, obscured, in part, by pillar of rock that looked like a giant seed. They all tucked themselves behind this pillar, so that an idle eye of anyone wandering by wouldn’t be able to see them.
+Mandri settled in for a nice, long wait.
+
+A fluttered flute of a whistle from the path.
+Ayram pursed his lips and came .
+Moteah rushed in, crouched, her red cloak bunched up at her feet and in a hurried whisper she said, “There’s an ambush. Only a few hundred yards ahead.”
+“How many men?” Ayram whispered back.
+“I Counted twelve. Couldn’t be more than twenty in all.”
+Moto came stumbling in. “I counted fourteen. It’s an wider valley,” he said. “With a tall slope,” he flattened his hand in the air to illustrate the incline, nearly plumb. “At the top it’s a vertical wall of rock.”
+“A canyon,” Moteah clarified.
+“And at the bottom of this valley, there’s a boulder the size of Minting Rock sitting right in the middle, plugging the gap.”
+“Is it impassible?” Ayram asked.
+Moto said, “There’s a narrow tunnel carved into the bottom, tall enough for a horse. The ambush is set on the other side of this tunnel.”
+“I bet they’ve pushed that boulder down themselves,” Moteah said.
+Moto sighed and squatted down. His face contorted into a look of pained stress. “What’s strange is that there’s a man sitting at the tunnel entrance, pretending to be a traveler. At least that’s what I think he’s doing, cause he’s got a traveler’s pack.”
+“It’s bait,” said Moteah
+“But what do they need bait for?” Moto asked. “They’ve got the ambush set, just spring it! Don’t need to put a man down in the valley where he’s liable to get pricked.”
+Ayram folded his arms.
+Scratched his nose.
+Rubbed his bushy brow with his finger and thumb.
+“Thirty men, you say?”
+“Twenty at most,” said Elrahet.
+“I counted fourteen,” Moto reminded everyone.
+Ayram drummed his fingers against his chin, then tugged at his bottom lip. He was such a perfect picture of indecision, that Mandri nearly asked for a slip of paper so that he could draw it, and not just Ayram, the scene itself. Sometime nature has a way of organizing itself into a natural composition. Ayram there, standing tall, his head the apex of a pyramid of people, all looking at him for direction, and the weight of their expectations sat heavy on his brow.
+It was Elrahet who broke the edge. Her words a firm encouragement. “We are going through,” she said.
+“They know we’re coming, that much is clear. Still, it is only twenty… though we’ve only five arrows between us.”
+He turned his cutting eye to Obo and said, “I don’t suppose you’d be any help.”
+Obo lit up with astonishment. A cheeky split his lips as he watched everyone watch him.
+“Aren’t I alluring…” he said.
+“Right now, they’re sitting there stewing, wondering why we haven’t shown up.”
+“And let me guess, you’re thinking we should all amble right on into that trap, spring it, and when all the little weeds sprout out from behind the rocks, have me deal with them.”
+“You killed fifty of my own people in a ravine. In the rain. With the light of day, you could kill twenty freaks with one flick of your neck.” 
+“I admit that I could, but I’m surprised you’re willing to put all these lives in my hands.”
+“I’m not. It’ll just be you and me.”
+“Oh?”
+“I’m going to carry you into that ambush, and when those demons pop out of their hiding places, you’re going to blast their heads into oblivion.”
+“Is that what I’m going to do?” said Obo.
+Ayram and knelt down .
+“You’re going to do it, because there’s no scenario here where you betray me and walk out alive.”
+“I thought you understood that threats have no effect on me.”
+Ayram. 
+“It’s either you agree to do it, or you die.”
+Obo contemplative moment.
+“I know that stress has a way of narrowing vision, but there is an infinite number of ways you could approach my reluctance to comply with your desires. There’s really no need to compress it down to two. If you asked me, I think you should explore the possibility space of -”
+Interrupted when Ayram slammed his chisel in the rock right next to Obo’s neck. 
+Obo glanced at the cold iron bar which brushed his skin and said, “Look, I’ll do it.” He then pointed to the spud bar and said, “But this isn’t why I’m going to do it. I’ll do it on the condition that you open your heart to good graces of your nature and say, ‘thank you’.”
+“You’ll get no pleasure from me.”
+“I didn’t ask for pleasure, I asked for thanks. A good, honest, ‘Thank you!’. That’s all. Acknowledgment that I helped, and that I helped even though I did need to.”
+Ayram stood up and straightened his back. As his taught lips squirmed in , as if the words left such distaste.
+ “This is ridiculous,” said Elrahet as she stepped forward. She stuck out her proud chin and said, “I’ll say thank you.”
+Obo smiled and said, “That would be sufficient.”
+Elrahet cleared her throat, and said, “Thank you, creature.”
+“I don’t want to take advantage,” said Obo, “but could you say it once more without the ‘creature’?”
+“Thank you.”
+Obo pretended to pinch the words with his fingers, and then in a rectifying tone he said, “Thank you, Mazydobo.”
+Elrahet grinned, of a person eager to show that their immune to , said, “Thank you, Mazydobo... Will that do?”
+“It will.”
+“Good. Now, go and murder those miscreants.”
+Obo flourished his arms and bowed as deeply as he could. “I am at your service,” he said.
+Seb cried, “We can’t trust him!”
+Moto nodded. “Seb’s right,” he said. “This creature has no cause to help. It would be suicide to stride into a nest of bows with him at your back.”
+“I know that you don’t have a reason to trust me, but that’s only because you haven’t given me the chance to prove that I’m trustworthy. This is such an opportunity, if Ayram is willing to give it.”
+“Ayram… twenty bows means you’re liable to get pricked.”
+“I’ve been tickled with arrows before,” said Ayram.
+“I had to bring you back from that,” Elrahet grumbled. “I won’t be able to help this time.”
+Moteah was the only one with determination. “There’s no way around,” she said. “At least, none we can take without running into Hrks.” 
+“It’s either this, or we start from scratch.”
+“We should go together,” Purl said.
+“No,” said Ayram. “More bodies won’t help.”
+Mandrameen listened with rapt attention, for the occasion had his heart aflutter with a restless energy, like he’d just drank a quart of burn-nut tea. His arms and legs felt curious, and there was an urge to inject himself into the situation.
+And there was a logic to him getting involved.
+Obo needed to be carried into a dangerous place, and Mandri had been carrying Obo for days. Why stop now?
+There was chance whoever did it could be killed, and Mandri had been cheating death for the past few weeks. Why stop now?
+The universe was lining him up for this.
+On top of it all, he had Sob’s lucky rocks. He didn’t believe in luck, but the fact he had the rocks at all was a sign of his auspicious future, it was part of the theme, as the Solitants say,  ‘when Solraheen speaks to you, it’s not in words, it’s in coincidences.’ He was given those rocks so that they could encourage him now, in this moment, a against is robe, and when this emotion reached the boiling point, he stood up straight and blurted out, “I’ll do it.”
+The words landed amongst the Ayram like a duck. Moto looked at Mandri like he’d just  . Elrahet, like a . Purl snorted in disbelief. Moteah heard but pretended she hadn’t.  Ayram smirked, and said, “Now’s not the time, Mandri.”
+“Look,” said Mandri, “All you need is someone to walk into that ambush… I’m willing to do it.”
+Moto said, half in jest, “Mandri, Now him, we can’t trust.”
+“What’s there to trust?” Mandri asked. “I walk over there, and Obo blasts them all to Shis.”
+“He’s serious,” Moteah said with a hint of amusement.
+“He does have a death wish,” said Moto.
+“This isn’t about that eunuch prophecy is it?” Purl asked.
+Mandri said, “A little.”
+A muted laugh , and Moteah shook her head and Mandri’s naivety. 
+This was no laughing matter to Elrahet. Her visage was stone serious. “Many have died testing prophecy,” she said. “It is not a wise thing to do.”
+Mandri said, “I should have died like ten times already. And I can tell by the fact that none of you are outright shutting me down, that you all like the idea. I know Ayram does.”
+Ayram was a rigid pole. “I’m trying to think of a reason not to let you do it,” he said.
+“Worst that can happen is I die,” Mandri said. “And let’s be honest, it’s better me than you.”
+“Can’t argue with that,” said Seb.
+Ayram shot Seb a annoyed look, then held Mandri in his disquieting gaze. A pregnant silence emerged in that little interstice, and a doubtful anxiety started to creep up Mandri’s spine. He decided that if he just started acting, that put an end to it. It would shift Ayram’s burden from one of command, to a reserved acceptance of this new reality.
+He bent down, picked up Obo’s litter, which still had Obo strapped in it, and then shouldered the burden and said, “Alright. Now which way is my uncertain death?”
+“Hold on,” Ayram said. He placed his massive hand on Mandri’s shoulder. “Wait.”
+Then Ayram turned to Moto and said, “Take what arrows we have and get up as high as you can.”
+Without so much as a nod, Moto set to gathering what he’d need.
+“And you,” Ayram said to Obo, “If this boy comes out of this unhurt, then I’ll say thank you.”
+Ayram pointed out the path, a pitted road of sand that under a shelf of rock, and said, “Just follow it.” And so Mandri did.
+He followed the path east as it wound through the shattered mountain. He felt like a hunter, careful to soften is footfalls, eyes trained on, limbs . He peeked around every rock and bend, should . 
+Obo, impatient with this , said, “I’ll tell you when we’re almost there.”
+But of course. Obo could . This reminded Mandri of something he’d been meaning to ask the Mazyd but hadn’t got the privacy to do it.
+“Hey Obo?”
+“What?”
+“When the Ayramun ambushed you, did you let it happen?”
+“What makes you think I’d do something as silly as that?”
+“You can see through rock, can’t you?”
+“I can not.”
+“Then how are you always noticing things before anyone else.”
+“I can see around rocks.”
+“How?”
+“Sound. It bounces off of things, and it bounces off them differently depending on the surface, be it rock, dirt, or lizard skin. Such adumbrations provide a fuzzy image of the contents of the room I’ve yet to enter, or the layout of the canyon ahead.”
+“So you can hear an ambush before you walk into it?”
+“There’s also smell. I can smell our friends already. If a creature is large enough, I can smell it from miles away, so long as the wind blows the reek in my direction. But I’ll know we’re close when I can hear them breathing.”
+“How far away would that be?”
+“It depends.”
+“On what?”
+“It’s not worth explaining.”
+“Why not?”
+“Lower your voice.”
+Mandri lowered his voice to a whisper. The satisfaction of a penetrated truth was  “So, you did get captured on purpose!”
+“I did.”
+“And you got captured because you wanted to get close to Ayram.”
+“I wanted to get close to Elrahet.”
+“Well, that’s what I meant. But Elrahet is Ayram’s witch, and I don’t think Ayram will ever come around to giving you your freedom.”
+“It’s not Ayram whom I’ve to convince.”
+“Ayram won’t let Elrahet do anything without his say-so.”
+“Is that so?”
+“What are you on about? Of course it’s so. His name is Ayram, and she is Ayramun. And if that weren’t enough, he’s ten heads tall and his hand could crush a skull.”
+“Mandri, the woman has power over life and death itself, and you think she’s not in control?”
+The thought stopped Mandri in his tracks.
+He tilted his head and looked aimlessly at the sky, which was beset with first few tufts of wispy cloud he’d seen in a week.
+Was Elrahet in charge?
+Was there something he hadn’t seen?
+Nope.
+“Mandri, keep moving.”
+“Look,” Mandri said as he continued on walking. “I’ll defer to you on the subject of adumbrations, but clearly, you don’t know shit about people. Ayram’s in charge of all the Ayramun, and that’s that.”
+“So you say.”
+“Don’t ‘so you say’ me.”
+“You want me to do you the dignity of 
+“You’re correct in that I don’t know what it feels like to be a human, but there’s what it feels like to be you, and then there’s what you actually are, and I know what you actually are. You think that you’re some prophesied eunuch, but what you are is a boy with a burgeon addled brain, susceptible to flights of fancy, and these have led to the present moment where you walk dumbly into certain death, save for my goodwill. I’ve half a mind to let you die to teach you lesson.”
+“You could let me die, but you won’t.”
+“Forgive me, I said ‘teach a lesson,’ when I should have said ‘I’ll let you die to prove I’m right’, because for me, that’s a more attractive motive.”
+“You wouldn’t do it.”
+“We’ll find out soon. Just two bends left to go.”
+The sudden awareness of flooded in. Confident yes, but he’d be lying if there fear wasn’t motivating his legs into.
+Mandri walked, and when he came to the second bend, a shadowed, Obo told him to stop.
+“I want to a clear sight of what we’re up against.”
+Mandri peeked around first.
+Around the bend, the way emptied out into a wider, sun-drenched valley. A mere twenty yards away, plugging up the middle of this valley, was a boulder twice the size of Minting Rock. It would have made the way impassable for a horse, but for the circular hole in its base, and this hole offered some estimation of the boulder’s girth, for the sunlight peeking through the other side could be blotted out with an arm-length thumb.
+To right of the hole’s entrance, was the much anticipated man. He was robed in a honeyed yellow, an the color of unassumption, and he was strapped into a pack the size and shape of a small shed wrapped in a . he was sitting, legs straight out and limp, pack against the rock, pretending to sleep.
+Pretending to snore. It was such a comically loud, open-mouthed, buck-toothed, snore, like the man wanted to make sure that at whatever distance, comers-along would know what he was up to - just an innocent daytime dream. 
+His face betrayed that narrative. He had the look, if leathery skin of a mountain cannibal. A wild scraggle of curly hair framed a gleaming madman’s crown. His narrow face was beset by two large jug ears, and could almost hear the fleas crying out from the man’s pointed, scruff of a chin. And there was an animal look to him, for his nose and mouth protruded out, almost a snout, and while his crooked yellow teeth weren’t filed to a point, it was clear that he didn’t lead a balanced diet. 
+Then again, maybe Mandri was reading too much into the man. He knew it was hard to disassociate what he knew about a person from what was there in the face’s features, and he knew this man was a cannibal, and so he saw a cannibal. Regardless, if he were to paint the man, it would be difficult to do what a good portrait artist is supposed to do and look upon the creature with a mother’s eyes.
+“Looks like he’s taking a nap,” Mandri said in a breathless whisper. He’d never whispered so quietly in his life, wouldn’t have disturbed to the flight of a feather.
+“He’s not napping,” whispered Obo.
+“I know.”
+Obo stirred his litter so that his whispered words carried directly into Mandri’s ear.
+“Here’s the deal, Mandri. That man is dangerous.”
+“I know that. He’s a cannibal…”
+“I can not.”
+“Alright. Welp. Here goes nothing.”
+“Hoooold on, Mandri. Hold on.”
+“What for? He’s bait, 
+“He’s not bait. There’s no need for bait in this pass, as this is the only route a traveler can take.”
+“Then what’s he there for?”
+“If I had to guess, he’s going to waylay you with a disarming tale.”
+“He’s a distraction?”
+“Not quite. If I’m correct, then he’s going to want to get close to you.”
+“So he can kill me.”
+“No, so that he can kill me… I should lay this all out, as I see it. See, I think these bandits know more about our coming than just our number. I think they know of Ayram, and I think they know of me, and I think, that they think, that the best way to take out a Mazyd, if you haven’t a Riga, is to get close with deception and cut off the unsuspecting head. If I’m right, the trap won’t spring until I am killed.”
+“How could they possibly know all that?”
+“I believe they’ve been forwarned.”
+“By who?”
+“I have my suspicions.”
+“But what about-”
+“Sol’s breath, Mandri. Shut up for a moment!”
+Mandri composed himself.
+“Now, provided what I’ve said is true, that man has probably been told your description, and if he has, then he’s also been told that you’re the one who’s been carrying the Mazyd these long miles. He is going to try and get close to you to sniff me out. So please, for both our sakes, keep a good distance away from him.”
+“What if he wants to shake hands?”
+“Don’t.”
+“Well, what am I supposed to say?”
+“He knows who you are, so be honest, but twist it. Sprinkle the lie with grains of the truth. Say you’ve walked ahead of the others, and that they won’t be long behind. If he’s dumb, it’ll get him salivating.”
+“What am I supposed to say if he wants to shake hands? I can’t just say no. That’s weird.”
+“Mandri, improvise. You’ve a wit, so use it.”
+“Alright,” Mandri said. He enjoyed the sense of 
+“And one last thing,” Obo said. “What’s your favorite word?”
+“I don’t have a favorite word.”
+“Pick one at random.”
+If Mandri was going to pick a favorite word, it wasn’t going to be at random. It was going to be a word that he liked, a bubbly word, fun to say, a word the captured something of his verve, and his taste for the divine, a word that, when spoken, could turn heads, and end all debate.
+“My favorite word is Mandrameen”, he finally said.
+Obo tsked, his voice threaded with a snarky gilt. “Pride is so repulsive. Especially in a human. At least when a lizard puffs its chest it does it because it knows its small.”
+“It’s not about pride.”
+“Whatever you say, Mandrameen.”
+“Why’d you even ask?”
+“Because when I’m ready to fill these heathen’s heads with the good word of Solraheen, I shall warn you first by saying your name. And when I say it, do not move. I can’t stress this enough - Do. Not. Move. Don’t crouch, don’t cringe, just stay perfectly still. You’re going to want to fling yourself about in terror, but if you don’t stand still, it’s going to mess everything up.”
+Mandri glanced once more at the man. The frenzied whispering hadn’t ‘woken’ him up. There was little chance the had even reached him above his soaring snores.
+“I’m excited,” Mandri said.
+“You should be terrified. And remember,” Obo whispered. “Keep away from -”
+“I know, I know,” Mandri said. “Keep away. Don’t move. I got it.”
+Mandri chuckled at Obo’s harrumph, and then he stepped out the shadow of the canyon and walked towards the boulder and cannibal, keeping a steady, congenial smile. When he was near enough to formalize a greeting, he waved, but the man did not stir.
+“Hullo there, sleepyhead!” Mandri said. Indulging the man’s deceit gave him a sense of control.
+ The man snorted to with a fright, then looked up at Mandri and shaded his brow with an open hand.
+“Hello, friend!” he said.
+This close, Mandri could tell that the man was much younger than he imagined, perhaps not much older than himself.
+“Happy to see ye,” the young man said, though he didn’t at look it, for his lips were still locked in that squinting sneer, his buckteeth gleaming in the sun.
+“Same,” said Mandri, and he flashed a congenial smile.
+The man shuffled his legs under him, a kind of frog-like squat, and he leaned forward so that the great bulk of his top-heavy pack was centered on his hips, and then he stood right up. Mandri was impressed.
+“Name’s Greskal,” the man said. He held out his hand for Mandri to shake.
+“I’m Mandri.” Mandri gave a curt wave, wrapped his thumbs under his pack’s straps.
+Greskal looked at Mandri like he’d . He said, “Take it you scared as I to walk alone in this Pass.”
+“This is the Goree.” Mandri said. “Why should I be scared?”
+“Then you ain’t heard them rumors that the Goree is a gamble, ‘ave yah?”
+“What rumors?”
+“They say these days is tainted, say foul ilk breed in these hills, wearin’ in the skins of men. Was hopin’ somma like you’d pass me by. Don wanna head anymore east on my own. You is headed east?” 
+He was looking at Mandri with expectant eyes. 
+“Headed to Jeket.”
+“Of course’n you’re headed to Jeket. Everybody’s headed to Jeket. I’m headed to Jeket, too. Got freshly spooled yarn needs sellin’.” He turned a little to show of his pack, giv. “Maybe I could take up with you?”
+Ayram glares.
+
+Ayram grunted. Smirked.
+“Not a wrestler, then. Well don’t tell me, I’d like to guess. Me? I’m a mercenary, believe it or not. Hired sword for.”
+“Put that away.”
+“Of course, of course. I’d never dream of trying to battle a man your size. I just wanted to show you. It’s basically brand new.”
+Tucks it into his scabbard. Sliced the webbing in his thumb.
+“Ach!”
+A little trickle of blood onto the sand swept ground. Tore a from his sleeve and wrapped his hand.
+“Forgive me. I just haven’t seen anyone in a while and when that happens I get excitable. Overstep boundaries, you know. My name is Greskal, by the way.” He bowed his head.
+“Greskal…” Ayram mused. “Well, Greskal, I think it’s best if we part ways.”
+Bewildered. Looked east, then west.
+“How?” he asked. “There’s only the one way, and you don’t own it. Can’t I walk where I please?”
+“You can. Just know that as soon as we get out of the pass, I’ll kill you if you’re still in my shadow.”
+“We’ll part ways once we leave the pass, okay?”
+Ayram began again to walk. Greskal followed.
+“What’s with the dour bunch back here? Are you folks mute, or what?”
+“We have nothing to say to you,” grumbled Elrahet.
+“Well I’ve some things to say to you,” Greskal said, impersonating Elrahet’s growl, amusing himself as he did. “Like, isn’t it funny that outside this pass you can kill to your heart’s content, but inside you can’t? Like there’s a magical line in the sand that determines good and evil. Just seems absurd to me. Morality doesn’t depend on where are, right? Like, ‘Stand here and killing is good, but do it two feet to the left, and Solraheen will damn your Spark to Shis.’ ”
+“I don’t know,” Mandri said, “It kinda makes sense to me. Like what if-”
+“Mandri!” Moto snapped.
+“Is he not allowed to talk?
+“No, he’s not,” said Moto.
+“Why are you allowed to… What is that!?” Greskal cried. He was pointing at the swaddled Mazydobo.
+Moto answered, “It’s the boy’s cripple brother.”
+“Why’s he all pale like that?”
+“A disease of the skin.”
+“Don’t look human.”
+Ayram stopped the line, stepped out, and beckoned Greskal with an impatient finger. “Come here,” he said.
+“What for?”
+“Because I said come here.”
+“Look, let’s just keep on walking, shall we? I’ll be quiet, I promise. Just want the safety of numbers, is all. Like I said, there’s creatures out here.”
+“Cut the shit.” said Ayram. The menace in his voice was nothing compared to the metallic chinnk of his iron bar thudding against ground.
+“Cut what shit?” said Greskal. 
+“Tell your men to come on out.”
+Ayram pointed behind him with his thumb. High up on the northern ridge was a boulder that looked like a shark’s tooth, and out from behind it, like a weed, poked the wooden limb of a recurved bow.
+A pregnant silence filled the red-rock valley, then a brusque, unintelligible whisper sounded out from the rocks above, and the wooden bow-tip was tucked out of sight.
+Greskal shouted, “You know we can see you, right?”
+A snarled retort sprang from unseen heights. 
+“You can’t see shit!”
+Greskal laughed, then cupped his mouth and shouted, “You’ve botched it!”
+A black, turbaned head sprouted up from the boulder above and shouted back, “I didn’t botch nothin’! You botched it!”
+
+Greskal looked to Ayram and asked, “Who gave it away, me or him?”
+“Do you put this show on for every traveler you rob, or is this the first time? I’ll tell you this, two men ain’t going to cut it with me.”
+
+Greskal sighed, walked over to the southern slope, and dropped his heavy pack. As he stretched his back, he said, “Your faith in Solraheen must be strong.”
+“You going to kill us, or just take our things?” Ayram asked.
+“I think you have the wrong idea,” said Greskal.
+“Do I?”
+“Schisol’s kin have been flocking eastward of late. So, I devised this plan to sniff them out, you see, they can’t resist easy meat.” He presented himself with open palms. “I show myself as a lonesome traveler, and when they reveal themselves for the monsters they are, my men riddle them with arrows.”
+“Two men ain’t gonna cut it.”+
+Greskal a shrill whistle that stood the hairs of Mandri’s neck on end. Twenty men rose up on either slope.
+“Usually works like a charm, but seeing as you have a keen mind, I’m left with a conundrum: how do I know whether or not you’re a demon? Because you sure as shis look like you’ve been feasting on tainted flesh. And that creature on the boy’s back is certainly not natural either.”
+Mandri felt Obo stir in the litter.
+
+
+- in the chaos, elrahet says go to the ruined keep.
+
+</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>29802,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="956E7E79-6E13-4C01-8C60-F2133233EC19" Type="Folder" Created="2021-05-09 09:11:03 -0400" Modified="2021-05-09 09:11:03 -0400">
@@ -3241,14 +3592,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1215" Characters="6730" Date="2022-10-23 22:08:50 -0400"/>
+        <PreviousSession Words="1116" Characters="6118" Date="2022-10-24 21:06:25 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2022-10-23 00:00:00 -0400">
-        <DraftWordCount>1149</DraftWordCount>
-        <DraftCharCount>6404</DraftCharCount>
-        <OtherWordCount>25</OtherWordCount>
-        <OtherCharCount>187</OtherCharCount>
+    <RecentWritingHistory Date="2022-10-24 00:00:00 -0400">
+        <DraftWordCount>6991</DraftWordCount>
+        <DraftCharCount>38123</DraftCharCount>
+        <OtherWordCount>105</OtherWordCount>
+        <OtherCharCount>665</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
