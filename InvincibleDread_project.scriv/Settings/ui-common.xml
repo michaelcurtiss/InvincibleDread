@@ -32,7 +32,7 @@
             <ItemID>5635DFF7-5C9F-4940-A4F6-59CC2F822426</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>0C1E8F20-D81D-4A7C-BB7A-E57B45F76ABF</ItemID>
+            <ItemID>B47C0470-42AB-4C04-A87E-EDF44885F2F8</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -42,7 +42,7 @@
         <Collapse>Synopsis</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>Vertical</Split>
+    <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">No</Binder>
@@ -77,7 +77,7 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor1" Active="Editor1">
+    <Editors Primary="Editor1" Active="Editor2">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
@@ -85,9 +85,7 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <Content>
-                    <ItemID>0C1E8F20-D81D-4A7C-BB7A-E57B45F76ABF</ItemID>
-                </Content>
+                <Content/>
                 <NavigationHistory CurrentIndex="199">
                     <HistoryItem Type="BinderItems" ViewMode="Single">5D18D0CD-4B31-499E-BB8A-BC9CE001EB71</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">369D2DA1-E90C-4FF3-BA7D-DD67E117EDFF</HistoryItem>
@@ -296,7 +294,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>24329,0</Selection>
+                <Selection>11508,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
