@@ -42,7 +42,7 @@
         <Collapse>Synopsis</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>None</Split>
+    <Split>Vertical</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">No</Binder>
@@ -85,11 +85,10 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <Content/>
+                <Content>
+                    <ItemID>B47C0470-42AB-4C04-A87E-EDF44885F2F8</ItemID>
+                </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">5D18D0CD-4B31-499E-BB8A-BC9CE001EB71</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings">369D2DA1-E90C-4FF3-BA7D-DD67E117EDFF</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">A56DE95D-D68E-41E5-8A0B-9DF24DC1AC07</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">72BCFD53-451C-4D79-A2B8-6AF8E4A48C0B</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">EBA57E8C-6707-4CBB-B9CD-9A43C7C664EB</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">FC57C92F-FE5E-468C-AB80-864CE2703A21</HistoryItem>
@@ -287,6 +286,9 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">6A5B3482-5DE6-4B74-A1A6-2B0F176B791F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">21B220A9-CE50-4948-8970-7B9AE58C701D</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">0C1E8F20-D81D-4A7C-BB7A-E57B45F76ABF</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B47C0470-42AB-4C04-A87E-EDF44885F2F8</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">F0CD77EB-C410-4015-B5B9-1CB52669E254</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B47C0470-42AB-4C04-A87E-EDF44885F2F8</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -294,7 +296,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>11508,0</Selection>
+                <Selection>9616,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
