@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.2.0" Device="DESKTOP-FJNA7F4" Modified="2022-11-30 18:19:57 -0500" ModID="795397C1-B642-44F5-8F61-B3E859BCA2EE">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.2.0" Device="DESKTOP-Q9SIJQ0" Modified="2022-11-30 18:44:09 -0500" ModID="16C31824-FBA0-45BC-8F55-8E44D6DE2BAE">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0500" Modified="2021-02-12 18:29:53 -0500">
             <Title>Novel Format</Title>
@@ -331,14 +331,14 @@
                                         <TextSelection>20055,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 19:08:54 -0500" Modified="2022-11-30 18:14:25 -0500">
+                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 19:08:54 -0500" Modified="2022-11-30 18:43:41 -0500">
                                     <Title>Kalemite Capture</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>62,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14108,0</TextSelection>
+                                        <TextSelection>15870,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="765A8A4D-6617-45C5-B05A-63ED20C116D7" Type="Text" Created="2022-10-21 09:46:12 -0500" Modified="2022-10-21 09:46:52 -0500">
@@ -3611,12 +3611,12 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="609" Characters="3260" Date="2022-11-30 18:19:57 -0500"/>
+        <PreviousSession Words="785" Characters="4232" Date="2022-11-30 18:44:09 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2022-11-30 00:00:00 -0500">
-        <DraftWordCount>427</DraftWordCount>
-        <DraftCharCount>2299</DraftCharCount>
+        <DraftWordCount>598</DraftWordCount>
+        <DraftCharCount>3239</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
