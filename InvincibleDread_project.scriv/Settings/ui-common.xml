@@ -77,7 +77,7 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor1" Active="Editor2">
+    <Editors Primary="Editor1" Active="Editor1">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
@@ -85,15 +85,10 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <Content/>
+                <Content>
+                    <ItemID>B47C0470-42AB-4C04-A87E-EDF44885F2F8</ItemID>
+                </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">72BCFD53-451C-4D79-A2B8-6AF8E4A48C0B</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">EBA57E8C-6707-4CBB-B9CD-9A43C7C664EB</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">FC57C92F-FE5E-468C-AB80-864CE2703A21</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">787E2773-AD43-45AB-92D8-3063DC257120</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">ED9024F6-413C-4D2C-8E99-41119889DA68</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">7D14A9EA-4288-4F3D-B725-7E7A9757FF88</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">5AD55D26-4AD9-45A6-BA13-414A2508715D</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">B3445AE4-697E-4599-9640-EDFB3ADB93ED</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">4F985662-10B6-48BB-B757-E47FD86B3C51</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">262C4B17-D1CE-4B96-A9F8-FB9E6775B803</HistoryItem>
@@ -287,6 +282,13 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">B47C0470-42AB-4C04-A87E-EDF44885F2F8</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">F0CD77EB-C410-4015-B5B9-1CB52669E254</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">B47C0470-42AB-4C04-A87E-EDF44885F2F8</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0B9BEC66-81FB-4ABF-BD36-09C00B521D7C</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">56AB4E64-48CB-4BCE-9535-FA2B19F9EAC7</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">25427537-4F65-4ACE-8D01-8C253C378901</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">650CA1FA-7290-49A5-B654-FF65381DFFB9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">F40F9E5F-F0B7-41BB-9E24-732E960A4901</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">C4EE3DEA-89E9-4986-8D43-025C103B52AD</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B47C0470-42AB-4C04-A87E-EDF44885F2F8</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -294,7 +296,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>14598,0</Selection>
+                <Selection>18298,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -334,10 +336,7 @@
                 <GroupsViewMode>Outliner</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <LockedInPlace>Yes</LockedInPlace>
-                <Content>
-                    <ItemID>B47C0470-42AB-4C04-A87E-EDF44885F2F8</ItemID>
-                </Content>
+                <Content/>
                 <NavigationHistory CurrentIndex="199">
                     <HistoryItem Type="BinderItems" ViewMode="Outliner">1960C156-F905-4211-A2AD-368C14728AF4</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">A36FAAE8-385E-44D9-8DC0-00E9C575E1FC</HistoryItem>
