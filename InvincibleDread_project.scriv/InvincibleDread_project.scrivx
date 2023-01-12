@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.3.0" Device="DESKTOP-Q9SIJQ0" Modified="2023-01-06 05:58:42 -0500" ModID="CE31CA6A-EAC3-4CFB-A3BB-9978E5AAD424">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.3.0" Device="DESKTOP-FJNA7F4" Modified="2023-01-11 19:15:42 -0500" ModID="5E441F30-AF08-4E02-BFAF-2E1555EB2842">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0500" Modified="2021-02-12 18:29:53 -0500">
             <Title>Novel Format</Title>
@@ -57,15 +57,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="1B6E2821-2E08-4261-9AE2-F5C49D9BA20D" Type="Text" Created="2022-10-15 20:16:07 -0500" Modified="2023-01-03 11:52:42 -0500">
-                                    <Title>The starving artist</Title>
+                                <BinderItem UUID="21DEE0D2-7265-4E17-A11D-85AA407E1F2B" Type="Text" Created="2023-01-10 10:00:09 -0500" Modified="2023-01-10 10:08:38 -0500">
+                                    <Title>StarvingArtist2</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>894,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9254,0</TextSelection>
+                                        <TextSelection>24748,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="1B6E2821-2E08-4261-9AE2-F5C49D9BA20D" Type="Text" Created="2022-10-15 20:16:07 -0500" Modified="2023-01-03 11:52:42 -0500">
+                                            <Title>The starving artist</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>894,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>24363,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="B6374485-4753-49CC-98BF-C1ED504825AA" Type="Text" Created="2021-09-18 11:49:08 -0500" Modified="2022-10-19 07:48:46 -0500">
                                     <Title>Salt farm</Title>
@@ -331,14 +342,14 @@
                                         <TextSelection>20055,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 19:08:54 -0500" Modified="2023-01-06 05:58:29 -0500">
+                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 19:08:54 -0500" Modified="2023-01-11 19:12:04 -0500">
                                     <Title>Kalemite Capture</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>4251,0</NotesTextSelection>
+                                        <NotesTextSelection>7514,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>41585,0</TextSelection>
+                                        <TextSelection>50943,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="765A8A4D-6617-45C5-B05A-63ED20C116D7" Type="Text" Created="2022-10-21 09:46:12 -0500" Modified="2022-10-21 09:46:52 -0500">
@@ -361,13 +372,13 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="13FF0EB7-9AA6-404D-9609-49F464AC01F7" Type="Text" Created="2022-10-12 19:09:07 -0500" Modified="2022-10-21 13:54:52 -0500">
+                                <BinderItem UUID="13FF0EB7-9AA6-404D-9609-49F464AC01F7" Type="Text" Created="2022-10-12 19:09:07 -0500" Modified="2023-01-11 16:43:35 -0500">
                                     <Title>Kalemite fight</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>105,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -400,14 +411,14 @@
                                         <TextSelection>81,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="4CBCB151-DC95-4971-AFB4-9A5C27C9B121" Type="Text" Created="2022-10-12 19:33:12 -0500" Modified="2022-10-21 09:11:52 -0500">
+                                <BinderItem UUID="4CBCB151-DC95-4971-AFB4-9A5C27C9B121" Type="Text" Created="2022-10-12 19:33:12 -0500" Modified="2023-01-11 16:50:46 -0500">
                                     <Title>Pell/lizard/SchisolCult</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>195,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1242,0</TextSelection>
+                                        <TextSelection>292,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="390322A7-7E65-4014-801D-59A516D65557" Type="Text" Created="2022-10-12 19:33:30 -0500" Modified="2022-10-17 15:29:58 -0500">
@@ -3747,12 +3758,12 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-01-06 05:58:42 -0500"/>
+        <PreviousSession Words="819" Characters="4497" Date="2023-01-11 19:15:42 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-01-06 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2023-01-11 00:00:00 -0500">
+        <DraftWordCount>321</DraftWordCount>
+        <DraftCharCount>1757</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
