@@ -448,5 +448,5 @@
     <Day dwc="1269" dcc="6901" owc="0" occ="0">2023-01-24</Day>
     <Day dwc="0" dcc="0" owc="463" occ="3011">2023-01-25</Day>
     <Day dwc="782" dcc="4386" owc="175" occ="1033">2023-01-26</Day>
-    <Day dwc="352" dcc="1983" owc="638" occ="3903">2023-01-27</Day>
+    <Day dwc="352" dcc="1983" dtwc="211034" owc="3778" occ="21652" dtcc="1154993">2023-01-27</Day>
 </WritingHistory>

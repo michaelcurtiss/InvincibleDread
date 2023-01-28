@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-Q9SIJQ0" Modified="2023-01-27 21:48:36 -0500" ModID="7684E9DF-C12D-4FF7-9C2E-2C2DC89F3412">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-Q9SIJQ0" Modified="2023-01-27 23:56:55 -0500" ModID="205EF5B5-C575-417D-912C-C3D1AC512345">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0500" Modified="2021-02-12 18:29:53 -0500">
             <Title>Novel Format</Title>
@@ -1963,13 +1963,22 @@
                                 <TextSelection Caret="933">928,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="386BAD69-510D-446F-80AE-FD355901A7CC" Type="Text" Created="2023-01-25 15:19:17 -0500" Modified="2023-01-27 21:01:04 -0500">
+                        <BinderItem UUID="386BAD69-510D-446F-80AE-FD355901A7CC" Type="Text" Created="2023-01-25 15:19:17 -0500" Modified="2023-01-27 22:23:21 -0500">
                             <Title>Fuckin hell</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5821,0</TextSelection>
+                                <TextSelection>5712,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F8E0D5D7-C18B-4ED2-A852-C5C83C09E7C6" Type="Text" Created="2023-01-27 22:23:24 -0500" Modified="2023-01-27 23:56:51 -0500">
+                            <Title>Dogs</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13827,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3914,14 +3923,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="601" Characters="3348" Date="2023-01-27 21:48:36 -0500"/>
+        <PreviousSession Words="601" Characters="3348" Date="2023-01-27 23:56:55 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2023-01-27 00:00:00 -0500">
         <DraftWordCount>352</DraftWordCount>
         <DraftCharCount>1983</DraftCharCount>
-        <OtherWordCount>638</OtherWordCount>
-        <OtherCharCount>3903</OtherCharCount>
+        <OtherWordCount>3778</OtherWordCount>
+        <OtherCharCount>21652</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
