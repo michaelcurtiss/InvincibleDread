@@ -453,5 +453,10 @@
     <Day dwc="982" dcc="5363" owc="118" occ="687">2023-01-29</Day>
     <Day dwc="4193" dcc="23774" owc="12" occ="78">2023-01-30</Day>
     <Day dwc="1053" dcc="5912" owc="2238" occ="12451">2023-01-31</Day>
-    <Day dwc="659" dcc="3677" owc="0" occ="0">2023-02-01</Day>
+    <Day dwc="740" dcc="4120" dtwc="217406" owc="0" occ="0" dtcc="1190234">2023-02-01</Day>
+    <Day dwc="1511" dcc="8121" owc="33" occ="206">2023-02-02</Day>
+    <Day dwc="922" dcc="5026" owc="3" occ="12">2023-02-03</Day>
+    <Day dwc="920" dcc="5308" owc="0" occ="0">2023-02-04</Day>
+    <Day dwc="2339" dcc="12285" owc="4196" occ="24081">2023-02-05</Day>
+    <Day dwc="-33" dcc="-167" owc="0" occ="0">2023-02-06</Day>
 </WritingHistory>
