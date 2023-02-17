@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-FJNA7F4" Modified="2023-02-15 21:13:38 -0500" ModID="39E2EFF3-E889-4233-98C0-F5251FB9F0CD">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-FJNA7F4" Modified="2023-02-16 20:47:51 -0500" ModID="98F84C62-191A-4F25-B8FD-FD8685C7D2FE">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0500" Modified="2021-02-12 18:29:53 -0500">
             <Title>Novel Format</Title>
@@ -157,14 +157,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="E003C73C-9D76-427B-BC5B-2D1C5E3316A7" Type="Text" Created="2022-07-12 20:20:49 -0500" Modified="2023-02-15 21:12:48 -0500">
+                                <BinderItem UUID="E003C73C-9D76-427B-BC5B-2D1C5E3316A7" Type="Text" Created="2022-07-12 20:20:49 -0500" Modified="2023-02-16 17:47:01 -0500">
                                     <Title>A Dead Body</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>1054,0</NotesTextSelection>
+                                        <NotesTextSelection>1257,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>13408,0</TextSelection>
+                                        <TextSelection>16418,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="778FA397-BC0E-4853-85D8-B5E198B38F67" Type="Text" Created="2023-02-15 20:27:51 -0500" Modified="2023-02-15 20:27:59 -0500">
@@ -178,14 +178,23 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 20:24:05 -0500" Modified="2023-01-12 20:12:45 -0500">
+                                <BinderItem UUID="E897FFB9-291F-4309-97AF-36F6C4FC443A" Type="Text" Created="2023-02-16 16:15:49 -0500" Modified="2023-02-16 16:22:39 -0500">
+                                    <Title>Prep</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="2583">2575,8</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 20:24:05 -0500" Modified="2023-02-16 16:07:32 -0500">
                                     <Title>Ambush</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>151,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>686,0</TextSelection>
+                                        <TextSelection>269,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -559,7 +568,7 @@
                                         <NotesTextSelection>54,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>81,0</TextSelection>
+                                        <TextSelection>1764,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="4CBCB151-DC95-4971-AFB4-9A5C27C9B121" Type="Text" Created="2022-10-12 19:33:12 -0500" Modified="2023-02-09 21:57:46 -0500">
@@ -743,7 +752,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>28720,0</TextSelection>
+                                                <TextSelection Caret="34629">34452,177</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="A1E79F17-3506-46F6-BCA3-3808ECEA1267" Type="Text" Created="2021-12-06 10:01:40 -0500" Modified="2022-04-07 14:38:12 -0500">
@@ -2463,7 +2472,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Type="Text" Created="2006-11-04 13:33:03 -0500" Modified="2021-02-24 00:42:59 -0500">
+                        <BinderItem UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Type="Text" Created="2006-11-04 13:33:03 -0500" Modified="2023-02-16 16:09:48 -0500">
                             <Title>Ambush</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -2472,7 +2481,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2404,0</TextSelection>
+                                <TextSelection Caret="8115">3122,4993</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D9B547D3-2E07-439E-A95E-B1AED066FC06" Type="Text" Created="2022-01-25 02:16:33 -0500" Modified="2022-02-03 20:41:48 -0500">
@@ -3297,7 +3306,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>4612,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="737DB6A3-1066-4819-8933-8A924EFE4A94" Type="Text" Created="2021-02-12 18:24:11 -0500" Modified="2021-02-12 18:29:53 -0500">
@@ -3457,7 +3466,7 @@
                     </MetaData>
                     <TextSettings>
                         <TextMode>Script</TextMode>
-                        <TextSelection Caret="9273">0,9273</TextSelection>
+                        <TextSelection>8399,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="61ABF403-BC3E-47D3-A50E-6F15C9E23F73" Type="Text" Created="2021-12-16 19:09:53 -0500" Modified="2022-01-24 11:11:11 -0500">
@@ -4194,14 +4203,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="10985" Characters="58715" Date="2023-02-15 21:13:38 -0500"/>
+        <PreviousSession Words="5845" Characters="31826" Date="2023-02-16 20:47:51 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-02-15 00:00:00 -0500">
-        <DraftWordCount>6010</DraftWordCount>
-        <DraftCharCount>31979</DraftCharCount>
+    <RecentWritingHistory Date="2023-02-16 00:00:00 -0500">
+        <DraftWordCount>4468</DraftWordCount>
+        <DraftCharCount>24510</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-1</OtherCharCount>
+        <OtherCharCount>56</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
