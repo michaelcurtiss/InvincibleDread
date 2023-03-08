@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-Q9SIJQ0" Modified="2023-02-21 15:54:14 -0500" ModID="DA84450E-F72A-4C79-A092-97B1123F75D0">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-FJNA7F4" Modified="2023-03-07 17:07:16 -0500" ModID="4A41914A-BB4B-4A0B-AA8E-69F99BE60451">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 17:48:19 -0500" Modified="2021-02-12 18:29:53 -0500">
             <Title>Novel Format</Title>
@@ -39,6 +39,15 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
+                        <BinderItem UUID="21DEE0D2-7265-4E17-A11D-85AA407E1F2B" Type="Text" Created="2023-01-10 10:00:09 -0500" Modified="2023-02-13 16:29:11 -0500">
+                            <Title>StarvingArtist2</Title>
+                            <MetaData>
+                                <NotesTextSelection>134,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>24270,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="625F900D-9F8F-4F2C-82C4-E2C75156814C" Type="Text" Created="2022-08-07 22:55:38 -0500" Modified="2023-02-13 16:29:07 -0500">
                             <Title>Extras</Title>
                             <MetaData>
@@ -83,22 +92,13 @@
                                                 <TextSelection>30475,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="21DEE0D2-7265-4E17-A11D-85AA407E1F2B" Type="Text" Created="2023-01-10 10:00:09 -0500" Modified="2023-02-13 16:29:11 -0500">
-                                            <Title>StarvingArtist2</Title>
-                                            <MetaData>
-                                                <NotesTextSelection>134,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>24270,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="B6374485-4753-49CC-98BF-C1ED504825AA" Type="Text" Created="2021-09-18 11:49:08 -0500" Modified="2023-02-12 17:49:39 -0500">
+                                <BinderItem UUID="B6374485-4753-49CC-98BF-C1ED504825AA" Type="Text" Created="2021-09-18 11:49:08 -0500" Modified="2023-03-03 13:13:29 -0500">
                                     <Title>Salt farm</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>1103,56</NotesTextSelection>
+                                        <NotesTextSelection>117,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>3549,0</TextSelection>
@@ -157,14 +157,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="E003C73C-9D76-427B-BC5B-2D1C5E3316A7" Type="Text" Created="2022-07-12 20:20:49 -0500" Modified="2023-02-21 15:48:02 -0500">
+                                <BinderItem UUID="E003C73C-9D76-427B-BC5B-2D1C5E3316A7" Type="Text" Created="2022-07-12 20:20:49 -0500" Modified="2023-02-26 01:36:05 -0500">
                                     <Title>A Dead Body</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>69,0</NotesTextSelection>
+                                        <NotesTextSelection>275,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>17293,0</TextSelection>
+                                        <TextSelection>20889,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="778FA397-BC0E-4853-85D8-B5E198B38F67" Type="Text" Created="2023-02-15 20:27:51 -0500" Modified="2023-02-15 20:27:59 -0500">
@@ -178,16 +178,25 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="E897FFB9-291F-4309-97AF-36F6C4FC443A" Type="Text" Created="2023-02-16 16:15:49 -0500" Modified="2023-02-21 15:53:43 -0500">
+                                <BinderItem UUID="E897FFB9-291F-4309-97AF-36F6C4FC443A" Type="Text" Created="2023-02-16 16:15:49 -0500" Modified="2023-02-27 12:02:33 -0500">
                                     <Title>Prep</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>1069,0</NotesTextSelection>
+                                        <NotesTextSelection>16,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>97,0</TextSelection>
+                                        <TextSelection>5622,0</TextSelection>
                                     </TextSettings>
                                     <Children>
+                                        <BinderItem UUID="BED8FE60-3A46-4E8A-B1C5-39C0F8946ACC" Type="Text" Created="2023-02-25 13:47:17 -0500" Modified="2023-02-25 13:57:35 -0500">
+                                            <Title>ExcisedPrep(revive mandri)</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>6895,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                         <BinderItem UUID="8A6DD8ED-0505-43E0-A33E-4E33A231AE8A" Type="Text" Created="2023-02-17 16:18:55 -0500" Modified="2023-02-17 16:19:22 -0500">
                                             <Title>Old Prep</Title>
                                             <MetaData>
@@ -195,20 +204,40 @@
                                                 <NotesTextSelection>854,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>31494,0</TextSelection>
+                                                <TextSelection>13132,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="7F8045C0-DDD0-4271-BBB9-2445C0140392" Type="Text" Created="2023-02-21 16:34:00 -0500" Modified="2023-02-24 15:54:04 -0500">
+                                            <Title>PrepScratch</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>821,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 20:24:05 -0500" Modified="2023-02-16 16:07:32 -0500">
+                                <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 20:24:05 -0500" Modified="2023-03-06 12:56:56 -0500">
                                     <Title>Ambush</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>151,0</NotesTextSelection>
+                                        <NotesTextSelection>324,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>269,0</TextSelection>
+                                        <TextSelection>18910,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="951F2845-AF9D-47CE-AC96-793C57C79131" Type="Text" Created="2023-03-02 13:10:53 -0500" Modified="2023-03-02 13:11:10 -0500">
+                                            <Title>AmbushScrap</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>629,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -274,11 +303,11 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="105514CA-3798-409C-847A-7CAA15A6BED3" Type="Text" Created="2022-08-08 13:53:56 -0500" Modified="2023-01-23 17:00:04 -0500">
+                                <BinderItem UUID="105514CA-3798-409C-847A-7CAA15A6BED3" Type="Text" Created="2022-08-08 13:53:56 -0500" Modified="2023-02-23 16:40:31 -0500">
                                     <Title>Setting Out</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>315,0</NotesTextSelection>
+                                        <NotesTextSelection>49,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>17380,0</TextSelection>
@@ -411,14 +440,14 @@
                                         <TextSelection Caret="29596">29591,5</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="1C4AB82A-F4B1-4936-907D-6E1479D3C055" Type="Text" Created="2022-09-19 16:25:41 -0500" Modified="2023-02-07 00:23:46 -0500">
+                                <BinderItem UUID="1C4AB82A-F4B1-4936-907D-6E1479D3C055" Type="Text" Created="2022-09-19 16:25:41 -0500" Modified="2023-02-23 16:41:18 -0500">
                                     <Title>Journey</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>386,0</NotesTextSelection>
+                                        <NotesTextSelection>190,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection Caret="13613">13520,93</TextSelection>
+                                        <TextSelection>13754,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 19:08:54 -0500" Modified="2023-01-23 17:01:40 -0500">
@@ -460,14 +489,14 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="EDFBA2B1-92F5-4CE0-A529-27E4740B1115" Type="Text" Created="2023-01-18 10:01:29 -0500" Modified="2023-01-20 22:17:06 -0500">
+                                <BinderItem UUID="EDFBA2B1-92F5-4CE0-A529-27E4740B1115" Type="Text" Created="2023-01-18 10:01:29 -0500" Modified="2023-02-25 09:45:39 -0500">
                                     <Title>Exchange</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>265,0</NotesTextSelection>
+                                        <NotesTextSelection>566,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>15257,0</TextSelection>
+                                        <TextSelection>15905,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="3424A086-6027-40C8-8F0E-BA73A3804B2A" Type="Text" Created="2023-01-12 11:20:15 -0500" Modified="2023-01-30 13:12:35 -0500">
@@ -2015,22 +2044,31 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="4B883D3A-58A3-49AC-85B2-B97D4C970371" Type="Text" Created="2021-12-15 16:20:12 -0500" Modified="2023-01-31 12:44:11 -0500">
+                        <BinderItem UUID="4B883D3A-58A3-49AC-85B2-B97D4C970371" Type="Text" Created="2021-12-15 16:20:12 -0500" Modified="2023-03-02 17:21:14 -0500">
                             <Title>Lexicon</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4311,0</TextSelection>
+                                <TextSelection>4258,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5B5F6E97-1F1F-4D95-A261-6A58F2ECECF3" Type="Text" Created="2023-02-14 21:30:00 -0500" Modified="2023-02-15 10:13:23 -0500">
+                        <BinderItem UUID="C01A4FE5-584A-4A7E-B7AF-80ED32DCBCE7" Type="Text" Created="2023-03-03 13:27:45 -0500" Modified="2023-03-03 14:04:17 -0500">
+                            <Title>Modern painters</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>299,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5B5F6E97-1F1F-4D95-A261-6A58F2ECECF3" Type="Text" Created="2023-02-14 21:30:00 -0500" Modified="2023-03-07 17:07:06 -0500">
                             <Title>juciest notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>21451,0</TextSelection>
+                                <TextSelection>24571,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 17:38:44 -0500" Modified="2023-02-14 22:12:41 -0500">
@@ -2086,16 +2124,16 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="0102B6C5-66AC-4A60-80B3-EBAEC0F50355" Type="Text" Created="2023-02-05 19:48:16 -0500" Modified="2023-02-05 19:48:21 -0500">
-                            <Title>Old Gold</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>9984,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem UUID="0102B6C5-66AC-4A60-80B3-EBAEC0F50355" Type="Text" Created="2023-02-05 19:48:16 -0500" Modified="2023-02-05 19:48:21 -0500">
+                    <Title>Old Gold</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9984,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C0638C53-68C9-4C11-89E7-7CF0C72ED218" Type="Folder" Created="2023-01-12 19:51:27 -0500" Modified="2023-01-12 19:51:40 -0500">
                     <Title>Philosophy</Title>
@@ -2569,6 +2607,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="1E740CEA-319A-4A4E-AB78-571FBB80964B" Type="Text" Created="2023-03-03 12:13:31 -0500" Modified="2023-03-03 15:27:08 -0500">
+                            <Title>Artist bullshit</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>248,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17894,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="F07F2C05-11AA-45F7-819B-196F5CED3812" Type="Text" Created="2023-02-17 18:23:47 -0500" Modified="2023-02-18 22:53:52 -0500">
                             <Title>Namib</Title>
                             <MetaData>
@@ -2576,7 +2624,7 @@
                                 <NotesTextSelection>281,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6713,0</TextSelection>
+                                <TextSelection>12996,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="9ED73E55-C2BB-4DB8-BF82-D3FB486B4EF6" Type="Text" Created="2023-01-20 16:22:31 -0500" Modified="2023-01-26 12:45:25 -0500">
@@ -2636,14 +2684,14 @@
                                 <TextSelection Caret="25298">25293,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0C44F35A-1F41-49AC-BDBA-3B801D1E919D" Type="Text" Created="2022-01-23 11:59:46 -0500" Modified="2023-01-16 14:12:51 -0500">
+                        <BinderItem UUID="0C44F35A-1F41-49AC-BDBA-3B801D1E919D" Type="Text" Created="2022-01-23 11:59:46 -0500" Modified="2023-03-03 18:38:11 -0500">
                             <Title>The Sumerian World</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>174,0</NotesTextSelection>
+                                <NotesTextSelection>203,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="34207">34202,5</TextSelection>
+                                <TextSelection>45276,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E9A8C477-FC7E-4950-B687-48B3EA34E319" Type="Text" Created="2022-01-09 22:43:58 -0500" Modified="2022-10-18 21:12:36 -0500">
@@ -2919,14 +2967,14 @@
                                 <TextSelection>1601,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8EB22824-89B1-4555-B5C3-A3442D3553A3" Type="Text" Created="2021-03-24 22:43:24 -0500" Modified="2023-02-12 23:45:14 -0500">
+                        <BinderItem UUID="8EB22824-89B1-4555-B5C3-A3442D3553A3" Type="Text" Created="2021-03-24 22:43:24 -0500" Modified="2023-02-27 21:18:19 -0500">
                             <Title>Delillo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>7,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>34197,0</TextSelection>
+                                <TextSelection>34514,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="0B9BEC66-81FB-4ABF-BD36-09C00B521D7C" Type="Text" Created="2022-10-16 00:04:13 -0500" Modified="2022-10-16 00:04:13 -0500">
@@ -3347,7 +3395,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="23414">0,23414</TextSelection>
+                        <TextSelection>22831,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="88DDDF67-2918-4810-81CD-7C0E1E96FA7A" Type="Text" Created="2021-02-12 18:25:11 -0500" Modified="2021-02-12 18:29:53 -0500">
@@ -4234,14 +4282,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="97" Characters="514" Date="2023-02-21 15:54:14 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-03-07 17:07:16 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-02-21 00:00:00 -0500">
-        <DraftWordCount>-59</DraftWordCount>
-        <DraftCharCount>-316</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2023-03-07 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>18</OtherWordCount>
+        <OtherCharCount>107</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
