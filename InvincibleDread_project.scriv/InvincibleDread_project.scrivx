@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-FJNA7F4" Modified="2023-03-16 23:26:50 -0400" ModID="DCE4A444-A5E5-494E-9043-8EA6458AC7CE">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-FJNA7F4" Modified="2023-03-31 14:39:44 -0400" ModID="DCE4A444-A5E5-494E-9043-8EA6458AC7CE">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2021-02-12 18:29:53 -0400">
             <Title>Novel Format</Title>
@@ -225,7 +225,7 @@
                                         <NotesTextSelection>378,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>23841,0</TextSelection>
+                                        <TextSelection>23822,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="951F2845-AF9D-47CE-AC96-793C57C79131" Type="Text" Created="2023-03-02 13:10:53 -0400" Modified="2023-03-15 17:50:29 -0400">
@@ -4282,12 +4282,12 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="759" Characters="4140" Date="2023-03-16 23:26:50 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-03-31 14:39:44 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-03-16 00:00:00 -0400">
-        <DraftWordCount>532</DraftWordCount>
-        <DraftCharCount>3002</DraftCharCount>
+    <RecentWritingHistory Date="2023-03-31 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
