@@ -12270,6 +12270,8 @@ To teach Arachne the folly of her mad attempt, Minerva wove four corners with li
         </Document>
         <Document ID="5AEFF1EA-E74C-4C2B-89C8-477658812887">
             <Title>Seculla riot</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="5B1F4F83-1AD4-4011-9DAD-C6600E23F9D9">
             <Title>Sahara-Eamonn</Title>
@@ -14430,6 +14432,9 @@ Deny this conflict between science and religion at your own peril.
         </Document>
         <Document ID="68D8EFBB-B98A-4234-AA61-E28B0AB13A2D">
             <Title>Mazyd interrogation</Title>
+            <Text>
+
+</Text>
         </Document>
         <Document ID="6A5B3482-5DE6-4B74-A1A6-2B0F176B791F">
             <Title>Relevance realization</Title>
@@ -16985,28 +16990,10 @@ Two blue-grey eyes, Jandri eyes, belonging to a man named Seb Soreel. They were 
         </Document>
         <Document ID="77DDE3A8-3797-40FD-B136-1994CD1777A6">
             <Title>Mandrameen</Title>
-            <Text>At night the dogs howl like wolves. The cats hiss at shadows. When morning comes, the oxen defy the stick—it’s as if they know there’s no longer any point to pulling a plow. They can sense it, the animals can, they can sense the ending of the world.
-Or so the Solitants say.
-They say a cleansing fire is coming to burn the unrighteousness out from Jandri. Any day now, they’re certain of it. The only uncertainty is what comes after. Yes, there will be unbearable pain and such gnashing of teeth and lamentation as has not been seen since ancient days when armies were so large that their snaking across the desert stirred up sand-storms in their wake, but what comes after? Rape and murder will rule the day as the unrighteous abandon all pretension of being more than merely men, and then, depending on who’s telling the story, it will all end in either the creation of a more perfect world, or the coming conflagration will leave the earth an ashen wasteland, or, some argue, it will all end in darkness. This divergence in opinion was allowed because the prophecies never said much about what would come after the end, and it wasn’t something that could be deduced by squeezing portents out of lizard guts and stool. The only thing that was certain was that the world was indeed ending. 
-Ending soon.
-Tomorrow, even.
-Today, perhaps.
-Most pilgrims would look up at the morning sky and prepare themselves for the flame that would surely come and swallow them.
-Mandrameen He saw the morning sun through a hangover blear and wondered what. He was not so optimistic as to hope for the end of the world. The end of the world wasn’t coming. He was doubtful it would ever come.
- There was no profit in the end of the world. Folks can’t make money off it, and worse, if it happens, then they won’t be able to keep making money. If a prophecy says that the dogs of Jeket will howl for ten days and nights and then the world will end, then an enterprising man, hoping to protect his investments, could hire a few other men to go and slaughter all the dogs of Jeket. How could a prophecy about howling dogs come true if there are no dogs to howl? 
-A priest might say that divine plans are not so easily thwarted, but Mandri had seen greed outwit the divine too many times to believe that. 
-
-
- the Sand focuses this beauty. There the desert heat pulls the mind out from the body, like a cork from a bottle, and if you are left to linger in the sun, all desires, plots, and fantasies will evaporate. Nothing is left to support a delicate ego. When Nature’s beauty rushes in, it flushes the ego out, it loses it in the wide open spaces of sand and sky. All that’s left for the inner eye to see is the truth about the edge between one’s self and the Universe.
-Or so Mandrameen believed. 
-It was at least an honest attempt to explain why all religions of the Empire were born in the Sand, and why the beating heart of each of them is the grand city of Jeket, Jewel of the Desert, an oasis in the middle of the world.
-
-
-
-That it’s not the end of the world as a whole, but the end of the Hrkan world. Hrkan hegemony over the will be broken.
-Mandrameen was not so optimistic.
-Melancholic misanthrope stems from the irrepressibility of human. Inability to learn a goddamned. Lesson. 
-Corruptoin of the thartist.
+            <Text>Starting with something else changes the tightness - talks about too many things.
+Need to inject world in some other manner.
+Consider Artist world -&gt; artist mandrameen.
+Conceptually this should work.
 
 
 Artist.
@@ -18803,6 +18790,38 @@ Put warheads on foreheads
 
 European union competition commissioner
 </Text>
+        </Document>
+        <Document ID="7D994803-7BF3-4B34-94F8-AECD7AF63EC4">
+            <Title>EndOfWorld</Title>
+            <Text>At night the dogs howl like wolves. The cats hiss at the emptiness inside shadows. When morning comes, the oxen refuse to get up as if they know there’s no longer any point to pulling a plow. The animals can sense it, the Solitant priests claim. They turn their shaven heads to the west and watch the sun rise with expectant eyes, for it is the sun which will carry the fire that will consume the world and end it.
+But there’s always been a dog howling somewhere, and there’s always been a priest pointing at it as proof. 
+End of the world? Destruction of all humanity?
+Happening soon?
+Mandrameen was not so optimistic.
+He doubted it would ever happen because there was no profit in it. Folks can’t make money off it, and worse, if it happens, then they won’t be able to keep making money. If a prophecy says that the dogs of Jeket will howl for ten days and nights and then the world will end, then an enterprising man, hoping to protect his investments, could hire a few other men to go and slaughter all the dogs of Jeket. How could a prophecy about howling dogs come true if there are no dogs to howl? 
+
+
+
+ the Sand focuses this beauty. There the desert heat pulls the mind out from the body, like a cork from a bottle, and if you are left to linger in the sun, all desires, plots, and fantasies will evaporate. Nothing is left to support a delicate ego. When Nature’s beauty rushes in, it flushes the ego out, it loses it in the wide open spaces of sand and sky. All that’s left for the inner eye to see is the truth about the edge between one’s self and the Universe.
+Or so Mandrameen believed. 
+It was at least an honest attempt to explain why all religions of the Empire were born in the Sand, and why the beating heart of each of them is the grand city of Jeket, Jewel of the Desert, an oasis in the middle of the world.
+
+
+
+That it’s not the end of the world as a whole, but the end of the Hrkan world. Hrkan hegemony over the will be broken.
+Mandrameen was not so optimistic.
+Melancholic misanthrope stems from the irrepressibility of human. Inability to learn a goddamned. Lesson. 
+Corruptoin of the thartist.
+
+
+
+
+The only uncertainty for these priests is what comes after. Yes, there will be unbearable pain and gnashing of teeth as has not been seen since ancient days when armies were so large that their snaking across the desert stirred up sand-storms in their wake, but what comes after? Depending on who’s telling the story, it will all end in either the creation of a more perfect world, or the coming conflagration will leave the earth an ashen wasteland, or, some argue, it will all end in nothingness. This divergence in opinion was allowed because the prophecies never said much about what would come after the end, and it wasn’t something that could be deduced by squeezing portents out of lizard guts and stool. The only thing that was certain was that the world was indeed ending. 
+Ending soon.
+Tomorrow, even.
+Today, perhaps.
+Mandrameen was not so optimistic.
+The end of the world wasn’t coming. </Text>
         </Document>
         <Document ID="7DF85CAA-0A6E-4FD8-A194-E38E0B4A1E71">
             <Title>Language</Title>
@@ -23463,6 +23482,9 @@ They were searching him over, studying him. Pyetle returned a weak smile, but fe
         </Document>
         <Document ID="A56DE95D-D68E-41E5-8A0B-9DF24DC1AC07">
             <Title>Creed</Title>
+            <Text>
+
+</Text>
         </Document>
         <Document ID="A5C119C8-FC44-43D6-B330-741A028AC15A">
             <Title>Post Battle</Title>
