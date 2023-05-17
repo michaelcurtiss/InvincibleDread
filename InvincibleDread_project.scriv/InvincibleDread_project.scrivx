@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-Q9SIJQ0" Modified="2023-05-16 00:52:15 -0400" ModID="7EDEB6A0-BC98-4872-B5C4-A68F0331FB09">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-Q9SIJQ0" Modified="2023-05-16 23:50:57 -0400" ModID="BBB08C82-8253-40A3-ABF1-EA376B4122B0">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2021-02-12 18:29:53 -0400">
             <Title>Novel Format</Title>
@@ -75,14 +75,14 @@
                                         <TextSelection>303,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="77DDE3A8-3797-40FD-B136-1994CD1777A6" Type="Text" Created="2023-02-10 11:21:42 -0400" Modified="2023-05-16 00:31:00 -0400">
+                                <BinderItem UUID="77DDE3A8-3797-40FD-B136-1994CD1777A6" Type="Text" Created="2023-02-10 11:21:42 -0400" Modified="2023-05-16 15:44:27 -0400">
                                     <Title>Mandrameen</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>318,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1521,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="0E848FBC-4CE1-4BDA-AAB5-31ED4D437799" Type="Text" Created="2023-02-10 19:10:38 -0400" Modified="2023-02-11 14:10:27 -0400">
@@ -258,14 +258,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A0645519-AC64-42C0-A623-283D01F64908" Type="Text" Created="2022-08-08 14:29:53 -0400" Modified="2023-05-16 00:51:51 -0400">
+                                <BinderItem UUID="A0645519-AC64-42C0-A623-283D01F64908" Type="Text" Created="2022-08-08 14:29:53 -0400" Modified="2023-05-16 23:50:02 -0400">
                                     <Title>Shis</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>590,0</NotesTextSelection>
+                                        <NotesTextSelection>651,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5504,0</TextSelection>
+                                        <TextSelection>19811,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="F4807880-5127-4A4C-A409-9728DA692A60" Type="Text" Created="2023-05-15 22:52:20 -0400" Modified="2023-05-15 22:52:23 -0400">
@@ -4357,12 +4357,12 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="89" Characters="558" Date="2023-05-16 00:52:15 -0400"/>
+        <PreviousSession Words="437" Characters="2556" Date="2023-05-16 23:50:57 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2023-05-16 00:00:00 -0400">
-        <DraftWordCount>68</DraftWordCount>
-        <DraftCharCount>460</DraftCharCount>
+        <DraftWordCount>-53</DraftWordCount>
+        <DraftCharCount>294</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
