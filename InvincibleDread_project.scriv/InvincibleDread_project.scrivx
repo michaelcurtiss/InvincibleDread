@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-06-29 23:19:41 -0400" ModID="CD642806-8366-493A-917D-BDA632636DF7">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.4.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-07-07 18:43:57 -0400" ModID="597ABEF9-B23E-4256-8951-9B38F9E38CD3">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2021-02-12 18:29:53 -0400">
             <Title>Novel Format</Title>
@@ -342,28 +342,28 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="AD072853-4FFC-4032-AAF0-93A43C1C168D" Type="Text" Created="2022-08-11 00:50:22 -0400" Modified="2023-06-29 23:19:36 -0400">
+                                <BinderItem UUID="AD072853-4FFC-4032-AAF0-93A43C1C168D" Type="Text" Created="2022-08-11 00:50:22 -0400" Modified="2023-07-07 18:43:55 -0400">
                                     <Title>Minting Rock</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>923,0</NotesTextSelection>
+                                        <NotesTextSelection>620,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>35523,0</TextSelection>
+                                        <TextSelection>11202,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="DCB2FB84-79D3-4AFD-8749-09E5CBC068CA" Type="Text" Created="2022-08-09 18:58:37 -0400" Modified="2023-06-28 16:19:30 -0400">
+                                        <BinderItem UUID="DCB2FB84-79D3-4AFD-8749-09E5CBC068CA" Type="Text" Created="2022-08-09 18:58:37 -0400" Modified="2023-07-04 14:45:56 -0400">
                                             <Title>Protection scam</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>83,0</TextSelection>
+                                                <TextSelection Caret="310">197,113</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="DE34C312-65B2-48A3-882B-1D2F3FEB2D8F" Type="Text" Created="2022-08-18 22:14:21 -0400" Modified="2023-01-13 14:52:20 -0400">
+                                <BinderItem UUID="DE34C312-65B2-48A3-882B-1D2F3FEB2D8F" Type="Text" Created="2022-08-18 22:14:21 -0400" Modified="2023-07-04 14:56:58 -0400">
                                     <Title>Battle At Minting Rock</Title>
                                     <MetaData>
                                         <StatusID>6</StatusID>
@@ -371,7 +371,7 @@
                                         <NotesTextSelection>236,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>13446,0</TextSelection>
+                                        <TextSelection>6647,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="9DCCB43A-3761-42B8-A747-65AE35A6B88F" Type="Text" Created="2022-09-22 15:39:08 -0400" Modified="2022-09-22 15:39:13 -0400">
@@ -2172,6 +2172,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>24,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="579A63B9-5D04-4BE8-8AA8-3FBCA7079974" Type="Text" Created="2023-07-01 22:11:00 -0400" Modified="2023-07-01 22:33:15 -0400">
+                            <Title>My Religion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>697,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4388,12 +4397,12 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="35" Characters="192" Date="2023-06-29 23:19:41 -0400"/>
+        <PreviousSession Words="724" Characters="3960" Date="2023-07-07 18:43:57 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-06-29 00:00:00 -0400">
-        <DraftWordCount>-54</DraftWordCount>
-        <DraftCharCount>-377</DraftCharCount>
+    <RecentWritingHistory Date="2023-07-07 00:00:00 -0400">
+        <DraftWordCount>715</DraftWordCount>
+        <DraftCharCount>3914</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
