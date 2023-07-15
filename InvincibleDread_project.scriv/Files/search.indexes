@@ -12503,8 +12503,6 @@ To teach Arachne the folly of her mad attempt, Minerva wove four corners with li
         </Document>
         <Document ID="5AEFF1EA-E74C-4C2B-89C8-477658812887">
             <Title>Seculla riot</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="5B1F4F83-1AD4-4011-9DAD-C6600E23F9D9">
             <Title>Sahara-Eamonn</Title>
@@ -14058,6 +14056,52 @@ It’s a tale of hubris and excess. Foreigners make fun. They wonder what kind o
         <Document ID="61ABF403-BC3E-47D3-A50E-6F15C9E23F73">
             <Title>Da Big Uns</Title>
         </Document>
+        <Document ID="62559FD0-7E1C-489D-958A-C788F256A355">
+            <Title>Art in the Age of AI reproduction</Title>
+            <Text>Art in the Age of AI Reproduction
+
+I thought it was fitting, for the title of this post, to borrow from an existing work. “The Work of Art in the Age of Mechanical Reproduction” by Walter Benjamin was a famous essay written during the Nazi regime, when art and mass production were kicking off their fevered affair. Benjamin was a Marxist and he begins his essay with a short preface about how industrialized production will be ‘useful for the formulation of revolutionary demands in the politics of art’. In other words, he’s all for it. The essay itself is an attempt to pin down how art’s aesthetic character would change now that posters could be printed. His analysis isn’t really important for my ends, and I don’t really recommend reading it because Benjamin’s style has that Continental fluff that probably turns most of you off to reading philosophy. Perhaps if you thought NFTs were a good investment, then maybe you should give it a peek.
+What was happening in Benjamin’s time is not at all dissimilar to what is happening now. More than a new medium, a new economics of art is on the horizon. Unfortunately, I’m not an Orthodox Marxist; I wish I could be confident that this development will inevitably bring about a new utopia, but I’m not. I’m not a Orthodox Libertarian either, so I’m not convinced that letting the markets cook is the best of all possible worlds. I’m also not a Orthodox Doomer. I’m not scared of AI. I think it can be a useful tool. What I am is a working artist, a generalist in the video game industry. I do everything—concept art, 3d modeling, minimal rigging and animation when necessary, shaders, post processing, etc. etc. etc. I’m quite good at it. I’m not going to show you guys my shit because I don’t want to be outed as a degen neolib to my coworkers.
+Personally, I’m not worried at all about AI taking my job. I’m writing this because I read a lot of bad takes from tech bros about what it is that artists do, as well as the aesthetic value of AI art.
+
+Bad take #1: AI art is going to be so good that it’s going to replace human artists.
+
+It will put a lot of artists out of work, but never *all* artists. Until *actual* artificial intelligence is reached, there will always be a human at the wheel. Today’s AI (and tomorrow’s) most useful function will be to revolutionize workflows so that an artist can work much more efficiently. I once worked at a studio where an intern’s entire job was unwrapping and managing UV sets for 3D models. Presumably, this process could be automated with AI, and some efforts have been made in that direction. I suspect that job won’t exist in the near future. It probably shouldn’t have existed in the first place because it caused it’s own workflow problems, but that’s another matter. 
+It’s important to remember that AI is not actually ‘intelligent’. It is not creative. I know ‘intelligence’ and ‘creativity’ are ill-defined words, but these waters really aren’t so muddy —a creative solution is a less a predictable solution. Put another way, there are an infinite number of ways to draw a cartoon-style head, and a creative solution is one which hasn’t been tried yet. AI is simply not capable of exploring the vast breadth of that space as it’s basically one-step removed from a simple markov chain, trying to determine the next predictable state based on the current state and it’s own input, and this prediction is restricted by the data on which it has been trained. (Forgive me if I haven’t put that accurately.)
+However, it is possible that this generative method is ‘creative enough’ for most consumer’s tastes. Most people aren’t immersed enough in the arts to have seen AI’s solutions before, and so it seems novel to them, and because of this, they think that the entirety of art is doomed.
+I suspect that this downplaying of the importance of creativity in the making of art leads to bad take number 2.
+
+Bad take #2: All artists copy other artists, and they aren’t required to pay compensation, so AI should be able to do it too. There is no functional difference of feeding a computer the MOMA's catalog or a person studying those works to learn techniques and get inspiration.
+First off, the ‘functional difference’ here is so blindingly self-evident that I’m honestly surprised this take ever gets uttered. An AI is not a human being. It does not process information the same way. The output is not the same. It is not intelligent. Human consciousness is not roughly equitable to Chat-GPT. It’s like asking, ‘what’s the functional difference between a caterpillar eating your bush and my chainsaw doing it?’
+Beyond that…
+There are certainly artists who copy solutions from other artists. You’ll find alot of them in the world of cartoons. There are hordes of teens busy tracing lines from Naruto or whatever  weebs are into. Probably the reason for this is biological, as copying other people’s behavior is just what humans do for the first 20-ish years of their life. Monkey see monkey do. Mirror neurons. etc.
+But once we reach a certain level of maturity, some of us pretentious assholes become more and more interested in crafting our own solutions to any given problem. In the art world, the most famous example of this is Picasso - he was trained in a certain style when was young and he was quite good at it, but then realized that nothing of himself was in these paintings, that he was just copying solutions down which other people had figured out, and so he decided to put a lot of effort in to developing his own style. And effort is key. It takes many, many years of effort. 
+When you go to art school to learn how to draw, the first lesson is, don't draw from photos, draw from life. Cameras have already interpreted the world into a 2D plane, and in copying a photo, you are not figuring out your own solution to this particular problem. If people wanted a camera’s interpretation of events, they’d simply take a photo. &quot;All artists train on the work of others&quot;, is the usually the exact opposite of what an artist wants to be doing. If an artist wants to paint just like Picasso, then sure, they’ll spend some time copying his work, but generally, the whole point of art is to figure out your own solution to problems, because fundamentally it's about personal expression. 
+The fact that some people are inspired by Picasso was never a problem requiring intervention because the economics of the situation did not demand it. People are willing to a pay a whole lot more for a painting by Picasso than a painting by some guy who paints like Picasso. Every so often a pre-teen ‘little picasso’ gets hyped up in the art world by galleries trying to make a few thousand off of rubes, but that doesn’t at all affect the market for the genuine article.
+Since Picasso’s time, the economics of art has radically changed. The vast majority of working artists today are nameless. People know the brands—Magic the Gathering, Star wars, Marvel, but only nerds read the artist credit, and nobody stays in the theater when the credits roll unless Thanos shows his buttcheeks afterwards. Most consumers just do not give a fuck about who makes the art, only that it gets made. They don’t care about the difference between James Jean illustrating a new graphic novel and John Doe using an AI trained on Jean’s work. Maybe some even think that John Doe’s AI does James Jean better than James Jean.
+Shouldn’t we praise John Doe for his ingenuity and hard work in fleshing out an economic niche? After all, if AI is just a workflow tool, then Doe would have a lot of his own creative input in the final product. I don’t think that anyone could reasonably deny that it’s transformative. He’d need to have a decent sense of storytelling as he uses StoryTellBot to craft the narration and dialogue. He’d have to be a decent illustrator to compose compelling images using PhotoshopBot. Maybe he has a technical background, and his skill with AI tools gives him a leg up on James Jean even if James Jean wanted to compete. Jean is now a market loser despite his many years of labor being absolutely critical to the production of Doe’s line of graphic novels. Unlike Picasso’s imitators, Jean’s imitator has decimated the market value of his labor.
+
+
+
+
+And this says nothing of the difference between a human copying their work because they are inspired, and an AI model copying their work because there is an economic incentive. Imitation is the sincerest form of flattery—unless you’re trying to supplant the original.
+
+
+In my own personal experience, I was 21 when I realized I was an absolute hack and was just aping other people’s art, and had a bit of a mental breakdown over it. It’s been many years since then, and I’ve been richly rewarded for putting in the effort to go my own way, to find my own creative solutions to .
+
+
+
+The most important is that this position views art solely as an economic product, when it isn’t. 
+There is, however, a segment of the industry which it will replace.
+
+
+
+Let the market cook
+
+
+
+Art belongs to the category of words which label methods for exploring existence. Science, religion, among them. The difference between them lies in the method used for exploration - science employs scientific method, religion employs revelation/spiritual experience, art employs the making of an object. The difference between artist and the craftsman is the difference between the scientist and the engineer, or the prophet and the priest - one is exploring, the other are memorizing signs and symbols and repeating them for effect.</Text>
+        </Document>
         <Document ID="625F900D-9F8F-4F2C-82C4-E2C75156814C">
             <Title>Extras</Title>
             <Text>Teetaneek
@@ -14795,9 +14839,6 @@ Deny this conflict between science and religion at your own peril.
         </Document>
         <Document ID="68D8EFBB-B98A-4234-AA61-E28B0AB13A2D">
             <Title>Mazyd interrogation</Title>
-            <Text>
-
-</Text>
         </Document>
         <Document ID="6A5B3482-5DE6-4B74-A1A6-2B0F176B791F">
             <Title>Relevance realization</Title>
@@ -23893,6 +23934,9 @@ They were searching him over, studying him. Pyetle returned a weak smile, but fe
         </Document>
         <Document ID="A56DE95D-D68E-41E5-8A0B-9DF24DC1AC07">
             <Title>Creed</Title>
+            <Text>
+
+</Text>
         </Document>
         <Document ID="A5C119C8-FC44-43D6-B330-741A028AC15A">
             <Title>Post Battle</Title>
@@ -29297,7 +29341,8 @@ Mandri bounced along as the rope pulled him up the cliff face. Along the way cau
 The Hrks wandered the Sand for one thousand years until, at last, Arnaggu led his people out of their suffering and into the Fertile Portion. Little in the way of art or architecture survived their barbarian charm. Every shrine and temple had their arches broken and their eternal flames snuffed out. It is said that the only thing that truly survived in tact was belief in Solraheen, for the Hrks could not deny what they could see with their own eyes, buried there under the crater at the mouth of the river Jek. The Hrks claimed that holy crater as theirs, built their city, Jeket, inside of it, and from there, they conquered the world.
 They were not the first to conquer the world. It had been done at least once before, back when Solraheen walked the earth. An Old Jandri king named Dror held dominion over all of Jandri. To prove it, he placed interlocking blocks of granite two-by-two-by-ten at every bend of every river. Out of these grey columns he carved his long-bearded, tall-robed image, and though some them survived the Hrks, none of survived unscathed. The statue in the best condition was first one to be built, built at the Jek’s source overlooking the Shoglok falls. It stands there above the crashing water and rising mist looking like a wraith, for it is sanded so smooth by erosion that no discernible feature of Dror remains. He is little more than a grey wither in the general shape of a man, doing nothing but watching the sun rise and fall.
 The river descends down into the foothills where it is guarded by a spate of Drors that have been sanded into smooth, pointed pillars, more like cattle scratch posts than a filigreed statue of a king, their heads reduced to conical nubs, their swords worn down to the hilt. The river then pours out of the foothills and down into the brink of Hrkan civilization, where the Drors are somewhat shielded from the wind but were not able to hide from the chisels of recriminate outland men. Further down the river and into on the long and winding plain, Dror’s component parts begin to disappear altogether, for the stones are handy materials in the building of pastoral walls. By the time one reaches the most distant city-spawn of Jeket, all that is left of Dror’s monuments are the enormous plinths upon which they once stood because these foundation stones are too large to be worth the effort.
-Old Jandri statues are disintegrating the nearer they come to Jeket—the imagery here is unsubtle and pointed. A Hrkan Lord would say that it is a sign of Hrk’s cleansing influence on the corrupted old world. An outland poke disagrees. They long for that earlier age when people were rootless, when herds of oxen were free to be chased across the continent, when women wove blankets so long they could wrap around a village, when people were honest, when folk would cut off their own fingers just to prove that they were sorry. But all of that is gone. Solraheen walked the earth for one million years and yet nothing made from that age truly survives. This was common knowledge. Mandri believed it. But then again, he’d never been this far out into the Sand.
+Old Jandri statues are disintegrating the nearer they come to Jeket—the imagery here is unsubtle and pointed. A Hrkan Lord would say that it is a sign of Hrk’s cleansing influence on the old world. An outland poke disagrees. They long for that earlier age when people were rootless, when herds of oxen were free to be chased across the continent, when women wove blankets so long they could be wrapped around a village, when people were honest, when folk would cut off their own fingers just to prove that they were sorry. But all of that is gone. Solraheen walked the earth for one million years and yet nothing made from that age truly survives. 
+Old Jandri has been erased. “Good riddance,” say those in Hrkan circles. Mandri wasn’t , but he believed that , but then again, he’d never been this far out into the Sand.
 Minting Rock was something of an enigma lying out by itself in the desert, but even so it was just a rock. When Mandri stepped down into its hollowed out base, he bore no suspicions. He supposed it was a cave, and the rock itself was only a marker. And he saw that sunlit central well, as if it were a cast-off bead from the necklace of the world, he began to have some suspicion.  of what he was about to discover. and a rock, grabbed a rope, was pulled through it’s sunlight central well and when he came up through it’s first hollowed out floor he was startled by what he saw that he almost let go of the rope.
 
 
