@@ -46,7 +46,7 @@
             <ItemID>956E7E79-6E13-4C01-8C60-F2133233EC19</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>8EB22824-89B1-4555-B5C3-A3442D3553A3</ItemID>
+            <ItemID>DE34C312-65B2-48A3-882B-1D2F3FEB2D8F</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -310,7 +310,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>15929,0</Selection>
+                <Selection>14746,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
