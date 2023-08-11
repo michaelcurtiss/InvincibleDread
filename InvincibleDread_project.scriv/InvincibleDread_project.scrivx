@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Modified="2023-08-08 15:02:57 -0400" ModID="5683FE99-51F9-47BA-80AE-CF175ACBD9D3">
+=======
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-08-10 14:07:29 -0400" ModID="76329ECD-878A-4D4F-8A7F-D55DAE9597F5">
+>>>>>>> 9f8445669969b285539fc8f56ca47ea0a076e1a6
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2021-02-12 18:29:53 -0400">
             <Title>Novel Format</Title>
@@ -363,7 +367,11 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
+<<<<<<< HEAD
                                 <BinderItem UUID="DE34C312-65B2-48A3-882B-1D2F3FEB2D8F" Type="Text" Created="2022-08-18 22:14:21 -0400" Modified="2023-08-08 15:02:53 -0400">
+=======
+                                <BinderItem UUID="DE34C312-65B2-48A3-882B-1D2F3FEB2D8F" Type="Text" Created="2022-08-18 22:14:21 -0400" Modified="2023-08-10 14:07:21 -0400">
+>>>>>>> 9f8445669969b285539fc8f56ca47ea0a076e1a6
                                     <Title>MintingRockInterior</Title>
                                     <MetaData>
                                         <StatusID>6</StatusID>
@@ -371,7 +379,7 @@
                                         <NotesTextSelection>2690,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>33257,0</TextSelection>
+                                        <TextSelection>33621,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="9DCCB43A-3761-42B8-A747-65AE35A6B88F" Type="Text" Created="2022-09-22 15:39:08 -0400" Modified="2023-07-18 12:20:58 -0400">
@@ -4478,12 +4486,16 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+<<<<<<< HEAD
         <PreviousSession Words="10" Characters="56" Date="2023-08-08 15:02:57 -0400"/>
+=======
+        <PreviousSession Words="27" Characters="148" Date="2023-08-10 14:07:29 -0400"/>
+>>>>>>> 9f8445669969b285539fc8f56ca47ea0a076e1a6
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-08-08 00:00:00 -0400">
-        <DraftWordCount>10</DraftWordCount>
-        <DraftCharCount>55</DraftCharCount>
+    <RecentWritingHistory Date="2023-08-10 00:00:00 -0400">
+        <DraftWordCount>1</DraftWordCount>
+        <DraftCharCount>6</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
