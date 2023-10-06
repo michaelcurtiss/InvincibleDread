@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-05 23:15:21 -0400" ModID="34CA6662-DE08-475F-9CCE-3A7DD5DC9EE9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-06 15:13:01 -0400" ModID="770F5DF7-A5B2-479D-93C0-31C7100B7D89">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2021-02-12 18:29:53 -0400">
             <Title>Novel Format</Title>
@@ -134,7 +134,7 @@
                                         <TextSelection>2062,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="73C92A86-7E3C-4DE9-B92E-89423EFEE060" Type="Text" Created="2022-07-12 21:19:36 -0400" Modified="2023-02-15 17:36:49 -0400">
+                                <BinderItem UUID="73C92A86-7E3C-4DE9-B92E-89423EFEE060" Type="Text" Created="2022-07-12 21:19:36 -0400" Modified="2023-10-06 14:15:12 -0400">
                                     <Title>Salavan</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -144,7 +144,7 @@
                                         <NotesTextSelection>310,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>33639,0</TextSelection>
+                                        <TextSelection>34589,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="803AEA9A-0F1E-4093-935B-1193CF9B36B7" Type="Text" Created="2023-02-13 02:41:07 -0400" Modified="2023-02-15 15:05:52 -0400">
@@ -365,12 +365,12 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="DE34C312-65B2-48A3-882B-1D2F3FEB2D8F" Type="Text" Created="2022-08-18 22:14:21 -0400" Modified="2023-10-03 12:13:26 -0400">
+                                <BinderItem UUID="DE34C312-65B2-48A3-882B-1D2F3FEB2D8F" Type="Text" Created="2022-08-18 22:14:21 -0400" Modified="2023-10-06 14:19:13 -0400">
                                     <Title>MintingRockInterior</Title>
                                     <MetaData>
                                         <StatusID>6</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>4663,0</NotesTextSelection>
+                                        <NotesTextSelection>190,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>2213,0</TextSelection>
@@ -506,23 +506,23 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="A144D0E4-A5D2-466F-96D0-98FA6E12D9F4" Type="Text" Created="2022-08-08 18:45:42 -0400" Modified="2023-10-05 23:13:37 -0400">
+                                <BinderItem UUID="A144D0E4-A5D2-466F-96D0-98FA6E12D9F4" Type="Text" Created="2022-08-08 18:45:42 -0400" Modified="2023-10-06 15:12:54 -0400">
                                     <Title>Hrkkan Glory</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>395,0</NotesTextSelection>
+                                        <NotesTextSelection>254,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>668,0</TextSelection>
+                                        <TextSelection>22826,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="1DC2E579-BA4E-498E-A8AF-903A3C6E6D05" Type="Text" Created="2023-10-05 17:11:31 -0400" Modified="2023-10-05 17:12:07 -0400">
+                                        <BinderItem UUID="1DC2E579-BA4E-498E-A8AF-903A3C6E6D05" Type="Text" Created="2023-10-05 17:11:31 -0400" Modified="2023-10-06 14:12:22 -0400">
                                             <Title>Glory Scratch</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>612,0</TextSelection>
+                                                <TextSelection>7142,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2046,6 +2046,15 @@
                             </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem UUID="56D095C7-0829-4BC8-8A9A-ED5AC904B1C6" Type="Text" Created="2023-10-06 01:07:25 -0400" Modified="2023-10-06 01:14:45 -0400">
+                    <Title>Query</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>163,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -4562,14 +4571,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="3376" Characters="19179" Date="2023-10-05 23:15:21 -0400"/>
+        <PreviousSession Words="1444" Characters="7823" Date="2023-10-06 15:13:01 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-10-05 00:00:00 -0400">
-        <DraftWordCount>3247</DraftWordCount>
-        <DraftCharCount>18329</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2023-10-06 00:00:00 -0400">
+        <DraftWordCount>1033</DraftWordCount>
+        <DraftCharCount>5429</DraftCharCount>
+        <OtherWordCount>27</OtherWordCount>
+        <OtherCharCount>163</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
