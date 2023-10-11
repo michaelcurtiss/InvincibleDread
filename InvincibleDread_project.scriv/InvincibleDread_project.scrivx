@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-11 00:47:27 -0400" ModID="59E8BDB7-31A3-4143-AAC5-FD1CD13BB307">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-11 16:32:24 -0400" ModID="CFA7E44A-DA4C-4F67-B388-1114241AA09B">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2021-02-12 18:29:53 -0400">
             <Title>Novel Format</Title>
@@ -598,19 +598,19 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection Caret="22659">15802,6857</TextSelection>
+                                                <TextSelection>22661,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 20:08:54 -0400" Modified="2023-10-11 00:47:24 -0400">
-                                    <Title>Kalemite Capture</Title>
+                                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 20:08:54 -0400" Modified="2023-10-11 16:30:32 -0400">
+                                    <Title>Goree Pass</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>624,0</NotesTextSelection>
+                                        <NotesTextSelection>812,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>931,0</TextSelection>
+                                        <TextSelection>28318,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="765A8A4D-6617-45C5-B05A-63ED20C116D7" Type="Text" Created="2022-10-21 10:46:12 -0400" Modified="2022-10-21 10:46:52 -0400">
@@ -638,6 +638,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection Caret="1359">1348,11</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="2690FF68-5A1D-4FE6-9256-27E87DDBA087" Type="Text" Created="2023-10-11 15:03:28 -0400" Modified="2023-10-11 15:48:47 -0400">
+                                            <Title>CaptureScratch</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>7842,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2244,14 +2253,14 @@
                                 <TextSelection>299,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5B5F6E97-1F1F-4D95-A261-6A58F2ECECF3" Type="Text" Created="2023-02-14 21:30:00 -0400" Modified="2023-08-11 13:00:14 -0400">
+                        <BinderItem UUID="5B5F6E97-1F1F-4D95-A261-6A58F2ECECF3" Type="Text" Created="2023-02-14 21:30:00 -0400" Modified="2023-10-11 13:32:27 -0400">
                             <Title>juciest notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>440,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>35460,0</TextSelection>
+                                <TextSelection>36918,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="4AB262F5-B58E-425D-B258-5FABEDBEBAC0" Type="Text" Created="2021-12-22 17:38:44 -0400" Modified="2023-04-30 21:27:56 -0400">
@@ -4604,14 +4613,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-10-11 00:47:29 -0400"/>
+        <PreviousSession Words="1411" Characters="7970" Date="2023-10-11 16:32:24 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2023-10-11 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>-1</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <DraftWordCount>-24</DraftWordCount>
+        <DraftCharCount>-396</DraftCharCount>
+        <OtherWordCount>282</OtherWordCount>
+        <OtherCharCount>1656</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
