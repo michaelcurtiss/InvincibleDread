@@ -639,5 +639,7 @@
     <Day dwc="1010" dcc="5396" owc="3" occ="19">2023-10-12</Day>
     <Day dwc="63" dcc="-177" owc="0" occ="2">2023-10-13</Day>
     <Day dwc="2306" dcc="12515" owc="0" occ="-2">2023-10-14</Day>
-    <Day dwc="2" dcc="6" owc="0" occ="0">2023-10-15</Day>
+    <Day dwc="-106" dcc="-459" owc="241" occ="1453">2023-10-15</Day>
+    <Day dwc="504" dcc="2748" owc="980" occ="6383">2023-10-16</Day>
+    <Day dwc="0" dcc="0" owc="0" occ="2">2023-10-17</Day>
 </WritingHistory>

@@ -1858,7 +1858,10 @@ He’s been gifting mandri’s boss gold tips to try to convince the hrekkan nob
         </Document>
         <Document ID="0E848FBC-4CE1-4BDA-AAB5-31ED4D437799">
             <Title>Pre-Injection</Title>
-            <Text>Artist.
+            <Text>
+
+
+Artist.
 Mandrameen despised the word.
 Who isn’t an artist?
 A dancer, a poet, these are artists, yes, that’s reasonable to say, but a hole-digger? He can be an artist too if he digs holes in a way that’s true to himself. Give a man shovel, a field of dirt, time to think about it, friends to impress, and likely as not he’ll have mounded up a penis.
@@ -2115,7 +2118,9 @@ When he and Gil got to the top of the big hill that overlooked Vigram’s villa,
 “Yeah, yeah,” Mandri muttered under his breath.
 “They’re gonna fry your spark!”
 Mandri wasn’t about to get into an argument at that kind of distance, so he waved back and then kept on walking all the way to Geem’s. There he bought half a bushel of burgeons, and Geem gave Gil half a melon, free of charge. They were Down-Valley burgeons, decent stuff but the the waxy capsule leaves were a bit too brittle, so the insides had a tendency to dry out too quick for Mandri’s liking. But that was all Geem had so he bought them. 
-Then Mandri and Gil continued along the road, stomping their way through the wheel-ruts, slapping away the flies, humming and mooing nursery rhymes until they made it back Mandri’s dust bowl of a farm. </Text>
+Then Mandri and Gil continued along the road, stomping their way through the wheel-ruts, slapping away the flies, humming and mooing nursery rhymes until they made it back Mandri’s dust bowl of a farm. 
+
+ For obvious reasons, Creation was not a well-documented event and so the precise Word of Creation is not known. It is often claimed the Word of Creation was ‘Kyn’, and translated directly from the Old Jandri it means ‘grow’, but some say it actually means ‘art’, for artists were the first prophets. For them, art was a spiritual discipline, an act of ferrying messages from a God to human. In the ages since these early days, the true meaning of ‘art’ and ‘artist’ became confused. It became more and more common to say that art is a means of personal expression, not divine.</Text>
         </Document>
         <Document ID="0F62E5C2-41F2-41F7-B09A-AF381C34B686">
             <Title>Template Sheets</Title>
@@ -6860,6 +6865,133 @@ At fork —perhaps hear echoes behind him?
 
 Problem: that whole ‘I’ve survived ridiculous things. Dead five times over.”
 - the point of this is to contrast it against the the idea that maybe he’s just now noticing it. “Don’t get ahead of yourself. Everyone is, at all moments, a hairsbreadth away from dying.  Every meal you eat is in opportunity to choke to death on. </Notes>
+        </Document>
+        <Document ID="344DCC17-A008-4DB5-AE24-37B349113396">
+            <Title>Evolution of mind</Title>
+            <Text>
+Start with an organism within in an evolutionary environment - so populations evolving according to natural selection pressures - and to kickstart mind, these organisms are required to have some machinery which creates models of the external world.
+Crude example - early visual systems, e.g. a river fluke - proto-eye, dish in its head with a hole at the bottom to focus light, Shadow passes overhead, triggers proto-optic nerve, triggers proto-neuron, triggers proto-muscle flexion and release. Sees a shape it moves. This behavior is modeling the external world - i.e. shadows are scary things to eat you. - this is a proto-mind. This modeling mechanism is the early mind.
+
+
+As evolution improves the eye, it also improves the model - so we have not just a shadow, we have a clearer picture, and we go from one inherited mechanistic template template to several. Very simply, one behavior if you see something like X, vs. a different behavior if you see something like Y. This is because some shadows are worth running from, some aren’t worth the energy expenditure. It’s building a more accurate model of external reality. Template query mind. Very simple logic gates. Rise of the And/Or/ Exclusive OR. Nature is programming these biological machines. In some sense this is ‘genetic memory’ —not the woo woo kind. Basically, inherited templeates of shadow shapes, brightness, softness, nearness, etc. And as the visual system develops, so to do these patterns.
+
+So we have this process being carried
+-information enters visual systm
+-information is run through algorithmic queries
+-outputs behavior
+
+The next development, is to take all this machinery, double it, and run the two in parallel. - or potentially in sequence on same thread if it all occurs fast enough.
+
+The first process is the original process
+- Input from external world
+Clone process is the state simulation process
+You take the world state from the first process, and simulate it through your cloned algorthim, and output an expected state.
+
+So shadow goes overhead, input gets run through both processes - output behavior is to swim away from the shadow.
+	- simulated process says shadow predicts next state - shadow will recede
+	- this is an expectation
+	- mechanism of for overlaying expectations onto the output result, which then changes the algorithm for next pass - current machine learning models.
+
+So now we have input- simulation of input- rewriting simulation to more accurately portray external world.
+
+TO improve we add Memory.
+
+Memory is storing changes. Old sim is stored for potential future use. Checked against similar situations. So shadow appears, theres the ‘main thread’ layer, the simulation layer, but also stored simulation layers, which are essentially all the same. See its all the same hardware, but just reorderable, and writable.
+
+Essentially, they’re all the same functionality, just extra layers.
+
+Input visual stim processing
+Imprinting onto simulation processing
+Imprinting onto memory processing
+Imprinting onto memory storage
+So we have:
+Input simulation
+Several layers of Virtual simulation
+And the basic logic that governs which simulation is primary.
+
+Reasoning is what happens when this whole process operates without the input simulation. So, somewhat of a recursive simulation. Templates, stencils which are the product, are then layered over logic stencils to determine a ‘what would happen if’ - ability to anticipate situations and build models of them before they happen.
+
+Visual stim layer
+Simulation layr
+2nd sim layer - ‘memory’ layer 
+	- comes with adjoining memory storage.
+If we put another layer in, do we get reasoning?
+What would reasoning mean in context here.
+	- reasoning, is making the memory layer the main thread, you are imprinting various internal sheets on top of eachother. You’ve certain stencils, some stencils are ‘foundational’ - higher weighting in terms of ‘truth value’, and then you imprint those on other stencils, memory stencils.
+
+Reasoning is, instead of the visual stem layer being the topmost layer, instead of the ‘body/tactile’ thread, you have the memory thread
+
+OR
+
+Inverted flow, bottom up.
+
+Modeling abstractly
+Its essentially a layered, reorderable, read-writable template fitting process.
+
+Metalness of metal - doesn’t mean anything
+
+Mind does not require a ‘body’ - no organs that intake data from the physical world. What is required is the ‘main-thread’ input.
+
+
+https://www.youtube.com/watch?v=ldgK7EhEnto&amp;t=4246s
+
+
+
+
+QUALIA
+
+- does raymarched process, running on a computer, what is doing the observing???
+- layer
+
+- not at all clear that ‘redness of red’ is not some telos-esque bootstrapping of platonic forms. - I can shave all barbers who shave themselves - life was once considered to be composed of fundamentally different stuff- elan vital. 
+
+- how to put the question in a form that makes it seem sensible - philosophical zomies doesn’t work
+- graphics programming. Where is the ‘screen’, and where is the observer?
+- models camera - some quaternion in there.
+- model view projection matrix transformation.
+	- observe neural network, look for something that looks like matrix transformations
+
+- Lies in building up of Identity - 
+	- indentity layer - 
+	Simulations of own self. 
+		- gets piggybacked visual system.
+
+	How to restate “Why does red appear as red?”
+
+	What is doing the “watching”?
+
+	Camera obscura onto the optic nerve.
+	That information gets transmitted to…where? How is this information observed?
+	Ignore color. Black and white. Easier to say dark and light is fundamental. - white and black.
+
+	Black and white image onto the optic nerve —
+
+
+https://www.scientificamerican.com/article/uncanny-sight-in-the-blind/  
+
+	
+	
+
+	Kinda only affects 
+
+	Sound and pain being gradations of the same feeling. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Text>
         </Document>
         <Document ID="34EA4225-16B4-4E0F-AE80-F3AFE73EC465">
             <Title>Title Page</Title>
@@ -13561,7 +13693,11 @@ Aside from literal destruction of organs, how much pressure do you think it take
 
 Fall on backpack so doesn’t hurt head.
 
-</Text>
+This is actually a bad thing. Companies should internally reinvest money only when they think they can do at least as well as the average market return. Otherwise they should return money to investors so they can reinvest the money more productively elsewhere. With this tax incentive, it makes sense to reinvest the money internally when its returns are at least 80% as good as the average market return (actually 64% as good, since investors are paying another 20% on the dividends), which means they end up making some inefficient investments.
+A lot of people seem have this idea that when dividends are returned to investors they're just...wasted? Spent on drugs and hookers? I'm not really sure what people think happens to them. But usually what actually happens is that investors reinvest the money somewhere else. Investors don't generally decide how much to consume based on whether or not their investments pay dividends.
+That said, one good thing about this approach is that it ultimately results in less money being diverted away from investment towards production. It's just that there are better ways to achieve this goal (e.g. tax income less and consumption more).
+(although wouldn’t this all be tax deductible in the end anyways?)
+Because of depreciation, it can take years to get the full tax deduction for an investment made this year. Also, sometimes businesses decide to hold cash, so any profits retained as cash are fully taxable.</Text>
             <Notes>Guy who’s named lovejoy.
 
 The only thing a debate measures is one's skill in framing fact for effect.
@@ -14689,149 +14825,166 @@ Your dedication here.</Text>
         </Document>
         <Document ID="6476AB7D-54FF-48D4-B34D-E355601CA407">
             <Title>Underworld</Title>
-            <Text>
-The woman has powers over life and death and you think Ayram is the leader here?
-
-The Great Library of Jeket has a map of Shis. Mandri saw it when he was five. He asked his dad what it was, and the old man told him straight, “That is a map of Shis. It isn’t real.”
-“Why isn’t it real?” Mandri asked.
-“Think about it Mandri… No one goes to Shis and comes back, least of all a scribe capable of making maps. It’s just a fantasy.”
-That map hung on the second floor of the eastern wing of library, and it was a sprawling of ink on goat skin, shaped like a puddle of spilled milk, roughly two-men long and one-and-half high. It occupied a privileged position in Mandri’s imagination. He’d steal away from his master-copies to marvel at all the fantastic detail, for the map wasn’t merely lines and , it was crawling with demons and , all manner of fantastic beasts. Men with chicken heads and chicken feet, chickens with lizard arms and phallic extrusions instead of claws. There were regular humans too, represented by stick figures, and the demons were tormenting them with whips and chains. Instead of boring, like Bobbby mountains, Jek river, and boring, like Meskalem, this map had Shusa, or, “The Plain of Woe”, Kikarukabam, “Where adulterers are flensed,” and Zuudramu, “Apostasy Pits”.
-For brief period of time, about a month or two when he was fifteen, Mandrameen became so obsessed with Shis that he began to question the nature of it. This obsession started when he learned that the maker of the map was an ancient scribe by the name of Batata, and Batata was the most famous explorer of those ancient days when Jandri was largely unknown to the Hrkan world. Batata had written five books that detail his journey’s, and in all accounts his word was truth. Scribes in the centuries previous had argued about which way the Shurka river flowed, and Batata settled that - he said it flowed east, and indeed it did. Batata won a grand sum for the discovery of the location of Kurbaku. That sum had been set by some early Hrkan Lord, with the intention of opening up trade with that fabled city flush with gold. When Batata found it, he said that Kurbaku was little more than a dump of mud brick huts. There was almost no gold, and even less hospitality. His revelation caused a stir amongst the scribes and merchants, and many didn’t believe him, they didn’t want to believe him. He was under great professional pressure to admit he was lying, but yet again, he was proved true - Kurbaku was several centuries removed from it’s golden apogee.
-So why would Batata lie about Shis?
-The scribal consensus surrounding his map of Shis was that Batata had made the map to scare common folk into virtue. They claimed that Batata was a scribe himself, and as such, he’d dedicated himself to the furtherance of Solraheen’s kingdom, and scare tactics were common to scribes and priests of those ancient days. It was part of an Old Jandri creed, often written on the tombs of long-dead kings who didn’t have the Mazydai to keep the social order: Justice without virtue is blind, virtue without terror is impotent. People have got to be scared or else they’ll loosen their lips, loosen their hips, and start stabbing at anything that walks.
-Mandri’s estimation was that this explanation of the map’s purpose was workable, but not reasonable. He thought Batata was, like himself, a man of integrity who put great care into his work, not the kind of person to let a spiritual scare tactic sully his more serious work. It’d be one thing to have fun aside, but in all of Batata’s serious maps which outlined Jandria’s true shape, there were always a few small dots creeping out in the void the Sand like spiders, each with a postscript saying, Shiskason, or, “Entrance into Shis.”
-These dots were so far out into the desert, and so far away from any road, that no rational person would try and verify their truth. Batata himself said that these dots were just approximations, and that he had only stumbled onto these “gashes in the earth” by pure happenstance - as they’re not things that can be seen from a distance.
-There is one moth-eaten scroll where Batata accounts his descent into one of these ‘gashes’, and from this journey he gained the knowledge of Shis’s outlay. It is a poetic work, without much poetic value, as it was written in a mind-numbing meter which was the style for the more narrative works of the day. Even if half its lines weren’t eaten away, Mandri wouldn’t have , .Yet, there was one refrain, however, that stuck with him over the years.
-Batata recounted how he’d been stumbling through the pitch black, torch in hand, and the first sing of Shis was a massive stone gate, tall and narrow, a horizontal mantelpiece supported by perfectly plumb and squared beams. Engraved into these pillars was a ancient creed, and hereafter Batata it became known as the creed of Schisol. It rhymes in Old Jandri, but written out in common, it reads:
+            <Text>There is a map of Shis hanging on the second floor of the eastern wing of the Great Library of Jeket. It is an enormous map, roughly two-men long and one-and-a-half tall, and as a child, Mandri studied every scratch of washed-out ink on that stitched-together ribbon of bleached lizard skin, which taken together look like an stiff puddle of curdled milk suffused with fungus. It occupied such a privileged position in Mandri’s imagination because the map wasn’t merely lines and labels, it was crawling with drawings of demons. Men with chicken heads and chicken feet breathed fire at the margins, chickens with lizard arms and phallic extrusions flopping on their backs pecked at little stick figures that represented humans. He studied that map more than any master-work, so much so that the names of places were firmly fixed in his memory—Shusa, “The Plain of Woe”. Kikarukabam, “Where adulterers are split”. Zuudramu, “The Pits of Apostasy”.
+This map was made in the Old Jandri age by a priest of the name Batata. The story goes that Batata had set out into the Sand to discover which way the fabled Shurka river flowed. No one knew precisely where the river was—somewhere east—Batata found it and settled the issue, he said it flowed west. Few believed him because he also claimed to have discovered the location of another fabled place—the golden city of Kurbakee. There was a rich reward for discovering the way to Kurbakee, and Batata tried to claim it. When he was refused, and his directions were doubted, he convinced a royal map-maker to set out with him into the Sand and officially chart the way. Only Batata returned, some years later, carrying with him a map of Shis.
+The scribal consensus was that this map of Shis was a crude money making maneuver, and it worked, as some gullible merchant prince did eventually purchase it. The minority opinion claimed that the map was a spiritual scare tactic designed by Batata to further Solraheen’s kingdom. Scare tactics were common to scribes and priests in every age because virtue without terror is impotent. People have got to be scared of divine retribution, or else they’ll loosen their lips, loosen their hips, and start stabbing at anything that walks.
+Both of these were workable explanations, but Mandri disagreed with them. He thought there was too much effort on display for it all to be a cynical lie. Because that map of Shis wasn’t the only the map that Batata made. Some of the others outlined Jandri’s true shape, and one of these was the first to correctly place, more or less, each of the Sand’s eight portions. If he were correct about that, then what about those small dots that  void the Sand like baby spiders, each with a postscript saying, Shiskason, or, “Entrance into Shis.”
+These dots were so far out into the desert that no rational person would try and verify their existence. Batata himself said that these dots were only approximations, and that he had only stumbled onto these pits in the earth by pure happenstance—as they’re not things that can be seen from a distance.
+There is one moth-eaten scroll where Batata accounts his descent into one of these ‘gashes’. This descent is where he gained the knowledge of Shis’s outlay. It is a poetic work, without much poetic value, and it was written in a mind-numbing meter which could put the most Spark-bitten child to sleep. Half its lines were eaten away by bugs, and half of the rest didn’t need to be written at all, and yet, there was one refrain that stuck with Mandrameen throughout the years.
+Batata recounted how he’d been stumbling through the pitch black, torch in hand, when he came upon a massive stone gate. It was tall, grey, and narrow, with perfectly plumb and squared beams. Engraved into these pillars was a ancient verse. It rhymes in Old Jandri, but written out in common, it reads:
 
 Do not seek, for if you are pure, you will find the truth. 
 Do not obey, for if you have the truth, you will be in the right.
 Do not teach, for if you are in the right, you will be followed.
-Do not live, for if you are followed, you will be made immortal.
+Do not live, for if you are followed, you will be immortal.
 
-That last line was something else. Do not live… Mandri supposed its meaning was lost in translation. He wasn’t the only one who felt that way. Scribes argued about everything that has the remotest theological significance, and so the meaning of this creed .
-The Schisolitant were a death cult. That was the point of departure. From there, there was an absurd number of interpretations. Most prominent, of course, was that Batata had made it all up. Of those who took it seriously, most thought the creed was a set of instructions meant to be remanded into the head through repetition. They claimed that one of the requirements for entering Shis was to bring other people along, lead them to the slaughter, a sign of dedication to the ultimate goal in Schisol’s corrupted theology: the eradication of all life.
-Some thought that Batata had mistranscribed the last line. They thought it should be Do not eat instead of Do not live, in keeping with the Schisolun’s belief that the stomach’s magic could be sustained through breath of Schisol alone.
+Some claimed that Batata invented this verse out of whole cloth. Others took it up as a righteous creed that preached detachment from the world, and so they impressed the lines into their heads through blunt repetition. Batata himself claimed that it was a set of dark commandments, literal commandments that must be obeyed if one were to pass under that gate of Shis. The last line is especially grim, for according to Batata it implied that if the living wished to cross into that dark world, they must bring along a sacrifice. In exchange for this Spark, Schisol’s servants would grant the bearer immortal, and thus, never have to enter Shis again.
 Unfortunately, Mandri knew the truth.
-He’d followed the Ayramun down into the dark passages of the earth. No doubt one of Batata’s ‘gashes’. It was a meandering maze of rock and black abysses, and Mandri felt like they weren’t alone, that these black tunnels might, if he were to breathe too loudly, vomit out teeth and demons. So, he kept on in silence, quiet as the little lizards that scurried in and out of cracks in the floor, and he cridged every time one of the other Ayramun made a noise. One time they .
+He’d followed Elrahet down into the dark passages of the earth. It was a meandering maze of rock and black abyss, and Mandri felt like they weren’t alone, that these black tunnels might, if he were to breathe too loudly, vomit out teeth and demons. So he kept on in silence, quiet as the little lizards that scurried in and out of cracks in the floor, and he cridged every time one of the other Ayramun made a noise. One time they .
 After that, they came to a gate.
-A tall, narrow, rectangular stone gate, with perfectly plumb and squared columns hewn from the rock. Graven into posts was Schisol’s creed.
-The last line read, Do not live.
-Now, Affirming Batata’s account of the gate of Shis wasn’t in, but it was a bright little revelation wrapped in the dark. He was more concerned, however, with how Ayram and Moto had passed casually underneath it. He was next in line.
-Willingly walk into Shis?
-Not a chance.
-He paused. Elrahet, and Purl brushed past him.
-Moteah was next, and as she went, she said, “Try and keep up.”
-“I’ll be right behind,” Mandri said. “I just need a quick breather.”
-Moteah kept on marching, and when Mandri lost sight of light of her torch, he dared a whisper to MazydObo behind him.
+A tall, narrow, rectangular grey-stone gate. It had perfectly plumb and squared columns. Graven into posts was Schisol’s creed.
+Elrahet passed underneath without so much as a shrug. Mandri had been tight on her heels, but now, he hesitated.
+Should he willingly walk into Shis?
+Purl brushed past him with an annoyed sigh.
+Moteah was next. She said, “Try and keep up.”
+“I’ll be right behind,” said Mandri. “I just need a quick breather.”
+Moto paused and the gate, but the language was foreign to him.  kept on marching, and when Mandri lost sight of light of her torch, he dared a whisper to Obo, who still sat in his pack.
 “Obo,” he said.
 “What?”
-“I think we’re in Shis.”
-“We’re not in Shis,” Obo said with a groan.
+“What do you know about Shis.”
+“There are too many conflicting stories,” Obo said.
 Mandri waved the torch over the graven letters in the rock. “Do you see this?”
-“I’m on your back, you idiot. I can’t see anything.”
-“Oh, right.”
-Mandri turned around to give Obo a chance to look.
-“Hold up the torch,” Obo said.
-“Right, sorry.”
-Mandri held up the torch, and a moment later he heard Obo give a curious, “Hmmm, interesting.”
-“What’s interesting?”
-“This is Schisol’s creed,” Obo said. He said it with such passivity that.
-“That means we’re in Shis, doesn’t it?”
-“Mandri, Shis exists on a different plane of reality. It is not a thing made of rock and stone that can be touched.”
-Mandri spun back around to get another look. “Then what is this?” He heard Obo a frustrated sigh, but didn’t care, .
-Obo said, “Shis is not a real place, but Schisol himself, as far as can be attested, was real. The Schisolitant were real, and according to all sources, they were once ascendant in this world. They built cities. Presumably, they built tunnels too, like this one.”
-“Yeah but… don’t you find this all too strange?”
-“We should be keeping pace with the others.”
-“I’m not sure if we should. Ayram’s casually strolling into Schisol’s tunnel-work, and what are we doing? Following him down into the depths like we’re sheep for the slaughter. You know, the scribes say that’s what the Schisolitant did, you know. They’d gather up the penitent, and then lead them down into the bowels of the earth and offer them up as sacrifices. And look what Ayram’s doing.”
-“I don’t think Ayram is a Schisolitant.”
-“He is trying to kill Solraheen.”
-“Yes, that is a curious interest… but there’s certain confounding depth to current events that has me hesitant to draw any conclusions. I suggest we keep moving.”
-“You’re welcome to go. I, however, will move when I’m good and ready.” Mandri stares at the letters and tried to decipher their age. He didn’t know a thing about how to do that, but it didn’t stop him from trying. There was a layer of dust in the grooves. How many years is a layer of dust?
-“Mandri, if the Ayramun take a turn and you’re not there to see it, do you think you could follow them?”
-“I’m sure you could, right?”
-“Well! I’m happy to hear you’ve placed your trust in me.”
-Just then, Moteah’s voice came echoing and re-echoing out of the tunnel ahead.
-“MANDRI-andri-andri!”
-Mandri shouted back.
-“Coming-oming-oming.”
-And he set off he went. 
-What followed was a careful stumble down an uneven descent. Whoever had constructed that gate made little effort to tame its passage, save for a few carven steps which wound down the steeper drops, as well as a few cutout handholds in places where the path ran across narrow ledges that overlooked a yawing fissure.
-In other sections, the rock was halfway near swallowing them up. In places, the walls were so narrow that it was impossible to face straight ahead, so Mandri had to undo his pack and thrutch through them sideways, dragging Obo behind like a stubborn dog. He got to thinking, when both his belly and his back were scraping along, that it wouldn’t take much to squish him like a bug.
-At the first fork in the path, Elrahet took the lead. She walked with purpose, as she always did, and when there were more forks, she had no hesitation, she charged ahead, and at every turn Mandri expected to be confronted by gaping chasm or impassible slump of boulders, but there never were.
-Mandri got the sense that Elrahet knew the way a little too well. Even if this wasn’t Shis itself, it was made by Schisol’s believers. Who, then was Elrahet? What the fuck was he doing, just following her?
-These thoughts plagued Mandrameen for the entire strenuous hike, and they came to a head when the Ayramun bunched up at the edge of one particularly jagged rent in the earth, a bottomless abyss. The path across was naught but a footwide ledge of rock that spanned the distance, which was as long as ten men. There were no handholds in the wall, yet one by one the Ayramun shimmied across. Ayram himself made several trips, ferrying everyone’s pack, including Obo.
-When it was Mandri’s turn to go, he found that his knees had locked and his pits were sweating like he , all this despite the chill that hung in the air.
-Ayram slapped Mandri’s back, and then 
-“Time to go,” he said. Such was Ayram’s voice that even if he whispered in this place, his words would echo with the same clarity as Mandri’s shout.
+Obo climbed over Mandri’s shoulder to get a gander.
+“Interesting,” he muttered.
+“It’s Batata’s screed,” said Mandri.
+“Yes, I know.”
+“That means he was telling the truth about Shis!”
+“I doubt it.”
+“But this is proof!”
+“It’s proof he found a stone gate with words carved onto it. Mandri, we should be keeping pace with the others.”
+“Why? They’re casually strolling down into Shis, and why? Because Elrahet said so? We could be sheep for the slaughter.”
+There was a layer of dust in the grooves. How many years is a layer of dust?”
+“Mandri, whatever’s down here, I’ll handle it.”
+Moteah’s voice came bound out of the dark tunnel ahead.
+“MANDRI!”
+“We’re coming!” Obo shouted back, and he gave Mandri an encouraging pat on the shoulder.
+Mandri didn’t have a choice—he stepped through the gate.
+What followed was a careful stumble down an uneven descent. Whoever had constructed that gate made little effort to tame its passage, for the steeper drops were studded with a few thick blocks of wood masquerading as stairs and that was it. And this path eventually emptied out into endless black. Elrahet and the others were creeping around its foot-wide ledge, clinging tight to a few cutout handholds.
+These thoughts plagued Mandrameen as he stood before this bottomless abyss. Once all the Ayramun had shimmied across, it was Mandri’s turn. He tried to move but his knees were locked in fear. His armpits were practically sweating rain despite the chill that blew up from the fissure.
 Mandri looked at the ledge as it flickered in the torchlight. It was barely there.
-“Come on, now,” said Ayram.
-Mandri handed his torch to Ayram, then turned to face the rock and began his shimmy across the gap.
+“Come on,” said Moto.
+Mandri handed his torch to Ayram, then turned to face the rock and began to side-shuffle along the ledge. He was halfway across when a sliver of stone broke out from under his leading foot. His nearly tumbled out into the darkness, but he was able to pull himself against the rock wall and regain his balance, but he didn’t regain his wits until the stone had spent a finger bouncing and banging its way down into the abyss, until finally there came a stupefying far-flung BOOM that echoed up from that small stone had smacked the bottom. Mandri hid his terror with a laugh. When he made it across, Obo suggested that perhaps, someone else should carry him.
+As they journeyed on, the rock passages grew tighter, as if to swallow them up. The walls were so narrow in places that Mandri had to undo his pack and thrutch through them sideways, dragging Obo behind like a stubborn dog. Elrahet marched through it all with purpose in her step. There was no hesitation whenever a decision was made about which path to take. Mandri had expected this adventure under the earth would resemble their stumbling through the temple Shulgi—butting into dead ends and unremembered rooms, but that never happened.
+Elrahet led them on into a tight zigzag of ceilingless fissures staccatoed by slumps of rubble. Past these they crawled through a jagged tube in the rock that swerved as it slid downhill, and this left Mandri’s hands cold and clammy and he started to forget his fear of demons that might be lurking in the shadows. Soon he was more concerned with rock itself, for the torch-light’s narration of these passages was unreliable—hidden edges ripped his woolen robe, and he Mandri wasn’t careful as he scraped along, he’d cut his flesh as well.
+Mandri measured out time by measuring the weariness in his legs. They’d been walking for a while and the start of soreness in his calves said it’d been at least four hands. Once the unremitting burn set into his thighs, well that marked at least a half-days journey. It was an accurate system, or so Mandri believed, because every time he reached the brink of giving up, Elrahet stopped and they rested, huddled around a small fire of twigs. They rested only as long as it took for the fire to turn the twigs to ash. After the second rest like this Mandri’s system of measurement was broke, because when they started out again his legs were already sore. 
+ It wasn’t until the fourth march that Mandri’s shoes slapped onto paved stone. This came as a great surprise because the walls were still rough and rock, and his feet were so used to little unsettling bumps that threatened to puncture through his leather soles. But the floor was as flat as screeded sand. It was grey clay tiling, and engraved along the border of each square was a jagged chain of thorns. This hall spilled out into a larger one, and this larger hall opened up into a cavern that could eat a mountain, and the entirety of this cavern floor was paved in those tiles, an endless sea of them, and every twenty steps the pattern was broken by a larger square engraved with an inverted sun. It was unfamiliar design, like a flower with it’s petals closed, and though Mandri had never seen its like before he knew it was a sign of Schisol. 
+The sound of their shuffling feet reverberated out into the emptiness, and they all hunched along as if sneaking. Mandri almost laughed at the sight of his skulking band, because if any nearby demons wanted to know what had disturbed their slumber, all they’d have to do was open their eyes and see a flock of fools spotlighted by their own torches.
+They moved like this for half a hand, not speaking a word, until they arrived at the cavern’s end. They could go no further, for the grey stone wall in front of them ran straight up into the dark, featureless save for a giant stone double-door that would take a team of oxen to open. These imposing doors were to sized to the height and shoulders of gods, and every inch of them were carved with figures, demonic figures from which which Batata had no doubt drawn inspiration. But these demons looked much more real when rendered in stone, and instead of whipping stick-figured humans, they were doing unmentionable things to men and women fully fleshed.
+Set atop these doors was a stone head in flat relief, bald like Obo’s, and twice as unnerving because its petrified gaze seem to snatch at Mandri’s Spark. This head was set into the lintel, which was itself carved to look like spreading shoulders, and the rest of the doorframe was sculpted to look like arms, and these long and spindly things stretched down to the floor where the hands cupped the door’s bottom hinges.
+There were no graven words to title the figure, but Mandri knew without knowing that this was Schisol, and His arms cradled the doors of Shis.
+“Spark a fire,” said Elrahet.
+M
+ “More,” she said.
+“Is this what you wanted to show me?” Obo asked, reflecting upon the door.
+And asked, “What do you think lies beyond those slabs of stone?”
+“If the door’s illustration is any indication, it must be a place of great spiritual torment.”
+Chewing.
+“It was once, but it is no longer. If we do not act, it will be that way again, and they’ll be coming for you, too, Mazyd. You might have been hidden from demon-sight before, but now you have a Spark like the rest of us. You’ve doomed yourself.” 
+Dark pressing in? Illusory sppech, instead, Obo let her speak.
+“Your makers believe that there is only one god left—only one god that Schisol’s minions could not scratch. They believe that Solraheen is the last vestige of divinity in this world, and they believe it because it suits them. That it is not the truth, for as long as Solraheen survives, so, too does Schisol. Such is the nature of Good and Evil—each is defined by the presence of the other.
+“I’m not sure I agree with that accounting of evil,” said Obo, “But please, continue.”
+Could dry a bone.
+“The first Spark was Solrah, and she died giving birth to Solraheen.”
+Moto, “Solrah was a man,”
+“From Solrah came Solraheen. Solraheen was alone, and so He created a garden world for His enjoyment. He created all manner of creatures for His companionship. In His eye, it was perfection. So elegant was its forms that Solraheen laid himself down to die for even His own hand should not get in the way of its function. So he laid down to die, but He did not fully die, for against His will His body woke again, possessed by a different mind. This mind was Solraheen’s twin, Schisol.”
+A telling he’d not heard before. Elements, yes, but not in this particular order. Especially not the idea that Solraheen and Schisol were of the same flesh. This was heresy of the highest crown.
+“Schisol awoke without knowledge of Solrah or Solraheen, or even of the void which came before. He wandered His brother’s garden as confused as any newborn babe. As the ages passed, His mind matured, and he began to piece together a corrupted view creation. He saw that the living things had Sparks, and he saw that the living things were sad and lonely, and He came to believe that this loneliness was the result of a shattering, that a single, all-white Spark had exploded and that its splinters had become trapped in the net that is the material world. He believed it was His duty to fix this, to reunite all Sparks into a single whole, and so He set out to kill all life and merge their Sparks together. It took him a long millenia, but in the end he prevailed. The last thing to join the whole was Himself, and so He killed Himself, but He did not fully die, for against His will His body woke again, this time, in the possession of Solraheen.
+“Solraheen awoke once again into the void and saw that His creation had been erased. And because He had no memory of what had occurred while Schisol was in control of the body, He blamed Himself for the disappearance of His garden. Though his grief was immeasurable, He began his work again. This time He selected a number from amongst the creatures which roamed the earth and into them He invested Mind, so that they could, in His absence, act as stewards of all creation. These were the first humans, and they all lived peaceably with eachother until Solraheen was satisfied  again with His garden. Then, as before, Solraheen laid down to rest so that His creation could come into its own, but instead of dying, His body rose again, this time in control of Schisol.
+“Schisol awoke into His worst nightmare, for He saw that the all-white Spark had once again been split, and another miserable garden was blossoming, trapping all the splinters of the Spark into a never-ending cycle of dread and despair. Amongst the lonely creatures that roamed this garden were the saddest, loneliest, most terrifying creatures imaginable—humans. Schisol saw a man kill himself out of heartbreak, and instead of that man’s Spark being reinvested into the garden’s Spark-ensnaring cycle, the man’s Spark was lost forever, dimming the whole should it ever be put back as one. 
+“Schisol set about again to ending this abomination, and to hasten this end he taught humanity about the splitting of the Spark, and he enlisted their aid and destroying all of creation. Some humans remembered the teachings of Solraheen, they remembered that they did not want to die, and so they resisted. The tortures inflicted upon them summoned the lesser gods from the void, and these forces arrayed themselves against Schisol and His minions. A cataclysmic battle took place, in which Schisol Himself was slain. But he was not completely dead, his body arose again, centuries later, this time in the control of Solraheen.
+“Solraheen woke up into a land laid waste by war. He asked the struggling humans what had occurred, but He did not believe their stories, for some amongst them were still under the sway of Schisol’s corrupted teachings. Solraheen selected a young girl from amongst them, one whom he trusted, and he gave her the gift of immortal life, that she might act as His envoy throughout the ages, for he grew worried, that if He were to die again his garden would be corrupted. His worries were well-founded, for Schisol’s minions conspired to end Solraheen, and in this they succeeded—they summoned an Amalgamete, the same as Greskal, and this creature gave birth to a demon which murdered Solraheen.
+“Solraheen’s consort ran to Him, thinking, of course, that the He were Solraheen. It was then that the truth Their dual nature was revealed. When Schisol learned that He Himself was responsible for the garden, for the continuance of the splitting of the Spark, he grew dismayed. He came to believe that if he could just communicate with Solraheen about how this garden was a perversion of the Spark, that Solraheen would agree to put an end to this cycle of suffering. So, Schisol resolved to send a message to Solraheen—but as He did not trust Solraheen’s consort to do the message justice, Schisol raised up a young woman for Himself and gave her eternal life. With her He shared his corrupted message, and then he ended Himself, that Solraheen might arise and learn the truth.
+“, the world was set, the messages of the twin Gods was set, . The world has been cycling since, until at last, Solraheen called down a piece of the night, a chunk of Fabled Black, and he trapped Himself underneath it, to try and put an end to it.”
 
-A rock broke out from under Mandri’s foot. He gave a yelp, then then watched the rock fall into the darkness. He didn’t lose his balance, and he made it across without further incident.
-“This is bullllll-shit,” he declared after. 
-The rock he’d kicked out into the abyss sent him a retort.
- A stupefying, distant BOOM echoed up from the hidden depths where the rock had smacked the bottom. To Mandri it seemed like an age ago. He hid his terror with a laugh.
+A woman’s voice echoed , loud , filling up the whole of the cavern.
+“That’s one way to tell the story.”
+Mandri lo, no one was there. 
+The doors of shis began to grind open, stone swiviling hinges, a , a single figure passed through—an old woman as ancient as Elrahet, much taller, and . Mandri recognized her instantly—it was Pell. The woman who’d killed is ox. The woman who’d set this all into motion.
+Moto ,
+“Stay your hand,” said Elrahet. “She’s who we’ve come to see.”
+“Oh?” said Pell. “Have you come to see me, or have you come to tell your people lies.”
+“I told no lies.”
+“Come, El, you’re old enough to know that when you leave out important details, that’s as good as lying.”
+Stand and stare.
+“You know I could kill you right now.”
+“You would break our truce?”
+“No,” said Pell. “But I must admit, there’s always that lingering thought, isn’t there, that maybe this  well be the death that sticks.”
 
-That was the peak of his . There wasn’t much time to really stop and think as Elrahet led them on through an increasingly tight winding of ceilingless fissures and low-hung corridors. At times they had to literally crawl through tubes, and the moment he’d set his clammy hand against the rock he shocked with cold. The air was cold but Mandri’s woolen robe blunted it’s chill of the rock, the rock, though, it was ice-cold, but at this depth the rock was damp, and where. 
-Mandri’s robe was much worse for wear every time he stumbled to his feet. His torch-light’s narration of these passages was unreliable; hidden edges and shadowed protrusions ripped into the woolen threads, and if Mandri wasn’t careful as he scraped along, he’d cut his flesh as well. Obo? Well, no doubt Obo bore the worst of it, but for Mandri he was out of sight, out of mind - save for the whispered curses.
-Time was difficult to track in the dark. Mandri measured it with his legs, if they were a little weary, that meant he’d marching for a few hours. The first painful twinge in his calf marked a few hours more. Once the unremitting burn set into his thighs and buttocks, well that marked a full days journey. It was an accurate system, or so Mandri believed, because every time hes legs went through it, right up to the point where he’d had enough, the Ayramun stopped, Ayram pulled out some thin sticks to  to make small fire and rest. They rested only as long as the twigs lasted. How long that was, Mandri was sure. It wasn’t long enough. After the second rest like this Mandri’s system of measurement was broke, because when he started out again, his legs were already sore. 
- It wasn’t until the fourth march that Mandri’s shoes slapped onto paved stone. His feet were so used to little bumps that threatened to puncture through his leather soles that the feeling of flatness caught him by surprise, and it was flat as could be, flat as a screeded sand. Mandri looked down to see a quarter-square of tiling. Engraved along it’s border was a jagged line of nested Zs. Mandri wondered how it’d gotten there, and a moment later and he had his answer, for he followed Elrahet into a cavern the size of one of Soldgi’s dunes. Set in the far wall of this cavern was a giant stone double-door, twice the height of Ayram, and the entire floor of this cavern was covered in tiles decorated like the one he’d seen.
-The Ayramun marched right across these tiles, heels clacking and shuffling, and when they got to the doors, Ayram called for a break. 
-Mandri was happy to sit, though he didn’t like sitting so near that massive double-door. It’s size and mystery was imposing enough, and on top that it was an incredible work of art, yet grotesque in the extreme. Every inch of either panel were carved with figures, demonic figures from which which Batata had likely drawn inspiration, only they looked so much more real when rendered in stone, and instead of whipping stick-figured humans, they were doing things unmentionable to figures fully fleshed.
-Set atop the door’s inset frame was a human head the size of Solraheen’s, a male head, bald like Obo’s, and that’s when Mandri noticed that the door-frame itself were sculpted in the shape of arms, and these long and spindly things stretched down to the flour, where the hands cupped the door’s bottom hinges.
-Mandrameen had no doubt - this was the gate of Shis.
-It was Shis because it hadn’t been marked up. If it were simply an ancient city, then those doors, and figure-work that fine would have been marked up ages ago, for that was the inevitable fate of all art ancient and abandoned - some treasure hunter or ne’er-do-well will come along and mark it up.
-And here he was, sitting in front of it, watching a giant man spark up a fire.
-The two men try to open it, give up.
+“One 
+“Excuse me, but who is this?”
+“I see you have a new toy.”
+“It’s no toy,” said Elrahet. “It’s as Sparked as you and me.”
+Pell’s face went cold. 
+“There’s no end to your willingness to pervert the Spark, is there?” Looks over Obo. Lips drawn tight, she muttered, “Abomination.”
+Obo, and said, “You’re not all that pretty yourself.”
+Pell hissed, and , then said to the rest of them, then said, “If you’ve come to offer yourselves to the slaughter, I accept.”
+“What about those poles in the Goree Pass!?”
+“The demons are overeager. You can hardly blame them.”
 
-Said out loud, “What are we doing here?”
-Seb picked it up, and said, “What are you doing here?”
-Purl said, “Oh, come off it, Seb.” 
-“What?” Seb said defensively, “I’m just asking for some clarification. This isn’t a place for the 
-Purl said, “We’re not going to leave him down here.”
-“What’s his purpose? He is no Ayramun.”
-Obo was sat next to Mandri, resting against someone’s back, and he spoke up in Mandri’s defense, saying, “Mandri is my legs.”
-Sob snorted, then said, “I could carry you.”
-“But I don’t want you to carry me.”
-“Why?”
-“Because I don’t like you.”
-Purl laughed and Seb shook his head. Then he rubbed his hands then held them close to the flames. The fire was putting out enough light that Mandri could see his own breath come out as steam.
-Seb said to Obo, “What if Mandri dies? Then you won’t have a choice as to who carries you.” There was an undeniable venom in the way Seb spoke of Mandri’s death. The man was dipping his toes in a threat.
-“If Mandri dies,” Obo said, “then I’m going to kill you.”
-Seb brows went cross and then he buried chin in his neck.
-“I didn’t say I was going to kill him. People die. That’s what we do. Especially down here, that’s what this place is made for.”
-Seb eyed the doors and blew into his fists to warm them up.
-“What is this place?” Obo asked.
-It was Mandri who answered. “It is Shis.”
-“It’s not Shis,” said Obo. “Like I said earlier, Shis is not a physical place. It is a spiritual one.”
-Elrahet, who’d been sitting across the fire, spoke for the first time.
-“But it is Shis,” she said, voice growling. The crackle of the flames accented her speech, such that. 
-Obo was undeterred. “You call it Shis, sure, but that’s not what Mandri means when he says, ‘Shis’. What he is referring to, what the Hrkan world up above is referring to when they speak the name, is a place of spiritual torment.”
-Elrahet pointed to the demon doors with a knobby finger. “Shis,” she said, “is just beyond those slabs of stone.”
-“Yes, a physical place, taken the namesake in fit of terror, but decidedly not the place where Sparks are purified in flames.”
-Elrahet  “So many books in Jeket and somehow you’re unlearned.”
-“What do you mean?”
-“You have the source and its derivative the wrong way ‘round. This place is older than the sermons of Solitant priests. This place came first. This is the real Shis, and it’s not the Spark they tortured here, but flesh.”
-“This place is older than Solraheen Himself?” Obo asked doubtfully.
-“Not older than Solraheen. Older than His religion.”
-“I don’t know what that means.”
-“Unsurprising. Your kind is new to this world, and not all knowledge is written on a tablet, or in a book. Most things, if you can believe it, are lost to the Sand.”
 
-“Do you have any knowledge of the cycle of the ages?”
 
-Potential: Have Elrahet briefly explain the cycle of the ages. Solraheen, Schisol, on and on. This was built in Schisol’s earliest age. 
-Obo is like, “Forgive me, but I’ll need something more thorough than an old witch’s superstitions.”
+“I have my own pieces in play.”
+Elrahet confindent, “We’ve killed your Amalgamete.”
+“Oh, I know, I wasn’t referring to Greskal.”
+“Referring to what, then?”
+Eyes alighted on Mandri, a smile of recognition. 
+“Gentle Sparks,” she said aloud, throwing her voice out into the cavern, “Would you please grace us with your presence.”
 
-Huge crashing. Door opens. Enter Pell and her priests. Salavan among them.
+Horde of demons arrive.
+“These demons, they want to kill me?”
+“Nothing so crude. What they want to do is recover your Spark and add it to their own.”
+“That’s not acceptable.”
+Burst of laughter, peal of.
+“Oh, how quaint! It’s not acceptable? My dear Mazyd, we have collected an uncountable number. You will be no different.”
+“Of that uncountable number, how many could defend themselves with Mazydfire?”
+“We have collected the Sparks of gods. You will be no different.”
+“An assertion without evidence can be dismissed without evidence.”
+
+
+
+
+
 
 
 </Text>
             <Notes>At some point, Mandri has to do something for someone.
 
+accultrated 
+
+White light!
+
+
+
+Transition mandri from excitement to hesitation.
+
+Is the spotlighted in the Shulgi chapter?
+
+MAKE sure this description of map of Shis matches with Mandri’s memory of it in Pit Cave.
+
+SAND’s EIGHT PORTIONS.
+
+IS SHISKASON USED ElsEwhere? - that ‘doomed’ section.
+
+The woman has powers over life and death and you think Ayram was the leader here?
+
+You can't spell subtext without buttsex. 
+
 ‘Insalubrious region’
 = (especially of a climate or locality) not salubrious; unhealthy.
 &quot;a poor area full of insalubrious hotels&quot;
+
+I had to deal with hisses, barkers, kids with literal bed bugs falling off of them and calling them fleas, I got bit once. This shit ain't new, I had to go through hell through middle and high school with these weird animal kids
+No shit. I'm like 40 and I had to help a teacher hold the vampire kid down so he'd quit biting people. This isn't new.
 
 Travel through.
 Encounter doors. 
@@ -17917,8 +18070,8 @@ Two blue-grey eyes, Jandri eyes, belonging to a man named Seb Soreel. They were 
         </Document>
         <Document ID="77DDE3A8-3797-40FD-B136-1994CD1777A6">
             <Title>Mandrameen</Title>
-            <Text>A Solitant priest hears the word ‘white’ and he thinks of the pure white glow of Solraheen—a white so bright it bursts out of itself and splits softly into rays of red, green, and blue. A Hrkan man hears the word ‘white’ and he pictures the plain and stainless robes of Hrkan Lordship. An outland man hears ‘white’ and he thinks of sparkling salt pans, clouds, and sun-bleached bone. As it is with ‘white’, so it is with all words, they mean different things to different people. So it is some wonder then, that Solraheen would choose the medium of the word to create the world. He was there in the void, spoke one word, the world emerged, and people haven’t stopped arguing about the meaning of it all ever since.
-Art is particularly contentious. Art used to have a fixed meaning, or so the Solitants say. An artist was a spiritual being, a man or woman who channeled the divine into verse and vision. But that was long ago, older than the Old Jandri world. In the ages since the meaning of ‘art’ and ‘artist’ became confused. The heresy of Art as personal expression pollutes the minds of many.
+            <Text>A Solitant priest hears the word ‘white’ and he thinks of the pure white glow of the god named Solraheen—a white so bright it bursts out of itself and splits softly into rays of red, green, and blue. A Hrkan man hears the word ‘white’ and he pictures the plain and stainless robes of Hrkan Lordship. An outland man hears ‘white’ and he thinks of sparkling salt pans, clouds, and sun-bleached bone. As it is with ‘white’, so it is with all words, they mean different things to different people. So it is some wonder then, that Solraheen would choose the medium of the word to create the world. He was there in the void, spoke one word, the world emerged, and people haven’t stopped arguing about the meaning of it all ever since.
+Art is a particularly contentious word. Art used to have a fixed meaning, or so the Solitants say. An artist was a spiritual being, a man or woman who channeled the divine into verse and vision. But that was long ago, and in the ages since, the meaning of ‘art’ and ‘artist’ became confused, or worse, for the heresy of Art as personal expression pollutes the minds of many.
 A Solitant sermon on Art as Exegetical Instrument begins with the following questions:
 What is art?
 Who is an artist?
@@ -17926,17 +18079,16 @@ Who isn’t?
 A painter, a sculptor, these are artists, yes, that’s reasonable to say, but a hole-digger? Can’t he can be an artist too if he digs a hole in a way that’s true to the Spark within himself? Give a man shovel, a field of dirt, time to think about it, friends to impress, and he’ll dig a pure expression of his innermost world—most likely he’ll dig a penis. Whether it’s to be funny or ironic or some sad conflux of the two, it doesn’t matter, the Solitant will argue that if a man digging a big old ugly into a field is an ‘artist’ then the word is as useless as an unmarked weight.
 A sheep-shearer playing with a sheep’s coat is then an artist. 
 A tax collector can be an artist if he’s sufficiently motivated to plumb the depths of greed. 
-There is a need here, the Solitant argues, for a word with walls. The true artist, the divine instrument, must be separated from the self-dwelling horde.
-The Old Jandri word for ‘artist’ is lost to time, but there is a word in that language fit enough for adoption—burshegee. Literally, burshegee means something like ‘fertile ground’, but in the Solitant tradition it means ‘true artist’. It doesn’t mean quite the same thing as ‘virtuoso’ because true artistry has almost nothing to do with what a person does, whether it be painting, or digging, or finessing balance sheets. Some burshegee never make anything at all, yet burshegee they remain because burshegee—true artistry, fertile ground—this is a state of mind.
-It is a mind ripe for divine purpose.
-Such a mind is not necessarily noble or righteous or even intelligent. Often times the mind of the true artist is marked by comic excess—too many big ideas, too many shallow excuses, and so exaggerated is the sense of self that it becomes impossible to describe the person without resorting to sarcasm.
+There is a need here, the Solitant argues, for a word with walls. The true artist, the divine instrument, must be held apart from the self-dwelling horde.
+The Old Jandri word for ‘artist’ is lost to time, but there is a word in that language fit enough for adoption—burshegee. Literally, burshegee means something like ‘fertile ground’, but in the Solitant tradition it means ‘true artist’. It doesn’t mean quite the same thing as ‘virtuoso’ because true artistry has almost nothing to do with what a person does, whether it be painting, or digging, or finessing balance sheets. Some burshegee never make anything at all, yet burshegee they remain because burshegee—true artistry, fertile ground—this is a state of mind, a mind ripe for divine purpose.
+Such a mind is not necessarily noble, or righteous, or even intelligent. The mind of the true artist is often marked by comic excess—too many big ideas, too many shallow excuses, and so exaggerated is the sense of self that it becomes impossible to describe the person without resorting to sarcasm.
 For example—Mandrameen was the humblest humble that ever humbled.
 When asked what he did for a living, Mandrameen would say, “Nothing important. I paint things”, and then he’d add, “for whatever that is worth”. Then he’d strut around the grand Hrkan galleries and this charade of humility melted away because he could not hide his contempt for his contemporaries.
 He’d stand in front of a painting and say, “This piece really moves me,” and then he’d make a show of walking away. All must bear witness to his mop of black hair as it flounced itself in time with his skinny, stiff-backed step.
 Or he’d say, “I weep at every stroke,” and then he’d flash a knowing smile. 
 And he’d say these things directly to a fellow artist’s face if he could get to it. He didn’t think of it as mean-spirited because artists, like himself, were safe targets for playful derision. Maybe they were the only safe targets, because it’s not really the person he was making fun of, it was their failed attempts to express themselves, and those are completely different things. He’d never go after the person, no. Artists are the best people. It takes the best kind of person to put themselves in front of others and push through the barbs. It takes tough skin, unreasonable confidence, and a flair for the dramatic. Without any of that, an artist is doomed to live a life of sad obscurity.
-He would say to Vigram, “You haven’t the faintest idea of what you’re talking about.” Vigram’s crime? He’d said that he liked a painting that he shouldn’t have. Vigram’s wealth be damned, Mandri’s knew what was good, what opinion was correct, and if, by some cosmic absurdity, he wasn’t correct in the literal, figurative, or spiritual sense, then ‘correctness’ did not belong to the domain of man. At the very least, it was out of Vigram’s reach. Old Vigram was not an artist, not even the penis-in-the-field kind. He’d made his fortune as a creditor. Meanwhile Mandrameen, when he was ten, could paint a portrait in oils that rivaled the old Jeketian masters.
-And these were real dynamic works, not polish-jobs where the paint is thin, the brush strokes invisible, and every hair is slavishly rendered into being like he’d lost the plot of reality. When Mandrameen painted a portrait the paint was richly applied via a tight economy of strokes. With a single stroke of umber on black he could define the chestnut skin, the high-arced cheek, the sturdy skull underneath, the light, the shadow, even the mood of the piece. One single stroke! He once painted a woman’s portrait using just twenty-four strokes—count them, twenty-four—and it was a true, vivid likeness. There were few extra nibbles here and there to make the eyes glisten and the cleavage heave, but those hardly counted. It didn’t stop Vigram from marveling at how young Mandri packed so much information into so few slips of paint.
+He would say to Vigram, “You haven’t the faintest idea of what you’re talking about.” Vigram’s crime? He’d said that he liked a painting that he shouldn’t have. Vigram’s wealth be damned, Mandri’s knew what was good, what opinion was correct, and if, by some cosmic absurdity, he wasn’t correct in the literal, figurative, or spiritual sense, then ‘correctness’ did not belong to the domain of man. It was certainly out of Vigram’s reach. Old Vigram was not an artist, not even the penis-in-the-field kind. He’d made his fortune as a creditor. Meanwhile Mandrameen, when he was ten, could paint a portrait in oils that rivaled the old Jeketian masters.
+And these were real dynamic works, not polish-jobs where the paint is thin, the brush strokes invisible, and every hair is slavishly rendered into being like he’d lost the plot of reality. When Mandrameen painted a portrait the paint was luxuriously applied via a tight economy of strokes. With a single stroke of umber on black he could define the chestnut skin, the high-arched cheek, the sturdy skull underneath, the light, the shadow, even the mood of the piece. One single stroke! He once painted a woman’s portrait using just twenty-four strokes—count them, twenty-four—and it was a true, vivid likeness. There were few extra nibbles here and there to make the eyes glisten and the cleavage heave, but those hardly counted. It didn’t stop Vigram from marveling at how young Mandri packed so much information into so few slips of paint.
 In Vigram’s eyes they were the marks of genius, and he told Mandri as much. And often. He paid Mandri for lessons. This was something of a charity, for Mandri was twenty years old and despite his great talent in such a sacred discipline, he was inexplicably poor.
 These lessons were given in Vigram’s countryside estate, a good ways away from the must and crust of Meskalim. The days started with breakfast, where Vigram, a burly old man with a bald head and brown belly-beard that he kept oiled and trimmed, would push Mandri to explain why he had yet to achieve success. Each week he’d put the question in a different way, but it was always about that same basic thing—why wasn’t Mandri swimming in money? Painters were richly rewarded. He should be swimming in money.
 Mandri would explain that financial success, when it comes to art, has little to do with skill or quality. Novelty plays a role, but mostly it’s about preening tongues and critic’s pens, it’s about how many people knew the raw fact of your existence. Vigram always pushed back, and today Mandri settled the matter by declaring, in between mouthfuls of seared lizard lung, “I refuse to debase myself by doing what it takes to succeed.”
@@ -32976,6 +33128,53 @@ Have tuning fork in last scene show theres a mazyd nearby.</Notes>
         <Document ID="EE978B0A-420B-49CF-8BD1-2EBC49070E33">
             <Title>River Battle</Title>
             <Text>Barges stuck in mud.</Text>
+        </Document>
+        <Document ID="EF54B7BD-CAA0-40FE-B926-C2786F80A93E">
+            <Title>Underworld Scratch</Title>
+            <Text> and indeed it did. Batata won a grand sum for the discovery of the location of Kurbaku. That sum had been set by some early Hrkan Lord, with the intention of opening up trade with that fabled city flush with gold. When Batata found it, he said that Kurbaku was little more than a dump of mud brick huts. There was almost no gold, and even less hospitality. His revelation caused a stir amongst the scribes and merchants, and many didn’t believe him, they didn’t want to believe him. He was under great professional pressure to admit he was lying, but yet again, he was proved true - Kurbaku was several centuries removed from it’s golden apogee.
+So why would Batata lie about Shis?
+The scribal consensus surrounding his map of Shis was that Batata had made the map to scare common folk into virtue. They claimed that Batata was a scribe himself, and as such, he’d dedicated himself to the furtherance of Solraheen’s kingdom, and scare tactics were common to scribes and priests of those ancient days. It was part of an Old Jandri creed, often written on the tombs of long-dead kings who didn’t have the Mazydai to keep the social order: Justice without virtue is blind, virtue without terror is impotent. People have got to be scared or else they’ll loosen their lips, loosen their hips, and start stabbing at anything that walks.
+Mandri’s estimation was that this explanation of the map’s purpose was workable, but not reasonable. He thought Batata was, like himself, a man of integrity who put great care into his work, not the kind of person to let a spiritual scare tactic sully his more serious work. It’d be one thing to have fun aside, but in all of Batata’s serious maps which outlined Jandria’s true shape, there were always a few small dots creeping out in the void the Sand like spiders, each with a postscript saying, Shiskason, or, “Entrance into Shis.”
+These dots were so far out into the desert, and so far away from any road, that no rational person would try and verify their truth. Batata himself said that these dots were just approximations, and that he had only stumbled onto these “gashes in the earth” by pure happenstance - as they’re not things that can be seen from a distance.
+There is one moth-eaten scroll where Batata accounts his descent into one of these ‘gashes’, and from this journey he gained the knowledge of Shis’s outlay. It is a poetic work, without much poetic value, as it was written in a mind-numbing meter which was the style for the more narrative works of the day. Even if half its lines weren’t eaten away, Mandri wouldn’t have , .Yet, there was one refrain, however, that stuck with him over the years.
+Batata recounted how he’d been stumbling through the pitch black, torch in hand, and the first sing of Shis was a massive stone gate, tall and narrow, a horizontal mantelpiece supported by perfectly plumb and squared beams. Engraved into these pillars was a ancient creed, and hereafter Batata it became known as the creed of Schisol. It rhymes in Old Jandri, but written out in common, it reads:
+
+
+“What is this place?” Obo asked.
+It was Mandri who answered. “It is Shis.”
+“It’s not Shis,” said Obo. “Like I said earlier, Shis is not a physical place. It is a spiritual one.”
+Elrahet, who’d been sitting across the fire, spoke for the first time.
+“But it is Shis,” she said, voice growling. The crackle of the flames accented her speech, such that. 
+Obo was undeterred. “You call it Shis, sure, but that’s not what Mandri means when he says, ‘Shis’. What he is referring to, what the Hrkan world up above is referring to when they speak the name, is a place of spiritual torment.”
+Elrahet pointed to the demon doors with a knobby finger. “Shis,” she said, “lies just beyond those slabs of stone.”
+“Yes, a physical place, taken the namesake in fit of terror, but decidedly not the place where Sparks are purified in flames.”
+Elrahet  “So many books in Jeket and somehow you’re unlearned.”
+“What do you mean?”
+“You have the source and its derivative the wrong way ‘round. This place is older than the sermons of Solitant priests. This place came first. This is the real Shis, and it’s not the Spark they tortured here, but flesh.”
+“This place is older than Solraheen Himself?” Obo asked doubtfully.
+“Not older than Solraheen. Older than His religion.”
+“I don’t know what that means.”
+“Unsurprising. Your kind is new to this world, and not all knowledge is written on a tablet, or in a book. Most things, if you can believe it, are lost to the Sand.”
+
+
+Said out loud, “What are we doing here?”
+Seb picked it up, and said, “What are you doing here?”
+Purl said, “Oh, come off it, Seb.” 
+“What?” Seb said defensively, “I’m just asking for some clarification. This isn’t a place for the 
+Purl said, “We’re not going to leave him down here.”
+“What’s his purpose? He is no Ayramun.”
+Obo was sat next to Mandri, resting against someone’s back, and he spoke up in Mandri’s defense, saying, “Mandri is my legs.”
+Sob snorted, then said, “I could carry you.”
+“But I don’t want you to carry me.”
+“Why?”
+“Because I don’t like you.”
+Purl laughed and Seb shook his head. Then he rubbed his hands then held them close to the flames. The fire was putting out enough light that Mandri could see his own breath come out as steam.
+Seb said to Obo, “What if Mandri dies? Then you won’t have a choice as to who carries you.” There was an undeniable venom in the way Seb spoke of Mandri’s death. The man was dipping his toes in a threat.
+“If Mandri dies,” Obo said, “then I’m going to kill you.”
+Seb brows went cross and then he buried chin in his neck.
+“I didn’t say I was going to kill him. People die. That’s what we do. Especially down here, that’s what this place is made for.”
+Seb eyed the doors and blew into his fists to warm them up.
+</Text>
         </Document>
         <Document ID="EFAE2847-F9D4-444A-9031-4AF0785981E4">
             <Title>Aghori</Title>
