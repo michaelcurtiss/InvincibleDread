@@ -2,12 +2,13 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included" IncludeGroupText="Yes">
-            <CompileGroup Type="Selection">6A5B9C1E-49F4-4D4A-9878-728322BDFA2B</CompileGroup>
+            <CompileGroup Type="BinderItem">6A5B9C1E-49F4-4D4A-9878-728322BDFA2B</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <Label>-1</Label>
             </Filter>
         </Content>
         <Options>
+            <RemoveFootnotes>Yes</RemoveFootnotes>
             <RemoveComments>Yes</RemoveComments>
             <RemoveAnnotations>Yes</RemoveAnnotations>
             <ResampleImages DPI="72" MaxSize="0">No</ResampleImages>
@@ -47,7 +48,7 @@
             </Authors>
             <Surname>Curtiss</Surname>
             <Forename>Michael</Forename>
-            <EbookLanguage>English</EbookLanguage>
+            <EbookLanguage>en</EbookLanguage>
         </MetaData>
     </ProjectSettings>
     <CurrentFileType>docx</CurrentFileType>
@@ -59,10 +60,50 @@
             </SectionLayouts>
         </Format>
         <Format ID="manuscript-times">
-            <Font>Lusitana</Font></Format>
+            <Font>Lusitana</Font>
+            <SectionLayouts>
+                <Type ID="773BF9A4-1546-49F0-B698-A7D0924D1E9F">TEXT-WITH-HEADER</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="paperback-6x9">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="modern-ms">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="38FDF6FA-9743-442F-9CED-B755DFB32C6F">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="9B6B6211-82D6-4C1B-9BC2-BADF9BDB29BC">
+            <SectionLayouts>
+                <Type ID="0374E1A2-770A-4C83-B433-4E6F70D8467D">TEXT-WITH-HEADER</Type>
+                <Type ID="773BF9A4-1546-49F0-B698-A7D0924D1E9F">TEXT-WITH-HEADER</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="6E1F0DEE-15FE-4E39-8B46-A60CBBF31B1B">
+            <Font>Lusitana</Font>
+            <SectionLayouts>
+                <Type ID="773BF9A4-1546-49F0-B698-A7D0924D1E9F">TEXT-WITH-HEADER</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>manuscript-times</Print>
-        <docx>manuscript-times</docx>
+        <docx>6E1F0DEE-15FE-4E39-8B46-A60CBBF31B1B</docx>
     </LastUsedFormats>
 </CompileSettings>
