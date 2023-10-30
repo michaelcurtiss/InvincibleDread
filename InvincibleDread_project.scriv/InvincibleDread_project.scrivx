@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-28 21:40:20 -0400" ModID="C49CE137-6156-4D1F-BFEF-B021850C4E64">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-29 21:24:58 -0400" ModID="3636D775-E4E8-41BF-9BBC-11EF42EB76DB">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2023-10-26 22:41:13 -0400">
             <Title>Novel Format</Title>
@@ -12,13 +12,13 @@
                 <TextSelection>1703,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="8D5B6723-76AF-4F86-A8D1-CFAAA79551AD" Type="Text" Created="2023-10-24 10:02:52 -0400" Modified="2023-10-28 21:03:16 -0400">
+        <BinderItem UUID="8D5B6723-76AF-4F86-A8D1-CFAAA79551AD" Type="Text" Created="2023-10-24 10:02:52 -0400" Modified="2023-10-29 18:07:16 -0400">
             <Title>EDIT_THOUGHTS</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>2454,0</TextSelection>
+                <TextSelection>3803,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Type="DraftFolder" Created="2006-11-04 14:27:29 -0400" Modified="2023-10-26 22:26:46 -0400">
@@ -94,7 +94,7 @@
                         <NotesTextSelection>2131,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17850,0</TextSelection>
+                        <TextSelection Caret="17579">17574,5</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="8A6FEE87-D85C-47C7-953C-A12017C5BA40" Type="Text" Created="2022-07-12 21:24:05 -0400" Modified="2023-10-28 15:56:38 -0400">
@@ -117,41 +117,41 @@
                         <TextSelection>21860,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="93161902-9D6C-47E3-B708-BE9F9A25D81D" Type="Text" Created="2022-08-08 14:30:37 -0400" Modified="2023-10-28 21:37:00 -0400">
+                <BinderItem UUID="93161902-9D6C-47E3-B708-BE9F9A25D81D" Type="Text" Created="2022-08-08 14:30:37 -0400" Modified="2023-10-29 14:52:44 -0400">
                     <Title>Pit Cave</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <NotesTextSelection>210,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>24085,0</TextSelection>
+                        <TextSelection>7524,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B29933F3-CFEF-46EF-BC3E-0411F2268B49" Type="Text" Created="2022-08-08 14:30:47 -0400" Modified="2023-10-28 21:38:34 -0400">
+                <BinderItem UUID="B29933F3-CFEF-46EF-BC3E-0411F2268B49" Type="Text" Created="2022-08-08 14:30:47 -0400" Modified="2023-10-29 17:30:11 -0400">
                     <Title>Ayram</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>1179,0</NotesTextSelection>
+                        <NotesTextSelection>225,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>744,0</TextSelection>
+                        <TextSelection>22363,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="105514CA-3798-409C-847A-7CAA15A6BED3" Type="Text" Created="2022-08-08 14:53:56 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="105514CA-3798-409C-847A-7CAA15A6BED3" Type="Text" Created="2022-08-08 14:53:56 -0400" Modified="2023-10-29 21:24:52 -0400">
                     <Title>Charnel Road</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>959,0</NotesTextSelection>
+                        <NotesTextSelection Caret="1310">1299,11</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>32422,0</TextSelection>
+                        <TextSelection>34270,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="AD072853-4FFC-4032-AAF0-93A43C1C168D" Type="Text" Created="2022-08-11 00:50:22 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="AD072853-4FFC-4032-AAF0-93A43C1C168D" Type="Text" Created="2022-08-11 00:50:22 -0400" Modified="2023-10-29 20:56:49 -0400">
                     <Title>Pain</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>1060,0</NotesTextSelection>
+                        <NotesTextSelection>1183,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>22378,0</TextSelection>
@@ -653,10 +653,10 @@
                     <ItemID>00B4FA64-D705-4810-B3FB-C566AF858F74</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
-                    <ItemID>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</ItemID>
+                    <ItemID>00D78C34-591C-4B77-8149-CB18AC21A56C</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
-                    <ItemID>00D78C34-591C-4B77-8149-CB18AC21A56C</ItemID>
+                    <ItemID>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</ItemID>
                 </OutlinerExpandedState>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
@@ -5729,14 +5729,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-10-28 21:40:20 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-10-29 21:24:58 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-10-28 00:00:00 -0400">
+    <RecentWritingHistory Date="2023-10-29 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-133</OtherWordCount>
-        <OtherCharCount>-1146</OtherCharCount>
+        <OtherWordCount>-96</OtherWordCount>
+        <OtherCharCount>-617</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
