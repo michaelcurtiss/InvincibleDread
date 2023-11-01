@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-01 14:19:34 -0400" ModID="7B1B2767-C98C-417C-A56F-62A0411AA70B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-01 14:25:24 -0400" ModID="0F910269-B9A0-420F-A741-F5AAA49E66A1">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2023-10-26 22:41:13 -0400">
             <Title>Novel Format</Title>
@@ -217,17 +217,17 @@
                         <NotesTextSelection>19,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15021,0</TextSelection>
+                        <TextSelection>12012,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="8BB6BC8D-2255-45DE-9421-01C252D63D29" Type="Text" Created="2022-10-01 19:56:40 -0400" Modified="2023-10-26 22:42:49 -0400">
+                <BinderItem UUID="8BB6BC8D-2255-45DE-9421-01C252D63D29" Type="Text" Created="2022-10-01 19:56:40 -0400" Modified="2023-11-01 14:25:18 -0400">
                     <Title>Storm</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <NotesTextSelection>361,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>27127,0</TextSelection>
+                        <TextSelection>451,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1C4AB82A-F4B1-4936-907D-6E1479D3C055" Type="Text" Created="2022-09-19 17:25:41 -0400" Modified="2023-10-26 22:41:13 -0400">
@@ -5781,14 +5781,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-11-01 14:19:34 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-11-01 14:25:24 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2023-11-01 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1820</OtherWordCount>
-        <OtherCharCount>10136</OtherCharCount>
+        <OtherWordCount>1797</OtherWordCount>
+        <OtherCharCount>10021</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
