@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-31 13:58:48 -0400" ModID="BBA080BB-4A05-4AC1-B332-36AC7799EE9C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-10-31 23:24:46 -0400" ModID="A7C8811F-ADA6-4A90-ABE0-29991745CDA1">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2023-10-26 22:41:13 -0400">
             <Title>Novel Format</Title>
@@ -12,13 +12,13 @@
                 <TextSelection>1703,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="8D5B6723-76AF-4F86-A8D1-CFAAA79551AD" Type="Text" Created="2023-10-24 10:02:52 -0400" Modified="2023-10-31 13:49:29 -0400">
+        <BinderItem UUID="8D5B6723-76AF-4F86-A8D1-CFAAA79551AD" Type="Text" Created="2023-10-24 10:02:52 -0400" Modified="2023-10-31 22:19:58 -0400">
             <Title>EDIT_THOUGHTS</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>2702,0</TextSelection>
+                <TextSelection>2937,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Type="DraftFolder" Created="2006-11-04 14:27:29 -0400" Modified="2023-10-26 22:26:46 -0400">
@@ -177,47 +177,47 @@
                         <TextSelection>72988,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A5C119C8-FC44-43D6-B330-741A028AC15A" Type="Text" Created="2022-08-09 17:25:41 -0400" Modified="2023-10-31 13:58:33 -0400">
+                <BinderItem UUID="A5C119C8-FC44-43D6-B330-741A028AC15A" Type="Text" Created="2022-08-09 17:25:41 -0400" Modified="2023-10-31 20:55:16 -0400">
                     <Title>A Sphere of Dead</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <NotesTextSelection>240,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6857,0</TextSelection>
+                        <TextSelection>47358,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A144D0E4-A5D2-466F-96D0-98FA6E12D9F4" Type="Text" Created="2022-08-08 18:45:42 -0400" Modified="2023-10-26 22:42:48 -0400">
+                <BinderItem UUID="A144D0E4-A5D2-466F-96D0-98FA6E12D9F4" Type="Text" Created="2022-08-08 18:45:42 -0400" Modified="2023-10-31 22:38:27 -0400">
                     <Title>Hrkkan Glory</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>253,0</NotesTextSelection>
+                        <NotesTextSelection>397,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11037,0</TextSelection>
+                        <TextSelection>22182,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="6008ACF3-7D07-439E-8203-5B50FD5E2457" Type="Text" Created="2022-09-19 17:16:21 -0400" Modified="2023-10-26 22:42:48 -0400">
-                    <Title>Burgeon Binge</Title>
+                <BinderItem UUID="6008ACF3-7D07-439E-8203-5B50FD5E2457" Type="Text" Created="2022-09-19 17:16:21 -0400" Modified="2023-10-31 23:24:28 -0400">
+                    <Title>Shiskason</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>196,0</NotesTextSelection>
+                        <NotesTextSelection>744,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>21861,0</TextSelection>
+                        <TextSelection>23510,0</TextSelection>
                     </TextSettings>
                     <Bookmarks>
                         <Bookmark BinderUUID="8BB6BC8D-2255-45DE-9421-01C252D63D29">Lessons</Bookmark>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="035AA460-4137-416A-9B57-BE8735B4E7C6" Type="Text" Created="2022-10-15 08:59:58 -0400" Modified="2023-10-26 22:42:49 -0400">
-                    <Title>Shiskason</Title>
+                <BinderItem UUID="035AA460-4137-416A-9B57-BE8735B4E7C6" Type="Text" Created="2022-10-15 08:59:58 -0400" Modified="2023-10-31 22:58:29 -0400">
+                    <Title>SelfHatred</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <NotesTextSelection>19,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15287,0</TextSelection>
+                        <TextSelection>283,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="8BB6BC8D-2255-45DE-9421-01C252D63D29" Type="Text" Created="2022-10-01 19:56:40 -0400" Modified="2023-10-26 22:42:49 -0400">
@@ -3723,6 +3723,23 @@ Mandri felt Obo stir in the litter.
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="73981220-2A73-4CC4-8CC0-D1C73B1ABD90" Type="Text" Created="2023-10-31 19:13:29 -0400" Modified="2023-10-31 19:14:34 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>183,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C4395EC3-B5B5-4DA9-A137-2799F6C3570C" Type="Text" Created="2023-10-31 22:10:05 -0400" Modified="2023-10-31 22:19:25 -0400">
+                    <Title>Hrkkan Glory before</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="1093">869,224</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="AF6003D4-D7B1-453D-860C-A0CCC1258D2D" Type="Folder" Created="2023-10-26 22:15:33 -0400" Modified="2023-10-26 22:41:12 -0400">
@@ -5746,14 +5763,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-10-31 13:58:48 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-10-31 23:24:46 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <RecentWritingHistory Date="2023-10-31 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-65</OtherWordCount>
-        <OtherCharCount>-206</OtherCharCount>
+        <DraftWordCount>250</DraftWordCount>
+        <DraftCharCount>1349</DraftCharCount>
+        <OtherWordCount>-972</OtherWordCount>
+        <OtherCharCount>-5307</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
