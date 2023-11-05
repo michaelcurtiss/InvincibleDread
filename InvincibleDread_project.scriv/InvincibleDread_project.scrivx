@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-04 01:01:14 -0400" ModID="F88CD4E9-D612-471A-8992-171D9F52EF2E">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-05 02:34:10 -0400" ModID="06A8C231-9075-4712-AFB5-947CA4C7F988">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0400" Modified="2023-10-26 22:41:13 -0400">
             <Title>Novel Format</Title>
@@ -245,11 +245,10 @@
                         <TextSelection>12012,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="8BB6BC8D-2255-45DE-9421-01C252D63D29" Type="Text" Created="2022-10-01 19:56:40 -0400" Modified="2023-11-03 22:37:21 -0400">
+                <BinderItem UUID="8BB6BC8D-2255-45DE-9421-01C252D63D29" Type="Text" Created="2022-10-01 19:56:40 -0400" Modified="2023-11-04 10:27:48 -0400">
                     <Title>Storm</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>Information</IconFileName>
                         <NotesTextSelection>500,0</NotesTextSelection>
                     </MetaData>
@@ -266,27 +265,29 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1C4AB82A-F4B1-4936-907D-6E1479D3C055" Type="Text" Created="2022-09-19 17:25:41 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="1C4AB82A-F4B1-4936-907D-6E1479D3C055" Type="Text" Created="2022-09-19 17:25:41 -0400" Modified="2023-11-04 16:33:18 -0400">
                     <Title>Journey</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>2653,0</NotesTextSelection>
+                        <IconFileName>Information</IconFileName>
+                        <NotesTextSelection>302,211</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>883,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 20:08:54 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="B47C0470-42AB-4C04-A87E-EDF44885F2F8" Type="Text" Created="2022-10-12 20:08:54 -0400" Modified="2023-11-05 00:36:02 -0400">
                     <Title>Goree Pass</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
+                        <IconFileName>Information</IconFileName>
                         <NotesTextSelection>662,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>52832,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="EDFBA2B1-92F5-4CE0-A529-27E4740B1115" Type="Text" Created="2023-01-18 10:01:29 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="EDFBA2B1-92F5-4CE0-A529-27E4740B1115" Type="Text" Created="2023-01-18 10:01:29 -0400" Modified="2023-11-05 02:31:45 -0400">
                     <Title>Exchange</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -296,7 +297,7 @@
                         <TextSelection>14246,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3424A086-6027-40C8-8F0E-BA73A3804B2A" Type="Text" Created="2023-01-12 11:20:15 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="3424A086-6027-40C8-8F0E-BA73A3804B2A" Type="Text" Created="2023-01-12 11:20:15 -0400" Modified="2023-11-05 02:32:32 -0400">
                     <Title>Retreat</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -306,7 +307,7 @@
                         <TextSelection>13704,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="85D3B9C7-DF86-471E-A209-23D34B1FEAF5" Type="Text" Created="2023-01-30 13:11:27 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="85D3B9C7-DF86-471E-A209-23D34B1FEAF5" Type="Text" Created="2023-01-30 13:11:27 -0400" Modified="2023-11-05 02:33:03 -0400">
                     <Title>Shulgi</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -316,7 +317,7 @@
                         <TextSelection>20681,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="13FF0EB7-9AA6-404D-9609-49F464AC01F7" Type="Text" Created="2022-10-12 20:09:07 -0400" Modified="2023-10-26 22:41:13 -0400">
+                <BinderItem UUID="13FF0EB7-9AA6-404D-9609-49F464AC01F7" Type="Text" Created="2022-10-12 20:09:07 -0400" Modified="2023-11-05 02:33:41 -0400">
                     <Title>Amalgamete</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -326,7 +327,7 @@
                         <TextSelection>27098,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C751B6E6-AFF8-4BAC-836A-D2B91F35F492" Type="Text" Created="2023-10-12 22:41:51 -0400" Modified="2023-11-03 00:51:54 -0400">
+                <BinderItem UUID="C751B6E6-AFF8-4BAC-836A-D2B91F35F492" Type="Text" Created="2023-10-12 22:41:51 -0400" Modified="2023-11-05 02:34:07 -0400">
                     <Title>Spark</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -336,21 +337,22 @@
                         <TextSelection>13978,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="6476AB7D-54FF-48D4-B34D-E355601CA407" Type="Text" Created="2022-10-12 20:30:36 -0400" Modified="2023-11-03 01:25:16 -0400">
+                <BinderItem UUID="6476AB7D-54FF-48D4-B34D-E355601CA407" Type="Text" Created="2022-10-12 20:30:36 -0400" Modified="2023-11-05 02:34:08 -0400">
                     <Title>Shis</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <NotesTextSelection>1028,0</NotesTextSelection>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>58,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>44038,0</TextSelection>
+                        <TextSelection>44139,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="E56AA2E3-4777-4A72-A257-0A08A00E3B25" Type="Text" Created="2023-11-01 21:19:18 -0400" Modified="2023-11-03 11:19:00 -0400">
                             <Title>Mandri's moment notes</Title>
                             <MetaData/>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>7,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -5826,14 +5828,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-11-04 01:01:15 -0400"/>
+        <PreviousSession Words="7" Characters="33" Date="2023-11-05 02:34:10 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-11-04 00:00:00 -0400">
+    <RecentWritingHistory Date="2023-11-05 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>7</OtherWordCount>
+        <OtherCharCount>33</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
