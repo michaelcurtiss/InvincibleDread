@@ -55,7 +55,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>print</CurrentFileType>
+    <CurrentFileType>docx</CurrentFileType>
     <FormatSettings>
         <Format ID="outline-document">
             <SectionLayouts>
@@ -74,7 +74,7 @@
             <SectionLayouts>
                 <Type ID="235F7C42-10F1-40AB-9FC5-19AA26EABA47">AS-IS</Type>
                 <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
-                <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">TEXT-WITH-HEADER</Type>
                 <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
                 <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
                 <Type ID="D2E24F2F-E4A2-49D0-BACA-26098774C8F9">DC460EDE-9743-4708-A4E8-B101EAD328E4</Type>
@@ -83,7 +83,7 @@
                 <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">2289666E-F1A8-4BEE-BE77-272E828818C9</Type>
             </SectionLayouts>
             <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">1FF93A44-228E-438A-9D4B-E6B6258219A2</DefaultFrontMatter>
+                <DefaultFrontMatter>1FF93A44-228E-438A-9D4B-E6B6258219A2</DefaultFrontMatter>
             </FrontAndBackMatter>
         </Format>
         <Format ID="mmd-latex-custom-modern">
@@ -372,7 +372,7 @@
         <Fountain>script-screenplay</Fountain>
         <Print>manuscript-times</Print>
         <doc>paperback-6x9</doc>
-        <docx>paperback-6x9</docx>
+        <docx>manuscript-times</docx>
         <epub2>e-book</epub2>
         <epub3>e-book</epub3>
         <fdx>script-screenplay</fdx>
