@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-05 18:41:25 -0400" ModID="D5A38124-7F0B-40FB-8F13-006809CC1021">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-05 19:25:42 -0400" ModID="52406841-9C77-4DA2-AA01-1338A3732964">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2023-11-05 03:15:51 -0400">
             <Title>Novel Format</Title>
@@ -111,14 +111,15 @@
                         <TextSelection>1169,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0400" Modified="2023-11-05 15:42:10 -0400">
+                <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0400" Modified="2023-11-05 19:25:40 -0400">
                     <Title>Ch10 - Ayram</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>121,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1023,0</TextSelection>
+                        <TextSelection>17651,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="45A4F882-D921-4A5E-A6D1-7B335B3C7070" Type="Text" Created="2023-11-05 03:07:39 -0400" Modified="2023-11-05 18:41:14 -0400">
@@ -520,13 +521,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8AB7892F-EF94-4BA8-B3DA-02154C35E52A" Type="Text" Created="2023-11-05 04:51:17 -0400" Modified="2023-11-05 04:51:21 -0400">
+                        <BinderItem UUID="8AB7892F-EF94-4BA8-B3DA-02154C35E52A" Type="Text" Created="2023-11-05 04:51:17 -0400" Modified="2023-11-05 19:25:22 -0400">
                             <Title>Ch10 - Scratch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection Caret="3800">3575,225</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="86EBF5C1-EBD9-44E1-9DAF-851E3A81DFF2" Type="Text" Created="2023-11-05 04:51:21 -0400" Modified="2023-11-05 18:34:46 -0400">
@@ -535,7 +536,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="2637">2449,188</TextSelection>
+                                <TextSelection>4057,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="9C91948F-CE6D-4586-95B2-6CAE65C31BF0" Type="Text" Created="2023-11-05 04:51:25 -0400" Modified="2023-11-05 17:52:53 -0400">
@@ -854,15 +855,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">130000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-1415" Characters="-7778" Date="2023-11-05 18:41:25 -0400"/>
+        <PreviousSession Words="-2161" Characters="-11843" Date="2023-11-05 19:25:42 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2023-11-05 00:00:00 -0400">
-        <DraftWordCount>-8067</DraftWordCount>
-        <DraftCharCount>-45546</DraftCharCount>
-        <OtherWordCount>3366</OtherWordCount>
-        <OtherCharCount>18658</OtherCharCount>
+        <DraftWordCount>-8813</DraftWordCount>
+        <DraftCharCount>-49611</DraftCharCount>
+        <OtherWordCount>4064</OtherWordCount>
+        <OtherCharCount>22461</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
