@@ -2,7 +2,7 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included">
-            <CompileGroup Type="BinderItem"/>
+            <CompileGroup Type="BinderItem">4A1D6B18-0952-42EB-A487-D17915DD3BA1</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <Label>-1</Label>
             </Filter>
@@ -82,9 +82,6 @@
                 <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">AS-IS</Type>
                 <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">2289666E-F1A8-4BEE-BE77-272E828818C9</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter>1FF93A44-228E-438A-9D4B-E6B6258219A2</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="mmd-latex-custom-modern">
             <SectionLayouts>
