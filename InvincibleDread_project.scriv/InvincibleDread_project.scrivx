@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-06 09:02:06 -0500" ModID="C8CF5036-6F10-4B7D-B5EF-9EB5A55D9B4B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-12 17:40:17 -0500" ModID="91AD4EFF-7AF8-49E8-B1DE-A508558D71A0">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0500" Modified="2023-10-26 22:41:13 -0500">
             <Title>Novel Format</Title>
@@ -834,7 +834,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1664,0</TextSelection>
+                        <TextSelection>2346,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5CEF3D7A-AC04-4173-B2DD-2A1D8D9A90BE" Type="Text" Created="2023-11-01 12:43:40 -0500" Modified="2023-11-01 12:53:28 -0500">
@@ -1799,14 +1799,14 @@
                                 <TextSelection Caret="25298">25293,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0C44F35A-1F41-49AC-BDBA-3B801D1E919D" Type="Text" Created="2022-01-23 11:59:46 -0500" Modified="2023-05-15 02:27:48 -0500">
+                        <BinderItem UUID="0C44F35A-1F41-49AC-BDBA-3B801D1E919D" Type="Text" Created="2022-01-23 11:59:46 -0500" Modified="2023-11-12 17:39:56 -0500">
                             <Title>The Sumerian World</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>203,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>43038,0</TextSelection>
+                                <TextSelection>40869,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E9A8C477-FC7E-4950-B687-48B3EA34E319" Type="Text" Created="2022-01-09 22:43:58 -0500" Modified="2022-10-18 22:12:36 -0500">
@@ -5828,14 +5828,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-11-06 09:02:07 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-11-12 17:40:17 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-11-06 00:00:00 -0500">
+    <RecentWritingHistory Date="2023-11-12 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherCharCount>1</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
