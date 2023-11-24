@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-16 17:34:32 -0500" ModID="AF9340C1-99E8-4B36-AA1A-A20C4B514F98">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-23 18:21:42 -0500" ModID="658460AB-1F6C-4085-8FB8-BC43BDBE8514">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
             <Title>Novel Format</Title>
@@ -11,13 +11,13 @@
                 <TextSelection Caret="6844">6572,272</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="05952E3F-7E2A-46FB-B519-947A5BBBF8BE" Type="Text" Created="2023-11-09 11:40:26 -0500" Modified="2023-11-14 13:49:04 -0500">
+        <BinderItem UUID="05952E3F-7E2A-46FB-B519-947A5BBBF8BE" Type="Text" Created="2023-11-09 11:40:26 -0500" Modified="2023-11-22 16:45:57 -0500">
             <Title>Plot Problems</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>131,0</TextSelection>
+                <TextSelection>115,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
@@ -28,8 +28,8 @@
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0500">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 09:06:45 -0500">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0500">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -182,24 +182,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="401C2646-75E7-4BC2-A8D0-D5D25FE666E2" Type="Text" Created="2023-11-05 02:55:44 -0500" Modified="2023-11-16 17:34:28 -0500">
+                        <BinderItem UUID="401C2646-75E7-4BC2-A8D0-D5D25FE666E2" Type="Text" Created="2023-11-05 02:55:44 -0500" Modified="2023-11-22 16:46:24 -0500">
                             <Title>Ambush</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>448,0</NotesTextSelection>
+                                <NotesTextSelection>71,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>53767,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="0940BA7E-2B88-47B6-B0C5-86193648BE2D" Type="Text" Created="2023-11-09 16:50:04 -0500" Modified="2023-11-14 15:18:03 -0500">
-                            <Title>Finding of Mandri</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>49,0</TextSelection>
+                                <TextSelection>54163,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -235,15 +226,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="6D0D6179-59B9-4AD2-85F5-03A0E30FF173" Type="Text" Created="2023-11-05 03:07:12 -0500" Modified="2023-11-09 16:54:15 -0500">
+                        <BinderItem UUID="6D0D6179-59B9-4AD2-85F5-03A0E30FF173" Type="Text" Created="2023-11-05 03:07:12 -0500" Modified="2023-11-21 15:57:55 -0500">
                             <Title>Pit Cave</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>93,0</NotesTextSelection>
+                                <NotesTextSelection>94,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>17433,0</TextSelection>
+                                <TextSelection>21518,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -257,15 +248,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0500" Modified="2023-11-09 10:06:48 -0500">
+                        <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0500" Modified="2023-11-23 18:17:15 -0500">
                             <Title>Ayram</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>121,0</NotesTextSelection>
+                                <NotesTextSelection>120,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9917,0</TextSelection>
+                                <TextSelection>17618,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -286,7 +277,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11237,0</TextSelection>
+                                <TextSelection>10892,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -352,7 +343,7 @@
                                 <NotesTextSelection>167,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>30374,0</TextSelection>
+                                <TextSelection>24144,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -736,11 +727,12 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="3FCC6CC4-FD59-4842-89C8-6F64400B27B4" Type="Text" Created="2023-11-05 04:07:44 -0500" Modified="2023-11-09 10:08:23 -0500">
+                        <BinderItem UUID="3FCC6CC4-FD59-4842-89C8-6F64400B27B4" Type="Text" Created="2023-11-05 04:07:44 -0500" Modified="2023-11-21 15:58:23 -0500">
                             <Title>Amalgamete</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>10,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>25709,0</TextSelection>
@@ -955,6 +947,15 @@
                         <TextSelection>379,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="BA732537-13F4-4D3B-B45B-3816C1B52728" Type="Text" Created="2023-11-19 14:15:49 -0500" Modified="2023-11-21 15:05:53 -0500">
+                    <Title>Pit Cave Scratch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>913,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="DEDF11FA-46CD-461B-A9DA-A91B22B78AE6" Type="Folder" Created="2023-11-05 21:04:56 -0500" Modified="2023-11-05 21:05:15 -0500">
@@ -1032,19 +1033,28 @@
                                 <NotesTextSelection>57,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>832,102</TextSelection>
+                                <TextSelection>2469,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2023-11-15 20:23:18 -0500">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2023-11-21 14:12:06 -0500">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>179,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1716,0</TextSelection>
+                        <TextSelection Caret="68">52,16</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="027136CE-F744-4D3C-87FC-033294177675" Type="Text" Created="2023-11-22 13:02:17 -0500" Modified="2023-11-23 18:12:12 -0500">
+                    <Title>Ayram Scratch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2505,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="CDC1BEF2-CDE3-4393-B3F9-68EFCACA0B54" Type="Text" Created="2023-11-12 11:51:12 -0500" Modified="2023-11-12 12:49:51 -0500">
@@ -1296,7 +1306,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>288,0</TextSelection>
+                                <TextSelection>477,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="7603D07A-809D-4537-978B-27A09223AEAF" Type="Text" Created="2023-11-05 04:51:53 -0500" Modified="2023-11-05 10:59:06 -0500">
@@ -1647,6 +1657,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0940BA7E-2B88-47B6-B0C5-86193648BE2D" Type="Text" Created="2023-11-09 16:50:04 -0500" Modified="2023-11-14 15:18:03 -0500">
+                    <Title>Finding of Mandri</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>49,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -2490,13 +2509,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">130000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-3" Characters="45" Date="2023-11-16 17:34:32 -0500"/>
+        <PreviousSession Words="426" Characters="2250" Date="2023-11-23 18:21:42 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-11-16 00:00:00 -0500">
-        <DraftWordCount>-3</DraftWordCount>
-        <DraftCharCount>45</DraftCharCount>
+    <RecentWritingHistory Date="2023-11-23 00:00:00 -0500">
+        <DraftWordCount>524</DraftWordCount>
+        <DraftCharCount>2788</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
