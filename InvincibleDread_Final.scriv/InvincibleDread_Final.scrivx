@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-11-29 18:21:06 -0500" ModID="FCE27142-CFA8-4859-B737-E35798AB8033">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-12-02 00:57:45 -0500" ModID="1E645EB7-B218-42BA-B09F-D9C77969C56F">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
             <Title>Novel Format</Title>
@@ -11,49 +11,60 @@
                 <TextSelection Caret="6844">6572,272</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="05952E3F-7E2A-46FB-B519-947A5BBBF8BE" Type="Text" Created="2023-11-09 11:40:26 -0500" Modified="2023-11-25 21:14:40 -0500">
-            <Title>Plot Problems</Title>
+        <BinderItem UUID="B01A30D1-0429-448C-8BEA-F0B172A86231" Type="Folder" Created="2023-12-01 17:36:32 -0500" Modified="2023-12-01 17:36:35 -0500">
+            <Title>OldPlotProblems</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>2857,0</TextSelection>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <Children>
+                <BinderItem UUID="05952E3F-7E2A-46FB-B519-947A5BBBF8BE" Type="Text" Created="2023-11-09 11:40:26 -0500" Modified="2023-12-01 17:36:26 -0500">
+                    <Title>Plot Problems</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9674FBC1-D893-4651-9806-19243C409D76" Type="Text" Created="2023-11-25 21:09:02 -0500" Modified="2023-11-26 17:43:37 -0500">
+                    <Title>Final plot problems</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1443,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="948BF421-A585-4EC5-9A3B-FF3E2F1778D4" Type="Text" Created="2023-11-26 17:45:09 -0500" Modified="2023-11-27 16:02:16 -0500">
+                    <Title>Push Burgeon Structure</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2574,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5627C8A9-A883-402E-80D6-AF7ACBADC22A" Type="Text" Created="2023-11-27 15:52:32 -0500" Modified="2023-11-27 17:15:20 -0500">
+                    <Title>P-Elrahet death</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>346,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
-        <BinderItem UUID="9674FBC1-D893-4651-9806-19243C409D76" Type="Text" Created="2023-11-25 21:09:02 -0500" Modified="2023-11-26 17:43:37 -0500">
-            <Title>Final plot problems</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>1443,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="948BF421-A585-4EC5-9A3B-FF3E2F1778D4" Type="Text" Created="2023-11-26 17:45:09 -0500" Modified="2023-11-27 16:02:16 -0500">
-            <Title>Push Burgeon Structure</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>2574,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="5627C8A9-A883-402E-80D6-AF7ACBADC22A" Type="Text" Created="2023-11-27 15:52:32 -0500" Modified="2023-11-27 17:15:20 -0500">
-            <Title>P-Elrahet death</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>346,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="38E3A07A-253F-4AF2-B55A-EC0C0EF4EBBF" Type="Text" Created="2023-11-27 17:16:04 -0500" Modified="2023-11-28 12:16:54 -0500">
+        <BinderItem UUID="38E3A07A-253F-4AF2-B55A-EC0C0EF4EBBF" Type="Text" Created="2023-11-27 17:16:04 -0500" Modified="2023-12-01 17:36:59 -0500">
             <Title>Mandri made minder</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>367,0</TextSelection>
+                <TextSelection>122,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
@@ -262,7 +273,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="6D0D6179-59B9-4AD2-85F5-03A0E30FF173" Type="Text" Created="2023-11-05 03:07:12 -0500" Modified="2023-11-28 17:36:26 -0500">
+                        <BinderItem UUID="6D0D6179-59B9-4AD2-85F5-03A0E30FF173" Type="Text" Created="2023-11-05 03:07:12 -0500" Modified="2023-12-01 17:56:54 -0500">
                             <Title>Pit Cave</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -270,7 +281,7 @@
                                 <NotesTextSelection>94,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>21081,0</TextSelection>
+                                <TextSelection>16209,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -284,12 +295,12 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0500" Modified="2023-11-29 18:20:26 -0500">
+                        <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0500" Modified="2023-12-01 17:36:18 -0500">
                             <Title>Ayram</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>14,0</NotesTextSelection>
+                                <NotesTextSelection>198,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>8223,0</TextSelection>
@@ -1092,14 +1103,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2023-11-25 16:11:26 -0500">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2023-12-02 00:57:40 -0500">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>179,0</NotesTextSelection>
+                        <NotesTextSelection>182,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>272,0</TextSelection>
+                        <TextSelection>182,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="027136CE-F744-4D3C-87FC-033294177675" Type="Text" Created="2023-11-22 13:02:17 -0500" Modified="2023-11-23 18:12:12 -0500">
@@ -3335,15 +3346,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">130000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="125" Characters="708" Date="2023-11-29 18:21:06 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-12-02 00:57:45 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-11-29 00:00:00 -0500">
-        <DraftWordCount>125</DraftWordCount>
-        <DraftCharCount>708</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2023-12-02 00:00:00 -0500">
+        <DraftWordCount>-239</DraftWordCount>
+        <DraftCharCount>-1428</DraftCharCount>
+        <OtherWordCount>15</OtherWordCount>
+        <OtherCharCount>108</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
