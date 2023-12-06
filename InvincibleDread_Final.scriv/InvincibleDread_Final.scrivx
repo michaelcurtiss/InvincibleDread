@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-12-02 00:57:45 -0500" ModID="1E645EB7-B218-42BA-B09F-D9C77969C56F">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-12-05 19:55:41 -0500" ModID="70180CD1-7BBE-4A42-93E4-97AA98A8519F">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
             <Title>Novel Format</Title>
@@ -273,7 +273,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="6D0D6179-59B9-4AD2-85F5-03A0E30FF173" Type="Text" Created="2023-11-05 03:07:12 -0500" Modified="2023-12-01 17:56:54 -0500">
+                        <BinderItem UUID="6D0D6179-59B9-4AD2-85F5-03A0E30FF173" Type="Text" Created="2023-11-05 03:07:12 -0500" Modified="2023-12-05 14:11:23 -0500">
                             <Title>Pit Cave</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -281,7 +281,7 @@
                                 <NotesTextSelection>94,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16209,0</TextSelection>
+                                <TextSelection>21705,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -295,15 +295,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0500" Modified="2023-12-01 17:36:18 -0500">
+                        <BinderItem UUID="B83A8669-3444-4089-A453-955697A90D09" Type="Text" Created="2023-11-05 03:07:24 -0500" Modified="2023-12-05 19:55:37 -0500">
                             <Title>Ayram</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>198,0</NotesTextSelection>
+                                <NotesTextSelection>213,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8223,0</TextSelection>
+                                <TextSelection>11398,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="060F9919-3EB5-4380-9CFC-81A40E7B2606" Type="Text" Created="2023-11-28 15:37:49 -0500" Modified="2023-11-28 17:09:53 -0500">
@@ -1103,14 +1103,23 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2023-12-02 00:57:40 -0500">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2023-12-04 00:54:08 -0500">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>182,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>182,0</TextSelection>
+                        <TextSelection Caret="156">149,7</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E7A9050A-8B5D-4E06-98B3-63686A0F62CF" Type="Text" Created="2023-12-04 12:24:03 -0500" Modified="2023-12-04 12:24:07 -0500">
+                    <Title>Mandean</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8914,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="027136CE-F744-4D3C-87FC-033294177675" Type="Text" Created="2023-11-22 13:02:17 -0500" Modified="2023-11-23 18:12:12 -0500">
@@ -3346,15 +3355,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">130000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-12-02 00:57:45 -0500"/>
+        <PreviousSession Words="576" Characters="3444" Date="2023-12-05 19:55:41 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-12-02 00:00:00 -0500">
-        <DraftWordCount>-239</DraftWordCount>
-        <DraftCharCount>-1428</DraftCharCount>
-        <OtherWordCount>15</OtherWordCount>
-        <OtherCharCount>108</OtherCharCount>
+    <RecentWritingHistory Date="2023-12-05 00:00:00 -0500">
+        <DraftWordCount>576</DraftWordCount>
+        <DraftCharCount>3444</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
