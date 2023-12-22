@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CompileSettings>
     <ProjectSettings>
-        <Content Scope="Included">
+        <Content Scope="Included" IncludeSelectionDescendants="Yes">
             <CompileGroup Type="Selection">4A1D6B18-0952-42EB-A487-D17915DD3BA1</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <Label>-1</Label>
