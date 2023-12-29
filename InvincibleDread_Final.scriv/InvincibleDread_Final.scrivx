@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-12-27 17:15:23 -0500" ModID="01768968-3E72-4A2A-84F9-BDB9E8DA8D30">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2023-12-28 21:16:27 -0500" ModID="BAB61789-CD7F-4C3D-B117-C9C173FE476E">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
             <Title>Novel Format</Title>
@@ -67,13 +67,13 @@
                 <TextSelection>122,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="ED2A164D-B98B-42DB-8DEA-C5FE1F6891F7" Type="Text" Created="2023-12-24 17:35:10 -0500" Modified="2023-12-24 17:35:39 -0500">
+        <BinderItem UUID="ED2A164D-B98B-42DB-8DEA-C5FE1F6891F7" Type="Text" Created="2023-12-24 17:35:10 -0500" Modified="2023-12-28 20:50:08 -0500">
             <Title>BIG POINTS</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>90,0</TextSelection>
+                <TextSelection>210,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
@@ -821,24 +821,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="3FCC6CC4-FD59-4842-89C8-6F64400B27B4" Type="Text" Created="2023-11-05 04:07:44 -0500" Modified="2023-12-27 17:15:11 -0500">
+                        <BinderItem UUID="3FCC6CC4-FD59-4842-89C8-6F64400B27B4" Type="Text" Created="2023-11-05 04:07:44 -0500" Modified="2023-12-28 21:16:14 -0500">
                             <Title>Amalgamete</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>22,0</NotesTextSelection>
+                                <NotesTextSelection>1590,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16229,0</TextSelection>
+                                <TextSelection>40612,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="85EF4BCA-9E9F-4C81-9424-1523344D9FA5" Type="Text" Created="2023-12-26 16:39:13 -0500" Modified="2023-12-26 17:35:39 -0500">
+                        <BinderItem UUID="85EF4BCA-9E9F-4C81-9424-1523344D9FA5" Type="Text" Created="2023-12-26 16:39:13 -0500" Modified="2023-12-28 20:47:04 -0500">
                             <Title>Showdown</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1186,0</TextSelection>
+                                <TextSelection>1604,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -852,7 +852,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="C73AB432-AA20-48CC-8369-99BBFEF833BA" Type="Text" Created="2023-11-05 04:08:03 -0500" Modified="2023-11-25 13:48:26 -0500">
+                        <BinderItem UUID="C73AB432-AA20-48CC-8369-99BBFEF833BA" Type="Text" Created="2023-11-05 04:08:03 -0500" Modified="2023-12-28 20:43:19 -0500">
                             <Title>Spark</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -860,7 +860,7 @@
                                 <NotesTextSelection>42,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3872,0</TextSelection>
+                                <TextSelection>168,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3516,15 +3516,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">130000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="388" Characters="2330" Date="2023-12-27 17:15:23 -0500"/>
+        <PreviousSession Words="1646" Characters="8911" Date="2023-12-28 21:16:27 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-12-27 00:00:00 -0500">
-        <DraftWordCount>388</DraftWordCount>
-        <DraftCharCount>2330</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2023-12-28 00:00:00 -0500">
+        <DraftWordCount>1645</DraftWordCount>
+        <DraftCharCount>8908</DraftCharCount>
+        <OtherWordCount>18</OtherWordCount>
+        <OtherCharCount>120</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
