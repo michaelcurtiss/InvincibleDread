@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-01-06 14:22:28 -0500" ModID="FDCA52D2-81F6-4352-A7FF-F3F88DFDADF6">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-01-07 18:08:59 -0500" ModID="C4462FC8-8791-4174-8F42-B3479DC20764">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 18:48:19 -0500" Modified="2023-10-26 22:41:13 -0500">
             <Title>Novel Format</Title>
@@ -1241,13 +1241,13 @@
                                 <TextSelection>26,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="808FCC22-2F27-4A97-A78B-0C342DC721C3" Type="Text" Created="2022-12-27 10:21:34 -0500" Modified="2023-01-31 20:47:52 -0500">
+                        <BinderItem UUID="808FCC22-2F27-4A97-A78B-0C342DC721C3" Type="Text" Created="2022-12-27 10:21:34 -0500" Modified="2024-01-07 18:08:52 -0500">
                             <Title>Edersheim</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>30,0</TextSelection>
+                                <TextSelection>3728,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E68AAAFF-8356-49FB-A71A-A3B987D28C7A" Type="Text" Created="2023-01-31 20:47:41 -0500" Modified="2023-02-02 13:06:55 -0500">
@@ -1648,13 +1648,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="39B45DAA-6FB0-4391-BBCB-33A9BDB2D992" Type="Text" Created="2023-10-19 10:08:41 -0500" Modified="2023-10-19 10:23:14 -0500">
+                        <BinderItem UUID="39B45DAA-6FB0-4391-BBCB-33A9BDB2D992" Type="Text" Created="2023-10-19 10:08:41 -0500" Modified="2024-01-07 11:19:28 -0500">
                             <Title>Niklas Luhmann</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4102,0</TextSelection>
+                                <TextSelection>2430,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="1E740CEA-319A-4A4E-AB78-571FBB80964B" Type="Text" Created="2023-03-03 12:13:31 -0500" Modified="2024-01-06 03:45:15 -0500">
@@ -5828,14 +5828,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-01-06 14:22:28 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2024-01-07 18:08:59 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2024-01-06 00:00:00 -0500">
+    <RecentWritingHistory Date="2024-01-07 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>54</OtherWordCount>
+        <OtherCharCount>311</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
