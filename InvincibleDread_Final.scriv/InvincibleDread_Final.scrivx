@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-01-15 00:02:17 -0500" ModID="E9651668-8C2B-4CF9-8816-917B3F3442CA">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-01-15 03:41:24 -0500" ModID="6A7BCBC7-8A11-4249-9559-4310E09FC607">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
             <Title>Novel Format</Title>
@@ -67,13 +67,13 @@
                 <TextSelection>1264,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="ED2A164D-B98B-42DB-8DEA-C5FE1F6891F7" Type="Text" Created="2023-12-24 17:35:10 -0500" Modified="2024-01-14 23:05:09 -0500">
+        <BinderItem UUID="ED2A164D-B98B-42DB-8DEA-C5FE1F6891F7" Type="Text" Created="2023-12-24 17:35:10 -0500" Modified="2024-01-15 03:28:39 -0500">
             <Title>BIG POINTS</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>743,0</TextSelection>
+                <TextSelection>113,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="B6297539-E215-43FD-9195-D460DC11C168" Type="Text" Created="2024-01-12 00:40:50 -0500" Modified="2024-01-12 00:41:08 -0500">
@@ -174,7 +174,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="CF88A639-1AF8-422C-A9E1-D79610454C1F" Type="Text" Created="2023-11-05 02:54:54 -0500" Modified="2024-01-10 22:01:10 -0500">
+                        <BinderItem UUID="CF88A639-1AF8-422C-A9E1-D79610454C1F" Type="Text" Created="2023-11-05 02:54:54 -0500" Modified="2024-01-15 02:23:06 -0500">
                             <Title>Salavan Soreen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -182,7 +182,7 @@
                                 <NotesTextSelection Caret="246">113,133</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>36391,0</TextSelection>
+                                <TextSelection>7484,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -197,7 +197,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="8B83DBC6-D566-4FC1-A2DB-91EC6AF18E94" Type="Text" Created="2023-11-05 02:55:13 -0500" Modified="2024-01-10 22:09:06 -0500">
+                        <BinderItem UUID="8B83DBC6-D566-4FC1-A2DB-91EC6AF18E94" Type="Text" Created="2023-11-05 02:55:13 -0500" Modified="2024-01-15 02:26:05 -0500">
                             <Title>Junei Hills</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -205,7 +205,7 @@
                                 <NotesTextSelection>25,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>14712,0</TextSelection>
+                                <TextSelection>8015,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -225,7 +225,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="24D8A0C9-1795-40B6-90D4-ED91353FE7B3" Type="Text" Created="2023-11-05 02:55:27 -0500" Modified="2024-01-10 22:38:07 -0500">
+                        <BinderItem UUID="24D8A0C9-1795-40B6-90D4-ED91353FE7B3" Type="Text" Created="2023-11-05 02:55:27 -0500" Modified="2024-01-15 02:28:07 -0500">
                             <Title>Sight Spot</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -233,7 +233,7 @@
                                 <NotesTextSelection>73,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="12901">12895,6</TextSelection>
+                                <TextSelection>22637,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -248,7 +248,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="401C2646-75E7-4BC2-A8D0-D5D25FE666E2" Type="Text" Created="2023-11-05 02:55:44 -0500" Modified="2024-01-10 23:23:20 -0500">
+                        <BinderItem UUID="401C2646-75E7-4BC2-A8D0-D5D25FE666E2" Type="Text" Created="2023-11-05 02:55:44 -0500" Modified="2024-01-15 02:37:43 -0500">
                             <Title>Ambush</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -256,7 +256,7 @@
                                 <NotesTextSelection>18,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="41379">40668,711</TextSelection>
+                                <TextSelection>41199,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -356,7 +356,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="40AB9C38-3B64-418D-81FF-0F2A717DCAE6" Type="Text" Created="2023-11-05 04:01:02 -0500" Modified="2024-01-12 02:52:20 -0500">
+                        <BinderItem UUID="40AB9C38-3B64-418D-81FF-0F2A717DCAE6" Type="Text" Created="2023-11-05 04:01:02 -0500" Modified="2024-01-15 02:57:14 -0500">
                             <Title>Pain</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -364,7 +364,7 @@
                                 <NotesTextSelection>109,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5502,0</TextSelection>
+                                <TextSelection>31785,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -378,7 +378,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="2FF4BF5E-05F2-49A4-AECF-116C510629E2" Type="Text" Created="2023-11-05 04:01:44 -0500" Modified="2024-01-12 02:59:40 -0500">
+                        <BinderItem UUID="2FF4BF5E-05F2-49A4-AECF-116C510629E2" Type="Text" Created="2023-11-05 04:01:44 -0500" Modified="2024-01-15 03:08:28 -0500">
                             <Title>Minting Rock</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -386,7 +386,7 @@
                                 <NotesTextSelection>734,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>56053,0</TextSelection>
+                                <TextSelection>59331,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -408,7 +408,7 @@
                                 <NotesTextSelection>211,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>26637,0</TextSelection>
+                                <TextSelection>24861,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -422,7 +422,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="51EF6720-6160-48BF-B79D-BD5691DB1269" Type="Text" Created="2023-11-05 04:02:58 -0500" Modified="2024-01-11 02:37:16 -0500">
+                        <BinderItem UUID="51EF6720-6160-48BF-B79D-BD5691DB1269" Type="Text" Created="2023-11-05 04:02:58 -0500" Modified="2024-01-15 03:14:10 -0500">
                             <Title>Togetherness</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -430,7 +430,7 @@
                                 <NotesTextSelection>27,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18508,0</TextSelection>
+                                <TextSelection>12316,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -477,7 +477,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="D49DE114-8194-4947-87F5-43366251CBA2" Type="Text" Created="2023-11-05 04:05:20 -0500" Modified="2024-01-11 14:05:38 -0500">
+                        <BinderItem UUID="D49DE114-8194-4947-87F5-43366251CBA2" Type="Text" Created="2023-11-05 04:05:20 -0500" Modified="2024-01-15 03:24:13 -0500">
                             <Title>Ugmukheen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -485,7 +485,7 @@
                                 <NotesTextSelection>238,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16874,0</TextSelection>
+                                <TextSelection>15948,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -674,13 +674,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3A2B8C93-0007-4D09-AD19-20C6762F7C29" Type="Text" Created="2023-11-09 11:59:05 -0500" Modified="2024-01-10 21:03:24 -0500">
+                        <BinderItem UUID="3A2B8C93-0007-4D09-AD19-20C6762F7C29" Type="Text" Created="2023-11-09 11:59:05 -0500" Modified="2024-01-15 03:30:43 -0500">
                             <Title>Dying Pilgrim</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>819,0</TextSelection>
+                                <TextSelection>631,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C98A0B65-26E6-440F-8BC6-848E927D56CD" Type="Text" Created="2023-11-09 11:59:41 -0500" Modified="2024-01-11 16:41:18 -0500">
@@ -713,7 +713,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="AD5EDE6D-F043-419A-9568-C2C8636E7EB9" Type="Text" Created="2023-11-05 04:06:28 -0500" Modified="2024-01-12 23:28:17 -0500">
+                        <BinderItem UUID="AD5EDE6D-F043-419A-9568-C2C8636E7EB9" Type="Text" Created="2023-11-05 04:06:28 -0500" Modified="2024-01-15 03:34:39 -0500">
                             <Title>Goree Pass</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -721,7 +721,7 @@
                                 <NotesTextSelection>63,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>26853,0</TextSelection>
+                                <TextSelection>6404,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -735,7 +735,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="60206358-5704-4519-B618-A08F7C8D1D3E" Type="Text" Created="2023-11-05 04:07:21 -0500" Modified="2024-01-13 02:55:57 -0500">
+                        <BinderItem UUID="60206358-5704-4519-B618-A08F7C8D1D3E" Type="Text" Created="2023-11-05 04:07:21 -0500" Modified="2024-01-15 03:35:46 -0500">
                             <Title>Shulgi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -743,7 +743,7 @@
                                 <NotesTextSelection>54,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>22064,0</TextSelection>
+                                <TextSelection Caret="12829">12824,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -801,14 +801,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="40B789AD-2F6F-4EAD-B362-2A0DB4C86490" Type="Text" Created="2024-01-04 14:03:25 -0500" Modified="2024-01-12 00:15:44 -0500">
+                        <BinderItem UUID="40B789AD-2F6F-4EAD-B362-2A0DB4C86490" Type="Text" Created="2024-01-04 14:03:25 -0500" Modified="2024-01-15 03:41:16 -0500">
                             <Title>Epilogue</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>44,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7950,0</TextSelection>
+                                <TextSelection>7903,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3624,15 +3624,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">130000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1" Characters="14" Date="2024-01-15 00:02:17 -0500"/>
+        <PreviousSession Words="128" Characters="703" Date="2024-01-15 03:41:24 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2024-01-15 00:00:00 -0500">
-        <DraftWordCount>1</DraftWordCount>
-        <DraftCharCount>11</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <DraftWordCount>128</DraftWordCount>
+        <DraftCharCount>700</DraftCharCount>
+        <OtherWordCount>22</OtherWordCount>
+        <OtherCharCount>132</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
