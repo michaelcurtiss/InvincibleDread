@@ -68,4 +68,14 @@
     <Day dwc="123" dcc="672" dtwc="131942" owc="1716" occ="9557" dtcc="727317">2024-01-15</Day>
     <Day dwc="0" dcc="0" dtwc="131942" owc="280" occ="1642" dtcc="727317">2024-01-16</Day>
     <Day dwc="0" dcc="0" owc="20" occ="114">2024-01-17</Day>
+    <Day dwc="0" dcc="0" dtwc="131942" owc="19" occ="123" dtcc="727317">2024-01-18</Day>
+    <Day dwc="0" dcc="0" dtwc="131942" owc="1384" occ="8038" dtcc="727317">2024-01-19</Day>
+    <Day dwc="-272" dcc="-1357" dtwc="131670" owc="3" occ="107" dtcc="725960">2024-01-20</Day>
+    <Day dwc="-1034" dcc="-5684" dtwc="130413" owc="18" occ="126" dtcc="719015">2024-01-21</Day>
+    <Day dwc="0" dcc="0" dtwc="130413" owc="273" occ="1464" dtcc="719015">2024-01-22</Day>
+    <Day dwc="-146" dcc="-773" dtwc="130267" owc="871" occ="5272" dtcc="718242">2024-01-23</Day>
+    <Day dwc="0" dcc="0" dtwc="130267" owc="132" occ="841" dtcc="718242">2024-01-24</Day>
+    <Day dwc="67" dcc="367" dtwc="130334" owc="55" occ="400" dtcc="718609">2024-01-25</Day>
+    <Day dwc="0" dcc="0" dtwc="130334" owc="77" occ="421" dtcc="718609">2024-01-26</Day>
+    <Day dwc="120" dcc="673" dtwc="130454" owc="33" occ="217" dtcc="719282">2024-01-27</Day>
 </WritingHistory>
