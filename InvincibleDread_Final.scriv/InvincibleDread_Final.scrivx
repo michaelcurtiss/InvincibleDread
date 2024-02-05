@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-01-27 17:24:04 -0500" ModID="DEB4D961-379F-49F7-BFF8-0424A2C3B35C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-02-05 13:17:25 -0500" ModID="99F66087-08F3-4CF2-AF09-3232006DE819">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
             <Title>Novel Format</Title>
@@ -120,8 +120,8 @@
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0500">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 09:06:45 -0500">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0500">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -192,8 +192,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="D3FF51A9-D706-4DC3-939B-67E35DC5D222" Type="Folder" Created="2023-11-09 08:54:08 -0500" Modified="2023-11-09 09:08:52 -0500">
-                    <Title>Salavan's Test</Title>
+                <BinderItem UUID="D3FF51A9-D706-4DC3-939B-67E35DC5D222" Type="Folder" Created="2023-11-09 08:54:08 -0500" Modified="2024-01-28 11:53:34 -0500">
+                    <Title>Lord Salavan</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -201,14 +201,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="CF88A639-1AF8-422C-A9E1-D79610454C1F" Type="Text" Created="2023-11-05 02:54:54 -0500" Modified="2024-01-27 17:21:42 -0500">
+                        <BinderItem UUID="CF88A639-1AF8-422C-A9E1-D79610454C1F" Type="Text" Created="2023-11-05 02:54:54 -0500" Modified="2024-01-29 15:43:57 -0500">
                             <Title>Salavan Soreen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>17805,0</TextSelection>
+                                <TextSelection>31071,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -346,7 +346,7 @@
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15970,0</TextSelection>
+                                <TextSelection>15971,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -850,23 +850,32 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2024-01-27 17:24:00 -0500">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0500" Modified="2024-02-04 16:25:53 -0500">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>182,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18777,0</TextSelection>
+                        <TextSelection Caret="18734">18733,1</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="E1A99747-7456-4A52-9CC9-B597DB5A3A59" Type="Text" Created="2024-01-25 22:54:03 -0500" Modified="2024-01-25 23:32:11 -0500">
+                <BinderItem UUID="E1A99747-7456-4A52-9CC9-B597DB5A3A59" Type="Text" Created="2024-01-25 22:54:03 -0500" Modified="2024-02-05 08:33:16 -0500">
                     <Title>boundary negotiation</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>369,0</TextSelection>
+                        <TextSelection>5964,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F7360765-927A-417C-B987-930FBDB43880" Type="Text" Created="2024-01-28 15:15:29 -0500" Modified="2024-01-28 15:15:35 -0500">
+                    <Title>Islamic Slave society</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>992,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E5972159-4BEA-459D-B7CA-B907D36D94EE" Type="Text" Created="2024-01-26 17:24:58 -0500" Modified="2024-01-26 17:26:18 -0500">
@@ -909,7 +918,34 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5833,0</TextSelection>
+                        <TextSelection>5871,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CE4F087C-3EB2-4997-A58A-47A674374241" Type="Text" Created="2024-01-30 15:59:51 -0500" Modified="2024-01-30 23:19:27 -0500">
+                    <Title>Gospel of thomas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1872,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="355EFEB6-86C5-47DA-9FD9-0BE8EDC3AE95" Type="Text" Created="2024-02-02 12:55:39 -0500" Modified="2024-02-05 10:17:13 -0500">
+                    <Title>Erhman's claims</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>41755,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D758B566-F5A0-46AE-980A-DE263B402278" Type="Text" Created="2024-01-31 15:39:44 -0500" Modified="2024-01-31 19:15:46 -0500">
+                    <Title>Jesus and the rise of the early</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12518,1</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A531DD1B-2EFF-4BAC-9E24-520FBB4F9C61" Type="Text" Created="2024-01-12 20:26:13 -0500" Modified="2024-01-12 20:27:10 -0500">
@@ -4474,15 +4510,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="120" Characters="673" Date="2024-01-27 17:24:04 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2024-02-05 13:17:25 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-01-27 00:00:00 -0500">
-        <DraftWordCount>120</DraftWordCount>
-        <DraftCharCount>673</DraftCharCount>
-        <OtherWordCount>33</OtherWordCount>
-        <OtherCharCount>217</OtherCharCount>
+    <RecentWritingHistory Date="2024-02-05 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>436</OtherWordCount>
+        <OtherCharCount>2793</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
