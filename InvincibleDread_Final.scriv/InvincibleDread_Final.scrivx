@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-02-12 16:48:08 -0500" ModID="07C0B067-4863-4D5B-B9A7-C8D9DC535084">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-02-13 11:05:15 -0500" ModID="F9FB5C37-9E41-4488-92C7-2069B92B6BCD">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0500" Modified="2023-11-05 03:15:51 -0500">
             <Title>Novel Format</Title>
@@ -860,13 +860,31 @@
                         <TextSelection>18826,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="E1A99747-7456-4A52-9CC9-B597DB5A3A59" Type="Text" Created="2024-01-25 22:54:03 -0500" Modified="2024-02-12 16:30:42 -0500">
+                <BinderItem UUID="E1A99747-7456-4A52-9CC9-B597DB5A3A59" Type="Text" Created="2024-01-25 22:54:03 -0500" Modified="2024-02-12 23:51:39 -0500">
                     <Title>boundary negotiation</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>7034,0</TextSelection>
+                        <TextSelection>150,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FFA85D6C-03B5-4C35-89EC-D4890245343D" Type="Text" Created="2024-02-12 19:11:15 -0500" Modified="2024-02-13 00:15:13 -0500">
+                    <Title>BN - TEXT</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>209,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A7FCDD47-EAFC-44E4-903B-C824F7761FF8" Type="Text" Created="2024-02-12 18:12:36 -0500" Modified="2024-02-12 23:04:41 -0500">
+                    <Title>Wittgenstein</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9649,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="073F7272-595A-4BAA-BB6D-E38105DF74AA" Type="Text" Created="2024-02-06 01:09:13 -0500" Modified="2024-02-06 01:46:26 -0500">
@@ -921,13 +939,13 @@
                         <TextSelection>1298,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="840C7A54-1937-4E83-8BBB-6ECE13533703" Type="Text" Created="2024-01-23 10:24:30 -0500" Modified="2024-01-27 11:23:00 -0500">
+                <BinderItem UUID="840C7A54-1937-4E83-8BBB-6ECE13533703" Type="Text" Created="2024-01-23 10:24:30 -0500" Modified="2024-02-13 11:05:12 -0500">
                     <Title>Study of John</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5871,0</TextSelection>
+                        <TextSelection>11833,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="CE4F087C-3EB2-4997-A58A-47A674374241" Type="Text" Created="2024-01-30 15:59:51 -0500" Modified="2024-01-30 23:19:27 -0500">
@@ -972,7 +990,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1127,0</TextSelection>
+                        <TextSelection>831,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="D758B566-F5A0-46AE-980A-DE263B402278" Type="Text" Created="2024-01-31 15:39:44 -0500" Modified="2024-01-31 19:15:46 -0500">
@@ -4546,15 +4564,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-02-12 16:48:08 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2024-02-13 11:05:15 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-02-12 00:00:00 -0500">
+    <RecentWritingHistory Date="2024-02-13 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>8</OtherWordCount>
-        <OtherCharCount>52</OtherCharCount>
+        <OtherWordCount>1048</OtherWordCount>
+        <OtherCharCount>6153</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
