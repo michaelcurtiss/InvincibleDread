@@ -132,5 +132,10 @@
     <Day dwc="-34" dcc="-174" dtwc="130381" owc="0" occ="0" dtcc="719148">2024-05-06</Day>
     <Day dwc="-5" dcc="-33" dtwc="130376" owc="0" occ="0" dtcc="719115">2024-05-07</Day>
     <Day dwc="-37" dcc="-152" dtwc="130339" owc="0" occ="0" dtcc="718963">2024-05-08</Day>
-    <Day dwc="0" dcc="0" owc="5" occ="32">2024-05-09</Day>
+    <Day dwc="-222" dcc="-1204" dtwc="130117" owc="123" occ="811" dtcc="717759">2024-05-09</Day>
+    <Day dwc="-14" dcc="-115" dtwc="130103" owc="300" occ="1691" dtcc="717644">2024-05-10</Day>
+    <Day dwc="0" dcc="0" dtwc="130103" owc="2437" occ="15155" dtcc="717644">2024-05-11</Day>
+    <Day dwc="0" dcc="12" dtwc="130103" owc="20" occ="102" dtcc="717656">2024-05-12</Day>
+    <Day dwc="0" dcc="0" dtwc="130103" owc="28" occ="150" dtcc="717656">2024-05-13</Day>
+    <Day dwc="0" dcc="0" owc="41" occ="247">2024-05-15</Day>
 </WritingHistory>
