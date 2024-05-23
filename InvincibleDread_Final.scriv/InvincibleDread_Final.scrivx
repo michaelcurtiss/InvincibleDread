@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-05-16 17:11:03 -0400" ModID="C91DD289-09BC-48D7-867A-D9E14CE5C8B0">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-05-22 17:44:35 -0400" ModID="DEFFD8D4-B93D-413F-B4D1-88C22825C614">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2023-11-05 03:15:51 -0400">
             <Title>Novel Format</Title>
@@ -120,8 +120,8 @@
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 09:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 09:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -275,15 +275,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="401C2646-75E7-4BC2-A8D0-D5D25FE666E2" Type="Text" Created="2023-11-05 02:55:44 -0400" Modified="2024-05-16 17:10:49 -0400">
+                        <BinderItem UUID="401C2646-75E7-4BC2-A8D0-D5D25FE666E2" Type="Text" Created="2023-11-05 02:55:44 -0400" Modified="2024-05-22 17:44:13 -0400">
                             <Title>Ambush</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>549,0</NotesTextSelection>
+                                <NotesTextSelection>571,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>25807,0</TextSelection>
+                                <TextSelection>26919,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="7EFFEDCB-63E6-4781-AB16-52046D780440" Type="Text" Created="2024-04-03 15:05:33 -0400" Modified="2024-05-15 15:41:18 -0400">
@@ -879,13 +879,22 @@
                         <TextSelection>30305,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3282AA7C-A947-4924-9C5E-49C57F480343" Type="Text" Created="2024-05-15 12:46:50 -0400" Modified="2024-05-15 12:47:49 -0400">
+                <BinderItem UUID="3282AA7C-A947-4924-9C5E-49C57F480343" Type="Text" Created="2024-05-15 12:46:50 -0400" Modified="2024-05-21 13:35:18 -0400">
                     <Title>Beguine</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>247,0</TextSelection>
+                        <TextSelection>26803,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6E5696B1-CCCF-4BE0-9A0E-62C48C32D3F8" Type="Text" Created="2024-05-21 14:49:41 -0400" Modified="2024-05-22 12:48:50 -0400">
+                    <Title>Neolithic violence</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>633,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="778D62AD-7198-4464-B246-9400BAA97AE3" Type="Text" Created="2024-05-09 05:33:49 -0400" Modified="2024-05-09 11:26:50 -0400">
@@ -4719,15 +4728,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-84" Characters="-585" Date="2024-05-16 17:11:03 -0400"/>
+        <PreviousSession Words="33" Characters="181" Date="2024-05-22 17:44:35 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-05-16 00:00:00 -0400">
-        <DraftWordCount>-84</DraftWordCount>
-        <DraftCharCount>-585</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2024-05-22 00:00:00 -0400">
+        <DraftWordCount>33</DraftWordCount>
+        <DraftCharCount>181</DraftCharCount>
+        <OtherWordCount>92</OtherWordCount>
+        <OtherCharCount>471</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
