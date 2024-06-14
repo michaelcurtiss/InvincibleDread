@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-06-12 15:21:01 -0400" ModID="2B4C690B-B3FF-4081-9A8A-F46EC36F88F2">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-06-13 21:30:54 -0400" ModID="83B9B082-12D1-4E1F-A6C9-89DD2F3589A9">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2023-11-05 03:15:51 -0400">
             <Title>Novel Format</Title>
@@ -67,13 +67,13 @@
                 <TextSelection Caret="155">0,155</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="8EE8F04A-70EA-4AD8-A0AB-DFB0B25B18A8" Type="Text" Created="2024-06-04 12:54:28 -0400" Modified="2024-06-04 14:59:00 -0400">
+        <BinderItem UUID="8EE8F04A-70EA-4AD8-A0AB-DFB0B25B18A8" Type="Text" Created="2024-06-04 12:54:28 -0400" Modified="2024-06-13 20:57:44 -0400">
             <Title>FIXES</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>142,0</TextSelection>
+                <TextSelection>192,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="E724516E-66AD-40AE-A076-C298FAB2007E" Type="Text" Created="2024-05-29 15:37:52 -0400" Modified="2024-05-30 15:41:47 -0400">
@@ -403,7 +403,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1390,0</TextSelection>
+                                <TextSelection>1585,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -417,14 +417,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="45A4F882-D921-4A5E-A6D1-7B335B3C7070" Type="Text" Created="2023-11-05 03:07:39 -0400" Modified="2024-06-12 15:17:47 -0400">
+                        <BinderItem UUID="45A4F882-D921-4A5E-A6D1-7B335B3C7070" Type="Text" Created="2023-11-05 03:07:39 -0400" Modified="2024-06-12 15:39:11 -0400">
                             <Title>Charnel Road</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>189,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>28647,0</TextSelection>
+                                <TextSelection>14168,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -438,15 +439,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="40AB9C38-3B64-418D-81FF-0F2A717DCAE6" Type="Text" Created="2023-11-05 04:01:02 -0400" Modified="2024-06-12 15:20:12 -0400">
+                        <BinderItem UUID="40AB9C38-3B64-418D-81FF-0F2A717DCAE6" Type="Text" Created="2023-11-05 04:01:02 -0400" Modified="2024-06-13 21:30:47 -0400">
                             <Title>Pain</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>109,0</NotesTextSelection>
+                                <NotesTextSelection>659,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3936,0</TextSelection>
+                                <TextSelection>18044,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5885B2DF-9A78-48DE-9057-9A58D7245B63" Type="Text" Created="2024-06-13 11:20:32 -0400" Modified="2024-06-13 21:15:58 -0400">
+                            <Title>PainExtract</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7184,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4783,15 +4793,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-41" Characters="-235" Date="2024-06-12 15:21:01 -0400"/>
+        <PreviousSession Words="362" Characters="1929" Date="2024-06-13 21:30:54 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-06-12 00:00:00 -0400">
-        <DraftWordCount>-41</DraftWordCount>
-        <DraftCharCount>-235</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2024-06-13 00:00:00 -0400">
+        <DraftWordCount>361</DraftWordCount>
+        <DraftCharCount>1933</DraftCharCount>
+        <OtherWordCount>8</OtherWordCount>
+        <OtherCharCount>50</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
