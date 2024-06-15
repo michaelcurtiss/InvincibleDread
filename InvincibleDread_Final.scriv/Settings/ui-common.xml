@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UIStates>
     <Binder Show="Yes">
-        <ShowCollections>Yes</ShowCollections>
-        <SelectedCollection>1</SelectedCollection>
+        <ShowCollections>No</ShowCollections>
+        <SelectedCollection>0</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
         <ExpandedItems>
             <ItemID>4A1D6B18-0952-42EB-A487-D17915DD3BA1</ItemID>
@@ -29,8 +29,8 @@
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
-    <Inspector Show="Yes" View="Notes">
-        <ShowProjectBookmarks>No</ShowProjectBookmarks>
+    <Inspector Show="No" View="Notes">
+        <ShowProjectBookmarks>Yes</ShowProjectBookmarks>
         <ShowSimilarTexts>No</ShowSimilarTexts>
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
@@ -289,7 +289,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>18044,0</Selection>
+                <Selection>27121,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
