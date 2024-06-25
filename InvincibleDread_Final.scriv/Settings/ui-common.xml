@@ -33,7 +33,7 @@
             <ItemID>D32F3DFE-1514-4188-91D5-C143B7C280F5</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>CA1126FC-8C70-45B2-AF99-86F7EF5ADA21</ItemID>
+            <ItemID>B83A8669-3444-4089-A453-955697A90D09</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -43,7 +43,7 @@
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>Vertical</Split>
+    <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">No</Binder>
@@ -86,9 +86,7 @@
                 <GroupsViewMode>Corkboard</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <Content>
-                    <ItemID>CA1126FC-8C70-45B2-AF99-86F7EF5ADA21</ItemID>
-                </Content>
+                <Content/>
                 <NavigationHistory CurrentIndex="199">
                     <HistoryItem Type="BinderItems" ViewMode="Single">4D67D614-D1AD-467E-9B9A-429AD8BAC3FA</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">F4AD19A5-EFFA-4348-BB89-E2D25950BBAA</HistoryItem>
@@ -297,7 +295,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>17429,0</Selection>
+                <Selection>17917,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
