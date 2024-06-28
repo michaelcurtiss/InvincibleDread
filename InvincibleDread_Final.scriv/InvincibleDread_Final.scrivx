@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-06-27 16:30:39 -0400" ModID="DC7B6043-EBD2-4154-BC31-F9C43EA33898">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-06-28 11:37:57 -0400" ModID="48B5CD81-F220-49B4-BCFC-4EC736FC23A3">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2023-11-05 03:15:51 -0400">
             <Title>Novel Format</Title>
@@ -138,8 +138,8 @@
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 09:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -478,7 +478,7 @@
                                 <NotesTextSelection>809,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>20376,0</TextSelection>
+                                <TextSelection>39734,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="544BE4D2-2A3C-47BA-BF59-6A40CE5481FD" Type="Text" Created="2024-06-15 16:15:13 -0400" Modified="2024-06-27 12:46:32 -0400">
@@ -942,6 +942,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>4069,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E350CDC3-070F-494A-86CA-510DE65049AF" Type="Text" Created="2024-06-28 10:55:29 -0400" Modified="2024-06-28 11:37:47 -0400">
+                    <Title>Schopenhauer</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9297,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="55970713-BFDA-446A-BABC-3E55AFDA6BE0" Type="Text" Created="2024-05-30 10:08:45 -0400" Modified="2024-05-30 10:41:53 -0400">
@@ -4811,15 +4820,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="57" Characters="388" Date="2024-06-27 16:30:39 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2024-06-28 11:37:57 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-06-27 00:00:00 -0400">
-        <DraftWordCount>57</DraftWordCount>
-        <DraftCharCount>388</DraftCharCount>
-        <OtherWordCount>13</OtherWordCount>
-        <OtherCharCount>85</OtherCharCount>
+    <RecentWritingHistory Date="2024-06-28 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>1611</OtherWordCount>
+        <OtherCharCount>9297</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
