@@ -170,5 +170,10 @@
     <Day dwc="95" dcc="601" dtwc="130592" owc="41" occ="234" dtcc="720916">2024-06-25</Day>
     <Day dwc="6781" dcc="37323" dtwc="137373" owc="0" occ="0" dtcc="758239">2024-06-26</Day>
     <Day dwc="57" dcc="388" owc="13" occ="85">2024-06-27</Day>
-    <Day dwc="0" dcc="0" owc="3105" occ="17689">2024-06-28</Day>
+    <Day dwc="0" dcc="0" dtwc="137633" owc="3352" occ="19080" dtcc="759697">2024-06-28</Day>
+    <Day dwc="538" dcc="2865" dtwc="138171" owc="0" occ="0" dtcc="762562">2024-06-29</Day>
+    <Day dwc="114" dcc="586" dtwc="137747" owc="0" occ="0" dtcc="760283">2024-06-30</Day>
+    <Day dwc="112" dcc="544" dtwc="137745" owc="0" occ="0" dtcc="760241">2024-07-01</Day>
+    <Day dwc="68" dcc="343" owc="0" occ="0">2024-07-02</Day>
+    <Day dwc="6" dcc="36" dtwc="137819" owc="16" occ="90" dtcc="760620">2024-07-03</Day>
 </WritingHistory>
