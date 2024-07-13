@@ -180,5 +180,6 @@
     <Day dwc="0" dcc="0" owc="31" occ="181">2024-07-07</Day>
     <Day dwc="118" dcc="725" dtwc="138195" owc="55" occ="363" dtcc="762781">2024-07-08</Day>
     <Day dwc="139" dcc="994" dtwc="138334" owc="35" occ="187" dtcc="763775">2024-07-09</Day>
-    <Day dwc="6" dcc="24" owc="0" occ="0">2024-07-10</Day>
+    <Day dwc="6" dcc="24" dtwc="138340" owc="135" occ="830" dtcc="763799">2024-07-10</Day>
+    <Day dwc="-86" dcc="-405" dtwc="138254" owc="367" occ="2045" dtcc="763394">2024-07-11</Day>
 </WritingHistory>
