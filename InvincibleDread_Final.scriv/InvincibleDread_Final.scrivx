@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-07-24 14:35:19 -0400" ModID="13807525-9F72-42D8-BF44-0B85ACB7A35B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-08-06 02:15:55 -0400" ModID="491F7607-5EDC-41A1-9C51-C9DBC54DB3E6">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2023-11-05 03:15:51 -0400">
             <Title>Novel Format</Title>
@@ -138,8 +138,8 @@
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 09:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 09:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -510,7 +510,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="39C20537-37D2-435C-9D75-3F823795A7DF" Type="Text" Created="2023-11-05 04:02:16 -0400" Modified="2024-07-18 01:32:42 -0400">
+                        <BinderItem UUID="39C20537-37D2-435C-9D75-3F823795A7DF" Type="Text" Created="2023-11-05 04:02:16 -0400" Modified="2024-08-06 02:15:44 -0400">
                             <Title>Pile Of Dead</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -518,16 +518,16 @@
                                 <NotesTextSelection>137,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>21680,0</TextSelection>
+                                <TextSelection>28387,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="15E1EB7D-A2F4-4F32-AE90-EFE8DEF2C98F" Type="Text" Created="2024-07-11 11:13:49 -0400" Modified="2024-07-17 23:14:16 -0400">
+                        <BinderItem UUID="15E1EB7D-A2F4-4F32-AE90-EFE8DEF2C98F" Type="Text" Created="2024-07-11 11:13:49 -0400" Modified="2024-08-04 21:02:08 -0400">
                             <Title>PileExtract</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4609,0</TextSelection>
+                                <TextSelection>6967,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -953,14 +953,23 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0400" Modified="2024-07-24 14:35:11 -0400">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 10:04:49 -0400" Modified="2024-08-03 12:09:41 -0400">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>193,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>35723,0</TextSelection>
+                        <TextSelection>37161,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="50C66866-FBD7-4EED-8D4B-E1133875027F" Type="Text" Created="2024-08-03 15:38:49 -0400" Modified="2024-08-04 00:07:07 -0400">
+                    <Title>Presup</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11024,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="FEBBA070-9FEF-4AF1-BC55-6B848B38D3AD" Type="Text" Created="2024-07-16 12:42:16 -0400" Modified="2024-07-17 01:46:58 -0400">
@@ -1239,7 +1248,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>817,0</TextSelection>
+                        <TextSelection>751,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -4904,15 +4913,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-07-24 14:35:19 -0400"/>
+        <PreviousSession Words="317" Characters="1850" Date="2024-08-06 02:15:55 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-07-24 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>491</OtherWordCount>
-        <OtherCharCount>2804</OtherCharCount>
+    <RecentWritingHistory Date="2024-08-06 00:00:00 -0400">
+        <DraftWordCount>317</DraftWordCount>
+        <DraftCharCount>1816</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
