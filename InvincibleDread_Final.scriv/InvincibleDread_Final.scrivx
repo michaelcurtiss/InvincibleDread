@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-08-08 00:03:52 -0400" ModID="D85D6B91-70FC-4162-896C-EA24CA28FA60">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-08-08 02:39:25 -0400" ModID="2712F61D-8D53-439E-8036-0E02427C910D">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2023-11-05 03:15:51 -0400">
             <Title>Novel Format</Title>
@@ -541,7 +541,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="51EF6720-6160-48BF-B79D-BD5691DB1269" Type="Text" Created="2023-11-05 04:02:58 -0400" Modified="2024-08-08 00:03:19 -0400">
+                        <BinderItem UUID="51EF6720-6160-48BF-B79D-BD5691DB1269" Type="Text" Created="2023-11-05 04:02:58 -0400" Modified="2024-08-08 02:39:11 -0400">
                             <Title>Togetherness</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -549,7 +549,7 @@
                                 <NotesTextSelection>37,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>19471,0</TextSelection>
+                                <TextSelection>19408,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="43639FC3-7F8A-42DD-B060-ECFA5B531986" Type="Text" Created="2024-08-07 21:27:15 -0400" Modified="2024-08-07 23:38:24 -0400">
@@ -4931,13 +4931,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="7" Characters="62" Date="2024-08-08 00:03:52 -0400"/>
+        <PreviousSession Words="9" Characters="71" Date="2024-08-08 02:39:25 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2024-08-08 00:00:00 -0400">
-        <DraftWordCount>7</DraftWordCount>
-        <DraftCharCount>56</DraftCharCount>
+        <DraftWordCount>9</DraftWordCount>
+        <DraftCharCount>65</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
