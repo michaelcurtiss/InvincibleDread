@@ -198,4 +198,10 @@
     <Day dwc="834" dcc="4582" dtwc="140734" owc="0" occ="0" dtcc="776953">2024-08-07</Day>
     <Day dwc="80" dcc="435" dtwc="140814" owc="0" occ="0" dtcc="777388">2024-08-08</Day>
     <Day dwc="97" dcc="609" dtwc="140911" owc="63" occ="355" dtcc="777997">2024-08-09</Day>
+    <Day dwc="0" dcc="0" owc="34" occ="209">2024-08-11</Day>
+    <Day dwc="0" dcc="0" dtwc="141063" owc="47" occ="267" dtcc="778862">2024-08-15</Day>
+    <Day dwc="-9" dcc="-51" dtwc="141054" owc="265" occ="1440" dtcc="778811">2024-08-17</Day>
+    <Day dwc="-152" dcc="-865" owc="-1" occ="-3">2024-08-18</Day>
+    <Day dwc="0" dcc="0" dtwc="141063" owc="136" occ="753" dtcc="778862">2024-08-27</Day>
+    <Day dwc="0" dcc="0" owc="135" occ="746">2024-09-01</Day>
 </WritingHistory>
