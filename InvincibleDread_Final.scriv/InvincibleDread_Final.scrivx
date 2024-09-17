@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-09-15 21:21:33 -0400" ModID="009FC0F9-3E6B-4B5B-B512-78BA3B7CB221">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-09-16 17:35:28 -0400" ModID="E49184CE-A257-4C4E-99A2-4B1BC5999E44">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2023-11-05 03:15:51 -0400">
             <Title>Novel Format</Title>
@@ -614,7 +614,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="D49DE114-8194-4947-87F5-43366251CBA2" Type="Text" Created="2023-11-05 04:05:20 -0400" Modified="2024-09-03 21:59:40 -0400">
+                        <BinderItem UUID="D49DE114-8194-4947-87F5-43366251CBA2" Type="Text" Created="2023-11-05 04:05:20 -0400" Modified="2024-09-16 17:25:46 -0400">
                             <Title>Ugmukheen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -622,16 +622,16 @@
                                 <NotesTextSelection>238,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6991,0</TextSelection>
+                                <TextSelection>16662,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5D9A4DB0-25C4-4AB9-9C7D-B06EF902B198" Type="Text" Created="2024-08-09 22:34:25 -0400" Modified="2024-09-03 18:21:29 -0400">
+                        <BinderItem UUID="5D9A4DB0-25C4-4AB9-9C7D-B06EF902B198" Type="Text" Created="2024-08-09 22:34:25 -0400" Modified="2024-09-16 17:23:15 -0400">
                             <Title>Ugmuk scratch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>129,1634</TextSelection>
+                                <TextSelection>4330,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1183,7 +1183,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>34362,0</TextSelection>
+                        <TextSelection>12361,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -4958,15 +4958,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-09-15 21:21:33 -0400"/>
+        <PreviousSession Words="363" Characters="2073" Date="2024-09-16 17:35:28 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-09-15 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>573</OtherWordCount>
-        <OtherCharCount>3705</OtherCharCount>
+    <RecentWritingHistory Date="2024-09-16 00:00:00 -0400">
+        <DraftWordCount>363</DraftWordCount>
+        <DraftCharCount>2073</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
