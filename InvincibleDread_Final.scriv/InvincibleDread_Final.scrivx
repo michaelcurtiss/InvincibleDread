@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-11-11 19:35:19 -0500" ModID="2044B74D-651A-44E0-A888-BB8BEF19AF6C">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-11-11 19:42:46 -0500" ModID="9B8D4F0F-B0E6-44BC-80DA-00E53A76DEB2">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0500" Modified="2023-11-05 02:15:51 -0500">
             <Title>Novel Format</Title>
@@ -634,13 +634,13 @@
                                 <TextSelection>4332,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="10B1C459-5F69-4FF6-ACAC-1F0FE836E729" Type="Text" Created="2024-11-11 12:42:05 -0500" Modified="2024-11-11 19:34:37 -0500">
+                        <BinderItem UUID="10B1C459-5F69-4FF6-ACAC-1F0FE836E729" Type="Text" Created="2024-11-11 12:42:05 -0500" Modified="2024-11-11 19:42:09 -0500">
                             <Title>God'sEyeSight</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4516,0</TextSelection>
+                                <TextSelection>6892,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -829,14 +829,14 @@
                                 <TextSelection>197,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FC17C31C-6BC2-40CD-B559-49BB0D274E52" Type="Text" Created="2023-11-09 11:00:01 -0500" Modified="2024-11-11 19:35:17 -0500">
+                        <BinderItem UUID="FC17C31C-6BC2-40CD-B559-49BB0D274E52" Type="Text" Created="2023-11-09 11:00:01 -0500" Modified="2024-11-11 19:42:04 -0500">
                             <Title>Exit</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>42,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2407,0</TextSelection>
+                                <TextSelection>904,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -858,7 +858,7 @@
                                 <NotesTextSelection>514,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6285,0</TextSelection>
+                                <TextSelection>3181,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4985,13 +4985,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-342" Characters="-1855" Date="2024-11-11 19:35:19 -0500"/>
+        <PreviousSession Words="-342" Characters="-1852" Date="2024-11-11 19:42:46 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2024-11-11 00:00:00 -0500">
         <DraftWordCount>-405</DraftWordCount>
-        <DraftCharCount>-2195</DraftCharCount>
+        <DraftCharCount>-2192</DraftCharCount>
         <OtherWordCount>57</OtherWordCount>
         <OtherCharCount>324</OtherCharCount>
     </RecentWritingHistory>
