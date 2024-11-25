@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-11-14 18:36:45 -0500" ModID="BF64CA1F-8FC2-410E-84D6-98485A28BD93">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-11-24 23:40:23 -0500" ModID="11F6E83F-2B46-4676-86EA-1BC7B07122A6">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0500" Modified="2023-11-05 02:15:51 -0500">
             <Title>Novel Format</Title>
@@ -161,7 +161,7 @@
                                 <NotesTextSelection>223,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>772,0</TextSelection>
+                                <TextSelection Caret="1035">0,1035</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -470,15 +470,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="2FF4BF5E-05F2-49A4-AECF-116C510629E2" Type="Text" Created="2023-11-05 03:01:44 -0500" Modified="2024-08-17 22:30:26 -0500">
+                        <BinderItem UUID="2FF4BF5E-05F2-49A4-AECF-116C510629E2" Type="Text" Created="2023-11-05 03:01:44 -0500" Modified="2024-11-18 15:16:42 -0500">
                             <Title>Minting Rock</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>1750,0</NotesTextSelection>
+                                <NotesTextSelection>94,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>25168,0</TextSelection>
+                                <TextSelection>29533,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="544BE4D2-2A3C-47BA-BF59-6A40CE5481FD" Type="Text" Created="2024-06-15 16:15:13 -0500" Modified="2024-07-09 21:37:46 -0500">
@@ -850,24 +850,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="AD5EDE6D-F043-419A-9568-C2C8636E7EB9" Type="Text" Created="2023-11-05 03:06:28 -0500" Modified="2024-11-14 16:42:27 -0500">
+                        <BinderItem UUID="AD5EDE6D-F043-419A-9568-C2C8636E7EB9" Type="Text" Created="2023-11-05 03:06:28 -0500" Modified="2024-11-23 10:31:38 -0500">
                             <Title>Goree Pass</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
-                                <NotesTextSelection>514,0</NotesTextSelection>
+                                <NotesTextSelection>155,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>24297,0</TextSelection>
+                                <TextSelection>28475,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="99765BBE-24DC-429A-BF30-C560C4D1E87D" Type="Text" Created="2024-11-12 09:16:34 -0500" Modified="2024-11-14 16:42:30 -0500">
+                        <BinderItem UUID="99765BBE-24DC-429A-BF30-C560C4D1E87D" Type="Text" Created="2024-11-12 09:16:34 -0500" Modified="2024-11-19 14:00:59 -0500">
                             <Title>Goree Pass Scratch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3065,0</TextSelection>
+                                <TextSelection>4361,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -989,14 +989,14 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 09:04:49 -0500" Modified="2024-11-11 13:31:59 -0500">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 09:04:49 -0500" Modified="2024-11-24 23:39:53 -0500">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>193,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>41681,0</TextSelection>
+                        <TextSelection>45849,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="753DC049-A1A7-49FC-AB12-C604F8230299" Type="Text" Created="2024-10-31 00:34:11 -0500" Modified="2024-10-31 00:37:42 -0500">
@@ -2682,6 +2682,17 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="6D974711-8CB6-41A3-9BFD-68BC419891EF" Type="Text" Created="2024-11-18 16:51:28 -0500" Modified="2024-11-18 16:51:39 -0500">
+                    <Title>a</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>120,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="D4491132-62F0-44E5-8949-C736FEDE1CAD" Type="Folder" Created="2023-11-09 11:03:32 -0500" Modified="2023-11-09 11:04:21 -0500">
@@ -4119,7 +4130,7 @@
                                 <NotesTextSelection>87,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="8678">8476,202</TextSelection>
+                                <TextSelection>1323,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -5003,15 +5014,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="229" Characters="1595" Date="2024-11-14 18:36:45 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2024-11-24 23:40:23 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-11-14 00:00:00 -0500">
-        <DraftWordCount>229</DraftWordCount>
-        <DraftCharCount>1595</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2024-11-24 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>86</OtherWordCount>
+        <OtherCharCount>491</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
