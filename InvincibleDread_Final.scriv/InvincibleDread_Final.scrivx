@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-12-20 17:02:49 -0500" ModID="E609C8F8-16DC-44B5-9D55-9A6F9F83364A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2024-12-22 00:00:31 -0500" ModID="7A91BA5F-5637-4A88-80ED-BC5FCE1909C3">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0500" Modified="2023-11-05 02:15:51 -0500">
             <Title>Novel Format</Title>
@@ -881,7 +881,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="60206358-5704-4519-B618-A08F7C8D1D3E" Type="Text" Created="2023-11-05 03:07:21 -0500" Modified="2024-12-20 17:01:46 -0500">
+                        <BinderItem UUID="60206358-5704-4519-B618-A08F7C8D1D3E" Type="Text" Created="2023-11-05 03:07:21 -0500" Modified="2024-12-21 18:20:33 -0500">
                             <Title>Shulgi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -889,7 +889,7 @@
                                 <NotesTextSelection>350,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5955,0</TextSelection>
+                                <TextSelection>5520,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E3A9778B-68AD-4665-AD22-5D47706F993A" Type="Text" Created="2024-11-12 14:27:21 -0500" Modified="2024-11-14 16:31:08 -0500">
@@ -1350,6 +1350,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>2221,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A4E2E393-F573-458A-A54F-20B54A5FB787" Type="Text" Created="2024-12-21 23:55:20 -0500" Modified="2024-12-22 00:00:26 -0500">
+                    <Title>Panpsychism</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2320,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B7371E7E-061B-4942-BBF5-67E53AA36F25" Type="Text" Created="2024-02-14 08:30:41 -0500" Modified="2024-02-14 10:41:15 -0500">
@@ -5023,15 +5032,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-16" Characters="-79" Date="2024-12-20 17:02:49 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2024-12-22 00:00:31 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2024-12-20 00:00:00 -0500">
-        <DraftWordCount>-16</DraftWordCount>
-        <DraftCharCount>-79</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2024-12-22 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>335</OtherWordCount>
+        <OtherCharCount>1986</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
