@@ -284,5 +284,18 @@
     <Day dwc="-5" dcc="-7" dtwc="150299" owc="0" occ="0" dtcc="831017">2025-01-10</Day>
     <Day dwc="116" dcc="655" dtwc="150224" owc="14" occ="65" dtcc="830656">2025-01-11</Day>
     <Day dwc="-24" dcc="57" dtwc="150149" owc="218" occ="1207" dtcc="830413">2025-01-13</Day>
-    <Day dwc="0" dcc="0" owc="0" occ="2">2025-01-15</Day>
+    <Day dwc="-1" dcc="221" dtwc="150172" owc="289" occ="1657" dtcc="830577">2025-01-15</Day>
+    <Day dwc="358" dcc="2108" dtwc="150530" owc="52" occ="291" dtcc="832685">2025-01-16</Day>
+    <Day dwc="0" dcc="0" dtwc="150530" owc="24" occ="143" dtcc="832685">2025-01-17</Day>
+    <Day dwc="9" dcc="58" dtwc="150539" owc="0" occ="0" dtcc="832743">2025-01-18</Day>
+    <Day dwc="485" dcc="2644" dtwc="151024" owc="37" occ="199" dtcc="835387">2025-01-19</Day>
+    <Day dwc="136" dcc="819" dtwc="151160" owc="80" occ="462" dtcc="836206">2025-01-20</Day>
+    <Day dwc="143" dcc="786" dtwc="151303" owc="30" occ="184" dtcc="836992">2025-01-21</Day>
+    <Day dwc="35" dcc="218" dtwc="151338" owc="28" occ="181" dtcc="837210">2025-01-22</Day>
+    <Day dwc="0" dcc="0" dtwc="151338" owc="112" occ="738" dtcc="837210">2025-01-23</Day>
+    <Day dwc="182" dcc="1051" dtwc="151520" owc="3498" occ="20314" dtcc="838261">2025-01-24</Day>
+    <Day dwc="104" dcc="627" dtwc="151624" owc="141" occ="854" dtcc="838888">2025-01-25</Day>
+    <Day dwc="0" dcc="0" dtwc="151624" owc="1100" occ="6446" dtcc="838888">2025-01-26</Day>
+    <Day dwc="34" dcc="233" dtwc="151658" owc="879" occ="5131" dtcc="839121">2025-01-27</Day>
+    <Day dwc="0" dcc="0" owc="20" occ="128">2025-01-28</Day>
 </WritingHistory>

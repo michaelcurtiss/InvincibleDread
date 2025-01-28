@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2024-11-19 13:22:47 -0500" ModID="2395F2B4-308D-4AD7-BF6F-4D6DF6A0A943">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-01-24 16:46:08 -0500" ModID="AE9A2379-5CEE-43BC-B17D-5B4FBACA8FE8">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 19:48:19 -0500" Modified="2023-10-26 23:41:13 -0500">
             <Title>Novel Format</Title>
@@ -706,13 +706,13 @@
             </TextSettings>
             <CorkboardAndOutliner>
                 <OutlinerExpandedState>
-                    <ItemID>00B4FA64-D705-4810-B3FB-C566AF858F74</ItemID>
-                </OutlinerExpandedState>
-                <OutlinerExpandedState>
                     <ItemID>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>00D78C34-591C-4B77-8149-CB18AC21A56C</ItemID>
+                </OutlinerExpandedState>
+                <OutlinerExpandedState>
+                    <ItemID>00B4FA64-D705-4810-B3FB-C566AF858F74</ItemID>
                 </OutlinerExpandedState>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
@@ -1723,13 +1723,13 @@
                                 <TextSelection>32619,832</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B03B4EC0-0DF6-41A0-8892-67D0AE229187" Type="Text" Created="2023-03-21 22:08:35 -0500" Modified="2023-03-26 15:55:13 -0500">
+                        <BinderItem UUID="B03B4EC0-0DF6-41A0-8892-67D0AE229187" Type="Text" Created="2023-03-21 22:08:35 -0500" Modified="2025-01-22 11:49:21 -0500">
                             <Title>CivilWar</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="9045">8817,228</TextSelection>
+                                <TextSelection>10835,47</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="F07F2C05-11AA-45F7-819B-196F5CED3812" Type="Text" Created="2023-02-17 17:23:47 -0500" Modified="2023-02-18 21:53:52 -0500">
@@ -1787,7 +1787,7 @@
                                 <NotesTextSelection>49,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="7702">7655,47</TextSelection>
+                                <TextSelection>7136,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="10516ADD-F54C-4AE0-A3A1-9A68B6050CAA" Type="Text" Created="2022-01-31 21:08:41 -0500" Modified="2022-10-18 13:39:19 -0500">
@@ -5828,10 +5828,10 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-11-19 13:22:47 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-01-24 16:46:08 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2024-11-19 00:00:00 -0500">
+    <RecentWritingHistory Date="2025-01-24 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
