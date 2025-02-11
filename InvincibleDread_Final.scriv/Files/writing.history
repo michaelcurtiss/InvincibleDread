@@ -297,5 +297,17 @@
     <Day dwc="104" dcc="627" dtwc="151624" owc="141" occ="854" dtcc="838888">2025-01-25</Day>
     <Day dwc="0" dcc="0" dtwc="151624" owc="1100" occ="6446" dtcc="838888">2025-01-26</Day>
     <Day dwc="34" dcc="233" dtwc="151658" owc="879" occ="5131" dtcc="839121">2025-01-27</Day>
-    <Day dwc="0" dcc="0" owc="20" occ="128">2025-01-28</Day>
+    <Day dwc="127" dcc="728" dtwc="151785" owc="196" occ="1202" dtcc="839849">2025-01-28</Day>
+    <Day dwc="0" dcc="0" dtwc="151785" owc="131" occ="846" dtcc="839849">2025-01-29</Day>
+    <Day dwc="0" dcc="0" dtwc="151785" owc="277" occ="1689" dtcc="839849">2025-01-30</Day>
+    <Day dwc="0" dcc="0" dtwc="151785" owc="589" occ="3587" dtcc="839849">2025-01-31</Day>
+    <Day dwc="3" dcc="15" dtwc="151788" owc="2579" occ="15389" dtcc="839864">2025-02-01</Day>
+    <Day dwc="28" dcc="165" dtwc="151816" owc="77" occ="396" dtcc="840029">2025-02-02</Day>
+    <Day dwc="105" dcc="630" dtwc="151921" owc="817" occ="5023" dtcc="840659">2025-02-04</Day>
+    <Day dwc="269" dcc="1643" dtwc="152200" owc="20242" occ="116456" dtcc="842244">2025-02-05</Day>
+    <Day dwc="585" dcc="3287" dtwc="152696" owc="706" occ="4105" dtcc="845009">2025-02-06</Day>
+    <Day dwc="79" dcc="414" dtwc="152775" owc="1453" occ="8677" dtcc="845423">2025-02-07</Day>
+    <Day dwc="0" dcc="0" dtwc="152775" owc="549" occ="3140" dtcc="845423">2025-02-08</Day>
+    <Day dwc="211" dcc="1224" owc="21" occ="134">2025-02-09</Day>
+    <Day dwc="0" dcc="1" owc="0" occ="0">2025-02-10</Day>
 </WritingHistory>
