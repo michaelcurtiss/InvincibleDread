@@ -309,5 +309,12 @@
     <Day dwc="79" dcc="414" dtwc="152775" owc="1453" occ="8677" dtcc="845423">2025-02-07</Day>
     <Day dwc="0" dcc="0" dtwc="152775" owc="549" occ="3140" dtcc="845423">2025-02-08</Day>
     <Day dwc="211" dcc="1224" owc="21" occ="134">2025-02-09</Day>
-    <Day dwc="0" dcc="1" owc="0" occ="0">2025-02-10</Day>
+    <Day dwc="49" dcc="315" dtwc="153035" owc="0" occ="0" dtcc="846963">2025-02-10</Day>
+    <Day dwc="3" dcc="40" owc="0" occ="0">2025-02-11</Day>
+    <Day dwc="116" dcc="593" dtwc="153154" owc="261" occ="1453" dtcc="847596">2025-02-12</Day>
+    <Day dwc="225" dcc="1200" dtwc="153379" owc="60" occ="350" dtcc="848796">2025-02-13</Day>
+    <Day dwc="0" dcc="0" dtwc="153379" owc="3770" occ="22474" dtcc="848796">2025-02-14</Day>
+    <Day dwc="0" dcc="0" dtwc="153379" owc="8738" occ="51649" dtcc="848796">2025-02-15</Day>
+    <Day dwc="0" dcc="0" dtwc="153379" owc="11467" occ="68006" dtcc="848796">2025-02-16</Day>
+    <Day dwc="-54" dcc="-332" dtwc="153325" owc="142" occ="856" dtcc="848464">2025-02-17</Day>
 </WritingHistory>
