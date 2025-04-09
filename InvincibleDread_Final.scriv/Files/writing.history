@@ -338,4 +338,9 @@
     <Day dwc="69" dcc="412" owc="39" occ="225">2025-03-30</Day>
     <Day dwc="251" dcc="1380" dtwc="154857" owc="31" occ="198" dtcc="856729">2025-04-01</Day>
     <Day dwc="-8" dcc="-53" owc="0" occ="0">2025-04-02</Day>
+    <Day dwc="-9" dcc="-28" dtwc="154840" owc="178" occ="943" dtcc="856648">2025-04-03</Day>
+    <Day dwc="14" dcc="125" dtwc="154854" owc="0" occ="0" dtcc="856773">2025-04-05</Day>
+    <Day dwc="79" dcc="437" dtwc="154933" owc="343" occ="2088" dtcc="857210">2025-04-06</Day>
+    <Day dwc="0" dcc="0" dtwc="154933" owc="81" occ="443" dtcc="857210">2025-04-08</Day>
+    <Day dwc="149" dcc="815" owc="0" occ="0">2025-04-09</Day>
 </WritingHistory>
