@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-04-22 22:45:36 -0400" ModID="16E86024-33EE-4DED-BAAB-E9746FE48DA0">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-04-24 12:24:17 -0400" ModID="3734118E-56F2-44C2-9D20-A9280BBEDFCE">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -75,13 +75,22 @@
                 <TextSelection>951,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="F5E98149-230C-4CCE-A8A9-50FDB67B56EB" Type="Text" Created="2025-04-15 14:53:13 -0400" Modified="2025-04-22 15:15:28 -0400">
-            <Title>Amalgamete</Title>
+        <BinderItem UUID="CC6F82F2-0C3C-467E-94AB-D3886462DB11" Type="Text" Created="2025-04-23 16:17:38 -0400" Modified="2025-04-23 16:23:09 -0400">
+            <Title>cAVE</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>196,0</TextSelection>
+                <TextSelection>326,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="F5E98149-230C-4CCE-A8A9-50FDB67B56EB" Type="Text" Created="2025-04-15 14:53:13 -0400" Modified="2025-04-24 12:24:12 -0400">
+            <Title>Burshegeet</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>471,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="8C66540C-42C9-438A-BF6B-D7EB2013310D" Type="Text" Created="2025-02-27 06:54:10 -0400" Modified="2025-02-27 06:55:51 -0400">
@@ -5352,15 +5361,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="172" Characters="940" Date="2025-04-22 22:45:36 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-04-24 12:24:17 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-04-22 00:00:00 -0400">
-        <DraftWordCount>172</DraftWordCount>
-        <DraftCharCount>940</DraftCharCount>
-        <OtherWordCount>108</OtherWordCount>
-        <OtherCharCount>521</OtherCharCount>
+    <RecentWritingHistory Date="2025-04-24 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>43</OtherWordCount>
+        <OtherCharCount>270</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
