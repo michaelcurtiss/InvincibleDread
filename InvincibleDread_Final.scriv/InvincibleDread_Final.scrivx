@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-05-03 09:09:34 -0400" ModID="4B66CA06-89CA-4DA3-BA8D-560BE7F908E3">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-05-04 14:50:51 -0400" ModID="53BB84DC-5600-47BF-AA18-38C2B36994F5">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -75,13 +75,13 @@
                 <TextSelection>951,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="CC6F82F2-0C3C-467E-94AB-D3886462DB11" Type="Text" Created="2025-04-23 16:17:38 -0400" Modified="2025-04-30 16:37:25 -0400">
+        <BinderItem UUID="CC6F82F2-0C3C-467E-94AB-D3886462DB11" Type="Text" Created="2025-04-23 16:17:38 -0400" Modified="2025-05-03 16:54:31 -0400">
             <Title>cAVE</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>2167,0</TextSelection>
+                <TextSelection>1647,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="F5E98149-230C-4CCE-A8A9-50FDB67B56EB" Type="Text" Created="2025-04-15 14:53:13 -0400" Modified="2025-04-24 12:24:12 -0400">
@@ -573,7 +573,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="2FF4BF5E-05F2-49A4-AECF-116C510629E2" Type="Text" Created="2023-11-05 03:01:44 -0400" Modified="2024-11-18 15:16:42 -0400">
+                        <BinderItem UUID="2FF4BF5E-05F2-49A4-AECF-116C510629E2" Type="Text" Created="2023-11-05 03:01:44 -0400" Modified="2025-05-03 16:56:09 -0400">
                             <Title>Minting Rock</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -581,7 +581,7 @@
                                 <NotesTextSelection>94,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>29533,0</TextSelection>
+                                <TextSelection>9356,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="544BE4D2-2A3C-47BA-BF59-6A40CE5481FD" Type="Text" Created="2024-06-15 16:15:13 -0400" Modified="2024-07-09 21:37:46 -0400">
@@ -971,7 +971,7 @@
                                 <NotesTextSelection>666,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>37574,0</TextSelection>
+                                <TextSelection>29958,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="99765BBE-24DC-429A-BF30-C560C4D1E87D" Type="Text" Created="2024-11-12 09:16:34 -0400" Modified="2024-12-02 15:09:00 -0400">
@@ -994,7 +994,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="60206358-5704-4519-B618-A08F7C8D1D3E" Type="Text" Created="2023-11-05 03:07:21 -0400" Modified="2024-12-31 00:15:40 -0400">
+                        <BinderItem UUID="60206358-5704-4519-B618-A08F7C8D1D3E" Type="Text" Created="2023-11-05 03:07:21 -0400" Modified="2025-05-04 14:50:24 -0400">
                             <Title>Shulgi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1002,7 +1002,7 @@
                                 <NotesTextSelection>350,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>748,0</TextSelection>
+                                <TextSelection>21125,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E3A9778B-68AD-4665-AD22-5D47706F993A" Type="Text" Created="2024-11-12 14:27:21 -0400" Modified="2024-12-29 15:29:34 -0400">
@@ -1011,7 +1011,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="10076">9616,460</TextSelection>
+                                <TextSelection>11689,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1037,14 +1037,14 @@
                                 <TextSelection Caret="55744">0,55744</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C29C535C-BD83-43A0-B638-B2BB2101FD8D" Type="Text" Created="2025-05-01 14:13:08 -0400" Modified="2025-05-03 09:09:25 -0400">
+                        <BinderItem UUID="C29C535C-BD83-43A0-B638-B2BB2101FD8D" Type="Text" Created="2025-05-01 14:13:08 -0400" Modified="2025-05-03 16:54:07 -0400">
                             <Title>Burshegeet</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>280,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18940,0</TextSelection>
+                                <TextSelection>17554,137</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="584EB25E-25C0-40BC-9068-16C6782A5289" Type="Text" Created="2025-02-01 23:29:06 -0400" Modified="2025-02-04 15:11:35 -0400">
@@ -1064,6 +1064,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>3862,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2FAA9D2C-45A0-4875-BB23-9EC1372EEECE" Type="Text" Created="2025-05-03 16:52:51 -0400" Modified="2025-05-03 16:54:17 -0400">
+                            <Title>Choir story</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -5381,13 +5390,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1" Characters="1" Date="2025-05-03 09:09:34 -0400"/>
+        <PreviousSession Words="89" Characters="690" Date="2025-05-04 14:50:51 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-05-03 00:00:00 -0400">
-        <DraftWordCount>1</DraftWordCount>
-        <DraftCharCount>1</DraftCharCount>
+    <RecentWritingHistory Date="2025-05-04 00:00:00 -0400">
+        <DraftWordCount>89</DraftWordCount>
+        <DraftCharCount>690</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
