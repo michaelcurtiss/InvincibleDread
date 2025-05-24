@@ -376,5 +376,9 @@
     <Day dwc="181" dcc="1018" dtwc="157853" owc="17" occ="90" dtcc="873738">2025-05-16</Day>
     <Day dwc="13" dcc="65" dtwc="157866" owc="190" occ="1032" dtcc="873803">2025-05-17</Day>
     <Day dwc="1" dcc="-3" dtwc="157867" owc="8149" occ="46356" dtcc="873800">2025-05-18</Day>
-    <Day dwc="1" dcc="15" owc="0" occ="0">2025-05-19</Day>
+    <Day dwc="-42" dcc="-216" dtwc="157825" owc="0" occ="0" dtcc="873584">2025-05-19</Day>
+    <Day dwc="0" dcc="0" dtwc="157825" owc="2145" occ="13738" dtcc="873584">2025-05-20</Day>
+    <Day dwc="-302" dcc="-1777" dtwc="157523" owc="22" occ="130" dtcc="871807">2025-05-21</Day>
+    <Day dwc="0" dcc="0" dtwc="157523" owc="2189" occ="14256" dtcc="871807">2025-05-22</Day>
+    <Day dwc="0" dcc="0" owc="-1" occ="-5">2025-05-23</Day>
 </WritingHistory>
