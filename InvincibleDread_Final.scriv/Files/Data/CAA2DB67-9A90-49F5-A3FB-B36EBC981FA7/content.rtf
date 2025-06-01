@@ -1,29 +1,25 @@
 {\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 Lusitana;}{\f1\fnil\fcharset0\fprq2 Lusitana-Bold;}{\f2\fnil\fcharset0\fprq2 SegoeUI;}{\f3\fnil\fcharset0\fprq2 Lusitana;}}
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Lusitana;}{\f1\fnil\fcharset0\fprq2 SegoeUI;}{\f2\fnil\fcharset0\fprq2 Lusitana-Bold;}{\f3\fnil\fcharset0\fprq2 Lusitana;}}
 {\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;}
-{\*\listtable
-{\list\listtemplateid1\listhybrid
-{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\loch\af0\hich\af0\dbch\af0\uc1\u8226\'95;}{\levelnumbers;}\f0\fs28\b1\fi-270\li540\lin540}{\listname ;}\listid1}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\f0\fs24\cf0
-\pard\plain \sa180\sb210\ltrch\loch {\f0\fs28\b1 <$Scr_H::3>Estimating the probability for a functional mutation<!$Scr_H::3>}
+\pard\plain \sa180\sb210\ltrch\loch {\f1\fs24\b0\i0 <$Scr_H::3><!$Scr_H::3>}
 \par\pard\plain \sa180\sb210\ltrch\loch {Creationists often try to show the impossibility of evolution by cooking the books on some mathematical modeling of mutations. These attempts generally fail on two counts: 1.) Assuming that mutations must happen serially instead of in parallel. 2.) Assuming that only one mutational pathway is functional.}
 \par\plain 
 \par\plain 
 \par\pard\plain \ltrch\loch 
 \par\pard\plain \sa180\sb180\ltrch\loch {First, we start with an equation that looks a lot like the Drake Equation. What we are trying to calculate here is the chance that a *single individual* will produce a beneficial coding sequence through mutation, in a specific region of its DNA. This value, is P(indv):}
-\par\pard\plain \ltrch\loch {\f2\fs24\b0\i0 P(indv) = P(m) * P(b)}
-\par\plain \f2\fs24\b0\i0
+\par\pard\plain \ltrch\loch {\f1\fs24\b0\i0 P(indv) = P(m) * P(b)}
+\par\plain \f1\fs24\b0\i0
 \par\plain {\f0\fs24\b1 P(m)}{ \endash  The probability that the original DNA sequence }{\f0\fs24\i1 mutates}{ into a new one.}
 \par\plain {\tab \loch\af0\hich\af0\dbch\af0\uc1\u956\'B5 = Mutation rate per site per generation}
 \par\plain {\tab L = Length of DNA sequence}
-\par\plain {\tab P(m) = }{\f2\fs24\b0\i0 \loch\af2\hich\af2\dbch\af2\uc1\u956\'B5 * L}
-\par\plain {\f2\fs24\b0\i0 \tab This is the probability that at least one mutation occurs somewhere in the sequence}
+\par\plain {\tab P(m) = }{\f1\fs24\b0\i0 \loch\af1\hich\af1\dbch\af1\uc1\u956\'B5 * L}
+\par\plain {\f1\fs24\b0\i0 \tab This is the probability that at least one mutation occurs somewhere in the sequence}
 \par\plain \f0\fs24\b1
 \par\plain {\f0\fs24\b1 P(b)}{ \endash  The probability that this mutation is }{\f0\fs24\i1 beneficial}{ .}
 \par\plain {\tab k = probability of *beneficial* mutations per site per generation}
 \par\plain {\tab j = Number of all possible mutational paths for the given sequence.}
-\par\plain {\tab The most straightforward way to model this would be k/j, but this is unrealistic because scenarios where a large number of mutations happen all at once is extremely unlikely, so we weight both values by }{\f2\fs24\b0\i0 \loch\af2\hich\af2\dbch\af2\uc1\u956\'B5.}
+\par\plain {\tab The most straightforward way to model this would be k/j, but this is unrealistic because scenarios where a large number of mutations happen all at once is extremely unlikely, so we weight both values by }{\f1\fs24\b0\i0 \loch\af1\hich\af1\dbch\af1\uc1\u956\'B5.}
 \par\plain {\tab P(b) = (sum over all lengths l of (k_l \loch\af0\hich\af0\dbch\af0\uc1\u215\'D7 \u956\'B5^l)) / (sum over all lengths l of (j_l \u215\'D7 \u956\'B5^l)) }
 \par\plain {\tab Where:}
 \par\plain {\tab k_l = the number of beneficial mutational paths of length l.}
@@ -50,4 +46,4 @@
 \par\plain 
 \par\plain 
 \par\plain {So, we start by calculating P(func), and it will output some tiny value like one in ten trillion (1*10^-13), or 0.00000000001. This is the chance a beneficial mutation succeeds in that region, in one individual. We then invert this probability (1 - P(func)) to get the chance the mutation does not succeed. So that would look like 0.99999999999. We raise this to the R power to estimate the chance that no mutational paths in the entire population succeed. So, with a pop of 100,000, with 100 generations, and lets say 200 potential mutational pathways, R = 2,000,000,000. So, .99999999999^2,000,000,000 \loch\af0\hich\af0\dbch\af0\uc1\u8776\'98 0.98}
-\par\pard\plain \li540\fi-270\sa180\sb180\ltrch\loch \ls1\ilvl0{\listtext	\f0\fs28\b1 \uc0\u8226 	}\f0\fs28\b1}
+\par\plain \f0\fs28\b1}
