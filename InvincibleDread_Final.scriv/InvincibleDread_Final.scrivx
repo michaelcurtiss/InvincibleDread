@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-06-03 21:24:09 -0400" ModID="DF922016-38CD-451C-80BF-E3FAF27EA412">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-06-04 22:48:33 -0400" ModID="E2B17827-5B39-4111-ABDF-35DB748509EC">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -63,157 +63,11 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>1498,0</TextSelection>
+                <TextSelection>1024,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="ED2A164D-B98B-42DB-8DEA-C5FE1F6891F7" Type="Text" Created="2023-12-24 16:35:10 -0400" Modified="2025-04-06 17:10:34 -0400">
-            <Title>BIG POINTS</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>951,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="3180F4F4-A1BF-47AC-AA88-E1E0C9338066" Type="Text" Created="2025-05-24 09:49:15 -0400" Modified="2025-05-24 12:15:02 -0400">
-            <Title>CLIMAX</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>185,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="C4FF9B4D-FBBE-4C5A-8A81-F4FD70936193" Type="Text" Created="2025-05-24 14:06:13 -0400" Modified="2025-05-24 14:07:27 -0400">
-            <Title>On the Origins of pseudoscience</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>93,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="CC6F82F2-0C3C-467E-94AB-D3886462DB11" Type="Text" Created="2025-04-23 16:17:38 -0400" Modified="2025-05-03 16:54:31 -0400">
-            <Title>cAVE</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>1647,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="F5E98149-230C-4CCE-A8A9-50FDB67B56EB" Type="Text" Created="2025-04-15 14:53:13 -0400" Modified="2025-04-24 12:24:12 -0400">
-            <Title>Burshegeet</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>471,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="8C66540C-42C9-438A-BF6B-D7EB2013310D" Type="Text" Created="2025-02-27 06:54:10 -0400" Modified="2025-02-27 06:55:51 -0400">
-            <Title>Mandri pt2</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>314,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="8EE8F04A-70EA-4AD8-A0AB-DFB0B25B18A8" Type="Text" Created="2024-06-04 12:54:28 -0400" Modified="2025-02-07 14:23:52 -0400">
-            <Title>FIXES</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>423,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="E724516E-66AD-40AE-A076-C298FAB2007E" Type="Text" Created="2024-05-29 15:37:52 -0400" Modified="2024-05-30 15:41:47 -0400">
-            <Title>OBO ERASE</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>134,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="D8147C0E-FD92-4E89-96E3-3AEC5B8C8558" Type="Text" Created="2024-01-21 20:33:27 -0400" Modified="2024-01-27 15:19:19 -0400">
-            <Title>BASE INFO</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>146,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="F4AD19A5-EFFA-4348-BB89-E2D25950BBAA" Type="Text" Created="2024-01-19 10:08:28 -0400" Modified="2024-01-19 10:33:29 -0400">
-            <Title>Basic Story Structure</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>958,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="3338D1B1-09D9-4AAF-BE08-9F54AC38ABA8" Type="Text" Created="2024-01-19 11:01:45 -0400" Modified="2024-01-19 11:09:37 -0400">
-            <Title>Inciting Incidents</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection Caret="1972">1863,109</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="4D67D614-D1AD-467E-9B9A-429AD8BAC3FA" Type="Text" Created="2024-01-19 10:33:31 -0400" Modified="2024-01-20 14:33:12 -0400">
-            <Title>PLOT</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>2068,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="F4599EFD-386C-4809-B77F-90582E38CE88" Type="Text" Created="2025-02-07 11:56:55 -0400" Modified="2025-02-07 12:09:01 -0400">
-            <Title>Bacteria</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,2927</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="651E63E6-382D-4A8E-B323-3058F93D7620" Type="Text" Created="2024-01-19 10:19:05 -0400" Modified="2025-01-30 16:18:05 -0400">
-            <Title>Chekov problems</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection Caret="3040">0,3040</TextSelection>
-            </TextSettings>
-            <Children>
-                <BinderItem UUID="B6F32BF7-2842-4EAE-B4D2-50E8D6B7F61B" Type="Text" Created="2025-01-30 16:18:11 -0400" Modified="2025-01-30 16:18:27 -0400">
-                    <Title>FabledBlack</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>3040,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="D63E6103-8FB0-48E1-857F-272F70DF2029" Type="Text" Created="2025-01-30 16:18:28 -0400" Modified="2025-02-04 16:35:12 -0400">
-                    <Title>Seb's Sight</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>611,66</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem UUID="D8CDEC5D-990D-4C15-AA09-E9D7ED260862" Type="Text" Created="2025-02-04 17:42:44 -0400" Modified="2025-02-04 17:42:48 -0400">
-            <Title>Sequences</Title>
+        <BinderItem UUID="EF470247-DF65-462D-863F-44B435253846" Type="Folder" Created="2025-06-04 16:17:08 -0400" Modified="2025-06-04 16:17:15 -0400">
+            <Title>NewPlotProblems</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
@@ -221,33 +75,190 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1A423C10-EF09-41D5-A986-C0EE7BF30E9F" Type="Text" Created="2025-02-04 17:42:54 -0400" Modified="2025-03-05 09:12:59 -0400">
-                    <Title>Mandri Made Mazid</Title>
+                <BinderItem UUID="ED2A164D-B98B-42DB-8DEA-C5FE1F6891F7" Type="Text" Created="2023-12-24 16:35:10 -0400" Modified="2025-04-06 17:10:34 -0400">
+                    <Title>BIG POINTS</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>263,0</TextSelection>
+                        <TextSelection>951,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3C170C67-8370-463C-BA55-0C0A9CD553D8" Type="Text" Created="2025-02-04 16:35:20 -0400" Modified="2025-03-12 17:05:30 -0400">
-                    <Title>Finding FabledBalck</Title>
+                <BinderItem UUID="3180F4F4-A1BF-47AC-AA88-E1E0C9338066" Type="Text" Created="2025-05-24 09:49:15 -0400" Modified="2025-05-24 12:15:02 -0400">
+                    <Title>CLIMAX</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>53,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2822,0</TextSelection>
+                        <TextSelection>185,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="110697F1-9599-4F12-8262-885960938DB7" Type="Text" Created="2025-02-04 16:35:03 -0400" Modified="2025-02-04 16:47:21 -0400">
-                    <Title>Elrahet Dies sequence</Title>
+                <BinderItem UUID="C4FF9B4D-FBBE-4C5A-8A81-F4FD70936193" Type="Text" Created="2025-05-24 14:06:13 -0400" Modified="2025-05-24 14:07:27 -0400">
+                    <Title>On the Origins of pseudoscience</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>169,0</TextSelection>
+                        <TextSelection>93,0</TextSelection>
                     </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CC6F82F2-0C3C-467E-94AB-D3886462DB11" Type="Text" Created="2025-04-23 16:17:38 -0400" Modified="2025-05-03 16:54:31 -0400">
+                    <Title>cAVE</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1647,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F5E98149-230C-4CCE-A8A9-50FDB67B56EB" Type="Text" Created="2025-04-15 14:53:13 -0400" Modified="2025-04-24 12:24:12 -0400">
+                    <Title>Burshegeet</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>471,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8C66540C-42C9-438A-BF6B-D7EB2013310D" Type="Text" Created="2025-02-27 06:54:10 -0400" Modified="2025-02-27 06:55:51 -0400">
+                    <Title>Mandri pt2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>314,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8EE8F04A-70EA-4AD8-A0AB-DFB0B25B18A8" Type="Text" Created="2024-06-04 12:54:28 -0400" Modified="2025-02-07 14:23:52 -0400">
+                    <Title>FIXES</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>423,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E724516E-66AD-40AE-A076-C298FAB2007E" Type="Text" Created="2024-05-29 15:37:52 -0400" Modified="2024-05-30 15:41:47 -0400">
+                    <Title>OBO ERASE</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>134,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D8147C0E-FD92-4E89-96E3-3AEC5B8C8558" Type="Text" Created="2024-01-21 20:33:27 -0400" Modified="2024-01-27 15:19:19 -0400">
+                    <Title>BASE INFO</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>146,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F4AD19A5-EFFA-4348-BB89-E2D25950BBAA" Type="Text" Created="2024-01-19 10:08:28 -0400" Modified="2024-01-19 10:33:29 -0400">
+                    <Title>Basic Story Structure</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>958,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3338D1B1-09D9-4AAF-BE08-9F54AC38ABA8" Type="Text" Created="2024-01-19 11:01:45 -0400" Modified="2024-01-19 11:09:37 -0400">
+                    <Title>Inciting Incidents</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="1972">1863,109</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4D67D614-D1AD-467E-9B9A-429AD8BAC3FA" Type="Text" Created="2024-01-19 10:33:31 -0400" Modified="2024-01-20 14:33:12 -0400">
+                    <Title>PLOT</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2068,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F4599EFD-386C-4809-B77F-90582E38CE88" Type="Text" Created="2025-02-07 11:56:55 -0400" Modified="2025-02-07 12:09:01 -0400">
+                    <Title>Bacteria</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,2927</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="651E63E6-382D-4A8E-B323-3058F93D7620" Type="Text" Created="2024-01-19 10:19:05 -0400" Modified="2025-01-30 16:18:05 -0400">
+                    <Title>Chekov problems</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="3040">0,3040</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B6F32BF7-2842-4EAE-B4D2-50E8D6B7F61B" Type="Text" Created="2025-01-30 16:18:11 -0400" Modified="2025-01-30 16:18:27 -0400">
+                            <Title>FabledBlack</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3040,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D63E6103-8FB0-48E1-857F-272F70DF2029" Type="Text" Created="2025-01-30 16:18:28 -0400" Modified="2025-02-04 16:35:12 -0400">
+                            <Title>Seb's Sight</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>611,66</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D8CDEC5D-990D-4C15-AA09-E9D7ED260862" Type="Text" Created="2025-02-04 17:42:44 -0400" Modified="2025-02-04 17:42:48 -0400">
+                    <Title>Sequences</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="1A423C10-EF09-41D5-A986-C0EE7BF30E9F" Type="Text" Created="2025-02-04 17:42:54 -0400" Modified="2025-03-05 09:12:59 -0400">
+                            <Title>Mandri Made Mazid</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>263,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3C170C67-8370-463C-BA55-0C0A9CD553D8" Type="Text" Created="2025-02-04 16:35:20 -0400" Modified="2025-03-12 17:05:30 -0400">
+                            <Title>Finding FabledBalck</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>53,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2822,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="110697F1-9599-4F12-8262-885960938DB7" Type="Text" Created="2025-02-04 16:35:03 -0400" Modified="2025-02-04 16:47:21 -0400">
+                            <Title>Elrahet Dies sequence</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>169,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -282,7 +293,7 @@
                                 <NotesTextSelection>184,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7562,0</TextSelection>
+                                <TextSelection>1274,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="DCC72745-4EBA-4837-B813-0507A0BFDA11" Type="Text" Created="2025-05-31 20:37:15 -0400" Modified="2025-06-03 21:23:52 -0400">
@@ -291,7 +302,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3239,0</TextSelection>
+                                <TextSelection>3000,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1137,7 +1148,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="BB91A6C8-3C8C-408B-9C6B-5D3842170F64" Type="Text" Created="2023-11-05 03:08:23 -0400" Modified="2025-06-03 15:11:04 -0400">
+                        <BinderItem UUID="BB91A6C8-3C8C-408B-9C6B-5D3842170F64" Type="Text" Created="2023-11-05 03:08:23 -0400" Modified="2025-06-04 22:48:16 -0400">
                             <Title>Shis</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1145,16 +1156,16 @@
                                 <NotesTextSelection>526,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4775,0</TextSelection>
+                                <TextSelection>15911,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E05BCA47-3513-4DD3-B55C-294E18C7BE42" Type="Text" Created="2025-06-01 17:14:58 -0400" Modified="2025-06-01 17:15:04 -0400">
+                        <BinderItem UUID="E05BCA47-3513-4DD3-B55C-294E18C7BE42" Type="Text" Created="2025-06-01 17:14:58 -0400" Modified="2025-06-04 21:16:48 -0400">
                             <Title>Shis scratch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>58,0</TextSelection>
+                                <TextSelection>1915,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1219,14 +1230,14 @@
                         <TextSelection>88,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 09:04:49 -0400" Modified="2025-06-03 20:26:59 -0400">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 09:04:49 -0400" Modified="2025-06-04 19:21:18 -0400">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>204,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>41,0</TextSelection>
+                        <TextSelection>337,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5DF1DFCF-A561-4498-95E9-320CA85E80AC" Type="Text" Created="2025-05-25 22:38:52 -0400" Modified="2025-05-25 23:27:00 -0400">
@@ -1263,7 +1274,7 @@
                         <NotesTextSelection>41,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="15266">15256,10</TextSelection>
+                        <TextSelection Caret="16540">16483,57</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="05ED9BF5-F072-4453-A25D-51243C9A6B4E" Type="Text" Created="2025-05-25 20:16:35 -0400" Modified="2025-05-25 22:35:41 -0400">
@@ -5590,15 +5601,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="328" Characters="1980" Date="2025-06-03 21:24:09 -0400"/>
+        <PreviousSession Words="217" Characters="1348" Date="2025-06-04 22:48:33 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-06-03 00:00:00 -0400">
-        <DraftWordCount>328</DraftWordCount>
-        <DraftCharCount>1980</DraftCharCount>
-        <OtherWordCount>36</OtherWordCount>
-        <OtherCharCount>205</OtherCharCount>
+    <RecentWritingHistory Date="2025-06-04 00:00:00 -0400">
+        <DraftWordCount>217</DraftWordCount>
+        <DraftCharCount>1348</DraftCharCount>
+        <OtherWordCount>43</OtherWordCount>
+        <OtherCharCount>268</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
