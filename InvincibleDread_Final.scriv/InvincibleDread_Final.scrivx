@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-06-05 16:18:30 -0400" ModID="974C80DD-E20F-4221-A679-BF3EA2B853D9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-06-08 11:07:58 -0400" ModID="8917D9D8-5558-4633-8F4E-37E86F51C3A0">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -75,6 +75,15 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
+                <BinderItem UUID="6E9AED24-EC11-4A8E-B6D8-9645E753D5F6" Type="Text" Created="2025-06-07 09:04:20 -0400" Modified="2025-06-08 10:56:25 -0400">
+                    <Title>PELCLIMAX</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2404,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="ED2A164D-B98B-42DB-8DEA-C5FE1F6891F7" Type="Text" Created="2023-12-24 16:35:10 -0400" Modified="2025-04-06 17:10:34 -0400">
                     <Title>BIG POINTS</Title>
                     <MetaData>
@@ -1137,36 +1146,36 @@
                                 <TextSelection>3891,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6C4FA1FC-29F1-4FDF-B0A8-902747C1DAC7" Type="Folder" Created="2023-11-09 07:54:21 -0400" Modified="2023-11-09 10:33:45 -0400">
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6C4FA1FC-29F1-4FDF-B0A8-902747C1DAC7" Type="Folder" Created="2023-11-09 07:54:21 -0400" Modified="2023-11-09 10:33:45 -0400">
+                    <Title>Shis</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="BB91A6C8-3C8C-408B-9C6B-5D3842170F64" Type="Text" Created="2023-11-05 03:08:23 -0400" Modified="2025-06-07 17:56:33 -0400">
                             <Title>Shis</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>526,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>32777,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E05BCA47-3513-4DD3-B55C-294E18C7BE42" Type="Text" Created="2025-06-01 17:14:58 -0400" Modified="2025-06-07 15:50:27 -0400">
+                            <Title>Shis scratch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>318,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem UUID="BB91A6C8-3C8C-408B-9C6B-5D3842170F64" Type="Text" Created="2023-11-05 03:08:23 -0400" Modified="2025-06-05 15:45:09 -0400">
-                                    <Title>Shis</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>rtf</FileExtension>
-                                        <NotesTextSelection>526,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>31244,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="E05BCA47-3513-4DD3-B55C-294E18C7BE42" Type="Text" Created="2025-06-01 17:14:58 -0400" Modified="2025-06-05 16:18:29 -0400">
-                                    <Title>Shis scratch</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2232,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1230,14 +1239,14 @@
                         <TextSelection>88,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 09:04:49 -0400" Modified="2025-06-05 13:59:50 -0400">
+                <BinderItem UUID="1228D008-3CEB-40ED-AD04-12371021657A" Type="Text" Created="2023-11-07 09:04:49 -0400" Modified="2025-06-08 10:23:14 -0400">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>204,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>577,0</TextSelection>
+                        <TextSelection>550,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5DF1DFCF-A561-4498-95E9-320CA85E80AC" Type="Text" Created="2025-05-25 22:38:52 -0400" Modified="2025-05-25 23:27:00 -0400">
@@ -1463,7 +1472,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1405,0</TextSelection>
+                        <TextSelection>1498,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F80FE103-4B9A-47AE-A13A-3B1E4B390D22" Type="Text" Created="2024-09-07 16:39:46 -0400" Modified="2024-09-07 17:09:12 -0400">
@@ -1499,7 +1508,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11260,0</TextSelection>
+                        <TextSelection>4052,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6E5696B1-CCCF-4BE0-9A0E-62C48C32D3F8" Type="Text" Created="2024-05-21 14:49:41 -0400" Modified="2024-05-22 12:48:50 -0400">
@@ -1508,7 +1517,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="334">327,7</TextSelection>
+                        <TextSelection>208,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="778D62AD-7198-4464-B246-9400BAA97AE3" Type="Text" Created="2024-05-09 05:33:49 -0400" Modified="2024-05-09 11:26:50 -0400">
@@ -1517,7 +1526,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>759,0</TextSelection>
+                        <TextSelection>248,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="073F7272-595A-4BAA-BB6D-E38105DF74AA" Type="Text" Created="2024-02-06 00:09:13 -0400" Modified="2024-02-06 00:46:26 -0400">
@@ -1788,7 +1797,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="16816">16804,12</TextSelection>
+                        <TextSelection>1248,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="CC2A27C0-937B-4E35-8C91-D44DC2F1E9E1" Type="Text" Created="2024-07-07 16:32:52 -0400" Modified="2024-07-07 21:26:14 -0400">
@@ -5601,15 +5610,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-65" Characters="-372" Date="2025-06-05 16:18:30 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-06-08 11:07:58 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-06-05 00:00:00 -0400">
-        <DraftWordCount>-65</DraftWordCount>
-        <DraftCharCount>-372</DraftCharCount>
-        <OtherWordCount>60</OtherWordCount>
-        <OtherCharCount>335</OtherCharCount>
+    <RecentWritingHistory Date="2025-06-08 00:00:00 -0400">
+        <DraftWordCount>-44</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>72</OtherWordCount>
+        <OtherCharCount>425</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
