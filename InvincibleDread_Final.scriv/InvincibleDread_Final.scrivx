@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-06-11 23:45:08 -0400" ModID="328B3D9E-863F-4687-AD52-AB91DB59B4FC">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-06-12 00:17:20 -0400" ModID="43F12F46-D11B-4486-9335-89B55F4F72DF">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -294,7 +294,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="53EECE9A-CC0D-4DB0-AC2A-CB2051518347" Type="Text" Created="2023-11-05 01:52:18 -0400" Modified="2025-06-11 23:44:50 -0400">
+                        <BinderItem UUID="53EECE9A-CC0D-4DB0-AC2A-CB2051518347" Type="Text" Created="2023-11-05 01:52:18 -0400" Modified="2025-06-12 00:16:58 -0400">
                             <Title>Mandrameen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -302,16 +302,16 @@
                                 <NotesTextSelection>184,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3534,0</TextSelection>
+                                <TextSelection>7873,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DCC72745-4EBA-4837-B813-0507A0BFDA11" Type="Text" Created="2025-05-31 20:37:15 -0400" Modified="2025-06-11 23:30:47 -0400">
+                        <BinderItem UUID="DCC72745-4EBA-4837-B813-0507A0BFDA11" Type="Text" Created="2025-05-31 20:37:15 -0400" Modified="2025-06-11 23:56:09 -0400">
                             <Title>Man/scratch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>157,71</TextSelection>
+                                <TextSelection>313,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -5663,15 +5663,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="-106" Characters="-481" Date="2025-06-11 23:45:08 -0400"/>
+        <PreviousSession Words="12" Characters="78" Date="2025-06-12 00:17:20 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-06-11 00:00:00 -0400">
-        <DraftWordCount>-106</DraftWordCount>
-        <DraftCharCount>-481</DraftCharCount>
-        <OtherWordCount>496</OtherWordCount>
-        <OtherCharCount>2708</OtherCharCount>
+    <RecentWritingHistory Date="2025-06-12 00:00:00 -0400">
+        <DraftWordCount>12</DraftWordCount>
+        <DraftCharCount>79</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
