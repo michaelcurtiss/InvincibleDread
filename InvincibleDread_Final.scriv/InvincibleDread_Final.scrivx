@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-06-23 20:18:52 -0400" ModID="EC55D47B-18F0-4708-9742-3E7671E9B8F0">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-06-24 15:57:14 -0400" ModID="93426C46-8068-427B-8437-E756C96D35F3">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -54,6 +54,24 @@
             </MetaData>
             <TextSettings>
                 <TextSelection>1129,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="6C683355-CBCD-4717-B6BF-5480E7DF1C81" Type="Text" Created="2025-06-24 11:26:51 -0400" Modified="2025-06-24 11:26:57 -0400">
+            <Title>Seb the Servant Scratch</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>337,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="463FD87D-C90A-4CBB-90A0-136B903B1087" Type="Text" Created="2025-06-24 15:28:24 -0400" Modified="2025-06-24 15:53:52 -0400">
+            <Title>Ugmukheen scratch</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>1312,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="71D54E39-A923-490B-B30F-0B85BAA9DDCD" Type="Folder" Created="2025-06-13 15:01:19 -0400" Modified="2025-06-13 15:01:24 -0400">
@@ -229,37 +247,36 @@
                         <TextSelection>16125,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="23A529AC-DE76-499A-8C21-5C40E78802EA" Type="Text" Created="2025-06-13 15:03:40 -0400" Modified="2025-06-23 20:18:28 -0400">
+                <BinderItem UUID="23A529AC-DE76-499A-8C21-5C40E78802EA" Type="Text" Created="2025-06-13 15:03:40 -0400" Modified="2025-06-23 20:19:42 -0400">
                     <Title>Shiskason</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>696,0</NotesTextSelection>
+                        <NotesTextSelection>72,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>19809,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0A9AA9EC-796D-46F8-B188-12244536F19C" Type="Text" Created="2025-06-13 15:03:47 -0400" Modified="2025-06-15 17:24:11 -0400">
+                <BinderItem UUID="0A9AA9EC-796D-46F8-B188-12244536F19C" Type="Text" Created="2025-06-13 15:03:47 -0400" Modified="2025-06-24 13:14:36 -0400">
                     <Title>Seb the Servant</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>384,0</NotesTextSelection>
+                        <NotesTextSelection>225,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14154,0</TextSelection>
+                        <TextSelection>13314,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="45322614-82F3-4F9C-B17F-4983C9F8D9CC" Type="Text" Created="2025-06-13 15:04:01 -0400" Modified="2025-06-15 17:24:34 -0400">
+                <BinderItem UUID="45322614-82F3-4F9C-B17F-4983C9F8D9CC" Type="Text" Created="2025-06-13 15:04:01 -0400" Modified="2025-06-24 15:56:59 -0400">
                     <Title>Ugmukheen</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>209,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>36286,0</TextSelection>
+                        <TextSelection>32232,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B851E4F4-62CA-4A22-B79D-51035F9CDDF6" Type="Folder" Created="2025-06-13 15:04:18 -0400" Modified="2025-06-13 15:06:35 -0400">
@@ -575,13 +592,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="C0D9160E-A7FF-4758-A930-4F12EF28B09F" Type="Text" Created="2025-06-15 11:35:35 -0400" Modified="2025-06-23 19:07:10 -0400">
+                <BinderItem UUID="C0D9160E-A7FF-4758-A930-4F12EF28B09F" Type="Text" Created="2025-06-15 11:35:35 -0400" Modified="2025-06-24 15:07:20 -0400">
                     <Title>StoryDetails</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1321,0</TextSelection>
+                        <TextSelection>1301,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DEAE8C2D-A542-4530-9E29-557977A9FE6A" Type="Text" Created="2025-06-15 11:41:36 -0400" Modified="2025-06-15 20:10:15 -0400">
@@ -611,13 +628,13 @@
                         <TextSelection>371,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="784BF85C-4C74-4576-BE5A-97C546C6ABCD" Type="Text" Created="2025-06-15 12:08:31 -0400" Modified="2025-06-16 10:20:22 -0400">
+                <BinderItem UUID="784BF85C-4C74-4576-BE5A-97C546C6ABCD" Type="Text" Created="2025-06-15 12:08:31 -0400" Modified="2025-06-24 15:52:17 -0400">
                     <Title>NeverLose</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2054,0</TextSelection>
+                        <TextSelection>750,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="FAFED25D-917E-4A7E-AB00-A2B4F1BED0E0" Type="Text" Created="2025-06-15 11:43:00 -0400" Modified="2025-06-16 10:20:26 -0400">
@@ -6415,15 +6432,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-06-23 20:18:52 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-06-24 15:57:14 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-06-23 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-06-24 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-1066</OtherWordCount>
-        <OtherCharCount>-5645</OtherCharCount>
+        <OtherWordCount>-546</OtherWordCount>
+        <OtherCharCount>-3033</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
