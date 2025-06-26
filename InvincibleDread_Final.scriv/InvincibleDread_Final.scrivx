@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-06-25 21:00:50 -0400" ModID="84982E76-C1DB-4F44-8CFE-CC231C9E2972">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-06-26 15:21:58 -0400" ModID="819015E8-06C0-4739-8549-DF23ED63C0CB">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -72,6 +72,25 @@
             </MetaData>
             <TextSettings>
                 <TextSelection>737,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="A4FDB160-5D59-49F3-A37B-722D0758EDEF" Type="Text" Created="2025-06-26 08:25:32 -0400" Modified="2025-06-26 09:08:12 -0400">
+            <Title>RIGA EXTRACT</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>1876,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="B2026F26-F381-4959-AFA8-EB6F488C02A8" Type="Text" Created="2025-06-26 10:57:49 -0400" Modified="2025-06-26 14:15:43 -0400">
+            <Title>VISiON</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>378,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,5757</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="71D54E39-A923-490B-B30F-0B85BAA9DDCD" Type="Folder" Created="2025-06-13 15:01:19 -0400" Modified="2025-06-13 15:01:24 -0400">
@@ -160,12 +179,12 @@
                         <TextSelection>48381,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="FB35054D-53FA-46C1-B0A6-3093BA6C6B1B" Type="Text" Created="2025-06-13 15:02:21 -0400" Modified="2025-06-22 12:22:07 -0400">
+                <BinderItem UUID="FB35054D-53FA-46C1-B0A6-3093BA6C6B1B" Type="Text" Created="2025-06-13 15:02:21 -0400" Modified="2025-06-26 13:56:13 -0400">
                     <Title>PseudoShis</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>559,0</NotesTextSelection>
+                        <NotesTextSelection>82,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>13565,0</TextSelection>
@@ -182,12 +201,12 @@
                         <TextSelection Caret="16908">16801,107</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="05D3C45F-68DB-4A95-9995-636421348E27" Type="Text" Created="2025-06-13 15:02:37 -0400" Modified="2025-06-22 16:00:58 -0400">
+                <BinderItem UUID="05D3C45F-68DB-4A95-9995-636421348E27" Type="Text" Created="2025-06-13 15:02:37 -0400" Modified="2025-06-26 09:11:24 -0400">
                     <Title>Ayram</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>354,0</NotesTextSelection>
+                        <NotesTextSelection>430,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>16086,0</TextSelection>
@@ -355,14 +374,14 @@
                                 <TextSelection>2094,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="76C5FC20-4210-4D1D-B0FC-60882BCD12FF" Type="Text" Created="2025-06-13 15:04:20 -0400" Modified="2025-06-25 10:56:55 -0400">
+                        <BinderItem UUID="76C5FC20-4210-4D1D-B0FC-60882BCD12FF" Type="Text" Created="2025-06-13 15:04:20 -0400" Modified="2025-06-26 15:21:35 -0400">
                             <Title>Mandri's Demon</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>7,0</NotesTextSelection>
+                                <NotesTextSelection>49,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7288,0</TextSelection>
+                                <TextSelection>12840,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="7057C6A5-81CE-4D48-A7CD-C5D7913EE3BA" Type="Text" Created="2025-06-13 15:04:20 -0400" Modified="2025-06-13 15:04:20 -0400">
@@ -978,6 +997,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>3085,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6D4F4FC2-803C-4000-8533-C710254F25DB" Type="Text" Created="2025-06-26 10:51:35 -0400" Modified="2025-06-26 10:57:21 -0400">
+                            <Title>End Zone</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>669,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="22A7425B-345A-4A4B-8A6E-FB1703E02A0C" Type="Text" Created="2025-06-18 19:49:07 -0400" Modified="2025-06-18 21:52:18 -0400">
@@ -6442,15 +6470,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-06-25 21:00:50 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-06-26 15:21:58 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-06-25 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-06-26 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>676</OtherWordCount>
-        <OtherCharCount>4438</OtherCharCount>
+        <OtherWordCount>1812</OtherWordCount>
+        <OtherCharCount>10510</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
