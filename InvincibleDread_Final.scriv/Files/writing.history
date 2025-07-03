@@ -418,5 +418,7 @@
     <Day dwc="0" dcc="0" owc="0" occ="1">2025-06-27</Day>
     <Day dwc="0" dcc="0" owc="0" occ="1">2025-06-28</Day>
     <Day dwc="0" dcc="0" owc="-10" occ="-76">2025-06-30</Day>
-    <Day dwc="0" dcc="0" owc="-101" occ="-570">2025-07-01</Day>
+    <Day dwc="0" dcc="0" owc="64" occ="436">2025-07-01</Day>
+    <Day dwc="0" dcc="0" owc="5212" occ="30607">2025-07-02</Day>
+    <Day dwc="0" dcc="0" owc="0" occ="49">2025-07-03</Day>
 </WritingHistory>
