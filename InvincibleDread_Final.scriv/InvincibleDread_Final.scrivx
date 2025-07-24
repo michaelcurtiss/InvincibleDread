@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-07-20 22:43:37 -0400" ModID="113252CE-C8C5-4BFC-938C-41AFB1AB16C3">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-07-24 14:20:02 -0400" ModID="05360971-FC46-4FCD-8A40-C79CC7818C0F">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -516,15 +516,15 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="FFCCD86F-6C0C-467B-8E87-4E4BFD88F46A" Type="Text" Created="2025-06-13 15:04:34 -0400" Modified="2025-07-06 17:30:50 -0400">
+                <BinderItem UUID="FFCCD86F-6C0C-467B-8E87-4E4BFD88F46A" Type="Text" Created="2025-06-13 15:04:34 -0400" Modified="2025-07-24 14:19:48 -0400">
                     <Title>Goree Pass</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>374,0</NotesTextSelection>
+                        <NotesTextSelection>812,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>35707,0</TextSelection>
+                        <TextSelection>37738,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DFDCA978-B1BE-4E42-937D-61946877BEFA" Type="Text" Created="2025-06-13 15:04:44 -0400" Modified="2025-07-04 15:28:20 -0400">
@@ -6500,15 +6500,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-07-20 22:43:37 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-07-24 14:20:02 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-07-20 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-07-24 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1159</OtherWordCount>
-        <OtherCharCount>6958</OtherCharCount>
+        <OtherWordCount>295</OtherWordCount>
+        <OtherCharCount>1778</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
