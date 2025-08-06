@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-07-26 00:12:55 -0400" ModID="C3D62FAD-C1E3-49CE-A3AF-78E433061EFA">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-08-06 16:57:19 -0400" ModID="9D53FB21-5CD7-461A-A6F4-1072D541CBF9">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -516,7 +516,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="FFCCD86F-6C0C-467B-8E87-4E4BFD88F46A" Type="Text" Created="2025-06-13 15:04:34 -0400" Modified="2025-07-25 22:49:00 -0400">
+                <BinderItem UUID="FFCCD86F-6C0C-467B-8E87-4E4BFD88F46A" Type="Text" Created="2025-06-13 15:04:34 -0400" Modified="2025-08-06 16:56:36 -0400">
                     <Title>Goree Pass</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -524,10 +524,10 @@
                         <NotesTextSelection>428,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>39850,0</TextSelection>
+                        <TextSelection>41571,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DFDCA978-B1BE-4E42-937D-61946877BEFA" Type="Text" Created="2025-06-13 15:04:44 -0400" Modified="2025-07-04 15:28:20 -0400">
+                <BinderItem UUID="DFDCA978-B1BE-4E42-937D-61946877BEFA" Type="Text" Created="2025-06-13 15:04:44 -0400" Modified="2025-08-06 16:56:56 -0400">
                     <Title>Shulgi</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -535,7 +535,7 @@
                         <NotesTextSelection>205,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3348,0</TextSelection>
+                        <TextSelection>184,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-06-15 17:31:40 -0400">
@@ -642,13 +642,13 @@
                         <TextSelection>1163,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A19BEBBB-9820-43FB-A84D-C7BD1B86005A" Type="Text" Created="2025-06-15 11:35:44 -0400" Modified="2025-07-20 22:42:57 -0400">
+                <BinderItem UUID="A19BEBBB-9820-43FB-A84D-C7BD1B86005A" Type="Text" Created="2025-06-15 11:35:44 -0400" Modified="2025-08-05 11:25:45 -0400">
                     <Title>StoryPlots</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>574,0</TextSelection>
+                        <TextSelection>858,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DE5FC3ED-76F9-4C57-90DC-44D4B094CB49" Type="Text" Created="2025-06-25 18:49:00 -0400" Modified="2025-06-25 20:50:08 -0400">
@@ -687,13 +687,13 @@
                         <TextSelection>15069,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0400" Modified="2025-07-26 00:12:51 -0400">
+                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0400" Modified="2025-08-05 08:53:15 -0400">
                     <Title>OthersVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>46540,0</TextSelection>
+                        <TextSelection>46669,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0400" Modified="2025-06-15 13:05:17 -0400">
@@ -6508,15 +6508,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-07-26 00:12:56 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-08-06 16:57:19 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-07-26 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-08-06 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>42</OtherWordCount>
-        <OtherCharCount>233</OtherCharCount>
+        <OtherWordCount>52</OtherWordCount>
+        <OtherCharCount>296</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
