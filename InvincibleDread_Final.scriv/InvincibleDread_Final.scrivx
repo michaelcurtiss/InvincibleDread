@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-Q9SIJQ0" Modified="2025-08-18 18:08:06 -0400" ModID="3920119D-E0AC-44EB-8DD7-2C1D6F3C9C55">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-08-20 21:58:49 -0400" ModID="9282D95F-EC19-4A3D-8D81-77A6CD74A4EB">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -527,7 +527,7 @@
                         <TextSelection>41571,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DFDCA978-B1BE-4E42-937D-61946877BEFA" Type="Text" Created="2025-06-13 15:04:44 -0400" Modified="2025-08-18 17:55:08 -0400">
+                <BinderItem UUID="DFDCA978-B1BE-4E42-937D-61946877BEFA" Type="Text" Created="2025-06-13 15:04:44 -0400" Modified="2025-08-20 13:41:25 -0400">
                     <Title>Shulgi</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -535,7 +535,7 @@
                         <NotesTextSelection>132,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>26611,0</TextSelection>
+                        <TextSelection>26101,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-06-15 17:31:40 -0400">
@@ -4777,8 +4777,8 @@
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 08:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 08:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 08:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -6508,15 +6508,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-08-18 18:08:06 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-08-20 21:58:49 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-08-18 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-08-20 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>130</OtherWordCount>
-        <OtherCharCount>858</OtherCharCount>
+        <OtherWordCount>-93</OtherWordCount>
+        <OtherCharCount>-489</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
