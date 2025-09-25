@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-09-04 14:24:05 -0400" ModID="663E0FD2-ECEA-4C9A-A004-9E0329BBB2BC">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2025-09-25 18:19:41 -0400" ModID="B9142FD6-1598-4E9A-9E3B-633F185CAFEC">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -18,6 +18,15 @@
             </MetaData>
             <TextSettings>
                 <TextSelection>2950,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="1A8768E0-A84B-46E1-B3C4-1605CC5301E9" Type="Text" Created="2025-09-23 22:51:37 -0400" Modified="2025-09-25 10:34:04 -0400">
+            <Title>PLOT</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>325,1</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="AF000E3F-895C-4F2B-BAED-790B20522E87" Type="Text" Created="2025-06-20 10:27:28 -0400" Modified="2025-06-20 15:31:35 -0400">
@@ -83,13 +92,13 @@
                 <TextSelection>2837,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="B6BB83B2-69DA-45F5-93A6-E8B3B406521B" Type="Text" Created="2025-07-03 09:56:04 -0400" Modified="2025-07-03 23:38:54 -0400">
+        <BinderItem UUID="B6BB83B2-69DA-45F5-93A6-E8B3B406521B" Type="Text" Created="2025-07-03 09:56:04 -0400" Modified="2025-09-24 15:34:45 -0400">
             <Title>Shulgi Scratch</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>397,0</TextSelection>
+                <TextSelection>1187,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="A4FDB160-5D59-49F3-A37B-722D0758EDEF" Type="Text" Created="2025-06-26 08:25:32 -0400" Modified="2025-06-26 09:08:12 -0400">
@@ -524,10 +533,10 @@
                         <NotesTextSelection>428,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>41571,0</TextSelection>
+                        <TextSelection Caret="16337">16336,1</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DFDCA978-B1BE-4E42-937D-61946877BEFA" Type="Text" Created="2025-06-13 15:04:44 -0400" Modified="2025-09-04 14:20:32 -0400">
+                <BinderItem UUID="DFDCA978-B1BE-4E42-937D-61946877BEFA" Type="Text" Created="2025-06-13 15:04:44 -0400" Modified="2025-09-25 18:19:33 -0400">
                     <Title>Shulgi</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -535,7 +544,7 @@
                         <NotesTextSelection>608,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4529,0</TextSelection>
+                        <TextSelection>28598,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-06-15 17:31:40 -0400">
@@ -6509,15 +6518,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-09-04 14:24:05 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-09-25 18:19:41 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-09-04 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-09-25 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-151</OtherWordCount>
-        <OtherCharCount>-957</OtherCharCount>
+        <OtherWordCount>229</OtherWordCount>
+        <OtherCharCount>1331</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
