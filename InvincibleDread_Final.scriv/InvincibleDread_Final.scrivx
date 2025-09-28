@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2025-09-26 17:44:04 -0400" ModID="2AD21DD3-E556-4D5E-811E-5F36D0858468">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2025-09-28 00:30:15 -0400" ModID="EA3B81E6-52A7-4675-8942-EB155B780029">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -129,15 +129,15 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1" Type="Text" Created="2025-06-13 15:01:33 -0400" Modified="2025-06-22 10:15:35 -0400">
+                <BinderItem UUID="CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1" Type="Text" Created="2025-06-13 15:01:33 -0400" Modified="2025-09-27 15:29:54 -0400">
                     <Title>Mandrameen</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>568,0</NotesTextSelection>
+                        <NotesTextSelection>670,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20161,0</TextSelection>
+                        <TextSelection>10516,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="0528A255-D7B9-426C-A1E8-0ED7F0A169A1" Type="Text" Created="2025-06-13 15:01:39 -0400" Modified="2025-06-20 09:19:45 -0400">
@@ -544,16 +544,16 @@
                         <NotesTextSelection>608,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>32202,1</TextSelection>
+                        <TextSelection>32606,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-06-15 17:31:40 -0400">
+                <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-09-26 20:33:30 -0400">
                     <Title>Burshegeet</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>38488,0</TextSelection>
+                        <TextSelection>331,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="773DDF43-D20C-40B2-A06A-91CC9495231B" Type="Text" Created="2025-06-13 15:05:04 -0400" Modified="2025-06-15 17:32:45 -0400">
@@ -697,13 +697,13 @@
                         <TextSelection>15069,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0400" Modified="2025-08-27 16:06:56 -0400">
+                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0400" Modified="2025-09-27 12:31:09 -0400">
                     <Title>OthersVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>47766,0</TextSelection>
+                        <TextSelection>47805,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0400" Modified="2025-06-15 13:05:17 -0400">
@@ -1021,6 +1021,24 @@
                                 <TextSelection>3085,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="05852686-27CD-493B-96DE-2D75D56D0079" Type="Text" Created="2025-09-27 19:37:10 -0400" Modified="2025-09-27 20:32:27 -0400">
+                            <Title>The laws of contrast and color</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2201,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C8BEB72A-392D-4FD1-8588-F13B0396F8A3" Type="Text" Created="2025-09-27 20:32:33 -0400" Modified="2025-09-28 00:30:12 -0400">
+                            <Title>Beowulf</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>205,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="6D4F4FC2-803C-4000-8533-C710254F25DB" Type="Text" Created="2025-06-26 10:51:35 -0400" Modified="2025-06-26 10:57:21 -0400">
                             <Title>End Zone</Title>
                             <MetaData>
@@ -1163,6 +1181,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>503,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="284136FA-CC8C-4746-AEDC-39C2BBC5C143" Type="Text" Created="2025-09-27 13:43:00 -0400" Modified="2025-09-27 13:50:40 -0400">
+                            <Title>Moby Dick</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3398,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -6518,15 +6545,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-09-26 17:44:04 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-09-28 00:30:16 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-09-26 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-09-28 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>6</OtherWordCount>
-        <OtherCharCount>17</OtherCharCount>
+        <OtherWordCount>4</OtherWordCount>
+        <OtherCharCount>41</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
