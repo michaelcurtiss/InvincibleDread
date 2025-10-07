@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-10-04 20:43:06 -0400" ModID="8A10170C-12DB-4F9E-9F96-F19CA824C80A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2025-10-07 16:45:03 -0400" ModID="0A647FB1-F1AE-492D-BA04-6D800F1C0E20">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -110,13 +110,13 @@
                 <TextSelection>1187,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="73C2E9D1-BC5B-47A8-8E43-40AE422F1100" Type="Text" Created="2025-09-29 12:18:36 -0400" Modified="2025-10-02 11:26:58 -0400">
+        <BinderItem UUID="73C2E9D1-BC5B-47A8-8E43-40AE422F1100" Type="Text" Created="2025-09-29 12:18:36 -0400" Modified="2025-10-07 14:42:47 -0400">
             <Title>Burshageet Scratch</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>1516,0</TextSelection>
+                <TextSelection Caret="1109">1103,6</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="A4FDB160-5D59-49F3-A37B-722D0758EDEF" Type="Text" Created="2025-06-26 08:25:32 -0400" Modified="2025-06-26 09:08:12 -0400">
@@ -565,14 +565,14 @@
                         <TextSelection>32606,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-10-04 17:38:44 -0400">
+                <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-10-07 16:44:51 -0400">
                     <Title>Burshegeet</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>117,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>43830,0</TextSelection>
+                        <TextSelection>48079,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="773DDF43-D20C-40B2-A06A-91CC9495231B" Type="Text" Created="2025-06-13 15:05:04 -0400" Modified="2025-06-15 17:32:45 -0400">
@@ -1056,6 +1056,25 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>64,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7B00AA56-D9CD-474C-A3AD-7BAEC0000F1F" Type="Text" Created="2025-10-07 09:28:30 -0400" Modified="2025-10-07 09:30:53 -0400">
+                            <Title>Black Spaniel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5231,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DFEB60AA-0030-40DB-92F4-7CAFA0208208" Type="Text" Created="2025-10-07 12:25:00 -0400" Modified="2025-10-07 14:29:10 -0400">
+                            <Title>Fine China</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4304,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3B4A567D-C764-439C-9201-D6A030765FE0" Type="Text" Created="2025-10-04 11:13:00 -0400" Modified="2025-10-04 11:51:20 -0400">
@@ -4980,8 +4999,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 08:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 08:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 08:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -6640,6 +6659,28 @@ MORBID ANATOMY,</Title>
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem UUID="ADA0E253-EFF5-4FE9-9D5E-2EF78D82206B" Type="Folder" Created="2025-10-07 09:28:30 -0400" Modified="2025-10-07 09:28:30 -0400">
+            <Title>Recovered Files (10/7/2025, 9:28 AM)</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Warning.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="C61B857E-9D3F-4DFB-AEA3-3B0587837673" Type="Text" Created="2025-10-07 09:28:31 -0400" Modified="2025-10-07 09:28:31 -0400">
+                    <Title>Recovered File-2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.941176 0.937255 0.956863">
@@ -6711,15 +6752,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-10-04 20:43:06 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-10-07 16:45:03 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-10-04 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-10-07 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>13322</OtherWordCount>
-        <OtherCharCount>76083</OtherCharCount>
+        <OtherWordCount>830</OtherWordCount>
+        <OtherCharCount>4756</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
