@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2025-10-10 13:45:30 -0400" ModID="F2E5C12F-5694-4C5D-9DBB-4F3705F4B525">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2025-10-12 17:07:27 -0400" ModID="1E919F36-2054-4B93-9C3A-5035B44DBAE4">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -584,7 +584,7 @@
                         <TextSelection>47531,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="773DDF43-D20C-40B2-A06A-91CC9495231B" Type="Text" Created="2025-06-13 15:05:04 -0400" Modified="2025-10-09 16:49:34 -0400">
+                <BinderItem UUID="773DDF43-D20C-40B2-A06A-91CC9495231B" Type="Text" Created="2025-06-13 15:05:04 -0400" Modified="2025-10-12 16:56:49 -0400">
                     <Title>Shis</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -592,7 +592,7 @@
                         <NotesTextSelection>573,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>23644,0</TextSelection>
+                        <TextSelection>28034,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="ED89BA14-96F1-4CC0-B988-B31D07AB76E7" Type="Text" Created="2025-06-13 15:05:26 -0400" Modified="2025-06-15 17:33:22 -0400">
@@ -715,22 +715,22 @@
                         <TextSelection>2230,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="FAFED25D-917E-4A7E-AB00-A2B4F1BED0E0" Type="Text" Created="2025-06-15 11:43:00 -0400" Modified="2025-10-09 23:29:38 -0400">
+                <BinderItem UUID="FAFED25D-917E-4A7E-AB00-A2B4F1BED0E0" Type="Text" Created="2025-06-15 11:43:00 -0400" Modified="2025-10-12 00:50:21 -0400">
                     <Title>MyVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17405,0</TextSelection>
+                        <TextSelection>18282,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0400" Modified="2025-10-09 21:17:17 -0400">
+                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0400" Modified="2025-10-12 11:07:47 -0400">
                     <Title>OthersVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>60721,0</TextSelection>
+                        <TextSelection>61937,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0400" Modified="2025-06-15 13:05:17 -0400">
@@ -1148,13 +1148,13 @@
                                 <TextSelection>3218,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="DB262068-08CA-4DDC-A61E-49A7C6095317" Type="Text" Created="2025-10-09 21:59:53 -0400" Modified="2025-10-09 22:15:37 -0400">
+                        <BinderItem UUID="DB262068-08CA-4DDC-A61E-49A7C6095317" Type="Text" Created="2025-10-09 21:59:53 -0400" Modified="2025-10-10 21:27:29 -0400">
                             <Title>Lorrequer</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5440,0</TextSelection>
+                                <TextSelection>5887,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E9D4FBDE-E378-4002-AC6C-F8E2F7ECD233" Type="Text" Created="2025-10-03 20:45:51 -0400" Modified="2025-10-03 21:24:33 -0400">
@@ -1225,14 +1225,43 @@ MORBID ANATOMY</Title>
                                 <TextSelection>11633,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2AB9B284-047D-4BD1-A3C9-95A862AE77F2" Type="Text" Created="2025-10-10 13:38:20 -0400" Modified="2025-10-10 13:45:27 -0400">
-                            <Title>Titus Andronicus</Title>
+                        <BinderItem UUID="9BBA38FF-E87F-443D-8872-A1514FF4D64A" Type="Folder" Created="2025-10-11 21:37:04 -0400" Modified="2025-10-11 21:37:06 -0400">
+                            <Title>Shakespeare</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>925,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="2AB9B284-047D-4BD1-A3C9-95A862AE77F2" Type="Text" Created="2025-10-10 13:38:20 -0400" Modified="2025-10-10 21:20:31 -0400">
+                                    <Title>Titus Andronicus</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1601,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="76441BEE-137F-4605-875A-B3B7A5E09E3A" Type="Text" Created="2025-10-11 10:28:00 -0400" Modified="2025-10-11 11:33:36 -0400">
+                                    <Title>Richard III</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1481,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="463421B3-CACC-4FEB-A85E-A5328461BE67" Type="Text" Created="2025-10-11 21:37:13 -0400" Modified="2025-10-11 21:37:24 -0400">
+                                    <Title>General</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>38,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="C8BEB72A-392D-4FD1-8588-F13B0396F8A3" Type="Text" Created="2025-09-27 20:32:33 -0400" Modified="2025-09-28 11:51:25 -0400">
                             <Title>Beowulf</Title>
@@ -1442,6 +1471,15 @@ MORBID ANATOMY</Title>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>7053,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AC14BE62-A720-45BA-962F-59273264B490" Type="Text" Created="2025-10-11 14:03:40 -0400" Modified="2025-10-11 14:12:04 -0400">
+                    <Title>Marlowe</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4496,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F11DD6EC-DE62-4141-B4FB-CE7FAB7D95CE" Type="Text" Created="2025-02-16 12:01:03 -0400" Modified="2025-02-16 12:14:25 -0400">
@@ -5070,8 +5108,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 08:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 08:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 08:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -6823,15 +6861,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-10-10 13:45:30 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-10-12 17:07:27 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-10-10 00:00:00 -0400">
+    <RecentWritingHistory Date="2025-10-12 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>157</OtherWordCount>
-        <OtherCharCount>925</OtherCharCount>
+        <OtherWordCount>3</OtherWordCount>
+        <OtherCharCount>-32</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
