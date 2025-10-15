@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-10-14 21:06:59 -0400" ModID="4FABF9C9-3BD0-465A-894D-3730A720877F">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-10-14 21:49:05 -0400" ModID="06A81FD3-81C0-417A-B7B7-2A33AA6B8A0A">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -20,13 +20,13 @@
                 <TextSelection>2950,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="260B0628-A976-41BC-8BD0-21D0C320ED44" Type="Text" Created="2025-10-14 19:03:00 -0400" Modified="2025-10-14 19:26:24 -0400">
+        <BinderItem UUID="260B0628-A976-41BC-8BD0-21D0C320ED44" Type="Text" Created="2025-10-14 19:03:00 -0400" Modified="2025-10-14 21:16:37 -0400">
             <Title>FIXES</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>1507,0</TextSelection>
+                <TextSelection>1529,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="1A8768E0-A84B-46E1-B3C4-1605CC5301E9" Type="Text" Created="2025-09-23 22:51:37 -0400" Modified="2025-09-28 20:39:05 -0400">
@@ -165,7 +165,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1" Type="Text" Created="2025-06-13 15:01:33 -0400" Modified="2025-10-14 21:06:37 -0400">
+                <BinderItem UUID="CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1" Type="Text" Created="2025-06-13 15:01:33 -0400" Modified="2025-10-14 21:15:50 -0400">
                     <Title>Mandrameen</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -173,10 +173,10 @@
                         <NotesTextSelection>670,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>27600,0</TextSelection>
+                        <TextSelection>27457,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0528A255-D7B9-426C-A1E8-0ED7F0A169A1" Type="Text" Created="2025-06-13 15:01:39 -0400" Modified="2025-10-07 19:13:57 -0400">
+                <BinderItem UUID="0528A255-D7B9-426C-A1E8-0ED7F0A169A1" Type="Text" Created="2025-06-13 15:01:39 -0400" Modified="2025-10-14 21:48:47 -0400">
                     <Title>Salt Farm</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -184,7 +184,7 @@
                         <NotesTextSelection>144,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1714,0</TextSelection>
+                        <TextSelection>19086,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5D6C1F74-8F0D-4B1D-89A3-7229317F73BD" Type="Text" Created="2025-06-13 15:01:44 -0400" Modified="2025-06-19 20:03:49 -0400">
@@ -6879,15 +6879,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-10-14 21:06:59 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-10-14 21:49:05 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-10-14 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>482</OtherWordCount>
-        <OtherCharCount>2859</OtherCharCount>
+        <OtherWordCount>476</OtherWordCount>
+        <OtherCharCount>2777</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
