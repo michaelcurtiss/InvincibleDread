@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-10-18 11:31:48 -0400" ModID="D8F2F3A3-C82F-4F77-B3DC-2D3FD78DD936">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-10-18 20:27:54 -0400" ModID="8D5E3005-BE53-4425-A5FD-81FC81127520">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -758,13 +758,13 @@
                         <TextSelection>1677,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="540EC0CE-1396-4B1F-8622-B5287680A9A1" Type="Text" Created="2025-06-15 11:55:09 -0400" Modified="2025-10-04 10:42:39 -0400">
+                <BinderItem UUID="540EC0CE-1396-4B1F-8622-B5287680A9A1" Type="Text" Created="2025-06-15 11:55:09 -0400" Modified="2025-10-18 20:26:58 -0400">
                     <Title>ToRead</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>732,0</TextSelection>
+                        <TextSelection>1443,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="360F6D57-BCC3-4C8B-9442-6D60341FCB28" Type="Text" Created="2025-05-16 16:55:06 -0400" Modified="2025-05-16 16:59:36 -0400">
@@ -6904,15 +6904,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-10-18 11:31:48 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-10-18 20:27:54 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-10-18 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>50</OtherWordCount>
-        <OtherCharCount>277</OtherCharCount>
+        <OtherWordCount>117</OtherWordCount>
+        <OtherCharCount>722</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
