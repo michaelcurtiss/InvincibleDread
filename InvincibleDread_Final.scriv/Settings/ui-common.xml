@@ -21,7 +21,7 @@
             <ItemID>ADA0E253-EFF5-4FE9-9D5E-2EF78D82206B</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>CC53E687-7498-4E5D-BBCD-C4512CE146C8</ItemID>
+            <ItemID>B602AA55-BA3E-46A2-9B2D-9B190D0F7B22</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -31,7 +31,7 @@
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>Vertical</Split>
+    <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">Yes</Binder>
@@ -74,9 +74,7 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <Content>
-                    <ItemID>260B0628-A976-41BC-8BD0-21D0C320ED44</ItemID>
-                </Content>
+                <Content/>
                 <NavigationHistory CurrentIndex="199">
                     <HistoryItem Type="BinderItems" ViewMode="Single">6D4F4FC2-803C-4000-8533-C710254F25DB</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">A4FDB160-5D59-49F3-A37B-722D0758EDEF</HistoryItem>
@@ -285,7 +283,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>26048,0</Selection>
+                <Selection>2330,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -326,14 +324,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>CC53E687-7498-4E5D-BBCD-C4512CE146C8</ItemID>
+                    <ItemID>B602AA55-BA3E-46A2-9B2D-9B190D0F7B22</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">A19BEBBB-9820-43FB-A84D-C7BD1B86005A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">FFCCD86F-6C0C-467B-8E87-4E4BFD88F46A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">DFDCA978-B1BE-4E42-937D-61946877BEFA</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">A19BEBBB-9820-43FB-A84D-C7BD1B86005A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">DFDCA978-B1BE-4E42-937D-61946877BEFA</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">1DADA3C6-EFCE-42DD-B120-BDCF99A8D303</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">A19BEBBB-9820-43FB-A84D-C7BD1B86005A</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">DFDCA978-B1BE-4E42-937D-61946877BEFA</HistoryItem>
@@ -529,6 +522,11 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">1126BFF6-5B35-487A-B9F4-994129BE179F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">05D3C45F-68DB-4A95-9995-636421348E27</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">CC53E687-7498-4E5D-BBCD-C4512CE146C8</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">22668DD6-D09D-4DE5-B9B1-400FE5D55222</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">85F5D1AA-EA46-472C-8869-4780DA229CE6</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B602AA55-BA3E-46A2-9B2D-9B190D0F7B22</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">85F5D1AA-EA46-472C-8869-4780DA229CE6</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B602AA55-BA3E-46A2-9B2D-9B190D0F7B22</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
