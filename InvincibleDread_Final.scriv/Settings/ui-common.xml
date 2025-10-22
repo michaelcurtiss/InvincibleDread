@@ -22,7 +22,7 @@
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
     <Inspector Show="No" View="Notes">
-        <ShowProjectBookmarks>Yes</ShowProjectBookmarks>
+        <ShowProjectBookmarks>No</ShowProjectBookmarks>
         <ShowSimilarTexts>No</ShowSimilarTexts>
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
@@ -281,7 +281,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>7008,0</Selection>
+                <Selection>14598,31</Selection>
             </Text>
             <Outliner>
                 <Columns>
