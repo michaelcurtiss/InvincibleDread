@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-10-23 18:00:48 -0400" ModID="E25461F1-56F4-4EF2-A6FB-87681FB144EE">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2025-10-23 22:58:02 -0400" ModID="A29FC8C9-8C4D-4CEA-936F-BF511003E005">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:50:52 -0400" Modified="2023-11-05 02:15:51 -0400">
             <Title>Novel Format</Title>
@@ -463,14 +463,14 @@
                                 <TextSelection>11142,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="76C5FC20-4210-4D1D-B0FC-60882BCD12FF" Type="Text" Created="2025-06-13 15:04:20 -0400" Modified="2025-10-22 14:31:11 -0400">
+                        <BinderItem UUID="76C5FC20-4210-4D1D-B0FC-60882BCD12FF" Type="Text" Created="2025-06-13 15:04:20 -0400" Modified="2025-10-23 22:57:54 -0400">
                             <Title>Mandri's Demon</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>186,0</NotesTextSelection>
+                                <NotesTextSelection>327,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13207,0</TextSelection>
+                                <TextSelection>12516,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="36073F61-83D0-4B85-99B9-A3F3D132B1A0" Type="Text" Created="2025-06-13 15:04:20 -0400" Modified="2025-10-22 14:35:20 -0400">
@@ -596,7 +596,7 @@
                         <NotesTextSelection>608,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10879,0</TextSelection>
+                        <TextSelection>2649,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867" Type="Text" Created="2025-06-13 15:04:55 -0400" Modified="2025-10-07 16:44:51 -0400">
@@ -758,13 +758,13 @@
                         <TextSelection>55975,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0400" Modified="2025-10-22 10:59:00 -0400">
+                <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0400" Modified="2025-10-23 20:42:43 -0400">
                     <Title>AfterlifeStory</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1176,0</TextSelection>
+                        <TextSelection>266,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C3463D80-9B08-4BD7-B223-C645D160D764" Type="Text" Created="2025-06-15 13:04:41 -0400" Modified="2025-06-15 14:25:43 -0400">
@@ -1515,13 +1515,40 @@ MORBID ANATOMY</Title>
                                 <TextSelection>503,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="284136FA-CC8C-4746-AEDC-39C2BBC5C143" Type="Text" Created="2025-09-27 13:43:00 -0400" Modified="2025-10-08 21:34:21 -0400">
+                        <BinderItem UUID="284136FA-CC8C-4746-AEDC-39C2BBC5C143" Type="Text" Created="2025-09-27 13:43:00 -0400" Modified="2025-10-23 21:23:13 -0400">
                             <Title>Moby Dick</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="12182">12177,5</TextSelection>
+                                <TextSelection>69974,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D0AAB44E-3225-4C7A-BCE8-FD46AB8F7052" Type="Text" Created="2025-10-23 22:01:42 -0400" Modified="2025-10-23 22:05:17 -0400">
+                            <Title>The Mother</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>375,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="46C8013B-7ED9-4CD8-9424-A37FD4D79A00" Type="Text" Created="2025-10-23 22:09:27 -0400" Modified="2025-10-23 22:10:26 -0400">
+                            <Title>Journey to the underground</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>131,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A3511C87-0E1F-4B46-81D8-9D682040B531" Type="Text" Created="2025-10-23 22:14:20 -0400" Modified="2025-10-23 22:56:26 -0400">
+                            <Title>Occultists and Mystics</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>864,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="27938932-FBD0-431D-9176-A3A796511143" Type="Text" Created="2025-10-08 21:47:45 -0400" Modified="2025-10-08 23:39:17 -0400">
@@ -7022,15 +7049,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-10-23 18:00:48 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-10-23 22:58:02 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-10-23 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>113</OtherWordCount>
-        <OtherCharCount>526</OtherCharCount>
+        <OtherWordCount>2574</OtherWordCount>
+        <OtherCharCount>14199</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
