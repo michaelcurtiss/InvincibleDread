@@ -19,7 +19,7 @@
             <ItemID>ADA0E253-EFF5-4FE9-9D5E-2EF78D82206B</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>5A3CBD34-5978-4BC6-87FD-86278D2DAEA3</ItemID>
+            <ItemID>CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -281,7 +281,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>922,0</Selection>
+                <Selection>889,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -322,10 +322,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>5A3CBD34-5978-4BC6-87FD-86278D2DAEA3</ItemID>
+                    <ItemID>CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">34ADFE2A-F74E-49AF-BF96-D74CC212834E</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5C894AD7-2638-470C-8A97-324077CA632E</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">34ADFE2A-F74E-49AF-BF96-D74CC212834E</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">71DAA36A-9B7E-44BE-8D5C-1D944D8DDD83</HistoryItem>
@@ -525,6 +524,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">C0D9160E-A7FF-4758-A930-4F12EF28B09F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">F701C554-C988-47E3-99F3-4D98063C2A5C</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5A3CBD34-5978-4BC6-87FD-86278D2DAEA3</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
