@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-12-19 20:53:12 -0500" ModID="911405BB-39DE-4FC6-97B9-D7D38EDE28E7">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-12-25 18:45:38 -0500" ModID="8440D7E3-A702-4B81-922C-2317B7757D34">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0500" Modified="2023-11-05 01:15:51 -0500">
             <Title>Novel Format</Title>
@@ -63,6 +63,15 @@
             </MetaData>
             <TextSettings>
                 <TextSelection>691,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="B197F6D5-FA79-406C-85CB-DCE3363934C4" Type="Text" Created="2025-12-24 18:27:25 -0500" Modified="2025-12-25 16:55:52 -0500">
+            <Title>Ayram Scratch</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>649,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="C3C43B31-9527-4A12-955F-AB26FD25943F" Type="Text" Created="2025-12-11 14:10:51 -0500" Modified="2025-12-11 14:10:56 -0500">
@@ -219,7 +228,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1" Type="Text" Created="2025-06-13 15:01:33 -0500" Modified="2025-12-19 17:50:00 -0500">
+                <BinderItem UUID="CFDDBAB4-BB5C-4F18-BF48-BD9FDDFCF2D1" Type="Text" Created="2025-06-13 15:01:33 -0500" Modified="2025-12-23 16:10:42 -0500">
                     <Title>Mandrameen</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -228,7 +237,7 @@
                         <NotesTextSelection>201,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>27019,0</TextSelection>
+                        <TextSelection>18652,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="0528A255-D7B9-426C-A1E8-0ED7F0A169A1" Type="Text" Created="2025-06-13 15:01:39 -0500" Modified="2025-12-18 09:01:25 -0500">
@@ -255,7 +264,7 @@
                         <TextSelection>4628,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9A21997C-F2A2-42E7-BB67-79EBB95D5ABF" Type="Text" Created="2025-06-13 15:01:51 -0500" Modified="2025-12-15 16:39:31 -0500">
+                <BinderItem UUID="9A21997C-F2A2-42E7-BB67-79EBB95D5ABF" Type="Text" Created="2025-06-13 15:01:51 -0500" Modified="2025-12-25 17:58:38 -0500">
                     <Title>Salavan</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -264,7 +273,7 @@
                         <NotesTextSelection>139,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3477,0</TextSelection>
+                        <TextSelection>16985,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5C894AD7-2638-470C-8A97-324077CA632E" Type="Text" Created="2025-06-13 15:01:57 -0500" Modified="2025-12-16 19:07:26 -0500">
@@ -337,15 +346,15 @@
                         <TextSelection>1399,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="05D3C45F-68DB-4A95-9995-636421348E27" Type="Text" Created="2025-06-13 15:02:37 -0500" Modified="2025-12-19 20:53:11 -0500">
+                <BinderItem UUID="05D3C45F-68DB-4A95-9995-636421348E27" Type="Text" Created="2025-06-13 15:02:37 -0500" Modified="2025-12-25 18:13:38 -0500">
                     <Title>Ayram</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>434,0</NotesTextSelection>
+                        <NotesTextSelection>437,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6038,0</TextSelection>
+                        <TextSelection>2944,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="CC53E687-7498-4E5D-BBCD-C4512CE146C8" Type="Text" Created="2025-06-13 15:02:45 -0500" Modified="2025-12-09 18:41:31 -0500">
@@ -815,31 +824,31 @@
                         <TextSelection>2230,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="FAFED25D-917E-4A7E-AB00-A2B4F1BED0E0" Type="Text" Created="2025-06-15 11:43:00 -0500" Modified="2025-12-18 09:09:56 -0500">
+                <BinderItem UUID="FAFED25D-917E-4A7E-AB00-A2B4F1BED0E0" Type="Text" Created="2025-06-15 11:43:00 -0500" Modified="2025-12-25 16:38:22 -0500">
                     <Title>MyVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>16309,0</TextSelection>
+                        <TextSelection>1267,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0500" Modified="2025-12-05 20:52:38 -0500">
+                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0500" Modified="2025-12-25 16:39:39 -0500">
                     <Title>OthersVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>64494,0</TextSelection>
+                        <TextSelection>6624,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0500" Modified="2025-12-05 20:55:28 -0500">
+                <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0500" Modified="2025-12-23 08:58:30 -0500">
                     <Title>AfterlifeStory</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>8079,0</TextSelection>
+                        <TextSelection>208,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C3463D80-9B08-4BD7-B223-C645D160D764" Type="Text" Created="2025-06-15 13:04:41 -0500" Modified="2025-06-15 14:25:43 -0500">
@@ -1229,6 +1238,24 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>592,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BA7D2676-F210-40AD-A2D1-F7C3674868C7" Type="Text" Created="2025-12-23 11:33:32 -0500" Modified="2025-12-23 12:03:24 -0500">
+                            <Title>Fantastic Universe</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>763,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="33D345F7-2BDC-493F-9B7B-FF0792E04A3D" Type="Text" Created="2025-12-23 12:10:08 -0500" Modified="2025-12-23 15:15:55 -0500">
+                            <Title>Fore-Armed: citizen militia</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>16466,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="FF01641A-920E-4A58-9C56-D0D37A14CEBA" Type="Text" Created="2025-12-14 18:31:17 -0500" Modified="2025-12-14 19:28:21 -0500">
@@ -7186,15 +7213,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-12-19 20:53:12 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-12-25 18:45:38 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-12-19 00:00:00 -0500">
+    <RecentWritingHistory Date="2025-12-25 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-114</OtherWordCount>
-        <OtherCharCount>-549</OtherCharCount>
+        <OtherWordCount>23</OtherWordCount>
+        <OtherCharCount>200</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
