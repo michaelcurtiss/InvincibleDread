@@ -29,7 +29,7 @@
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>Vertical</Split>
+    <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">Yes</Binder>
@@ -72,9 +72,7 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
-                <Content>
-                    <ItemID>05D3C45F-68DB-4A95-9995-636421348E27</ItemID>
-                </Content>
+                <Content/>
                 <NavigationHistory CurrentIndex="199">
                     <HistoryItem Type="BinderItems" ViewMode="Single">1A8768E0-A84B-46E1-B3C4-1605CC5301E9</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">20B976C0-2F17-4175-8B78-D2D81A536C71</HistoryItem>
@@ -283,7 +281,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>2944,0</Selection>
+                <Selection>13340,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
