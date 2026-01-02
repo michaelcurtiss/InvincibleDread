@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2025-12-31 14:16:42 -0500" ModID="CA73C070-D1B2-4457-B387-F5DAB878D64D">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-01-02 14:18:23 -0500" ModID="F1665E63-866A-4DB5-B20A-EFAC6D8519EB">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0500" Modified="2023-11-05 01:15:51 -0500">
             <Title>Novel Format</Title>
@@ -81,6 +81,15 @@
             </MetaData>
             <TextSettings>
                 <TextSelection>355,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="B57C4C4F-2ED9-4C4A-B8EB-2929A65D7E5C" Type="Text" Created="2026-01-01 15:01:59 -0500" Modified="2026-01-01 15:02:03 -0500">
+            <Title>Pain Scratch</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>365,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="84B23B27-CDDF-4486-9330-8ED7DDB5C6FF" Type="Text" Created="2025-12-16 14:00:12 -0500" Modified="2025-12-16 14:00:16 -0500">
@@ -346,7 +355,7 @@
                         <TextSelection>1399,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="05D3C45F-68DB-4A95-9995-636421348E27" Type="Text" Created="2025-06-13 15:02:37 -0500" Modified="2025-12-31 14:16:40 -0500">
+                <BinderItem UUID="05D3C45F-68DB-4A95-9995-636421348E27" Type="Text" Created="2025-06-13 15:02:37 -0500" Modified="2025-12-31 17:17:45 -0500">
                     <Title>Ayram</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -355,40 +364,42 @@
                         <NotesTextSelection>1449,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>16430,0</TextSelection>
+                        <TextSelection>5458,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="CC53E687-7498-4E5D-BBCD-C4512CE146C8" Type="Text" Created="2025-06-13 15:02:45 -0500" Modified="2025-12-09 18:41:31 -0500">
+                <BinderItem UUID="CC53E687-7498-4E5D-BBCD-C4512CE146C8" Type="Text" Created="2025-06-13 15:02:45 -0500" Modified="2025-12-31 17:15:35 -0500">
                     <Title>Charnel Road</Title>
                     <MetaData>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>122,0</NotesTextSelection>
+                        <NotesTextSelection>461,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17024,0</TextSelection>
+                        <TextSelection>7102,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="22F5944B-2DA4-40EF-9806-B68FECEB19B4" Type="Text" Created="2025-06-13 15:02:53 -0500" Modified="2025-10-20 13:14:25 -0500">
+                <BinderItem UUID="22F5944B-2DA4-40EF-9806-B68FECEB19B4" Type="Text" Created="2025-06-13 15:02:53 -0500" Modified="2026-01-02 09:55:45 -0500">
                     <Title>Pain</Title>
                     <MetaData>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>241,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>13635,0</TextSelection>
+                        <TextSelection>5295,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="AC36DDFF-4341-4A62-89A4-46ECE2D2A81E" Type="Text" Created="2025-06-13 15:03:03 -0500" Modified="2025-10-20 17:19:42 -0500">
+                <BinderItem UUID="AC36DDFF-4341-4A62-89A4-46ECE2D2A81E" Type="Text" Created="2025-06-13 15:03:03 -0500" Modified="2026-01-02 14:18:01 -0500">
                     <Title>Minting Rock</Title>
                     <MetaData>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                         <NotesTextSelection>40,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>48956,0</TextSelection>
+                        <TextSelection>2724,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="4165437B-8303-4EA9-AD5E-CB077F260EA4" Type="Text" Created="2025-06-13 15:03:25 -0500" Modified="2025-12-13 10:24:38 -0500">
@@ -834,22 +845,22 @@
                         <TextSelection>1267,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0500" Modified="2025-12-25 16:39:39 -0500">
+                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0500" Modified="2026-01-02 08:40:59 -0500">
                     <Title>OthersVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6624,0</TextSelection>
+                        <TextSelection>67696,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0500" Modified="2025-12-23 08:58:30 -0500">
+                <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0500" Modified="2026-01-02 07:59:35 -0500">
                     <Title>AfterlifeStory</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>208,0</TextSelection>
+                        <TextSelection>1704,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C3463D80-9B08-4BD7-B223-C645D160D764" Type="Text" Created="2025-06-15 13:04:41 -0500" Modified="2025-06-15 14:25:43 -0500">
@@ -1176,6 +1187,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="05B6D248-E629-4BCD-9B9B-4DA101694E1B" Type="Text" Created="2026-01-02 08:12:36 -0500" Modified="2026-01-02 09:10:40 -0500">
+                            <Title>Signs, omens, and superstitions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9498,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="5573BE9E-F549-46C3-959D-1326D6C20BDF" Type="Text" Created="2025-09-28 14:51:21 -0500" Modified="2025-09-30 10:24:38 -0500">
                             <Title>Monism-Journal V.3</Title>
                             <MetaData>
@@ -5461,8 +5481,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0500">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0500">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0500">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -7214,15 +7234,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-12-31 14:16:42 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-01-02 14:18:23 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-12-31 00:00:00 -0500">
+    <RecentWritingHistory Date="2026-01-02 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-75</OtherWordCount>
-        <OtherCharCount>-275</OtherCharCount>
+        <OtherWordCount>2343</OtherWordCount>
+        <OtherCharCount>13149</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
