@@ -613,7 +613,7 @@
             </Formatting>
             <Separators>
                 <Before Type="Double"/>
-                <Between Type="Custom"><![CDATA[#]]></Between>
+                <Between Type="Custom"><![CDATA[***]]></Between>
                 <AfterOverride Use="No" Type="Single"/>
             </Separators>
         </Layout>
