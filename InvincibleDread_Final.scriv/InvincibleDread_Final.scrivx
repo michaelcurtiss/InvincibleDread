@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-01-08 15:42:50 -0500" ModID="88F7AB17-7748-41D7-B727-0A4E3D541B59">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-01-13 12:16:20 -0500" ModID="57DA6FDC-E7A7-47F7-9BA2-56B3B15C7070">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0500" Modified="2023-11-05 01:15:51 -0500">
             <Title>Novel Format</Title>
@@ -18,6 +18,55 @@
             </MetaData>
             <TextSettings>
                 <TextSelection>2950,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="D6AF2715-E1EE-471A-A058-1C96D4B43B63" Type="Text" Created="2026-01-09 16:58:56 -0500" Modified="2026-01-09 20:40:19 -0500">
+            <Title>FADE PLOT FIX</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>2064,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="5BA2603F-73C7-458C-B542-F851246515E0" Type="Text" Created="2026-01-10 12:46:24 -0500" Modified="2026-01-12 15:28:04 -0500">
+            <Title>Mandri's Farm ch2 rework</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>165,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="9E5FC9BC-4467-4F78-B462-3C9E40F0E34B" Type="Text" Created="2025-06-13 15:04:20 -0500" Modified="2026-01-08 14:39:32 -0500">
+            <Title>Mandri's Story</Title>
+            <MetaData>
+                <LabelID>10</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>92,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>10241,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="61C79E3C-7589-46DB-9E11-45CE52220E8E" Type="Text" Created="2026-01-13 12:16:11 -0500" Modified="2026-01-13 12:16:18 -0500">
+            <Title>Mandri's Story-NowVigrams</Title>
+            <MetaData>
+                <LabelID>10</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>92,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>10241,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="3966520A-D4D5-4A5C-81EF-25AE5E3B4205" Type="Text" Created="2026-01-13 11:31:40 -0500" Modified="2026-01-13 11:32:13 -0500">
+            <Title>Argument</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection Caret="8478">8016,462</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="260B0628-A976-41BC-8BD0-21D0C320ED44" Type="Text" Created="2025-10-14 19:03:00 -0500" Modified="2025-10-24 20:57:16 -0500">
@@ -143,7 +192,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>5379,0</TextSelection>
+                <TextSelection>4111,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="5EB44E9D-6DF7-43F4-BE7C-D29A52813B7B" Type="Text" Created="2025-06-23 12:51:14 -0500" Modified="2025-10-21 16:15:12 -0500">
@@ -286,6 +335,18 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>745,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8CE9E476-8F72-432C-AE1F-2C157B691818" Type="Text" Created="2026-01-13 12:15:53 -0500" Modified="2026-01-13 12:15:58 -0500">
+                    <Title>PelAndVigram</Title>
+                    <MetaData>
+                        <LabelID>10</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>27,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>989,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5D6C1F74-8F0D-4B1D-89A3-7229317F73BD" Type="Text" Created="2025-06-13 15:01:44 -0500" Modified="2025-12-15 16:41:07 -0500">
@@ -551,17 +612,6 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>9939,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="9E5FC9BC-4467-4F78-B462-3C9E40F0E34B" Type="Text" Created="2025-06-13 15:04:20 -0500" Modified="2026-01-08 14:39:32 -0500">
-                            <Title>Mandri's Story</Title>
-                            <MetaData>
-                                <LabelID>10</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>92,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>11849,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="76C5FC20-4210-4D1D-B0FC-60882BCD12FF" Type="Text" Created="2025-06-13 15:04:20 -0500" Modified="2026-01-08 14:40:15 -0500">
@@ -7269,15 +7319,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-01-08 15:42:50 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-01-13 12:16:20 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-01-08 00:00:00 -0500">
+    <RecentWritingHistory Date="2026-01-13 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-2</OtherWordCount>
-        <OtherCharCount>-161</OtherCharCount>
+        <OtherWordCount>1753</OtherWordCount>
+        <OtherCharCount>10598</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
