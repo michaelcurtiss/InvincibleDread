@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-01-31 12:48:59 -0500" ModID="3C21577C-7FCC-45B5-8F68-085ACE340169">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-02-01 14:08:04 -0500" ModID="69971F2A-9C7F-4D1B-A2C7-97F5D275F366">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0500" Modified="2023-11-05 01:15:51 -0500">
             <Title>Novel Format</Title>
@@ -47,6 +47,24 @@
                 <TextSelection>128,0</TextSelection>
             </TextSettings>
         </BinderItem>
+        <BinderItem UUID="2F033FDB-B389-46BF-8C3A-F710151F7F6A" Type="Text" Created="2026-01-31 16:17:28 -0500" Modified="2026-01-31 20:12:50 -0500">
+            <Title>Come As You Are</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>117204,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="AC2D1F57-2D84-42D5-8298-C1F27F60AE41" Type="Text" Created="2026-02-01 13:27:28 -0500" Modified="2026-02-01 14:08:01 -0500">
+            <Title>Oral man</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>16683,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
         <BinderItem UUID="44F6712A-68BB-4EF1-9BC5-F1B7444172C7" Type="Folder" Created="2026-01-16 13:58:22 -0500" Modified="2026-01-16 13:58:26 -0500">
             <Title>EarlyRework</Title>
             <MetaData>
@@ -68,13 +86,14 @@
                         <TextSelection Caret="24049">0,24049</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="27BC38B4-9BA5-43DC-9CC7-71E8AD697805" Type="Text" Created="2026-01-29 11:16:52 -0500" Modified="2026-01-31 12:47:57 -0500">
+                <BinderItem UUID="27BC38B4-9BA5-43DC-9CC7-71E8AD697805" Type="Text" Created="2026-01-29 11:16:52 -0500" Modified="2026-01-31 15:19:36 -0500">
                     <Title>VigramAndPel</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>1031,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14374,0</TextSelection>
+                        <TextSelection>21271,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6DFAC269-CCB7-40E1-8FDE-12FC4A26CA79" Type="Text" Created="2026-01-22 10:21:20 -0500" Modified="2026-01-22 10:21:20 -0500">
@@ -104,7 +123,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>478,0</TextSelection>
+                        <TextSelection Caret="1431">830,601</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="BB3B7C69-1F84-4D6C-93C4-3986D27996F2" Type="Text" Created="2026-01-22 12:33:57 -0500" Modified="2026-01-22 12:37:02 -0500">
@@ -7427,15 +7446,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-01-31 12:48:59 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-02-01 14:08:04 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-01-31 00:00:00 -0500">
+    <RecentWritingHistory Date="2026-02-01 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>106</OtherWordCount>
-        <OtherCharCount>518</OtherCharCount>
+        <OtherWordCount>3001</OtherWordCount>
+        <OtherCharCount>16690</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
