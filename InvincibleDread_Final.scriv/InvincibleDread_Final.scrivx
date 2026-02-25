@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-02-24 10:31:17 -0500" ModID="F5AE4E46-7BEE-4F85-89BA-C1597C2D8340">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-02-25 16:51:10 -0500" ModID="E85DE0A2-3C78-4983-927C-3BE373C33609">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0500" Modified="2023-11-05 01:15:51 -0500">
             <Title>Novel Format</Title>
@@ -101,29 +101,30 @@
                         <NotesTextSelection>337,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18926,0</TextSelection>
+                        <TextSelection>3453,38</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="27BC38B4-9BA5-43DC-9CC7-71E8AD697805" Type="Text" Created="2026-01-29 11:16:52 -0500" Modified="2026-02-10 17:42:34 -0500">
+                <BinderItem UUID="27BC38B4-9BA5-43DC-9CC7-71E8AD697805" Type="Text" Created="2026-01-29 11:16:52 -0500" Modified="2026-02-25 16:09:44 -0500">
                     <Title>VigramAndPel</Title>
                     <MetaData>
+                        <LabelID>12</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>1173,0</NotesTextSelection>
+                        <NotesTextSelection>1362,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>17328,0</TextSelection>
+                        <TextSelection>25299,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="6DFAC269-CCB7-40E1-8FDE-12FC4A26CA79" Type="Text" Created="2026-01-22 10:21:20 -0500" Modified="2026-01-22 10:21:20 -0500">
+                <BinderItem UUID="6DFAC269-CCB7-40E1-8FDE-12FC4A26CA79" Type="Text" Created="2026-01-22 10:21:20 -0500" Modified="2026-02-24 19:10:43 -0500">
                     <Title>PelAndVigram-1</Title>
                     <MetaData>
-                        <LabelID>10</LabelID>
+                        <LabelID>9</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                         <NotesTextSelection>423,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>19782,0</TextSelection>
+                        <TextSelection>365,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="412D58D9-AD83-4A47-9A17-091CA1A090A7" Type="Text" Created="2026-01-29 10:08:42 -0500" Modified="2026-01-29 10:08:48 -0500">
@@ -209,6 +210,18 @@
                         <TextSelection>13178,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="87DF9340-B854-4D2D-9AD2-4733F5634341" Type="Text" Created="2026-02-24 10:48:11 -0500" Modified="2026-02-24 12:09:02 -0500">
+                    <Title>Meskalim_VigramONLYScratch</Title>
+                    <MetaData>
+                        <LabelID>10</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>107,1</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8402,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="2CC7A552-1949-4AB9-84A1-40BEC032922C" Type="Text" Created="2026-02-21 13:02:06 -0500" Modified="2026-02-21 14:10:00 -0500">
                     <Title>Meskalim_Vigram-NOPEL</Title>
                     <MetaData>
@@ -219,6 +232,18 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>12542,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BC6E7DDB-A951-4133-B9A9-711085815C2A" Type="Text" Created="2026-02-24 12:08:48 -0500" Modified="2026-02-25 16:51:04 -0500">
+                    <Title>Meskalim_Vigram-NOPELOnly</Title>
+                    <MetaData>
+                        <LabelID>12</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>67,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12107,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="72E23B0D-9AF1-4DA5-BD69-CF8D0D1BCF91" Type="Text" Created="2026-02-19 14:05:34 -0500" Modified="2026-02-19 14:05:56 -0500">
@@ -250,7 +275,7 @@
                         <NotesTextSelection>139,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10537,1</TextSelection>
+                        <TextSelection>9238,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A3826751-3561-4B43-953D-DAEB7D5217BF" Type="Text" Created="2026-02-22 14:26:19 -0500" Modified="2026-02-23 14:26:26 -0500">
@@ -286,36 +311,25 @@
                         <TextSelection>16985,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem UUID="B9B3DEE0-804D-4D67-97B6-A0621175E458" Type="Folder" Created="2026-02-24 10:30:41 -0500" Modified="2026-02-24 10:30:56 -0500">
-            <Title>SalavanRework_VigramOnly</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <Children>
                 <BinderItem UUID="7E21CB44-5377-4C1C-AAC2-FA93A92FF4B9" Type="Text" Created="2026-01-16 13:58:10 -0500" Modified="2026-02-23 14:57:58 -0500">
                     <Title>Salavan Vigram Argument</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3406,0</TextSelection>
+                        <TextSelection>2499,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="CC1F3DA9-3487-4E28-9966-A17851BAB183" Type="Text" Created="2026-02-24 10:31:00 -0500" Modified="2026-02-24 10:31:07 -0500">
+                <BinderItem UUID="CC1F3DA9-3487-4E28-9966-A17851BAB183" Type="Text" Created="2026-02-24 10:31:00 -0500" Modified="2026-02-24 18:39:30 -0500">
                     <Title>Salavan_Into_Vigram</Title>
                     <MetaData>
-                        <LabelID>10</LabelID>
+                        <LabelID>12</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                         <NotesTextSelection>177,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>12316,0</TextSelection>
+                        <TextSelection>10204,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1178,13 +1192,13 @@
                         <TextSelection Caret="20461">20257,204</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0500" Modified="2026-02-22 19:00:54 -0500">
+                <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 11:42:30 -0500" Modified="2026-02-24 18:50:56 -0500">
                     <Title>OthersVibe</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>30342,0</TextSelection>
+                        <TextSelection>41230,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 11:43:42 -0500" Modified="2026-01-02 07:59:35 -0500">
@@ -4316,6 +4330,15 @@ MORBID ANATOMY,</Title>
                         <TextSelection>175,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="B9B3DEE0-804D-4D67-97B6-A0621175E458" Type="Folder" Created="2026-02-24 10:30:41 -0500" Modified="2026-02-24 10:30:56 -0500">
+                    <Title>SalavanRework_VigramOnly</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="D4491132-62F0-44E5-8949-C736FEDE1CAD" Type="Folder" Created="2023-11-09 10:03:32 -0500" Modified="2023-11-09 10:04:21 -0500">
@@ -5855,8 +5878,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0500">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0500">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0500">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -7608,15 +7631,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-02-24 10:31:17 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-02-25 16:51:10 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-02-24 00:00:00 -0500">
+    <RecentWritingHistory Date="2026-02-25 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>-222</OtherWordCount>
+        <OtherCharCount>-1255</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
