@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-03-10 14:03:27 -0400" ModID="2F6EDABB-15F1-480F-AE61-E9F209285836">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-03-10 14:41:00 -0400" ModID="590B375D-125E-43F7-A164-55D149BA2491">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -20,13 +20,13 @@
                 <TextSelection>2950,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="536C47AE-46BB-47F6-B825-AD0A1FBEF4A5" Type="Text" Created="2026-03-10 14:02:47 -0400" Modified="2026-03-10 14:03:18 -0400">
+        <BinderItem UUID="536C47AE-46BB-47F6-B825-AD0A1FBEF4A5" Type="Text" Created="2026-03-10 14:02:47 -0400" Modified="2026-03-10 14:40:57 -0400">
             <Title>TODO</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>42,37</TextSelection>
+                <TextSelection>118,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="3DFEEE7B-F7C1-4CC8-8827-3CB151EE508C" Type="Text" Created="2026-02-18 15:45:59 -0400" Modified="2026-03-08 23:24:04 -0400">
@@ -630,7 +630,7 @@
                 <TextSelection>1286,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="71D54E39-A923-490B-B30F-0B85BAA9DDCD" Type="Folder" Created="2025-06-13 16:01:19 -0400" Modified="2025-12-15 16:32:32 -0400">
+        <BinderItem UUID="71D54E39-A923-490B-B30F-0B85BAA9DDCD" Type="Folder" Created="2025-06-13 16:01:19 -0400" Modified="2026-03-10 14:29:28 -0400">
             <Title>Manuscript3.0</Title>
             <MetaData>
                 <LabelID>10</LabelID>
@@ -651,39 +651,39 @@
                         <TextSelection>745,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="27BC38B4-9BA5-43DC-9CC7-71E8AD697805" Type="Text" Created="2026-01-29 11:16:52 -0400" Modified="2026-03-05 18:39:51 -0400">
+                <BinderItem UUID="27BC38B4-9BA5-43DC-9CC7-71E8AD697805" Type="Text" Created="2026-01-29 11:16:52 -0400" Modified="2026-03-10 14:34:59 -0400">
                     <Title>VigramAndPel</Title>
                     <MetaData>
-                        <LabelID>12</LabelID>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>2019,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>693,0</TextSelection>
+                        <TextSelection>19087,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="BC6E7DDB-A951-4133-B9A9-711085815C2A" Type="Text" Created="2026-02-24 12:08:48 -0400" Modified="2026-03-05 15:58:57 -0400">
+                <BinderItem UUID="BC6E7DDB-A951-4133-B9A9-711085815C2A" Type="Text" Created="2026-02-24 12:08:48 -0400" Modified="2026-03-10 14:36:22 -0400">
                     <Title>Meskalim_Vigram-NOPELOnly</Title>
                     <MetaData>
-                        <LabelID>12</LabelID>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                         <NotesTextSelection>294,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>12362,0</TextSelection>
+                        <TextSelection>11428,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="CC1F3DA9-3487-4E28-9966-A17851BAB183" Type="Text" Created="2026-02-24 10:31:00 -0400" Modified="2026-03-06 16:47:18 -0400">
+                <BinderItem UUID="CC1F3DA9-3487-4E28-9966-A17851BAB183" Type="Text" Created="2026-02-24 10:31:00 -0400" Modified="2026-03-10 14:40:22 -0400">
                     <Title>Salavan_Into_Vigram</Title>
                     <MetaData>
-                        <LabelID>12</LabelID>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>971,0</NotesTextSelection>
+                        <NotesTextSelection>982,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="29300">29294,6</TextSelection>
+                        <TextSelection>37663,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="5C894AD7-2638-470C-8A97-324077CA632E" Type="Text" Created="2025-06-13 16:01:57 -0400" Modified="2025-12-16 19:07:26 -0400">
@@ -863,10 +863,10 @@
                         <TextSelection>29432,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B851E4F4-62CA-4A22-B79D-51035F9CDDF6" Type="Folder" Created="2025-06-13 16:04:18 -0400" Modified="2026-01-08 14:41:21 -0400">
+                <BinderItem UUID="B851E4F4-62CA-4A22-B79D-51035F9CDDF6" Type="Folder" Created="2025-06-13 16:04:18 -0400" Modified="2026-03-10 14:40:32 -0400">
                     <Title>Sand</Title>
                     <MetaData>
-                        <LabelID>10</LabelID>
+                        <LabelID>12</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
@@ -989,62 +989,56 @@
                                 <TextSelection>2790,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1E613A5F-201F-4029-8901-C810C738B3DD" Type="Text" Created="2025-06-13 16:04:20 -0400" Modified="2026-01-08 14:12:27 -0400">
+                        <BinderItem UUID="1E613A5F-201F-4029-8901-C810C738B3DD" Type="Text" Created="2025-06-13 16:04:20 -0400" Modified="2026-03-10 14:29:33 -0400">
                             <Title>Charnel Road</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>248,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C8AFD5AC-25E8-4F04-A510-C30BF958F060" Type="Text" Created="2025-06-13 16:04:20 -0400" Modified="2026-01-08 14:13:52 -0400">
+                        <BinderItem UUID="C8AFD5AC-25E8-4F04-A510-C30BF958F060" Type="Text" Created="2025-06-13 16:04:20 -0400" Modified="2026-03-10 14:29:32 -0400">
                             <Title>White Tails</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>1,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1181,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="386219A3-FD92-457D-97F9-CA3EFC088D3D" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-01-08 14:15:04 -0400">
+                        <BinderItem UUID="386219A3-FD92-457D-97F9-CA3EFC088D3D" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-03-10 14:29:32 -0400">
                             <Title>Lizard calls</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>636,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B4E7FB58-64ED-4628-B537-47E5C17C6864" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-01-08 14:15:51 -0400">
+                        <BinderItem UUID="B4E7FB58-64ED-4628-B537-47E5C17C6864" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-03-10 14:29:31 -0400">
                             <Title>Dying Pilgrim</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>359,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="9F679078-023B-4729-BC48-70CBDD9C0F49" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-01-08 14:23:24 -0400">
+                        <BinderItem UUID="9F679078-023B-4729-BC48-70CBDD9C0F49" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-03-10 14:29:31 -0400">
                             <Title>The Tib</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>3592,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EFAFE46B-C10D-4B13-B748-747939BCCDEF" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-01-08 14:26:04 -0400">
+                        <BinderItem UUID="EFAFE46B-C10D-4B13-B748-747939BCCDEF" Type="Text" Created="2025-06-13 16:04:21 -0400" Modified="2026-03-10 14:29:30 -0400">
                             <Title>Exit</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>42,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -7696,19 +7690,20 @@ MORBID ANATOMY,</Title>
         <Bookmark BinderUUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5"/>
         <Bookmark BinderUUID="6830B6AC-686B-4370-A979-2FD1D7288BDA"/>
         <Bookmark BinderUUID="69822417-D015-4BDD-90BD-18AAA6198D15"/>
+        <Bookmark BinderUUID="71D54E39-A923-490B-B30F-0B85BAA9DDCD">Manuscript3.0</Bookmark>
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-03-10 14:03:27 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-03-10 14:41:00 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-03-10 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-137</OtherWordCount>
-        <OtherCharCount>-799</OtherCharCount>
+        <OtherWordCount>11</OtherWordCount>
+        <OtherCharCount>-181</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

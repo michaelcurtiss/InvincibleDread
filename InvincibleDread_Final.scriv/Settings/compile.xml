@@ -4,7 +4,7 @@
         <Content Scope="Included" IncludeSelectionDescendants="Yes">
             <CompileGroup Type="Selection">2655DDF6-4AB8-42CB-A433-1CD76FC351D2</CompileGroup>
             <Filter State="On" Exclude="No" Type="Label">
-                <Label>10</Label>
+                <Label>12</Label>
             </Filter>
         </Content>
         <Options>
