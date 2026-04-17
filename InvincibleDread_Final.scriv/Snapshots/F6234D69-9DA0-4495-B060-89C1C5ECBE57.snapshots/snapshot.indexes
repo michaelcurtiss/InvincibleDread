@@ -1,640 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SnapshotIndexes Version="1.0" BinderUUID="DECED2D7-02FA-4A9D-A818-ECD4EAEF7867">
-    <Snapshot Date="2025-05-24 17:29:12 -0400">
-        <Title>Before Rework</Title>
-        <Text>The Hrks chased down every distant sound that skittered through Shulgi’s halls. Each man wanted to be the first to kill a demon. They were reckless. Spears clanged against low-hanging lintels. They stumbled into dark rooms, swiping and stabbing without caring what was there. It was a wild surge of frightened fury, such that it seemed they were not soldiers, but a mob. Mandri felt he was being swept along to his own execution.
-They terrified him. It was them and the fact that there were odd sounds skittering out there in the dark.
-Mandri bumped his nose and toes on stone shelves and column footings because he wasn’t allowed to hold a torch. The Skulsi assigned to manage him said that he wasn’t allowed to hold a torch because he wasn’t a Hrk. Meanwhile, Moto was allowed a torch; he was swinging it around is if trying to literally beat back the dark. When Mandri pointed this out, his captor’s forehead furled up like a sail rigged with scars, and he struck Mandri across the face—quick, sharp, and practiced.
-Mandri attempted to center himself by figuring out who he should blame for all this.
-Pyetle deserved blame. But the man was as much a victim of circumstance.
-There was only one other answer.
-Elrahet.
-She was the only one who appeared unafraid of this loathsome dark. Perhaps because of this, all were drawn to her loathsome presence. She was godlike in her gravity. Indeed it reminded Mandri, and this was not the time for it, but it reminded him of how Solraheen both comforted and terrified. Fear the loving Divine. And all this was true even though Solraheen was dead and Elrahet, that aged witch, was seemingly lost.
-“This isn’t right,” she hissed through clenched teeth as she led the crowd through Shulgi’s winding halls. “Isn’t right, isn’t right, isn’t right.” She paused now and again for Moto’s torch to come bobbing up above her shoulder, but it never seemed to illuminate the correct path.
+<SnapshotIndexes Version="1.0" BinderUUID="F6234D69-9DA0-4495-B060-89C1C5ECBE57">
+    <Snapshot Date="2026-04-17 12:11:49 -0400">
+        <Title>Push before reworking it so that Elrahet is the one being attacked by the keenkedrin beast</Title>
+        <Text>The Hrks chased down every distant sound that skittered through Shulgi’s halls. Each man wanted to be the first to kill a demon. The inconveniences of discipline and solidarity were forgotten as spears stabbed at shadows in every hall. Gruff voices hollered at nothing and apparently everything. Mandri, bullied along, felt he was being swept along by a mob to his own execution. The only question was who would do the cutting, the Hrks or demons. The betting favorite was demons, because there were odd sounds skittering around in the dark.
+He attempted to ease himself by looking for someone to blame for all this madness. Channeling fear into resentment always made things more tolerable. He wouldn’t blame himself, of course. He wouldn’t blame these rampaging Hrks, as they were ignorant victims of circumstance. Then Elrahet’s grating voice grumbled out, “That way!”, and through a wash of hrkwhite cloaks Mandri caught a glimpse of her bony hand pointing.
+This was all her doing.
+Who else?
+“Better be right!” Pyetle barked, and then he urged his mob to follow her lead.
+Pyetle, for all his authority, was helpless in this ancient place. Elrahet belonged to it. Like a grandmother in her own home, she was godlike in her gravity. Indeed it reminded Mandri, and this was not the time for it, but it reminded him of how Solraheen both comforted and terrified. It reminded him of how he feared a loving divine. And all this was true even though Solraheen was dead and Elrahet, that aged witch, was as lost as everyone else. She paused at every unexpected turn and hissed through clenched teeth, saying, “This isn’t right. Isn’t right, isn’t right, isn’t right.” Now and again she’d wait for a torch to come bobbing up above her shoulder, but it never seemed to illuminate the correct path.
 Someone yanked on Mandri’s arm.
-It was Moteah.
-“Put your sword away, idiot!”
-Mandri didn’t even know he had it out. In fact, he forgot he’d had it at all.
-“You’re going to stab someone,” she said.
-Mandri reluctantly sheathed his blade, and good thing he did, for Elrahet took a sharp turn into a dead end and everyone bumbled into each other.
-“Get ‘em off the lead!” cried one of the nameless Hrkan number. A general murmur of agreement arose, and Pyetle, obviously flustered at having let his authority slip, marched towards Elrahet with a tight-lipped glare.
-&quot;There had better be a demon in this godforsaken wonder.&quot; He brandished his sword. &quot;And it had better be a demon worth killing.&quot; 
-When Elrahet refused to reply, an argument erupted over nothing in particular, because each person who spoke seemed to inhabit a different reality. Moto came to Elrahet’s defense with a few ideas about where demons preferred to hide. Bald Blank doubted that great demons still existed. One skinny soldier complained about hunger, another the cold, while a meek voice questioned the true origin of demonry, even going so far as to suggest that the sins of all those present were involved. Then he claimed that the demons they sought were hiding inside their own hearts, and a chorus of swears and condemnations swept through the crowd. With effort, Pyetle corralled them all back to the issue of Elrahet’s failure to produce a fearsome beast.
-Mandri retreated from this flock of idiots.
-It was a fine time to rummage about his pockets for his burgeon.
-He quickly found it, then unstopped its thorn-plug and shook a drop of juice onto his outstretched tongue. He then tried to settle into the thrill of the coming high, but as he found himself in a dark corner of the room, he could not help but wonder why a building so grand should be so dark.
-It wasn’t a simple matter of no one being around to light the lamps because there weren’t any lamp fittings affixed into the walls. This darkness was intentional. And there wasn’t any natural light either, as Shulgi was much too thick in the belly for it. If, as the Solitants say, the purpose of a prison is to help sinners lose themselves, then Shulgi performed that function admirably.
-And the building was grand. The walls everywhere were adorned with fine etchings stacked in rows from floor to ceiling. Most of these scenes were painted, if faded and cracked, in shades of yellow, white, and ochre. Some were battle scenes, with lines of soldiers and slaves poking each other with spears. There were garden scenes where Old Jandri kings strolled along in quiet contemplation. There were farming scenes of peace and plenty, fields of wheat, and nearer the bottom there were scenes of Shis and horror, where Solraheen’s brother, Schisol, burned martyrs who screamed as tongues of flame licked their skin.
-It reminded Mandri of a tomb, as it wasn’t uncommon for some rich fart to spend a fortune decorating the inside of his tomb just like this, with row upon row of his life’s events stacked up to the ceiling in a grand display of his own magnanimity. And when his tomb’s door was sealed, no one was allowed to have a look at the story but him. After putrefaction set in, and his eyes were reduced to brown, gooey prunes, then no one was looking. It was a monumental waste of good pigment.
-It was a waste here, too. The story etched into the wall didn’t even have a narrative.
-To be fair, Mandri wasn’t sure if he should he read it all bottom to top, or the other way around. Perhaps the structure was more immediate and the stack of a scenes represented some cosmic order. He looked for an event which might strike him as familiar, so that he could orient himself. He skimmed through the various displays of beneficence, torture, growth, and decay until he came to the soft edge of the torchlight. There the light was dim, and it blinked every time the crowd behind was stirred to passion by some bold inflection in Pyetle’s speech. It was there that Mandri found an engraving which depicted the moment of Solraheen’s birth, when He emerged out of the Void. It was a familiar enough device—an expressionless face floating above a swirl. The difference here was that three ragged grooves marred Solraheen’s brow. Each gash was as wide as two of Mandri’s own fingers.
-The stone had been raked by the taloned hand.
-Mandri would have gasped if his breath hadn’t been stolen by the Riga. He would have shouted for the others to look at what he’d found. Muzzled as he was, these unrealized impulses crashed around inside him and made him mad.
-Across the room, a flurry of accusations flared up again. The final blow came when Pyetle demanded clear evidence of their quarry. Moto, indomitable Moto, assumed a loud posture and began to lie.
-“I saw a demon at the end of the hall!”
-“Which hall?”
-“Behind you.”
-“Nonsense.”
-“Sense or no, I saw it!”
-“You failed to mention this until now?”
-“I knew you wouldn’t believe me.”
- Having had enough, Mandri slapped the wall as hard as he could. 
-The loud smack of his skin against stone caught the Hrks off-guard. Those nearest jumped in fright and crashed against their comrades. Some fell, and a few loosed spears clanked against the ground before settling into a strolling chime as they rolled in arcs atop the uneven floor. 
-But it was only Mandri standing there. 
-Out came a swarm of curses sealed by spit. A cloud of indignation grew until punctured by the outstretched arm of a tall soldier who pointed at the etchings on the wall, at Solraheen’s troubled brow.
-He shouted, “It’s true!”
-“What?”
-“Look!”
-“Look at what!?”
-“There!”
-Each Hrkan eye went wide as they recognized the mark of the beast.
-Mandri was soon surrounded by a crowd of excited faces haloed by torchlight.
-“Out of the way!” Pyetle shouted as he elbowed his way in. He graciously shoved Mandri aside, then studied Solraheen’s defacement with his own critical eye. He held his hand up against the wall and splayed his fingers so that they settled in the monstrous scrape.
-“So it is,” he said reluctantly.
-Elrahet stepped out of his shadow, startling everyone with her sudden appearance. She eyed the wall with contempt, then directed her ire to the circle of astonished men.
-“No more mewling!” she growled.
-She stole a torch from an absent minded soldier and swept it side to side so as to move the crowd of white-cloaks out of her path. Once through, Moto and Moteah were quick to her side. Together they practically flew into the dark, leaving the bewildered Hrks to gawk at their fluttering robes. 
-“Go!” Pyetle thundered.
-The band of fighting men recovered their wits and gave chase. Mandri, half-hoping to be forgotten, was yanked into the motion by the scarred Hrk.
-Mandri, torchless, was forced to find his way through a smear of uncertain light. And Elrahet’s pace was unrelenting. There was no time for him to find his footing, much less appreciate whatever distinguished one hallway from another. Shulgi’s innards were all the same; a maze of painted walls and red sandstone. It seemed the only other defining feature were the many descending stairways. Each was ill-conceived, with each step having it’s own irregular height. Where the steps were short, Mandri’s heels pounded hard, and whenever the next step unexpectedly fell away, his knees locked and jolted.
-Thankfully, the burgeon was starting to settle in. This buoyed his mood. Or rather, it dulled him altogether. Time passed quickly. It wasn’t long until he found himself so deep inside the mountain that the stale, dusty smells of earth were strong enough to cut through the wafting torchsmoke. 
-The one real concern, at this point, was that the walls were closing in.
-Mandri was not yet prepared for the burgeon to distort the world around him. He needed to be standing still for that. Preferably laying down. He hoped that this sense of constriction was real, that the walls really were swelling up, and that the architect who dreamed this place was actually intended to instill in him a sense of being digested. 
-Distracted by this thought, he crashed into a squared stone column that stood rudely in the middle of the hall.
-This pillar of red was smooth and featureless save for a large vertical crack which hadn’t quite split the thing in half. This was no ordinary crack. From Mandri’s vantage, it looked like a bit like the stone’s insides were charred, as if hollowed out by fire. And hidden inside, hidden deep inside were several blots of sparkling gold. They peeped out at him like a clutch of nestling chicks.
-Mandri told himself this was a vision from the burgeon. He knew it wasn’t, but assuming it was made things easier. It meant he could move on. He wouldn’t have to think about how this detail tied into Elrahet’s account of the place.
-But he did have to think about it.
-Because what sort of prison burns voids into the stone and invests it with gold?
-There were pits in the walls, too.
-Was there gold hiding in those as well?
-If there were, what kind of people could have resisted the greed?
-The hall was narrowing severely now, so that was a mark in the burgeon’s favor. Then he saw how the Hrks were marching single file, so maybe it wasn’t. The walls really were closing in. This ritualistic procession might really be an architectural decision. 
-How quaint.
-Not that Mandri’s opinion mattered. He wasn’t even sure if it was his opinion, as he could feel the god’s eye burgeon bottling him up. He could sense it searching for a dark place for store him.
-There were pits in the rock.
-Thumb sized pits.
-Could he fit inside?
-He was not a large man.
-If his body was incinerated and the heat of his flesh dissolved his bones to dust, then he could be compacted, perhaps, down to the size of a thumb. He’d become one again with the rock. Because that’s all he was without a Spark imbuing will. That’s all he was—a skeleton of dirt, tensioned by meat, forgetting why it was trying to hide inside a cloak of skin.
-Why was Solraheen splitting Sparks to trick dirt into thinking it was people?
-Even the question felt malformed.
-He was incompetent. He simply lacked brilliance.
-And that was with the God Eye burgeon…he was a child splashing in the shallows. 
-Where were the sights he’d seen before?
-The God Eye should be stunning him with visions.
-There were only red stone walls.
-A hustling white cloak in front.
-There was a stomach on the other side of that cloak. A stomach bearing a Spark.
-He should be able to see that Spark, if the God Eye was potent. There should be bright, glowing lines tethering that Spark to the future.
-The white cloak swished and flicked as its wearer abruptly stepped aside. This flourish revealed an arched exit which emptied into a monumental expanse.
-Mandri stumbled down a short stone ramp into this humbling void. The immense walls were lost to darkness. The ceiling was absent altogether. The floor was a dark red mirror. His addled mind could not decide whether this was an underground lake of blood, or a glass-like plane of deep-red quartz so finely burnished that he could see his own muddy reflection inside it.
-He could see the outline of his wild hair, his sunken cheek, his skeletal visage. He could not believe it was him. He tried to snuff the vision out with his foot, and the oiled sole of his rubbed-raw shoe squeaked loudly against hard stone.
-The squeak snapped through the vast chamber, sharp and sudden, bouncing from wall to wall, almost growing louder with every echo.
-Everyone froze and glared at him.
-Pyetle ambled over, grabbed him by the collar, and held him still. A quick jut of Pyetle’s bearded chin was enough to marshal the gawking soldiers into a tight ball of spears and jostling elbows. Once readied, Mandri was thrown in with them, and they continued on.
-They moved slowly now. Exposed. A demon could simply open its eyes, and there they’d be, spotlighted by their own torches against the blood-red stone. Mandri cringed in fear as he imagined something rustling would come tearing down from above, but he heard nothing. Their was only the sounds of their padding feet and nervous breathing echoing out and back, as if their own ghosts that were closing in. 
-He was surrounded by tangle of spears. Up above, there was nothing but the dark. And that was the thing; he should see something. The first time he sipped the god eye burgeon, the dark itself appeared to move. The second time he sipped the burgeon, he saw nothing of the sort, but there were bright Sparks then, and bright lines.
-Perhaps the burgeon revealed something new with every tasting?
-Each experience might be tailored to the adapt to mood of the user.
-At present, fear was guiding him. And there was slight tingling in his legs. Wonder what vision was in store for him, the torchlight appeared to pull from out of the darkness the most surreal of sights.
-Above, a knotty branch of sparkling gold emerged from the fog of shadow. It was bent down severely by the weight of a gruesome fruit. Hanging at eye level.
-A solid mass of golden organs, large as Mandri’s own. Golden lungs enfolding a golden liver, stomach, and partial intestinal tract. All of it was compressed together as if sitting in a pelvic girdle and bound by an invisible wrap of skin.
-It was beyond the hand of any goldsmith. The veins crawling on the lungs were too numerous and delicate. Every organ was too irregular to have sprung from imagination, every crevice too fine to have been molded by tools.
-This was a cast.
-Some poor man had his organs gilded and hung from a golden tree.
-There were bones stacked on the ground underneath it—a reverential cairn monumented by a skull.
-The Hrks could see it, too. They gave it a wide berth.
-It was real.
-And there was another, off to the right, an overhanging branch bearing another mass of gilded organs.
-There were more.
-They walked amidst an orchard of hanging organs and bushes of bone, some of them small enough to have once been children. The air stirred with the hush and fumble of fearful whispers. A few men looked ready to flee, but the inertia of the group kept them moving. They did not stop until they found to the source of this horror, as the golden branches above converged to a single trunk. It was not an orchard, but a tree.
-The skin of this massive trunk of gold was as ragged as the surface slag from the belly of a dying furnace. In its center was an egg-like void—the hollowed out remnant of some violent explosion. At the base, there were roots, and these dug down into the quartz, splitting it, blackening and glassing the edges, crumbling bits into sand.
-All stood before this wonder in fearful silence. It was as if Solraheen Himself was suddenly standing there before them, and whatever sins they’d forgotten, were now.
-Pyetle, b, reached out to touch the trunk.
-Elrahet cut him short with a grumble.
- “Do you desire a memory which will haunt you?”
-Pyetle pulled back 
-His face screwed up, now in anger.
-“There’s nothing here.”
-“This is nothing?”
-“There is no demon!”
-“Patience, Hrkman.”
-The stress of the moment was wearing on Pyetle’s round features. The stark torchlight gave his bulging eyes a froggish aspect. It seemed, with all the blood rushing to his head, that he might swell up and croak.
-When Moteah asked, “Where is Seb?” 
-The whites of Pyetle’s eyes flashed as he peered over the heads of the Hrks, looking for whoever had just disturbed his peace. Pulled back and asked Slate, “Who is Seb?”
-“The grimy woman,” Slate replied.
-Grimy indeed. Seb had a bothersome that meant it wasn’t possible to miss her in any crowd. But when Mandri looked, sure enough, she wasn’t there. She wasn’t sneaking around behind him, or spitting on one of the golden fruits. 
-Nor were there stray footsteps 
-Pyetle clearly had no idea who ‘the grimy woman’ was referring to. He began to count the Ayramun—one, two, three, four—only four, including Mandri.
-“Slate!”
-“Here, sir.”
-Slate stepped nearer to his commander. The two shared a quick word, and Slate pointed an accusing finger towards a gaggle of Skulsi to Mandri’s left, but he withdrew it quickly. His eye then darted to and fro in widening arcs as he searched for a guilty face.
-“We seem to be missing a man.”
-Pyetle’s countenance cracked and fell.
-“Gather the Ayramun.”
-Mandri felt his scalp tighten as the soldiers nearest grabbed him firm. They carried him, dragged him, lined him up next to Moto and Moteah in front of the sacred tree. Elrahet was there as well, of course, scowling at Pyetle as he drew his sword once again.
-He seemed to make a habit of pulling his sword out for the excitement, then eventually sheathing it unused. A bit of a tease. And the blade was thin, pristine, elegant, more for seeing than sinning, though something in Pyetle’s eyes said this time was different.
-“This has gone on long enough.”
-“I’d say,” Slate agreed. “Do it, then be done with it.”
-Pyetle silenced his right-hand man with a glance. Then he gestured up at the golden boughs.
-“Do me the courtesy,” he said to Elrahet, “of letting me know what this is.”
-“I have told you already,” Elrahet grumbled.
-A man who was always game for a ___ suddenly finding himself not in it the mood for them. unaccustomed to expressing it.
-“I suppose I should make this clear,” he said as he pointed his sword at Elrahet. “Appreciate the distance between my blade and your stomach—my mercy is this short.”
-He straighted his arm and the tip of the metal tickled Elrahet’s robe.
-“I keep looking for a reason not to,” he said. “I don’t know why. It’s not like you could say anything which would save you. ”
-“If you and your men would only listen.”
-“I am listening,” Pyetle said sharply. “If I were not, you would be dead.”
-“If you were listening,” Elrahet snipped, “then you would have heard it.”
-She inclined her head to her left, bidding him too look.
-“Listen close, for the beast is there.”
-A riffle of excitement stirred through crowd of white cloaks as all eyes turned to face the dark.
-It was empty save for a few gilded organs.
-Two of these framed a chasm of black, and two more were scattered beyond in fainter light. There were surely more beyond that if the light cared to reach.
-A few skeptical grunts polluted the air, but most of the men were quiet, preserving their breath, it seemed, for screams.
-“I hear something!”
-“Quiet!” Pyetle hissed. 
-A thought came then to Mandri, a thought bidden by the burgeon, because only a burgeon could bring such a stupid thought up into the sight of mind. His lips soured even as they moved to shape the words: I was wrong.
-What was he wrong about?
-He didn’t have any strong opinions about whatever was happening here.
-What could he possibly be wrong about?
-He’d never been wrong before.
-When he had been wrong, he’d always been the first to correct the error. 
-Surely there was a demon creeping somewhere in the dark—was he wrong about that? If so, this odd thought shouldn’t feel so much like fear.
-He began to sense that this strange admission was, in fact, an inaccurate interpretation of whatever the burgeon was trying to tell him.
-If this was divine revelation, he was a poor hand at it.
-Such things require focus.
-He was too easily distracted by the gleam of torchlight on Pyetle’s sword.
-This was the sparkle of burgeonsight. It was coming on. He could feel it. That dancing gleam on whetted metal was entrancing. Perhaps more interesting was the way Pyetle’s hand tightened on the hilt.
-The man was about to do something with that sword.
-Pyetle took an ominous step towards Elrahet, and behold, what an image of malice he could project. His round, frowning face was about ready to jump right out of his beard. The rest of his body seemed somewhat reluctant, but that face…
-He retracted his arm, preparing for a final thrust, but in the form of an ear-splitting scream which came springing from the void—the lively shriek of a young man dying.
-
-EEEAAAAUUUUUGGH!!
-
-Emphatic and sudden, the scream flushed the air, startled the Hrkan soldiers, buckled Mandri, then fled out back out into void, seeking escape. Its echo left a wake so empty that the sprinkle of dust shaken loose from the ceiling could be heard tinkling on the floor.
-A soldier tucked his spear under his shoulder. This triggered a cascade of spears falling into alignment, all of them pointed towards to origin of the scream.
-Mandri guessed that whoever was dying out there was less than two hundred yards away.
-“Line up!” Slate barked. “Line up!”
-The men lined up into even rows. Pyetle assumed his place in front of them. His fearlessness was matched by Slate. Elrahet strode past them all with surety in her step. 
-“STOP!” Pyetle commanded.
-She did not stop. She waddled on, past the point where the light was clean, then stopped of her own accord. In that liminal gloom she hunched over her cane and peered into the dark.
-Or was she listening?
-Mandri trembled as he caught the faint echo of a sappy sort of squelching. It brought to mind someone sucking on a burgeon, or perhaps, toothless gums swishing juice as they mashed a borcandi spine into strings.
-“Seb!” Moto shouted from behind the lines of Hrkan spears.
-A response rose out of the dark, deep and wheezing, yet loud enough to strum Mandri’s bones.
-It was not Seb.
-
-“Welcome, witch.”
-
-The ragged voice passed like a wave through the  of Hrkan spears. Even Pyetle was taken aback. But for a righteous deed.
-
-Stopped just behind Elrahet re, who remained unmoved.
-Someone threw a torch over her head. The flaming stick flew straight, towards the scream, towards the squelching, towards the disembodied voice. It flew for a good forty yards before it clattered onto the floor, trailing flicks of flame. From there it slid some distance yet before coming to a stop at the distant wall.
-“They wish to suffer my glory,” said the haunting voice. “Let them.”
-The air above erupted into light as fire splashed into enormous bronze braziers hanging by chains. This alone would have been enough to send Mandri the sight of the distant torchlit wall, which was not a wall at all but a colossal mound of flaking skin, warted over with bleeding pustules and tags of fat. This swell of flesh was so large that it near plugged the room.
-The whole horrible thing shook as the rasping voice sounded out again.
-“Behold, my glory!”
-The whole mound of flesh rolled forward to reveal, sticking out of the top like a cork, the torso of an old, white-bearded man. He wore a tattered green robe and his head was crowned with gold. His arms clutched a headless body, shoulder’s cloaked in white.
-This old king smiled in the brazier’s harsh light.
-His smile grew and grew until his snakelike jaw dislocated straight off of his skull.
-He shoved the Hrk’s lolling neck into his gaping maw.
-He stretched his cheeks beyond reason to accommodate the shoulders, and then he crunched down onto the spine and began to chew.
-A scream of terror died stillborn in Mandri’s throat.
-
-. He yelped and jumped back, and good thing he did, for standing there, framed by the doorway, was a
-
-“Hag beetles!” Elrahet shouted, unafraid, “They’ve spines that stab out from inside their shells—careful when they open.”
-
-A scream of terror died stillborn in Mandri’s throat, for arrayed around this bloated beast’s belly were several demon roaches the size of dogs. At least ten of them. Human hands sprouting out the ends of its segmented legs. Their faces were an unholy mix between an insect’s and a man’s—flat and bug-eyed, lidless, staring up at the ceiling. Their chitinous mouths gulped the air like fish out of water.
-“Hag beetles,” Elrahet cautioned.
-Mandri turned to flee, but was stopped by the sight of four more demon beetles climbing down the tree. They clicked their legs against their shells like chittering addicts.
-“We’re doomed,” Mandri muttered.
- Moto and Moteah stood in shock, eyes flitting between the great beast and another few of hag-beetles crawling on the branches above. Only Elrahet showed no fear. She took a step towards the beast and bowed deeply, as if petitioning a Hrkan Lord.
-“Greetings, most repugnant king,” she said in mocking reverence.
-The whole mass of the great beast shivered. Up above, the king’s distended ribcage squeezed his meal down into his bloated stomach. The sight of his black tongue licking down the Hrkan’s shoes was almost more than Mandri could bear, and this was followed by the crack of his jaw snapping back into place.
-“You have perverted your flesh, Greskal.”
-Elrahet heaped ridicule upon the name.
-The putrid king, this false god, only laughed.
-His laugh sent a shudder through his whole bloated body, ending in a horrible burp.
-“Ech!” he belched. “Keep your names to yourself! Poison your minds with names. Chain your Sparks to your bodies with names. I am more than any name can bear. Look at me!”
-He leaned his whole bulk forward to resettle his great stomach. Mandri suspected that somewhere under the calloused flabs of skin on the floor were legs, but he doubted this demon king could do much more than lean.
-“I am no longer Greskal!” the beast thundered. “I have become…I have become, becoming itself! Name me, witch—I am the Burshageet!”
-His voice filled the chamber through, and all gathered were stunned into silence, all save the hag-beetles, who chattered and clicked their oily teeth, vibrating with their master’s mood.
-“Do think me ugly?”
-Elrahet snarled and spat at the beast.
-The Burshageet laughed at her disrespect. He grabbed a handful of his own flesh and pulled it, stretching it far beyond the point where skin should have ripped. It was as if his flesh was made from tar, and appeared to be wriggling like a piglet.
-He pulled it further, and when he let it slip, the flesh snapped back against his body with a satisfying smack.
-“This ugliness is the world,” the Burshageet decreed as he caressed the welling redness. “Don’t you see? This is the world into which a Spark is thrown. And I am BRIGHT against it! I wear this body as proudly as my crown. These sores announce my virtue. These boils proclaim me divine. If you had the sight to see my purity, my sacrifice…you offer yourselves up eagerly!”
-“Your son had a stronger stomach than you,” Elrahet growled. “Your wife should have cut out your heart and made him king.”
-A paroxysmal twitch shuddered through the Burshageet’s bulk. He pointed to Elrahet and bellowed, “Silence that Spark-ensnaring womb!”
-A hag beetle dropped from the ceiling.
-It fell with tremendous speed, and as it did, its shell split open, revealing a black, insectoid spike which shot out and jabbed at Elrahet.
-The old witch deftly stepped aside.
-The beetle crashed into the floor.
-Pyetle charged, and his sword severed the spike from the dead beetle’s twitching body.
-The Burshageet belched in annoyance.
-“Offer yourselves willingly,” he said. “Be joined together inside my stomach and know union for once in your miserable lives. Please do not struggle…stressed meat tastes fouler.”
-With the natural grace of a man made king from birth, the Burshageet twirled his scrawny arm, snapped his fingers, then waved his minions onward.
-Moto and Moteah pushed their way through the line of Hrks to shield Elrahet behind them. Mandri remembered his sword and found a position in the back. Then he remembered that there was no one behind him. He turned and saw five black-shelled, needle beetles from Shis climbing down the golden tree. 
-He tugged on the nearest white cloak, but was shrugged off.
-The beetles were on the floor, now. Scuttling towards him.
-He but 
-Bad, bad time for the God’s Eye sight to blind him.
-He readied himself to stab, but wasn’t sure his body was working.
-The beetles fluttered their shells against their backs, preparing to jump. Then the world flashed with the white light of purpose.
-His vision plunged into a swirling sea of iridescent light. Form from distance, resolving into, what else, the shape of one of those Hag beetles scurrying towards him.
-He prayed for Solraheen’s protection. He spoke no words, it was a stronger prayer than that, it was a burst of raw emotion.
-He could see its Spark floating inside its shell.
-A Spark of saturated yellow.
-Shimmering white threads of purpose stretched out of it. Indeed, and wound through the net of fate which fixed the world.
-There were many other Sparks in this darkness. A great many.
-At least four were straight above him.
-One arced through the air straight at Mandri.
-He would have taken it for his doom, but it stopped right in front of his nose. And there was another shimmering thread of purpose arcing there, one which wound out through the doorway and disappeared into the darkness of the hall from which they’d come. 
-The hag-beetle jumped. It sped through the air and its shell parted to let loose its spike, but Mandri did not duck, for he’d caught sight of a giant running through the doorway.
-A wild eyed giant with a bread-loaf beard.
-Mandri sighed in awe as Ayram swung his iron spear right through its guiding thread to break the hag-beetle’s back. An eye-blink later and the beetle was smashed into the ground with a tremendous crunch. When he yanked his spear out of the beetle’s belly, the beetle spasmed, its Spark dimmed, and its eight legs and many fingers twitched feebly a moment more.
-Ayram.
- His Spark shone brightly.
-Glorious Ayram, the conquering hero. 
-The hag-beetles scurried back up the golden trunk. fled back down the hall, following their threads of purpose back towards the Burshageet.
-Ayram dumped the dead Mazidariga at Mandri’s feet.
-This was the last cause and effect that Mandri saw, for 
-Mandri could not move for he was transfixed by the net of purpose which floated about the room. Thousands of shimmering threads criss-crossed this void, most of them wrapped around Elrahet. She was as before, cocooned in light, the locus of all creation. Her Spark was as bright as the sun. Shouts and cries. Assault. The sight of it all instilled Mandri with the confidence that they would be victorious, for it was clear to Mandri that her purpose did not end inside this room.
-But a flutter of his lidded eyes, his yawning , and he saw how she was outshone by the Burshageet. The beast’s Spark was not an orb, but a constellation of shimmering spheres of every size and color, all of them webbed together inside his bloated stomach. And these glowing links pulsed, merged, and split apart, while some knots popped like bubbles into sparkling rainbow dust which coalesced into new lines of purpose that stretched out into the world.
-If the Burshageet were not a god, then he was close to it, for only something divine could build new lines of fate and set the world into motion. But if he was divine, his flesh was not a suitable vessel. He was lost in the throes of some belly-aching fit. It seemed as if the skinny king on top was about to vomit.
- “A moment!” the Burshageet shouted amidst a throng of battle and blood. “We have gifts for all, if you’d only wait a moment.”
-The putrid king’s eyes rolled into white and he punched his body hard enough to knock loose some internal blockage. He moaned, threw his head back, and his shoulders cringed and quivered. A cosmic wave rolled under his great bulk and the constellation inside his stomach sloshed along with his bile. Next came a shudder, then another wave, and another shudder, and his Sparked web was pulled and stretched to breaking—a glob of red light snapped loose. A boil the size of a wagon wheel burst open. The king above coiled up and screamed a scream so horrifying that Solraheen Himself would have wavered.
-Blackness oozed out of this fresh cavity. When the next shudder came this hole ripped wider, and out poured a great red lizard demon slathered in tar, Sparked, it seemed, by fire.
-Half man, it stood up on two legs.
-Half keenkedrin, it swished and flicked its razored tail.
-When it stood up to its full height, it was taller than Ayram by a head. Its eyes, double lidded, were blood red like its scales, and its pupils reflected the fiery glow of its murderous intent.
-It stretched, discovered itself, newlyborn, and 
-Its arms were ribbons of muscle. Its back a whip. Its jaw, filled hateful fangs, let loose a low, purring hiss. It delighted in its awful power.
-Air became excited by the sound of an army of hag beetles clicking and scratching their spikes inside their shells.
-Then was silent. A pattering of awkward applause as their fleshy hands slapped the stone as they crawled.
-“The Mazidfire!” Ayram shouted over his shoulder. He twirled his spear under his right arm and spat a challenge towards the newborn freak. A snarl of fangs was the reply.
-
-The beetles continued to click their excitement while Moto and Moteah herded Mandri and Elrahet into a corner.   They circled around Ayram and the newborn lizard demon and headed straight for Mandri’s corner. Their numbers on the ceiling swelled. Mandri could just make out the dull shine of eyes as a hag-beetle darted into the darkness directly above him. He could see its yellow Spark clearly, and attached to it was a single thread of inevitable purpose which dropped right down at his feet.
-
-Moteah set the two pale bodies right next to each other, and as he rolled the Riga’s shoulder’s flat he noticed that its chest had a spear-sized hole in it. It’s stomach was missing. Obo’s pseudospark was missing.
-
-Beyond her, Ayram roared, and the distance between him and the newborn demon was closed so fast that it seemed only a single leap. The thunder clap of their meeting unleashed chaos in the room. So much happened so fast that Mandri, burgeoned as he was, couldn’t keep track.
-Down on the floor, three hag-beetles jumped at once—maybe it was more, Mandri wasn’t sure because the rush of bodies, limbs, and twisting threads of fate blurred all motion beyond bewilderment. At least two jumped straight at Moto, who ducked to the left, leaving Mandri suddenly exposed to one of these black clicking balls of death. And before Mandri could raise his sword, Moto pivoted and brought his own blade down on the hag beetle’s back. In a flash he cut right through the narrow gap of soft tissue behind the beetle’s head.
-This dead beetle, severed head and all, plowed into Mandri and smashed him to the ground, bleeding its black blood all over him. Though its head tumbled to the floor, its body wasn’t fully dead, instead it seized up, and one of its human-handfeet slapped Mandri in the cheek.
-Mandri would have laughed if it weren’t for the sight of a hag beetle up on the ceiling dropping down—things seemed to fall faster when they were falling straight at him.
-The beetle crashed into its headless cousin, knocking the air out of Mandri’s chest and squeezing a jet of black ooze out of the dead beetle’s neck into Mandri’s face. But this was not enough to obscure his sight of the lines of purpose. One of these white filaments extended out from the attacking beetle’s back and ran a worrisome arc right through the center of Mandri’s forehead.
-The beetle’s spike flew out of its back, and thanks to the guiding light, Mandri was able to twist his head out of the way.
-The spike retracted, then struck out again, and Mandri ducked again, careful to keep his ear out of the bright white arc which mapped the spike’s path through the future.
-Mandri laughed, because he felt like he was cheating, and twice more, the bumbling spike tapped against the stone next to his cheek.
-“Idiot!” Mandri shouted.
-The beetle stopped striking. It swiveled its whole head around so that its lidless saucer eyes were staring right down at him.
-“Sorry!”
-Mandri tugged hard on the dead beetle body between them, and as the spike flew down once more it met instead with the dead beetle’s shell. Mandri hid himself beneath this carapace as the beetle above tried to smash through it, and he hid like this until, by the grace of Solraheen, that dumb beetle’s head was severed and fell right in front of his nose.
-Moteah pulled her sword out of it.
-“Get up!” she urged.
-Mandri tried to wriggle himself out from under the weight of the two dead beetles, but his hips and thighs were pinned. 
-“Kick it off me!”
-Moteah kicked the top beetle and Mandri was able to push himself free from the other. He got to his feet and wiped his face with his sleeve and marveled at the carnage—eight dead beetles lay strewn across the floor. One more was somehow smashed into the wall behind him. What beetles were left fled back across the hall. One of these hags ventured too near to the duel of duels that raged between Ayram and the newborn demon, and that beetle was sliced in half by the lizard’s thrashing tail.
-Neither of the giants moved with anything resembling weight. Ayram swung his iron spear so fast that it seemed to curve, and it snapped suddenly straight against the lizard’s fending tail. Sparks flew, the demon recoiled and raged, then it leaped forward in a wild spin, swiping out with its taloned hand. Ayram sidestepped, and the demon followed through with its tail to knock Ayram’s spear aside just as the next spinning set of talons were coming round.
-Ayram rolled backwards, ducked just below a beheading blow, and leapt away, leaving nothing but a swirl of dust between them.
-Not only were their movements fraught with impressive power, but their limbs traced through swirling white arcs of purpose. It was a moving image which melted Mandri’s mind. He resolved then and there to apologize to Moto if they ever made it through this alive, as this fight was indeed a work of wondrous art, as captivating as any other, as revealing, as honest, and it had him rapt in core-collapsing wonder. And when the giants paused their brawl to gather themselves, Mandri saw how badly they’d ravaged each other. 
-The demon’s lower jaw was hanging off the side of its head. Its forked tongue hung limp against its neck. Ayram’s robe was half-clawed off and ribbons of his flesh hung down his side, exposing the yellow fat, the red muscle, and three gleaming white ribs that drowned in blood every time he exhaled. 
-The swirl of white light that was Elrahet bore up her cane and smacked Moteah’s rump.
-“Help him!” she shouted.
-Both Moteah and Moto stared down the hall. They could deal with hag beetles easily enough, but this newborn was an enemy beyond them.
-“Go!” Elrahet screamed.
-Moteah took off running towards the battle, her purpose clear. Moto cursed, half in acceptance of his doom, half because his sister had accepted hers first. He followed, and they got halfway towards Ayram when the demon noticed them. It gargled a hiss through its broken jaw and crouched down like a cat to retreat back down the hall. Its long tail was raised like that of a scorpion. 
-Elrahet turned to Mandri and drew her golden blade. He could not see her face through the bright white shroud of purpose. Her hand trembled as it lifted the knife up above her head.
-Mandri panicked. “What are you doing?!”
-The old witch thrust her knife downwards in a swift stroke.
-But it was not aimed at Mandri.
-She brought it down upon her own bright purpose, and the golden blade, curved and gleaming, sliced right through the shimmering threads. The frayed ends splayed out into a tufted cloud, and Elrahet emerged from this mist clad in her usual black robed, leathery self. An eye blink later, and she was completely free of all divine light, save for the light of her Spark. It had only taken one swift cut to unwed herself from the world.
-She smiled at Mandri, a gummy, toothless smile. Mandri was utterly confused as to what this could possibly mean, but there was no time to wonder, for in the distance behind Elrahet he saw the newborn jump all the way to the ceiling. Its arc carried it over the heads of the three warriors, and it hit the ground running straight for Mandri and Elrahet.
-Its great chest heaved as it ran, and its open throat screamed a wild, garbled hiss underneath its permanent grin. It closed the distance in four swift strides, and its final leap was tremendous. The sheer size of it could crush them both, but curiously, it rolled in the air. The explanation for this maneuver came swiping in from the periphery—Ayram’s spear.
-The demon rolled under it.
-Ayram missed.
-In committing himself to the blow he’d left himself open to the lizard’s scything tail, which did not miss—it ripped a gash across Ayram’s chest.
-The lizard demon then crashed into Mandri and Elrahet and sent them sprawling. 
-When Mandri recovered a moment later, he expected to feel the demon hollowing out his head, but the demon’s great arm lay atop him, lifeless. Elrahet’s golden blade was hilted in the top of its skull.
-Mandri struggled to push himself out from under the dead demon. Elrahet was lying on the demon’s other side. Mandri’s own sword sticking out of her stomach. A chill of horror crawled through Mandri’s skin as realized he must have accidentally stabbed her in the flurry. He rushed over and tried to help, but could tell from the absence of breath that she was already dead.
-A gargling gasp sounded from behind, and Mandri spun in fright. There was Ayram. Ayram and a river of blood flowing out from the fissure in his chest. Ayram gasped again and he dropped to his knees, then fell backwards. Moto, sprinting up from behind, caught the giant’s fall. Moteah was there too, though she kept on running, and when she caught sight of Elrahet dead by Mandri’s sword, grief and hopelessness broke her.
-She huddled over Elrahet. Her shaking hands could not believe the blood which wet the witch’s robes. She wiped the blood away with her own robe, then gently brushed Elrahet’s hair with dewy eyed devotion.
-“They come!” Moto hollered. He lay Ayram down before turning to face the onrushing beetle horde.
-“Let them come,” Moteah said as she gnashed her teeth and fought back tears. But she thought better of it when her brother shrieked in pain as his leg was sliced by a hag-beetle’s stabbing spine. She picked up her sword again, roared her fighting fury, and then ran to join her brother’s futile act of bravery and defiance.
-Mandri stayed by Elrahet’s side. Her golden Spark was still there—his sword was stuck right through it. And there was still one thread of purpose sprouting out of it. It was thin, almost invisible, and it was tethered to Mandri.
-Mandri pulled his sword out of her belly and cast it aside. Then set his lips to her wound, and he sucked her Spark into his mouth. This pure divinity sloshed atop his tongue and the taste of it filled his whole being with ecstasy. The urge to swallow was overwhelming, but that was not what he was meant to do, for a thread of purpose tethered him to Obo’s corpse, and it was shining bright.
-Mandri hustled over to Obo’s lifeless body and squeezed his jaw open. He spit Elrahet’s Spark into the Mazid’s mouth. He drew back, hoping that he was done and that Obo would rise, but the Spark simply puddled in the back of Obo’s throat and did nothing.
-Mandri recalled how Elrahet had muttered some guttural speech to bring Obo back after Minting rock. It was something like Old Jandri. 
-He didn’t know any Old Jandri.
-He didn’t know any invocations or incantations which might reweave the threads of purpose, or direct a Spark to his will. The only sacred words he knew were from that pre-meal Solitant prayer, a prayer that wasn’t life affirming, it was life denying. Embedded in it was the thought that life is a terrifying thing. Life kills. Life kills, and it eats what it kills, and for some reason, people fear death. Yes, that is what makes life, life—it kills and eats, and it kills and it eats. One should not fear death, fear life!
-
-Consumed by the body
-	So that it can
-Fuel the Spark
-	So that it can
-Move the flesh
-	So that it can be
-Consumed by the body
-
-It was a mantra which could only be completed when repeated. Mandri spoke it, and he repeated it, and as he whispered it to Elrahet’s Spark he willed it to move with his feeling. To his delight, a tiny thread of purpose stretched out of that Spark and wandered down Obo’s throat. It wiggled like a worm seeking sustenance. Mandri wasn’t sure whether his ritual refrain or his raw desire drew that thread into being, so he continued on doing both, and he strained with the effort. The harder he focused, and the more he lost himself in the flow of words and emotion, the further the thread traveled on. It went taut when it hit the Mazid’s stomach, and suddenly the shimmering gold Spark zipped down to take up residence in Obo’s belly.
- Obo’s whole body pulsed with light, and he awoke with a fresh face, and bright eyes, as if nothing had happened at all.
-He sat up, alert as ever.
-“Hello Mandri. What did I miss?”
-Mandri simply pointed down the hall, where Moto and Moteah had their backs against the wall, surrounded by a gang of beetles.
-“Oh,” said Obo, and as casually as the sun defeats the night, he opened his mouth and shot a golden beam of Mazidfire through the room. He swiped it in a downwards arc, and all at once, a line of twelve hag-beetles were cut in half.
-The Amalgamete unleashed a dreadful, squelching scream.
-“AIIIEEEEEEEEEGHHhhhhghghh!”
-He was not at all pleased to see Obo burn his children. And he was not at all pleased to find himself afraid. And upon this afeared and fearsome beast, Obo let loose a powerful bolt of purging fire. The flame merely smashed into the Amalgamete’s flesh and fizzled, leaving only a scorch mark.
-The beast laughed as if tickled, but Obo resummoned his flame, and this time he held it steady. He held that beam so long that his own throat heated up to incandescence. This roaring flame was a relentless lance, and it popped through one of the Amalgamete’s great sores. It poured into the demon king’s stomach, heated the insides, boiled them up until sputtering, bubbling blobs of super-heated bile splashed out. Up above, a hiss of steam shot out of the putrid king’s throat, and when Obo finally calmed his fire, the whole beast slumped down, deflated. It appeared to melt into a simmering puddle of its own black bile and blood.
-The Amalgamete was dead.
-What beetles were still alive went scurrying into the darkness beyond. Obo was content to rub his throat and watch them leave. Meanwhile, Moteah collapsed in exhaustion. Moto shook his head in disbelief at the dead Amalgamete.
-Then he eyed Obo and snorted. He seemed as displeased to see the Obo moving as he was pleased at the sight of his boot kicking a hag beetle’s head across the floor.
-Obo asked him, “Why so upset? Would you prefer to have lost?”
-“We have lost!” Moto shouted. “Ayram is dead! Elrahet is dead!”
-“So?”
-“So? SO!? That witch was the last vestige of Solraheen’s grace on this earth. She battled evil for untold ages, and now she’s gone. She is gone, and her enemy still lives.”
-“You are referring to Schisol’s Shadow?”
-“Who else?
-Moto’s question went unanswered, but not because it flustered Obo. Obo was simply unconcerned. But Mandri was very much concerned. He’d played too big a role in all this for it to end badly. Guilt forced him to blurt out, “Why not kill the other witch? Schisol’s Shadow, I mean. We have Obo, we have his Mazidfire. Let’s find her and kill her.”
-Obo said, “That sounds like a reasonable solution.”
-“You can’t kill her,” Moto said. His calm delivery belied the fact that his frustration was boiling over. “She wasn’t supposed to die!”
-“Then how did Mandri manage it?”
-The tension in Moto’s shoulders snapped, and he stammered out a meek, “I have no idea.” 
-Mandri snickered and gathered himself together. He picked up Obo’s litter and carried it over to the Mazid, then patted him on the shoulder. “Let me carry you for another while,” Mandri said. “Let’s go find another enemy to burn.”
-Obo smiled and climbed into the litter.
-“What about you two?” Mandri asked the siblings. “Are you coming?”
-“Coming where?”
-Mandri shrugged. “I’m sure Shis can’t be far away. There’s got to be a demon hole in the ground around here somewhere. Come on, what else are you going to do? This is what you’re here for, right? Ending evil? Well, let’s end it.”
-Before Mandri left the room, he yanked Elrahet’s golden knife from out of the lizard demon’s head. With this, he hoped to shape the future.</Text>
-    </Snapshot>
-    <Snapshot Date="2025-10-03 16:26:49 -0400">
-        <Title>Before Poem Sublimation</Title>
-        <Text>The Hrks chased down every distant sound that skittered through Shulgi’s halls, as each man wanted to be the first to kill a demon. They were reckless, swiping and stabbing without caring what was hiding in the impenetrable dark. It was such a wild surge of frightened rage that it seemed these Vessels were not so much soldiers as a mob. Mandri, carried along in the middle of them, felt he was being swept along to his own execution. The only question was who was going to be doing the executing, because while the Vessels were wild, there were odd sounds skittering out there in the dark.
-It did not help that Mandri wasn’t allowed to hold a torch. The Vessel assigned to manage him said that he wasn’t allowed to hold a torch because he wasn’t a Hrk. Meanwhile, Moto was allowed a torch, and he was swinging it around in a futile attempt to beat back the dark. When Mandri pointed this out, his captor’s forehead furled up like a sail rigged with scars, and he struck Mandri across the face—a quick, sharp, and practiced slap.
-Mandri attempted to center himself by blaming someone for all this madness. It was a difficult thing to do because everyone present was, to some degree, a victim of circumstance. Then he heard Elrahet’s grating voice grumble out, “It’s not that way,” and through a wash of hrk-white cloaks he caught a glimpse of her bony hand pointing.
-The Vessels hesitated.
-“You’d better be right,” Pyetle growled, and at once the mob of men turned to follow her suggestion.
-At first it seemed unnatural for Pyetle to heed this witch’s word. But lost in the dark, at wits end, where else could he turn? This was Elrahet’s element. In this place, she was godlike in her gravity. Indeed it reminded Mandri, and this was not the time for it, but it reminded him of how Solraheen both comforted and terrified, how he was taught to fear a loving divine. And all this was true even though Solraheen was dead and Elrahet, that aged witch, was seemingly lost as well, because she led them through Shulgi’s winding halls and all the while she was hissing through clenched teeth, saying, “This isn’t right. Isn’t right, isn’t right, isn’t right.” She paused now and again for a torch to come bobbing up above her shoulder, but it never seemed to illuminate the correct path.
-Someone yanked on Mandri’s arm.
-It was Seb.
-“Put the sword away, fool!”
-Mandri didn’t even know he had it out. In fact, he forgot he’d had it at all. He was very surprised that the Hrks had let him keep it.
-“Goin’ to stab someone,” she said.
-Mandri sheathed his blade, and good thing he did, for the crowd ahead took a sharp turn into a dead end and he bumbled into them.
-“Get ‘er off the lead!” cried one of the nameless Hrkan number. A general murmur of agreement arose, and Pyetle, obviously flustered at having let his authority slip, pushed Elrahet against the wall. &quot;There had better be a demon in this godforsaken place,&quot; he said, &quot;and it had better be a demon worth killing!” 
-It was a weak threat given the circumstances, and the Vessels, eager for blood, wouldn’t have it.
+“Put that sword away!” Seb hissed.
+Mandri didn’t even know he had it out. He’d forgotten he’d had it at all. He was suddenly surprised that the Hrks had let him keep it.
+“Gonna stab someone,” she said.
+Mandri sheathed his blade. The mob of Hrks took a sharp turn into a dead end, and he bumbled into them.
+“Get the old bitch off the lead!” cried one of the nameless Hrkan number. A general murmur of agreement rang out.
 “Her head!” one man called.
 “Her head on a pole!” added another.
-“Quiet!” Pyetle commanded, but his men had reached their limit. Spears were brandished. Anger flared. Pyetle’s sword, in turn, was drawn. A shouting match erupted, pushing Mandri into the realization that he was certain to die. Here and now, or soon. 
-He retreated into a dark corner of the room. There was only one thing to do when confronted with such an inevitability: rummage about his pockets for a burgeon.
-He quickly found that blessed bulb and unstopped its thorn-plug. Careful to keep it a secret, he shook a drop of juice onto his outstretched tongue. He considered eating the entire thing, but if this really was his end, he wanted to face it with something resembling awareness, so that was enough, one drop. He then tucked the burgeon back into his pocket and tried to settle himself into the thrill of watching the world move around him. He was expecting immediate excitement, but somehow Pyetle had corralled his men away from the brink. This is not to say that the Vessels were calmed, but they did not interrupt as they listened to Moto invent ideas about where demons preferred to hide. When he was finished, Bald Slate spoke up, doubting that great demons still existed. Then one skinny soldier complained about hunger, another the cold, while a meek voice questioned the purpose of their quest, and he carried on into some theological point about how the most dangerous beasts were hiding inside their own stomachs. This sent a chorus of swears and condemnations sweeping through the crowd. Suffice to say, disagreement reigned. It seemed that everyone inhabited a different reality. Mandri wondered who was the furthest afield. He himself was still very much inside his body, and very much aware, even if his concerns were altogether different.
-Pyetle, he noticed, had a funny mouth. The man’s bottom lip was fat, his top lip skinny compared, and practically prehensile. The beard did a good job of hiding this. The beard, and the darkness.
-How could it be that building so grand could be so dark?
-It wasn’t a simple matter of no one being around to light the lamps because there weren’t any lamp fittings affixed into the walls. This darkness was intentional. And there wasn’t any natural light either, as Shulgi was much too thick in the belly for it. If, as the Solitants say, the purpose of a prison is to help sinners lose themselves, then Shulgi performed that function admirably.
-And the building was grand. The walls everywhere were adorned with fine etchings stacked in rows from floor to ceiling. Most of these scenes were painted, if faded and cracked, in shades of yellow, white, and ochre. Some were battle scenes, with lines of soldiers and slaves poking each other with spears. There were garden scenes where Old Jandri kings strolled in quiet contemplation. There were farming scenes of peace and plenty. Fields of wheat. Nearer the bottom there were scenes of Shis and horror, where Solraheen’s brother, Schisol, burned martyrs who screamed as tongues of flame licked their skin. It all reminded Mandri of a tomb. It wasn’t uncommon for some rich fart to spend a fortune decorating the inside of his tomb just like this, with row upon row of his life’s events stacked up to the ceiling to display of his own magnanimity. It made little sense, because when his tomb’s door was sealed, no one would be able to look at the story but him. After putrefaction set in, and his eyes were reduced to brown, gooey prunes, then no one was looking. It was a monumental waste of good pigment.
-It was a waste here, too. The story etched into the wall didn’t even have a narrative.
-To be fair, Mandri wasn’t sure in which direction he should read—bottom to top, or the other way around. Perhaps the picture was more immediate, holistic, and the stack of scenes portrayed some cosmic order. He looked for an event which might strike him as familiar. He skimmed through the various displays of beneficence, torture, growth, and decay. He could find no anchor, for the style was strange, stick-like, and the soft edge of torchlight would blink every time the crowd behind was stirred into a passion. It was only by providence that some bold inflection in the argument sent arms, torches, and spears stirring in just the right proportions to swipe a spotlight upon an engraving which depicted the very moment when Solraheen emerged out of the Void. Yes, there on the stone was an expressionless face floating above a swirl. Three ragged grooves marred Solraheen’s brow. Each gash was as wide as two of Mandri’s own fingers. The image had been raked by the taloned hand.
-Across the room, a flurry of accusations flared up again. Mandri turned in time to hear Pyetle demand from Elrahet clear evidence of their quarry. Moto, indomitable Moto, came to her defense. He assumed a loud posture and began to lie.
-“I saw a demon at the end of the hall!”
-“Which hall?”
-“Behind you.”
-“Nonsense.”
-“Sense or no, I saw it!”
-“Why did you fail to mention this until now?”
-“You wouldn’t have believed me. You still don’t!”
-Mandri would have liked to intervene, to point them towards the mark upon the wall, but he was distracted by how odd it felt to lick his teeth. The burgeon had numbed his tongue a little, and paradoxically, this increased it’s awareness. It was as if its prodding nerves were excited by such a divergence from normality. Yes, his tongue was higher than he was. It was even hallucinating. His bottom canines felt like daggers. He had to feel them with his fingers to ensure they hadn’t grown. Perhaps they had. It could be that the old demon bite in his leg had left a corruption which was morphing him now, into a beast. It would be a fitting moment for such a thing. But of course, his teeth were perfectly fine. It was all a trick of the burgeon.
-“It’s true!” one of the Vessels shouted.
-“Look!” said another.
-They were pointing at him. 
-“What of him?”
-“Not him, the wall!”
-At once, the crowd of Vessels discovered for themselves how the mark of the beast troubled Solraheen’s pure brow. And soon, Mandri was surrounded by a crowd of excited faces haloed by torchlight. Each Hrkan eye was as wide as his own.
-“Out of the way!” Pyetle shouted as he elbowed his way into this crowd. At the wall, he shoved Mandri aside so that he could study Solraheen’s defacement with his own critical eye.
-He held his hand up against it.
-He splayed his fingers so that they settled in the monstrous scrape.
-“So it is,” he said reluctantly.
-He regarded the rest of the wall with suspicion. It was clean of any further indignity. No feral scratching tracking up and down the wall. Somehow, this was caused Pyetle deep concern. Mandri wondered why, but the reason soon occurred to him; a single scrape, precisely placed, was intentional. That great scouring claw did not sign rage, it signed intelligence. It was a mark of meaning. And so, the concern—it was more dangerous to hunt a schemer than a beast.
-Now that Pyetle’s worry had infected Mandri, a flash of certainty hardened Pyetle’s face. He broke back through the crowd to confront Elrahet’s wizened glare. “You will lead us to the beast,” he said, “or you will die.”
-Elrahet stole a torch from an absent minded soldier standing next to her. “No more mewling,” she grumbled, and she swept her flame side to side to move Pyetle out of her way. Pyetle assented, and on she went. Moto and Seb, forgotten by the Vessels, were quick to her side. Together they flew into the dark, leaving the bewildered Hrks to gawk at their fluttering robes. 
-“Follow them!” Pyetle thundered.
-The band of fighting men recovered their wits and gave chase. Mandri, half-hoping to be forgotten, was yanked into motion by the mangled sneer of one of the scarred Hrkan Vessels.
-Elrahet’s pace was unrelenting. Mandri, torchless, was forced to find his way through a smear of uncertain light. There was no time for him to find his footing, much less form a mental map of this maze of sandstone walls painted over with signs and symbols. It was all a jumble of tattooed innards as far as he could tell. The only other defining feature was a descending stairway. Each step of it was ill-conceived, having it’s own irregular height. Where the steps were short, Mandri’s heels pounded hard, and whenever a step unexpectedly fell away, his knees locked and jolted.
-Thankfully, the burgeon was settling in. This buoyed his mood. Time passed more swiftly. It wasn’t long until he found himself so deep inside the mountain that the dusty smells of earth were strong enough to cut through the wafting torchsmoke and Hrkan sweat. That’s when the walls began to close in.
-He was not prepared for it. He needed to be standing still for that sort of thing. Preferably laying down. He took refuge in the possibility that this sense of constriction was real, that it wasn’t the burgeon bulging the walls, it was an architectural feature meant to instill in him the wonder of being digested. 
-Distracted by this thought, he crashed into a squared stone column that stood rudely in the middle of this descending colon. This pillar of red was smooth and featureless save for a large vertical crack which hadn’t quite split the thing in half. It was no ordinary crack, and no ordinary stone. Its insides were charred, as if hollowed out by fire, and hidden inside, hidden deep inside, were several blots of sparkling gold. They peeped out at him like a clutch of ducklings.
-Mandri told himself this was a vision from the burgeon. He knew it wasn’t, but assuming it was made things easier. It meant he could move on. He wouldn’t have to think about how this detail tied into Elrahet’s account of the place. Because what sort of builder would burn voids into the pillars to invest them with gold? There were small black pits in the walls, too, ulcerous, splats of black burning holes right back to Shis. Was there gold hiding in those as well? If there were, what kind of people could have resisted the greed? That list wasn’t long. Death cults. Animals. That’s who.
-The hall was constricting severely now. The Hrks were marching single file in front of him. Their arrangement meant the walls really were closing in. This ritualistic narrowing was was actually intentional, not the work of the burgeon. Even still, the burgeon was working on him. He could feel the God Eye bottling him up. He could sense it searching for a dark place to store him.
+“Quiet!” Pyetle shouted as spears were brandished. Pyetle’s sword, in turn, was drawn. A shouting match erupted. There was an edge of desperation in Pyetle’s plea. The veins in his neck bulged under the full clamping curve of his gnashing teeth.
+Mandri fell into the realization that everyone here was certain to die. Here and now, or soon, they would all die. 
+He rummaged about his pockets for his burgeon.
+The crinkled surface of that blessed bulb excited his fingertips. Careful to avoid notice, he pulled the beauty out and unstopped its thorn-plug. He briefly considered eating the entire thing, but if this really was his end, he wanted to face it with something resembling lucidity. So, he shook a single drop of juice onto his tongue.
+And now Pyetle was trying to corral his men away from thoughts of mutiny by shaking his sword and shouting about how everyone here was a coward. This elicited more than few hateful glares. But it wasn’t a misstep; Pyetle was putting them down to lift them up. Mandri had seen it before, as this kind of emotional abuse was a tried and true leadership tactic. Put the boys down to establish dominance, then lift them up from a greater height, making the uplift feel all the more adoring. Then boldly attach the desire to die for a cause. Because true leadership is about confusing a man into doing something that does not agree with his wellbeing.
+Was it working? It was too dark to really tell. Too dark to read the faces.
+It was much too dark in general.
+This wasn’t a simple matter of no one being around to light the lamps because there weren’t any lamp fittings affixed to the walls. There weren’t any windows for natural light to splash and bounce. Even if there were, Shulgi was much too thick in the belly for it. This darkness was intentional. If, as the Solitants say, the purpose of a prison is to help sinners lose their ways, then Shulgi performed that function admirably.
+And yet the walls everywhere were adorned with fine etchings from floor to ceiling, stacked in rows. Most of these scenes were painted, if faded and cracked, in shades of white and ochre. What torchlight there was told of battle scenes, with lines of soldiers and slaves poking each other with spears. There were garden scenes where Old Jandri kings strolled in contemplation. There were farming scenes of peace and plenty. Fields of wheat. Nearer the bottom there were scenes of Shis and horror, where Solraheen’s brother, Schisol, burned martyrs who screamed while tongues of flame licked their skin.
+It all reminded Mandri of a tomb.
+It wasn’t uncommon for a man with too much money to decorate the inside of his tomb just like this, with his life’s story stacked in rows up to the ceiling. Why do it? No one but he can say, because when his tomb’s door is sealed, no one would be able to look at the story but him. After putrefaction set in, and his eyes are reduced to brown, gooey prunes, then no one is looking. It was a monumental waste of good pigment.
+It was a waste here, too.
+Mandri wasn’t sure in which direction he should read the narratve—bottom to top, or the other way around. Perhaps the picture was more immediate, holistic, and the stack of scenes portrayed some cosmic order.
+He skimmed through the various displays of beneficence, torture, growth, and decay, but could find no anchor. The style was strange, the figures stick-like, and the soft edge of torchlight would blink every time the crowd was stirred into a passion. It was only by providence that some bold inflection in Pyetle’s speech sent arms, torches, and spears stirring in just the right proportions to swipe a spot of light over an engraving of an expressionless face floating above a swirl. This swirl was the Void, and the face was Solraheen’s. Three jagged grooves clawed out Solraheen’s brow. Mandri held his hand up against it. He splayed his fingers so that they settled in the monstrous scrape.
+This was a demonic signature of sorts.
+He began to wonder if there was such a thing as an intelligent demon. Then he was distracted by how odd it felt to lick his teeth. The burgeon had numbed his tongue a little, and so the interior of his mouth felt unfamiliar. His teeth felt sharp, his bottom canines like daggers.
+“We’re missing a man!”
+The shout had come from a Vessel somewhere behind. Mandri turned to try and find the man but the view was blocked by a group Hrks plugging the hall. Beyond them, was blackness. And now that everyone had gone quiet, an anxiety rippled voice shouted out, “Fally’s missing!”
+A shudder rolled through the crowd, and the Hrks were suddenly one organism again, all sharing the realization that they’d bottled themselves up in a dead end room, with one of their brethren missing.
+“The grimy woman is missing too!”
+Mandri had assumed that Seb was still beside him, but the only Ayramun he could find was Ayram himself, for the giant stood like a black mast above this churning sea of Hrkwhite cloaks.
+“Gather the pokes!” Pyetle shouted.
+The soldier nearest Mandri picked him straight off the ground, then hauled him like child to the opposite wall. Pushed against the stone, he was made to squeeze in between Moto and Elrahet.
+Pyetle stood before them, arms crossed, sword tapping against his shoulder. The blade sparkled. It almost seemed too thin to cut anything, too pristine, too elegant, too meant to be seen. It also looked a bit like a surgeon’s dissecting instrument, only without the hooked tip to split open all the body’s canals.
+“Do them in,” Slate said gruffly. “Let us be done with this.”
+Pyetle silenced his right-hand man with a glance, then said, “Where’s the girl?”
+Slate nodded, then turned his blocky head to the crowd of excited Hrkan faces all haloed by torchlight. His eyes darted to and fro in widening arcs as he searched for some expected face. “Hurry up with the girl!” he shouted.
+“I think she’s missing!” someone shouted back.
+“Not the chewy old bitch! The Zosan girl! The Minder!”
+“She’s missing too!”
+Slate’s scalp tightened. His twitching eye conducted alarm into the troops, who themselves were filled with enough worry to bulge their eyes.
+Slate’s nervous gaze retreated back to Pyetle, whose hand tightened on his sword’s hilt. “That clarifies things,” Pyetle said, and he took an ominous step towards Elrahet. His was the malice of a scribe, calm and resolved, a round, frowning face assured of murderous intent. But whatever quick conclusion he’d reached about Moteah’s disappearance collapsed when her imperiled scream exploded into the hall, then dropped into silence.
+Before anyone could recover from the shock, there came her unnerving shriek.
+Somewhere distant, several rooms away, she was struggling for her life. Mandri could feel her desperate fingers twist his stomach. He almost shouted along with her final disheartened plea, a single word: “MOTO!”
+“Out of my way!” Moto roared as he stole a torch from an absent minded Vessel. With it, he batted the Hrks aside before sprinting after his kidnapped sister. Ayram followed in the wake. None dared move to impede them, for who could stand in the way of a brother whose sister’s faltering screams rose and fell?
+The Hrks stood stupefied as Moto and Ayram disappeared around the corner.
+“After them!” Pyetle yelled. To spur his men into motion, he charged after them himself. 
+“No more mewling!” Slate shouted. This was something he must have shouted often, for it appeared to draw the Vessels back into their Hrkwhite cloaks. They looked at each other, remembered themselves, and when the first man moved, the rest were quick to follow. Mandri, half-hoping to be forgotten, was forced into motion by the mangled sneer of one of the more dreadful faces.
+The pace was unrelenting. With the torches so spread out, the way was forward was a smear of uncertain light. Mandri could not find sure footing, much less form a mental map of this maze of sandstone walls, painted as they were with signs and symbols. He simply chased the Hrk in front of him and assumed that the man was keeping up with the lead. He became concerned they’d fallen astray when a scream rang up from under the stones beneath his feet. Then the man in front disappeared down a stair, and down Mandri went. Down, and down, and down he went. The steps were endless, and each one ill-conceived, irregular. Where the steps were short, his heels pounded hard, and whenever a step unexpectedly fell away, his legs locked and jolted. The way didn’t flatten out until the tendons in his knees began to ache. By then, he was so deep inside the mountain that the musty smells of moistened earth were strong enough to cut through the wafting torchsmoke and Hrkan sweat.
+That’s when the walls began to close in.
+Mandri was not prepared for it. In all the excitement, he’d forgotten he’d licked a burgeon. He needed to be standing still for this sort of thing. Preferably laying down.
+There was always the chance that the bulging walls weren’t bulging because of the burgeon, rather it was an architectural feature meant to instill in him a sense of being digested. 
+He crashed into a squared stone column.
+The thing was standing rudely in the middle of this stone colon of a tunnel. Its flat front face was smooth and featureless save for a long vertical crack which hadn’t quite split the thing in half. It was no ordinary crack, and no ordinary stone. Its insides were charred, as if hollowed out by fire, and hidden inside, hidden deep inside, were several blots of sparkling something. These specks peeped out at Mandri’s wondering eyes like a clutch of golden tadpoles.
+This was a vision of the burgeon.
+It probably wasn’t, but assuming it was made things easier. It would be hard to move on if what he was seeing was real, because what sort of architect would burn a void into a pillar, then invest it with specks of gold? And look, there were small black pits in the walls, and maybe those ulcerous, splats of black burned holes right back to Shis. Was there gold hiding in those as well? If this rock was suffused with gold, well, what kind of creature could have resisted greeding it out?
+That list wasn’t long.
+Death cults. Animals. Demons. That’s who.
+A Hrk grabbed Mandri by the neck and threw him back into the chase.
+But the hall was constricting severely now. He could feel the God Eye bottling him up. He could sense it searching for a dark place to store him.
 There were pits in the rock.
-Thumb sized pits.
+Thumb sized pits with specks of gold.
 Could he fit inside?
-He was not a large man.
-If his body was incinerated, and the heat of his sizzling flesh dissolved his bones to dust, then he could be compacted, perhaps, down to the size of a thumb. He’d become one again with the rock. Because that’s all he was without a Spark imbuing will. That’s all he was; a skeleton of dirt, tensioned by meat, forgetting why it tried to hide inside a cloak of skin.
-Why was Solraheen imbuing dirt with divinity, tricking it into thinking it was people?
+He was not a large person.
+If his body was incinerated, and the heat of his sizzling flesh dissolved his bones to dust, then he could be compacted, perhaps, down to the size of a thumb. He’d become one again with the rock. Because that’s all he was without a Spark imbuing him with will. That’s all he was—a skeleton of dirt, tensioned by meat, forgetting why it tried to hide inside a cloak of skin.
+Why was Solraheen tricking dirt into thinking it was people?
 Even the question felt malformed.
-This God Eye was not cooperating. It was making him stupid. Where were the sights he’d seen before? This burgeon should be stunning him with visions.
-And what did he see?
+Mandri cursed the god eye burgeon. It was not cooperating. It was making him think stupid things. Where were the sights he’d seen before? This burgeon should be stunning him with visions. And what did he see?
 Red stone walls.
 A bustling white cloak in front.
-There was a stomach on the other side of that cloak, with a Spark ensconced, and if the God Eye sight was in him then he should have been able to see that Spark, that shimmering orb, and there should be bright, glowing lines tethering it to the future.
-The white cloak swished and flicked and he followed it, entrancing him by its ethereal motion—snap, flow, flap, billow, twirl and curl and slap. Then its wearer abruptly stepped aside and the flourish revealed an arched exit which emptied out into a monumental expanse.
-Mandri stumbled into this humbling void. The immense walls were lost to darkness. The ceiling was absent altogether. The floor was a dark red mirror. His addled mind could not decide whether this was an underground lake of blood, or a glassed plane of vermilion quartz so finely burnished that he could see his own reflected head and naked ears, his sunken cheek, his skeletal visage. He could not believe it was him, but of course, he could. He tried to snuff the vision out with his foot, and the oiled sole of his rubbed-raw shoe squeaked loudly against hard stone. The squeak snapped through the vast chamber, sharp and sudden, bouncing from wall to wall, growing louder, it seemed, with every echo.
-A crowd of Vessels glared at him.
-Pyetle ambled over and grabbed him by the neck, squeezing tight, such that only Mandri’s eyes could offer apology. But Pyetle’s cheek was twisted, vindictive, demanding more than a mere admission of guilt. For what? Making a loud noise? remonstration A quick jut of his dauntless beard was enough to marshal the gawking soldiers into a tight ball of spears and jostling elbows. He then tossed Mandri into their midst, and they continued on.
-They moved slowly now, exposed. Any demon in all the world could open its eyes, and there they’d be, spotlighted by their own torches against the diabolical plane. Mandri cringed as heard something rustling above, and as no else reacted, he was the only one to heard. He feared some superstition might come tearing down from above, but there came nothing. Their was only the sounds of their padding feet and nervous breathing echoing out and back, as if their own ghosts that were closing in. 
-He was surrounded by tangle of spears. Up above, there was nothing but the dark. And that was the rub; he should see something. Under the brush of the burgeon, the dark itself should appear to move. Where were bright Sparks? Bright lines?
-Perhaps the burgeon revealed something new with every tasting. Each experience might be tailored to the present mood. He hoped that weren’t true, for at present, fear was well and truly in him. And there was slight tingling in his legs. And as he wondered what vision was in store for him, the torchlight appeared to pull from out of the darkness the most surreal of sights.
-Above, a knotty branch of sparkling gold emerged from the fog of shadow. It was bent down severely by the weight of a gruesome fruit, hanging at eye level—a solid mass of golden organs, large as Mandri’s own. Golden lungs enfolding a golden liver, stomach, and partial intestinal tract. All of it was compressed together as if sitting in a pelvic girdle and bound by an invisible wrap of skin.
-It was beyond the hand of any goldsmith. The veins crawling on the lungs were too numerous and delicate. Every organ was too irregular to have sprung from a stilted human mind, every crevice too fine to have been molded by tools. This was a cast. Some poor man had his organs gilded and hung from a golden tree. And there were bones stacked on the ground underneath it; a reverential cairn monumented by a skull.
-The Hrks could see it, too. That meant it was real. And there was another, off to the right, a dipping branch weighted by another cluster of gilded organs. And there were more. It was an orchard of organs and bushes of bone, some of them small enough to have once been children.
-The air stirred with the hush and fumble of fearful whispers. A few men looked ready to flee, but the inertia of the group and curiosity, yes, curiosity, kept them moving. They followed the golden branches until they converged into a single trunk. It was not an orchard, but a tree.
-The skin of this massive gleaming trunk was ragged like the surface slag from the belly of a dying furnace. In its center was an ovarian void which had burst open, lips peeled back. At the base of the tree there were roots, and these dug down into the quartz, splitting it, blackening and glassing the rock, crumbling bits into sand.
-All stood before this exploded wonder in silence. It was as if Solraheen Himself was suddenly standing there before them, martyred, and whatever guilts these Vessels had forgotten were now rallied in their throats and refusing to work for having been neglected these long years by their masters.
-Pyetle, bold Pyetle, reached out to touch the trunk.
-Elrahet, who’d been standing beside the tree and marvelling along with everyone else, struck his hand down with her cane. “Do you desire a memory which will haunt you?” she snipped.
-Pyetle pulled back His face screwed up in anger. “There’s nothing here,” he said. “Where is no demon!”
-“Patience, Hrkman.”
-The stress of the moment was wearing on Pyetle’s round features. The stark torchlight gave his bulging eyes a froggish aspect. From the side, it seemed, with all the blood rushing to his head, that he might swell up and croak.
-A Vessel shouted from the crowd of spears, “We’re missing one!”
-The whites of Pyetle’s eyes flashed as he peered over the heads of the Hrks, looking for whoever had disturbed his peace.
-Slate marched up to him. “The grimy woman,” he said.
-Pyetle clearly had no idea who ‘the grimy woman’ was referring to. He began to count the Ayramun—one, two, three—only three, including Mandri. When Mandri looked too, and sure enough, Seb wasn’t there. She wasn’t sneaking around behind him, or spitting on one of the golden fruits, or desecrating existence itself with her bothersome attitude.
-Slate stepped nearer to his commander. The two shared a quick word, and Slate pointed a finger towards a gaggle of Vessels to Mandri’s left, but he withdrew the accusation quickly. His eye then darted to and fro in widening arcs as he searched for a guilty face.
-“We are missing a man.”
-The statement hung like a gallows. Pyetle’s countenance cracked and fell. “Gather the Ayramun,” he growled.
-Mandri’s ears pricked up, and his scalp tightened at the words. The soldiers nearest grabbed him, carried him, dragged him, stood him up next to Moto and Elrahet in front of the golden tree.
-Pyetle drew his sword once again. He seemed to make a habit of this, pulling his sword out to heighten the mood. But did he ever use it? The blade was thin, pristine, elegant, more for seeing than sinning, more cartilage knife than bone cleaver. In some ways it reminded Mandri of a surgeon’s dissecting instrument, only it was missing a curved hook tip for splitting open all the body’s canals. It would not chop a head. If Pyetle were to ever take a head, he’d apply a skill clamp first, turn the screws down deep, then start hammering away at the spine with a chisel. 
-“Do them, then be done with it,” Slate said gruffly.
-Pyetle silenced his right-hand man with a glance. He then pointed his sword at Elrahet. “Appreciate the distance between my blade and your neck—that is the length of my mercy.” The line came out so practiced that Mandri almost laughed. He was only saved from this error by the intesity of the mood.
-Pyetle straighted his arm and the tip of the metal cut a Elrahet’s cowl.
-“Listen,” said Elrahet.
-“I am listening,” Pyetle said sharply. “If I were not, you would be dead.”
-“Then by the by you should have heard it.” She inclined her head to her left, bidding his attention towards the dark. “Listen close, for there the beast abides.”
-A riffle of excitement spread as the crowd of eyes turned to scan the dark. It was empty save for a few gilded organs drifting in the nearer dimness. A few skeptical grunts polluted the air, but most of the men were quiet, preserving their breath, it seemed, for screams.
+If the god eye sight was in him, then he should be able to see that Hrk’s Spark, that shimmering orb, and there should be bright, glowing lines tethering it to the world’s story. But that white cloak simply swished and flicked. And he simply followed it. It was entrancing. A kind of ethereal motion, that cloak. Snap, flow, flap, billow, twirl, curl and slap. When its wearer abruptly stepped aside, Mandri sighed his disappointment. Then the flourish revealed an arched exit which emptied out into a monumental expanse.
+Mandri stumbled headlong into this humbling void.
+The immense walls on either side were lost to darkness.
+The ceiling was absent altogether.
+The boundless floor was a dark red mirror.
+Mandri stared down at his own reflected visage. The sight of that sunken-cheeked Jandri boy bothered him. He tried to snuff out the image with his toe. As he rubbed, the oiled sole of his shoe squeaked loudly against hard stone. The squeak echoed into the vast chamber, sharp and sudden, growing louder, it seemed, with every bounce.
+A crowd of Vessels glared at him. Pyetle emerged from their midst to tell Mandri, by way of vindictive stare, that silence was expected. Mandri nodded, and Pyetle, feeling heard, returned to his marshaling duties, only to see Moto arch is back and shout, “MOTEAAAAH!”
+The name boomed like an earthquake, filling out the depths of the of the cavern, revealing its monumental size.
+“What are you doing!?” Pyetle hissed. “If she could have signaled, she would have done it by now!”
+“That,” said Moto, “was to let her know that I’m coming.”
+ Pyetle bit his tongue, then commanded his troops onward with a dauntless jut of his beard. Mandri shuffled himself into their midst, for that tight ball of spears was the only shelter on this burnished plane of vermilion quartz.
+They moved slowly now, exposed, spotlighted by their own torches against the dark. Fear pricked Mandri’s ears, but the only sound was that of padding feet and nervous breathing echoing out and back, as if their own ghosts that were closing in. When the walls fell away into darkness, even abstractions like direction and distance could not be determined. They might not have been moving at all. It could be that the floor was sliding underneath their feet. 
+Then, from out of the dark, the torchlight pulled the most surreal of sights—a mass of golden organs hanging in the air. Golden lungs enfolded a golden liver, stomach, and partial intestinal tract, large as Mandri’s own, all of it compressed together as if sitting in a pelvic girdle and bound by ribs. The esophagus extended up, all the way up into the infinite black.
+Even from a distance, Mandri could see sculpted veins on the lungs too numerous and delicate such detail to have come from the hand of any goldsmith. The shape of the organs themselves were too irregular, too real, to have sprung from the cookie cutter patterns which the mind commits to memory. Every crevice was too fine to have been molded by tools. It could only be a cast. Some poor man had his organs gilded and hung from a golden branch. And to reinforce the point, there were bones stacked on the ground underneath it; a reverential cairn monumented by a jawless skull.
+Mandri didn’t need to wonder if this was all some trick of the burgeon, for the Hrks could see it too. And off to the right, hanging at eye level, was another mass of gilded organs. The further they walked, the more they found. It was a hanging orchard of organs and bushes of bone, some of them small enough to have once belonged to children.
+“The first Hrkan choir,” Elrahet mumbled, as if that explained anything. “One hundred and twenty voices were here inviscerated with gold.”
+The air stirred with the hush and fumble of fearful whispers. A few Vessels looked ready to flee, but morbid curiosity kept them moving. Some of these sculptures were connected by their esophageal tubes. Far overhead, these tubes converged into heavier branches which bent under the weight of their gruesome fruit. These larger branches converged as well, and soon it became clear that all of them were bundled together, for they plunged down to the floor to compose an enormous golden trunk whose roots erupted into the quartz, splitting it, blackening and glassing the rock, crumbling bits into sand. The trunk itself was as ragged as the surface slag from the bath of a dying furnace, while in the bulging center, splashes of gold splayed out of a cystic hollow that appeared to have burst open from the inside.
+“Behold,” Elrahet said with pompous airs. “Behold the prison which did bind Solraheen for a thousand years.”
+Pyetle, bold Pyetle, reached out to touch the trunk. Elrahet struck his hand down with her cane, saying, “Do you desire a memory which will haunt you?”
+Pyetle’s retreating hand was quick to answer no. 
+“We need to keep looking,” Moto urged.
+“Patience,” said Elrahet.
+But Moto was incapable of patience. His whole body, his face, was pinched with stress.
+“Be patient, and listen.”
+“I am listening,” Moto said sharply.
+Elrahet inclined her head, bidding his attention towards the dark behind him. A riffle of excitement spread through the Vessels when she announced, “The beast is near.”
+Mandri saw nothing but darkness and a few gilded organs drifting in the dimness before it. A few skeptical grunts polluted the air, but most of the men were quiet, preserving their breath, it seemed, for screams.
 “I hear something!”
-“Quiet!” Pyetle hissed. 
-A thought came then to Mandri, a thought bidden by the burgeon, because only a burgeon could bring such a stupidity up into the sight of mind. His lips soured even as they moved to shape the soundless words: I was wrong.
-What was he wrong about? He didn’t have any strong opinions about whatever was happening here. What could he possibly be wrong about? He’d never been wrong before, and when he had been wrong, he’d always been the first to correct the error. Surely there was a demon creeping somewhere in the dark—was he wrong about that? If so, this odd thought shouldn’t feel so much like fear. If this was divine revelation, he was a poor receptacle. 
-Perhaps such things require focus.
-He was too easily distracted by the gleam of torchlight on Pyetle’s sword, for there it was, the unmistakable sparkle of burgeonsight. It was coming on, he could feel it. That dancing gleam on whetted metal was dazzling, and alarming as well, for they danced in line with Pyetle’s hand as it tightened on the hilt. The man was about to do something with that sword.
-Pyetle looked back at Elrahet, took an ominous step towards her, and behold, what an image of malice he could project. His round, frowning face was about ready to leap right off of his beard. The rest of his body was hesitant, but that face was righteous fury made incarnate.
-He retracted his arm, preparing for a final thrust, but just as he made skewer her neck, an ear-splitting scream came springing from the void. It was the primal shriek of a young man dying.
+“Quiet!” Pyetle hissed.
+A thought came then to Mandri, a thought bidden by the burgeon, because only a burgeon could bring such stupidity up into the sight of mind; his lips soured even as they moved to shape the unspoken words: I was wrong.
+What was he wrong about? He didn’t have any strong opinions about whatever was happening here. What could he possibly be wrong about? He’d never been wrong before, and when he had been wrong, he’d always been the first to correct the error. Surely, there was a demon creeping somewhere near—was he wrong about that? If so, this odd thought shouldn’t feel so much like fear.
+Whatever this feeling was, he was a poor receptacle for. And just as he began to wonder if it were the stirrings of some divine revelation, an ear-splitting scream came springing from the void—the primal shriek of a young man dying.
 
 EEEAAAAUUUUUGGH!!
 
-Emphatic and sudden, the scream startled the Hrkan soldiers, buckled Mandri, ruptured thought and spiked nerves, then fled back out into void. Disbelief and horror were exchanged in wide-eyed glances, and a few heartbeats later, a sprinkle of dust shaken loose from the ceiling could be heard tinkling on the floor.
-A soldier tucked his spear under his shoulder. This triggered a cascade of spears falling into alignment, all of them pointed towards to origin of the scream. Mandri guessed that whoever was dying out there was a little over one hundred yards away.
+Emphatic and sudden, the scream buckled Mandri, ruptured thought and spiked every nerve, then fled back out into void. He wasn’t the only one startled, as disbelief and terror were exchanged in wide-eyed glances all around. A few heartbeats later, a sprinkle of dust shaken loose from the ceiling could be heard tinkling on the floor.
+The pugnacious Vessel next to Mandri tucked his spear under his shoulder. This triggered a cascade of spears falling into alignment, all of them pointed towards to origin of the scream. Mandri guessed that whoever was dying out there was a little over one hundred yards away.
 “Line up!” Slate shouted. The taut tendons in his neck were liable to pop. “I said, LINE UP!”
-The men lined up into even rows. Pyetle’s discipline forced him to forget Elrahet, and he took his place in front of his anxious troops. His fearlessness was matched by Slate, and these men together looked ready to meet death or glory, or whatever it is that men like them dreamed of when they knelt and spoke their oaths. They certainly weren’t ready to see Elrahet casually striding past them.
-“Stop!” Pyetle commanded.
-Elrahet stopped, but she did so only of her own accord. She hunched over in that liminal torchlit gloom, supported by her cane, and peered into the dark. Or was she listening? There was, indeed, a sound—a faint echo of a sappy sort of squelching. It brought to mind someone sucking on a burgeon, or perhaps there were toothless gums out there mashing borcandi spines into strings.
-“Seb!” Moto shouted from behind the lines of Hrkan spears. A response to his call rose out of the dark, but it was not Seb. It was someone deep and wheezing, someone with a voice loud enough to strum Mandri’s bones.
-“Welllcommme, witch.”
-The ragged voice passed like a wave through the line of Hrkan spears. 
-“Steady boys,” Slate said, as though he’d seen this all before. Then someone threw a torch. The flaming stick flew straight over Elrahet’s head, towards the scream, towards the squelching, towards the disembodied voice. It flew for a good fifty yards before it clattered onto the floor, trailing flicks of flame. From there it slid some distance yet before coming to a stop at the distant wall.
-“Theeey wish to suffer my glooory,” said the haunting cavern air. “Let them see!”
-The air erupted as fire splashed into enormous bronze braziers hanging overhead. This alone would have been enough to send Mandri into an apoplectic fit, but then came the sight of the distant torchlit wall, which was not a wall at all, but a colossal mound of flaking skin warted over with bleeding pustules and tags of fat. This swell of flesh was so large that it nearly plugged the cavern. Then whole horrible thing shook as the rasping voice sounded out again.
+The men lined up into even rows. Mandri scuttled into their ranks, eager to not be left alone. 
+“Stop!” Pyetle commanded. That he wasn’t talking to his troops; Elrahet was casually striding past them all and into.
+“I said STOP!”
+Elrahet stopped, but her annoyed look behind made it clear that she did so of her own accord. She hunched over in that liminal torchlit gloom, supported by her cane, and peered back into the dark.
+Or was she listening?
+There was, indeed, a sound. A sappy sort of squelching. It brought to mind someone sucking on a burgeon, or perhaps toothless gums mashing borcandi spines into strings.
+“Seb!?” Moto shouted as he assumed his position beside Pyetle. A response to his call rose out of the dark, but it was not Seb. It was someone deep and wheezing, someone with a voice loud enough to strum Mandri’s bones.
+“Welllcommme, wiiiitch.”
+The ragged words passed like waves through the line of Hrkan spears. 
+“Your torch!” Pyetle said to Moto, and a dauntless jerk of his chin told the Zosan to throw it.
+Moto threw it. The flaming stick flew straight over Elrahet’s head, towards the squelching, towards the disembodied voice. It flew for a good fifty yards before it clattered onto the floor, trailing flicks of flame. From there it slid some distance yet before coming to a stop at the distant wall.
+“Theeey wish to suffer my glooory,” said the haunting cavern air. “Let them SEEEeeee!”
+The air erupted as fire splashed into enormous bronze braziers hanging overhead. This alone was near enough to make Mandri faint, but then came the sight of the distant torchlit wall, which was not a wall at all, but a colossal mound of flaking skin warted over with bleeding pustules and tags of fat. This swell of flesh was so large that it nearly plugged the enormous cavern. Then, a sight beyond reason: the whole horrible thing shuddered.
 “Behold my glooory!”
-The whole mound of flesh rolled forward to reveal, sticking out of the top like a tiny cork, the torso of an old man. He wore a tattered green robe and his head was crowned with gold. His little arms clutched a headless body cloaked in hrkan white—Pyetle’s missing Vessel.
-This demon king smiled in the brazier’s harsh light. His smile grew wider and wider, uncomfortably wide, then his snakelike jaw dislocated straight off of his skull. He shoved the Hrk’s lolling neck into his gaping maw. His cheeks stretched beyond reason to accommodate the shoulders. Then he crunched down and began to chew.
-A scream of terror died stillborn in Mandri’s throat. This aborted horror fell back into the pit of his stomach and there osmotic energies blended it with burgeon bile, for in his vision, blackness itself began to move. Splotches of dark arrayed themselves around the Demon king’s bloated belly. Again Mandri made to scream, but a Vessel beat him to it.
+That mound of flesh rolled forward to reveal, sticking out of the top like a tiny cork, the upper half of an old man. A tattered green robe draped his shoulders. A wreath of gold crowned his head. His little arms clutched a headless body cloaked in hrkan white—Pyetle’s missing Vessel.
+This demon king smiled in the brazier’s harsh light. His smile grew wider, and wider, uncomfortably wide, so wide that his snakelike jaw dislocated straight off of his skull. He shoved the Hrk’s lolling neck into his gaping maw. His cheeks stretched beyond reason to accommodate the shoulders. He crunched down and began to chew.
+A scream of terror died stillborn in Mandri’s throat, for the vision was not yet finished as the blackness around this king began to move. Splotches of dark arrayed themselves around the Demon king’s bloated belly. Again Mandri made to scream, but a Vessel beat him to it.
 “What are those!?”
 “They’re dogs!”
-They were demon roaches the size of dogs. At least ten of them. Even from this great distance Mandri could sketch those unholy mixes of insect and man. Hands sprouted out the ends of their many segmented legs. Their plated faces framed flat, lidless eyes which stared up at the ceiling. Their chitinous jaws gulped the air like fish out of water.
-“Hag beetles,” Elrahet cautioned. “They’ve spines inside their shells.”
-She took a brave step towards the great beast and his bodyguard, then bowed deeply, as if petitioning any other Outland King.
+“Roaches the size of dogs!”
+There were at least ten of them, demons mixed from insects and men. Grasping hands sprouted out the ends of their many segmented legs. Their plated faces framed flat, lidless eyes which stared up at the ceiling. Their chitinous jaws gulped the air like fish out of water.
+“Hag beetles,” Elrahet cautioned. “Be wary of the spines inside their shells.”
+She took a brave step towards the great beast and his bodyguard, then bowed deeply, as if petitioning any other Outland king.
 “Greetings, most repugnant Lord,” she said in mocking reverence.
-The beetles chirred in a kind of sycophantic furor, while the mass of skin behind them shivered. Up above, the king’s tiny ribcage squeezed its meal down into his bloated stomach. His black tongue licked down the Hrkan Vessels feet, and with a splintering crack, his jaw snapped back into place.
+The beetles chirred in a kind of sycophantic furor, while the mass of skin behind them shivered. Up above, the king’s tiny ribcage squeezed its meal down into his enormous stomach. His black tongue licked down the Hrkan Vessels feet, and horrific sequence of splintering cracks saw his jaw return to its shape.
 Elrahet resolved her reverent bow with a grumble and a tsk of her tongue. “You have perverted your flesh, Lord Greskal of the Greskalun.”
-She heaped ridicule upon the name, but the putrid king only laughed. And what a laugh; it sent a shudder through his whole bloated body, ending in a horrible burp—“Ech!”. Then his mad, blooddripped grin bent reality. “Poison your mind with names,” he said. “Chain your Sparks to your bodies with naaames. I am more than any name can bear. Look at me!”
+She heaped ridicule upon the name, but the putrid king only laughed. And what a laugh; it sent a shudder through his whole bloated body while his mad, blooddripped grin bent reality before it burped. “Poison your mind with names,” he said. “Chain your Sparks to your bodies with naaames. I am more than any name can bear—look at me! Feast your eyeeeeessss!”
 He leaned forward even further, so that his tiny upper half was grandly framed against the great wall of flesh he’d become. Mandri suspected that somewhere under the calloused flabs of skin on the floor were legs, but he doubted this demon king could do much more than lean.
-“I am no longer Greskal!” the beast thundered. “I have become…I have become, becoming itself! Name me, witch—I am the Burshageet!”
+“I am no longer Greskal!” the beast thundered. “I have become becoming itself! Name me, witch: I am the Burshageet!”
 His voice boomed unnaturally loud, and all gathered were stunned into silence, all save the hag-beetles, who chattered and clicked excitedly, vibrating with their master’s mood.
-“Do you think me ugly?” The Burshageet asked as he grabbed a handful of his own flesh and pulled it, stretching it far beyond the point where skin should have ripped. That bleb of flesh appeared to have a mind of its own as it wriggled like a squealing piglet inside his fist. It escaped his grasp and snapped back against his body with a satisfying smack.
-“This uglinesss this is the world,” he said as he caressed the welling redness. “Don’t you see? This flesh is the world into which a Spark is thrown, and I have outgrown it. Don’t you see!? I wear this body as proudly as my crown. These sores announce my virtue. These boils proclaim me divine. OHHhhhh, if you had the sight to see it, you would see it! I am beyond beauty! I am beyond the fading of beauty’s spoil—I am the end!”
-He spread his tiny arms against his magnificence, but his smile quickly faded, for Elrahet heckled him with a bored grunt. “Your wife,” she said, “should have cut out your heart and given it to a truer man.”
-A paroxysmal twitch shuddered through the Burshageet’s bulk. The kingly part of him curled in rage. He pointed down at Elrahet and bellowed, “Silence that Spark-ensnaring womb!”
+“Do you think me ugly?” The Burshageet asked as he grabbed a handful of his own flesh. He pulled it out, stretched it out far beyond the point where the skin should have ripped. That bleb of flesh bulging out his fist appeared to have a mind of its own, for it wriggled like a squealing piglet. It escaped his grasp and snapped back against his body with a satisfying smack.
+“This uglinesss this is the world,” he said as he caressed the welling redness. “Don’t you see? This flesh is the world into which a Spark is thrown, and I have outgrown it! I wear this body as proudly as my crown! These sores announce my virtue. These boils proclaim me divine. OHHhhhh, if you had the sight to see beyond both beauty and beauty’s spoil, you would see what it is that I am!”
+He spread his tiny arms against his magnificence.
+Elrahet heckled him with a bored grunt. “Your wife,” she said, “should have cut out your heart and given it to a gentler man.”
+A paroxysmal twitch shuddered through the Burshageet’s bulk. The kingly part of him curled up in rage. He pointed down at Elrahet and bellowed, “Silence that Spark-ensnaring womb!”
 A hag beetle dropped from the ceiling.
-It fell with tremendous speed, shell splitting, revealing a black insectoid spike which stabbed at Elrahet. But Elrahet was then possessed with uncanny swiftness, and she deftly stepped aside to watch the beetle crash into the floor. She seemed amused as Pyetle leaped into action and severed the spike from the dead beetle’s twitching body.
+It fell with tremendous speed, shell splitting, revealing a black insectoid spike which stabbed at Elrahet. Elrahet, possessed with uncanny swiftness, deftly stepped aside to watch the beetle crash into the floor. She seemed amused as Pyetle leaped into action and severed the spike from the dying beetle’s twitching body.
 The Burshageet belched his annoyance.
-“Offer yourselves to meeee,” he said. “Be joined togetherrr. Know union for once in your miserable lives. Do not fight…at least, do not struggle…stressed meat tastes fouler.” And with the natural grace of a man made king from birth, the Burshageet twirled his scrawny arm, snapped his fingers, then waved his minions onward.
-The sight of these advancing hag beetles caused Mandri to remember his sword. He made sure to stand a little closer to Moto, and he was thankful to have five lines of Hrkan spears in front of him, narrow though they were. 
-He then noticed that Moto was facing completely the wrong direction. He spun around to discover five black-shelled, needle beetles from Shis scurrying down the golden tree.
-Mandri prayed for Solraheen’s protection. He spoke no words, it was a stronger prayer than that. When he opened his eyes again, the beetles were on the floor. He could see the fine hairs on their arms. He could see the glistening filth gutting up the striations on their shells. He could smell them, Sol, he could smell them; sulfur mixed with smoke and something fouler. Pugnacious. Could knock out a pig.
-Three hag-beetles jumped—maybe it was more, Mandri wasn’t sure because the rush of bodies, limbs, and splitting shells blurred his vision beyond bewilderment. At least two jumped straight at Moto, who ducked away, leaving Mandri suddenly exposed to one of these black clicking balls of death. Before he could raise his sword, Moto pivoted and brought his own blade down on the hag beetle’s back, finding a narrow gap of soft tissue behind the beetle’s head.
-This dead beetle, severed head and all, smashed into Mandri and plowed him to the ground, bleeding its black blood all over him. The chittering head tumbled aside, and rest of the body seized up in a powerful convulsion. One of its human-handfeet slapped Mandri in the jaw. It had been a long time since Mandri had been slapped like that. It was more of an open handed punch, and it had him seeing stars, a whole galaxy of them. Strangely, one of these stars was oddly large and uncomfortably close. It appeared to be sitting inside the dead beetle on top of him, fading out from gray.
+“Offer yourselves to meeee,” he said. “Be joined togetherrr. Know union for once in your miserable lives. Do not fight. Do not struggle. Stressed meat tastes fouler.” And with the natural grace of a man made king from birth, the Burshageet twirled his scrawny arm, snapped his fingers, then waved his minions onward.
+The sight of these advancing hag beetles caused Mandri to remember his sword. He drew it out, then shuffled beside the nearest Hrkan Vessel.
+“Oh no you don’t!” the Vessel said, then promptly pushed Mandri away with the butt of his spear. 
+Mandri stumbled back and nearly succumbed to his fears, but was saved by the sight of the admirable Moto running towards him. 
+“Behind you!” Moto shouted. 
+Mandri spun around to discover five black-shelled, needle beetles from Shis scurrying down the golden tree. They were only twenty yards away. Close, but enough time to pray for Solraheen’s protection. Mandri spoke no words, it was a stronger prayer than that. When he opened his eyes again, Moto was standing in front of him as the beetles advanced on the floor. They were close enough now that Mandri could see the fine hairs on their arms. He could see the glistening filth glutting up the striations on their shells. He could smell them, Sol, he could smell them; sulfur mixed with smoke and something foul.
+The first three hag-beetles jumped. Perhaps it was more, Mandri wasn’t sure because the rush of bodies, limbs, and splitting shells blurred his vision beyond bewilderment. At least two jumped straight at Moto, who ducked away, leaving Mandri suddenly exposed to one of these black clicking balls of death. Before he could raise his sword, Moto pivoted and brought his own blade down on the hag beetle’s back, finding a narrow gap of soft tissue behind the beetle’s head.
+This dead beetle, severed head and all, smashed into Mandri and drove him to the ground, bleeding its black blood all over his chest. The chittering head tumbled aside, and rest of the body seized up in a powerful convulsion. One of its human-handfeet slapped Mandri’s cheek. It had been a long time since Mandri had been slapped like that. It was more of an open handed punch, and it had him seeing stars, a whole galaxy of them. One of these stars was oddly large and uncomfortably close. It appeared to be sitting inside the dead beetle on top of him, fading out from gray.
 Of course, it was the beetle’s dying Spark.
-Perhaps that slap had shaken loose the God Eye sight.
-He was really in it now. He looked back up, and yes, there was a flow of stars there, beautiful to behold, yes a river of powdered divinity was pouring into the room. Then a most complete terror split the surface of his vision like the corpse of a mouse in a half-eaten stew, for he realized that stellar stream above was a horde of Sparked demons crawling along the ceiling.
+The beetle’s slap had shaken loose the god eye sight.
+He looked back up, and yes, there was a flow of stars up there, beautiful, yes, a river of powdered divinity was pouring into the room. Complete terror split the surface of his vision like the corpse of a mouse in a half-eaten stew, for he realized that stellar stream above was a horde of Sparked demons crawling along the ceiling.
 A great weight pressed down on his chest.
 Another demon beetle.
-It clambered atop its dead relative. The weight of them both nearly broke him, but the burgeon inured him to the pain. He was more concerned with the beetle’s twinkling gray Spark, for an iridescent white string twirled out of it, tracing a worrisome curve right over his nose before stretching out of sight. Out of incomprehension came Moto, unwary, blindly connected to that dreadful arc of fate.
+It clambered atop its dead relative. The weight of them both nearly broke Mandri’s ribs, but the burgeon inured him to the pain. He was more concerned with the beetle’s twinkling gray Spark, for an iridescent white string of purpose twirled out of it, and it traced a worrisome curve right over his nose before stretching out of sight. Out of incomprehension came Moto, unwary, his own bright Spark was connected to that dreadful arc of fate.
 The beetle jumped.
-The sudden lurch squeezed a spray of black ooze out of the dead beetle’s open neck, splattering Mandri’s face. He wiped at his eyes, blinked through the sting, and rolled out from under the corpse in time to watch Moto dodge the leaping beetle’s spike. Then Moto’s sword followed its own sweeping arc and tore right through the demon beetle’s face.
-Mandri marveled at the carnage—eight dead beetles lay strewn about. One more was on its back, limbs dislocated, unable to right itself. Moto, Spark bright, swung his sword along another guiding thread. His target squirmed against his plunging steel, and its demonic Spark dimmed. Its eight legs and many fingers twitched feebly a moment more.
-“We need to leave!” Moto screamed.
-Mandri was long past the point of agreement. Unfortunately, the burgeon was hollowing him out, so he could not share his opinion. He was being reduced to a mere observer, unable to focus on anything other than the droning patter of awkward applause as horde of hag beetles slapped their fleshy hands against the stone. And then there was Elrahet, now cocooned in radiant threads, just as he’d seen before. The Hrks swarmed around her like Spark-bearing shadows, defeating demonic comets, sometimes succumbing to them. And then there was the space of blackness between Elrahet and the Burshageet, swelling now with a tide of gray Sparks, glinting behind slick silvery eyes.
-All of this was outshone by the Burshageet himself.
-The beast’s Spark was not an star, but a constellation of them. Shimmering spheres of every size and color were webbed inside his massive stomach. These lights pulsed, merged, split apart, while some burst into sparkling dust before coalescing into new lines of purpose that stretched out into the world. If this Burshageet were not a god, then he was close enough to it. What else but could weave new lines of instinct and set the world into motion? And lo, did the beast take pleasure in it. The tiny king on top was lost in the throes of some belly-aching fit, laughter reeking of ecstasy.
- “A moment!” he shouted. “We have gifts for allll, if you’d only wait a moment!”
-His eyes rolled into white and he punched his body hard enough to knock loose some internal blockage. A cosmic wave rolled under his great bulk. Next came a shudder, then another wave, and another shudder, and finally the constellation inside his stomach was stretched to breaking.
-A glob of red light snapped loose.
-A boil the size of a wagon wheel burst open.
-The king above coiled up and screamed a scream so horrifying that Solraheen Himself would have wavered. When the next shudder came, the black orifice ripped wider. Out poured a great red lizard demon slathered in tar, Sparked, it seemed, by fire.
-Half man, it stood on two legs.
-Half keenkedrin, it swished and flicked its razored tail.
-Its black eyes, double lidded, reflected the spectral web of purpose strewn about the room.
-It straightened up to its full height—as tall as any giant. It discovered its arms, ribboned with muscle; its back, a whip; then its jaw, crammed full of hateful fangs, let loose a purring hiss.
-“Steel yourselves!” Pyetle shouted, but Mandri’s mind was already crumbling. He could not piece together his fear, much less bravery. He watched dumbly as the red keenkedrin appeared to transform into a great red curve, an actual abstract curve, like a brushstroke of blood and teeth drifting in the air. This half-demon-half-abstract shape transposed through time and space to appear at once in front of Pyetle. The beast snapped into being, and it struck out with its long talons.
-Impossibly, Pyetle was faster, and the demon’s fury was fended by his outstretched sword.
-There was a crack of metal.
-The mutant recoiled. It morphed again into blurred wheel of movement.
-How Pyetle managed to avoid the swipe of its taloned hand a second time was not clear, for not only had the demon , but air around it blurred into an otherworldly sphere. Inside that pocket of shifted real, distance, color, light, and shadow seemed to be haphazard guesses.. Mandri could still see white arcs of desire spilling out around him, but these, too, were drifting into tangled knots.
-There was a scream, and a whirling tail.
-Pyetle’s broken sword went flying.
-The man himself was rolling backwards, and before he stood again he strafed, but away from what, Mandri did not know, for the demon’s blurring shroud was near complete. And it was growing. Pyetle was apparently oblivious to it. He did not move or shriek as the advancing edge of altered reality swallowed him whole. Next, Slate and five other Vessels were drawn inside it, as were the hag beetles they were slaughtering. Some men ran into it, others out of it, chasing battle. Spouts of blood and beetle parts went flying all the way through. Inside, screams were clear, but disjointed from any action. Now and then the muddy bubble’s surface would briefly part, revealing frights, like a Hrkan head hollowed out on the floor. And there was Slate. His robes were ragged. Ribbons of flesh hung down his side, exposing the yellow fat, the red muscle, and three gleaming white ribs that drowned in blood as he exhaled.
-Mandri sighed in awe. Then uncommon lucidity struck him; this was a god-killer. That unnatural air was how it hid from fate. And the beast was newly born. Imagine what core-collapsing sights it could summon when matured.
-As Mandri imagined such a beast ripping a hole into Solraheen’s back, he caught sight of Elrahet. She was a swirl of white light standing aside it all, unbothered by conflict.
-She’d drawn her blade. That thin, curved strip of Black was suddenly stuck in Mandri’s mind like a thorn.
-Elrahet’s hand trembled as she held it high.
-That fabled blade.
-That slice night. 
-She thrust it down upon her own being. The knife cut right through the shimmering threads surrounding her, and those frayed ends of light splayed out into a tufted cloud before falling down around her like a mist. And behold, there she truly was, clad in her usual black robed, leathery self. Unharmed.
-She smiled at Mandri. 
-It was an easy smile. Motherly. Mandri felt like he could get to know her, really know her as if he’d always known her. He could almost see a young woman hiding in those age-bit robes. There was the old woman, too, looking at him like she’d found something that she’d lost. Suddenly, he was standing right before her. She forced him to lock eyes, and as she searched him, he found himself wanting to be whatever she wanted him to be.
-This was witchery.
-A damnable spell.
-Or perhaps this could have happened with anyone if he’d ever dared to look.
-Then a peripheral glimmer caught his eye; a single white thread of purpose trailed out behind the witch. A thread her blade had missed.
-Overhead, there was a commotion—one of the burning braziers which hung from the ceiling had a hag beetle crawling on its chain, causing the whole thing to sway. Its swinging splay of light and shadow passed over the depths of the cavern, illuminating, briefly, a dark figure crouching near. When the light passed over again it revealed a smallish someone with a Spark so dim that it was barely there. A third pass of light made clear the outline of a wiry woman in threadbare robes.
-Who else, but Seb? Seb and her long knife. Elrahet’s thread of purpose was connected to its tip.
-Mandri made to shout, but of course, he couldn’t. He tried to warn Elrahet with a mighty glare, but the witch placed a cold hand upon on his cheek. The chill of her fingertips made him forget about everything. She folded him, again, into her spell.
-She forced him into her eyes.
-Dewy, dark eyes. Blazing.
-She folded him into the clarity of her fear.
-—Hallucination
-She forced him into her eyes again.
-Dewy, dark eyes. Blazing.
-Iron-red scleral veins pulsed through her rusted whites
-folding him into the clarity of her fear
-into her meaning
-like this
-she dropped him onto a bed of spangled ferns
-she smothered him with sacred wet-breast groans
-she let him taste the joy of being human
-—Bliss
-Clarity again, then a yielding:
-to burgeon addled symmetries
-Old Jandri patterns swirling around black irises
-dissolving into paint on the pad of a finger
-ten-hundred millennia ago
-this history drained into a wash of blue
-blue shifted into a vast and windswept sky
-sky tessellated into cells with boundaries
-boundaries unfurled to reveal a painted eye
-each eye, a hollow on the wall of all of Elrahet’s eyes
-with corners folding backwards
-into hidden dimensions
-like this
-there came a deleting flash of white
-the sun exploded
-Mandri’s heart sank
-—a spent hallucination
-Now he was back in the swaying dark of Shulgi’s belly. Elrahet was in front of him again, black robed, glassy eyed, and sighing. There was Seb behind her, pulling a blooded blade out of the old witch’s back and quickly disappearing, leaving Mandri to clutch at Elrahet’s falling body.
-He caught the old witch’s arm and helped her down.
-He fumbled with her fluffy robes to try and find the wound, but knew it was useless. He could tell from the absence of breath that she was already dead.
-Seb’s blade had poked right through. He could see the nakedness of her golden Spark. It lay there, pulsing in her stomach. And behold, one thin thread of purpose sprouted out of it. It was almost invisible, but he could see it because it was tethered to him.
-Unaware of what he was doing, he set his lips to her wound.
-He sucked her Spark into his mouth.
-Pure divinity sloshed atop his tongue and filled his whole being with ecstasy. The urge to swallow was overwhelming, but he somehow knew this was not what he was supposed to do. He recalled how, after Minting Rock, Elrahet muttered some guttural speech to put his breath back inside his body. It was an Old Jandri spell. Unfortunately, he didn’t know any Old Jandri. He didn’t know any invocations or incantations which might reweave fate, or otherwise direct a Spark to take up residence inside his stomach. The only sacred words that he ever understood were the ones leading into an Solitant prayer he’d heard in youth:
-Life is a terror.
-That was it.
-He could fill in the rest by reasoning through the simple observation that Life kills. Life kills, and it eats what it kills, and for some reason, people fear death. Life even kills itself. It consumes the body, so that it can fuel the Spark, so that it can move the flesh to kill, and eat, and grow all the more, so that there is more of more—more of the body to consume.
-Why fear death when he was the one with teeth?
-The Spark sniffed sustenance. It dripped down the back of his tongue and began to wander around his throat like a worm. It crept down, and down, feeling him out, until at last, it touched his stomach. He gulped. Then his whole being spasmed as Elrahet’s shimmering Spark became his own.
+The sudden lurch squeezed a spray of black ooze out of the neck of the dead beetle on Mandri’s belly, splattering his face. He wiped at his eyes, blinked through the sting, and rolled out from under the corpse in time to see Moto dodge the leaping beetle’s spike. Moto’s sword followed its own scintillating arc of purpose and tore right through the demon beetle’s face.
+Mandri marveled at the carnage. Eight dead beetles lay strewn about. One more was on its back, limbs dislocated, unable to right itself. Moto swung his sword along another guiding thread. His target squirmed against his plunging steel. Its gray Spark dimmed. Its eight legs and many fingers twitched feebly a moment more.
+“We need to leave!” Moto yelled.
+Mandri was well past the point of agreement. Unfortunately, the god eye burgeon had picked this moment to hollow him out, so instead of sharing his opinion he lay dumb on the floor, unable to focus on anything other than the droning patter of awkward applause as the horde of hag beetles slapped their fleshy hands against stone.
+Underneath that starry host, the Hrks tightened formation. Their white Sparks looked especially bright inside their hrkwhite robes, bright enough attract that tide of silvery eyed beetles. Those demons dropped to the floor, then built themselves up into a wave, and as the wave swelled, white threads poured out of it to crash upon that bristling hide of Hrkan spears. Then, all at once, the beetles leaped, following the arcs of those threads as if pulled along them.
+Mandri saw each victory and defeat before they occurred. Three white lines ventilated a beetle before the spears themselves actually stabbed. One white line spooled out of another beetle’s spike to stab at the leg of a left-for-dead Vessel, and the bumping white line along the floor foretold how the man would would be dragged into the horde by they back of his head. When this happened, the horror of it was lost behind its inevitability.
+It was chaos. It was predictable. And through the screams and squeals, Mandri wondered how much of the world’s apparent disorder was actually planned. Then he glimpsed Ayram. The giant stood proudly before the Burshageet. No white lines extended out of him, or towards him. He’d yet to even lift his spud-bar spear. Mandri didn’t linger on the meaning of these facts for long, for Ayram himself and the battles around him were merely foreground figures for the Burshageet.
+The beast’s Spark was not a star, but a constellation. Shimmering spheres of every size and color were webbed inside the universe that was his stomach. A thousand lights pulsed, merged, split apart, while some burst into sparkling dust before coalescing into radiant threads that stretched out into the world. If this Burshageet were not a god, then he was close enough to it, for what else but a deity could weave new lines of fate and set the world into motion? And the beast took pleasure in it. The tiny king on top was lost in the throes of a belly-aching fit. His laughter reeked of ecstasy.
+ “A moment!” he called. “We have gifts for allll, if you’ll only wait a moment!”
+His eyes rolled into white. He raised his puny fist, then punched his body. His punch sent a cosmic wave rolling under his great bulk, knocking loose some deep internal blockage. His body shuddered, then he punched again, and on came another wave which rolled the constellation inside his stomach around, and around, until a bright red star got snagged inside an ulcer, making it an anchor. The rest of the rolling constellation pulled against it.
+When the old king punched again, the anchor line snapped.
+The snagged red Spark popped loose.
+A boil the size of a wagon wheel burst open on the old king’s skin. Such was the pain that he coiled up and screamed a scream so horrifying that Solraheen Himself would have wavered. It was as if every tiny fluctuation in his agony ripped a new fold into his throat, multiplying his single scream into a shrieking multitude. This scream, this clamor, it was the final throe of the most unholy parturition, for below, the red Spark seeped out of the ulcer, then squeezed out of the open boil. Out plopped a great red lizard demon slathered in tar, Sparked, it seemed, by fire.
+Half man, it stood up on two legs. Half keenkedrin, it swished and flicked its razored tail. It straightened up to its full height and discovered its arms, ribboned with muscle. It curled its corded back, while its jaw, crammed full of hateful fangs, let loose a purring hiss. Its jet black eyes reflected the spectral web of purpose strewn about the room.
+“Steel yourselves!” Ayram shouted, but Mandri’s mind could not piece together his fear, much less bravery. The burgeon had reduced him to a pair of eyes. He couldn’t even close them. Not that he wanted to. The most fantastic patterns were shifting under that demon’s skin—a slow, viscous swirl of shadows weaving in between thorny scales.
+Then the lizard’s head began to melt.
+This went far beyond a simple burgeon boil where edges bled into each other. The entirety of that beast was melting into itself. Its elbow curled into its midriff. Its hands fused with its thighs. Until all that was left was a flat brushstroke of blood and hungry teeth, dripping, drifting in the air.
+Mandri marveled as this demonic curve drifted towards Ayram. It curled over onto itself as it neared, a whipping ribbon, and just as it was about to smack Ayram’s chest, it snapped back into the shape of that keenkedrin beast. The creature’s scything talons reached out for Ayram’s head.
+A metallic crack rang out as Ayram’s black iron spear knocked the demon’s arm aside.
+The beast leaped away, snarling. Claws scratching the floor, it began to pace. It’s nictitating eye regarded Ayram with apparent surprise, as if fighting back was not something its prey was allowed to do. Then it’s head began, again, to melt. 
+Instead of condensing, the red edges of its being seeped into the rest of reality like ink into paper. Its shoulders, legs, and chest hemorrhaged their filling as the creature paced to and fro, leaving a smear of demonic vapor in its trail. Soon, all that was left was skin and scales, and these, too, dissolved into that smear. Last to go were the blinking eyes. All that was left was a dense red cloud, inside which distance, color, light, and shadow were only haphazard guesses. The white spectral lines which crisscrossed the room could not penetrate its depths, and were bent around. The implications of this were not lost on Mandri, even as his mind had been reduced down to its, even as the cloud leaped up into the air and fell upon Ayram, engulfing him.
+There was a roar.
+A red, whip-tail blur broke the cloud’s surface.
+A squirt of blood went flying out.
+Ayram popped out of it, struggling, but seemingly unbothered by the absurdity of his predicament. In fact, not one thinking, blinking person appeared to care that Ayram was now doing battle with an embodied cloud, least of all Slate and five other Vessels, as they were the cloud’s next target, pounced upon and swallowed, along with hag beetles they were butchering. Other Vessels ran into that cloud unawares, then out of it, chasing battle. Severed beetle parts went flying all the way through. Frantic shouts rippled the cloud’s wispy head. After a particularly dreadful scream, an eyelet ripple split the cloud open, revealing a Hrkan head hollowed out on the floor along with a vision of Slate.
+Slate’s robes were ragged. Ribbons of flesh hung down his side, exposing the yellow fat, the red muscle, and three gleaming white ribs which drowned in blood as he exhaled. He clutched his spear to fend off an enemy which Mandri could not see.
+
+
+Elrahet lassoes the creature, begins to subdue it.
+Seb stabs her in the back.
+Creature obliterates her.
+Mandri sucks the spark.
+
+
+
+Overhead, there was a commotion. A hag beetled dropped onto one of the burning braziers hanging from the ceiling, causing the whole thing to sway. The swinging splay of light passed over the depths of the cavern, illuminating, briefly, a dark figure crouching near. When the light swung back it brushed into being a wiry woman. Threadbare robes. Withered lips clenching a borcandi spine. Who else, but Seb?
+A single white thread of the future was attached to the tip of her long drawn knife.
+Seb followed that thread. She followed it towards the Hrks and their battle and that demonic cloud.
+because there she was, back turned to him, creeping along, and beyond, the crowd of Hrks swarmed around a short spool of light, a spool with threads attached, it seemed, to every other Spark in the room.
+Seb weaved her way through the battle. She stood up against that spool of light. She unfurled her arm, then stabbed.
+Frayed ends of light burst out into a tufted cloud.
+The dust fell down upon Seb like a mist.
+She stood over Elrahet. Her bloody blade was stuck inside Elrahet’s back.
+A wild roar sounded out.
+The distorted sphere beyond suddenly jumped up into the air.
+It landed upon the pair of Seb and Elrahet, obscuring them inside its haze.
+An eyeblink later, and it leaped away, revealing, the ravaged corpse of Elrahet.
+Unaware of what he was doing, Mandri stood up.
+His legs drew him towards the dead witch.
+All the hag beetles in the room were careful to avoid his Sparkless stomach.
+All the Hrkan Vessels regarded him with indifference.
+The mutilation made her unrecognizable. Her head, squashed flat. Her torso. The rest of her being was thankfully obscured by her robes. But none of this matter, for her golden Spark lay exposed in the ruin of her stomach. A thread of purpose sprouted out of it, thin and delicate, almost invisible. It tethered itself to Mandri’s tongue.
+He heard a voice whisper inside his head. “Life is a terror,” it said.
+“Life eats,” it said as a beetle jumped to gnaw on the ruin of Elrahet’s shoulder.
+“Life kills,” it said, a Hrkan spear stabbed a hag beetle right in its waxy eye.
+“Life kills, and it eats what it kills, and for some reason people fear death.”
+His own stomach cramped.
+He wondered why he ever feared death when he was the one with an insatiable stomach.
+Yes, he was hungry. For the first time since he’d been made a Mazid, his stomach growled.
+He knelt, stuck his head into Elrahet’s still bleeding viscera, and he sucked her gleaming Spark into his mouth.
+When he lifted his head, he squealed, for pure joy sloshed atop his tongue. The urge to swallow was overwhelming. But he could not swallow. Some unseen force gripped his throat. But it did not matter, for the Spark was alive; it wanted to be swallowed. It sniffed sustenance. It crept down the back of his tongue like a drip of sick, then wandered down his throat like a worm. It crept down, and down, feeling him out, until at last it teased the sphincter of his stomach. Only then did he swallow, and when he did:
+His stomach spasmed.
 Warmth hummed under his skin.
-Blood surged in his wrists, hissed behind his eyes.
+Blood hissed behind his eyes.
 His chest expanded to receive an ecstatic breath, and his whole being inflated.
-Blessed thirst upon him like a .
- Terrible hunger wrecked him.
+Blessed thirst withered his chest.
 Tears welled up, much welcomed.
-His tongue cramped up as something ancient stirred in his throat, the cry before language, the urge of being. And as casually as the sun defeats the night, he opened his mouth and shot a golden beam of Mazidfire into the air. He swiped it in a downwards arc, and all at once twelve hag beetles were cut in half, and as they sizzled and squirmed, his flame ripped through the lizard demon’s tail, and then, its torso.
-The Burshageet unleashed a dreadful scream as children were sensibly slaughtered.
+His tongue crimped up as something ancient stirred in his throat, and as casually as the sun defeats the night, he opened his mouth to shoot an involuntary beam of Mazidfire into the world. He swiped it in a downwards arc, and all at once twelve hag beetles and two Vessels were cut in half. Even as they sizzled, his flame ripped through the bubbling shroud of the keenkedrin beast. The shroud dissipated to reveal how the flame had ripped its lower jaw right off of its head. Its forked tongue hung limp against its neck. It gargled a hiss through its broken jaw and crouched down like a cat to retreat back down the hall. Its long tail was raised like that of a scorpion. Faster than the demon could scream, its torso was cut in two.
+The Burshageet unleashed a dreadful roar as children were sensibly slaughtered.
 
 “AIIIEEEEEEEEEGHHhhhhghghh!”
 
-Mandri let loose a powerful bolt of purging fire at this putrid king, but the flame merely splashed against that putrid mound flesh and fizzled, leaving only a blister.
-The Burshageet scream trailed into a tickling laugh, but Mandri resummoned his flame. This time he held it steady. His throat heated up to incandescence. He channeled this roaring heat until it burst through one of the demon’s great sores. It poured into the stomach, heated the insides, boiled them up until sputtering blobs of super-heated bile splashed out. Up above, a spray of steam blew out of the old king’s throat. When Mandri finished, the beast slumped down and melted into a simmering puddle of its own black spoil.
+Mandri let loose a powerful bolt of purging fire at this god-eater, but the flame merely splashed against its mound of flesh, leaving only a blister.
+The Burshageet’s roar trailed into a tickled laugh, but Mandri resummoned his flame. This time he held it steady, such that his throat heated up to incandescence. He channeled this heat until it burst through one of the demon’s great sores and tore into the stomach, sending sputtering blobs of super-heated bile splashing out. Up above, a spray of steam blew out of the putrid king’s throat. When Mandri finished, the beast slumped down and melted into a simmering puddle of its own black spoil.
 The Burshageet was dead.
-The many hag beetles still alive clapped their shells tight and went scurrying back into the darkness.
-Mandri’s throat burned, but the pain was almost welcome.
-Meanwhile, Moteah collapsed, her breath coming in ragged pulls. Her sword clattered from her fingers. Moto was by her side. Both were unhurt, merely exhausted. The Hrks did not fare so well. 
-Mandri was Proud.
-But not quite looking at him. They were looking just over his shoulder.
-Mandri turned and was stunned to see a giant standing over Elrahet’s corpse. A giant with a bread loaf beard. Ayram. Slung over his should was dead child—the Mazidariga. It was clear now that he had escaped to fetch this Riga, to reinvest Mandri with his breath, to give them a fighting chance. But he’d come too late.
-He let the Riga drop to the floor. The body struck the stone with a soft, sickening thud. Ayram did not much care. He did not even look at the dead Burshageet, or even Mandri, who could end him with nary a breath.
-Elrahet was dead, and Ayram’s voice, when it came, cracked like thunder.
+The many hag beetles still alive shut their shells and went clapping back into the darkness.
+
+—come down from ecstacy of use—
+
+Moto’s sword clattered to the ground. Mandri feared the worst, but the man was merely exhausted.
+The Hrks did not fare so well. Mounds of broken men and beetle filth slicked the floor. Those still alive regarded Mandri with wonder, though he could not escape the sense that they weren’t looking at him, but at something just over his shoulder.
+Mandri turned and was stunned to see a giant standing over him; a giant with a bread loaf beard—Ayram. And at his side, Moteah.
+Mandri immediately understood that Ayram had escaped to fetch her, to reinvest Mandri with her will that they might have a fighting chance. Only, they’d come too late.
+Mandri smiled, because he’d done it; he’d killed the Burshageet.
+Ayram frowned. His great spear slipped from his grip and struck the stone with a sickening thud. He did not look at the dead Burshageet, or even Mandri. His eyes, his grief, was fixed on Elrahet’s body, and his voice, when it came, cracked like thunder.
 “What have you done?”</Text>
     </Snapshot>
 </SnapshotIndexes>
