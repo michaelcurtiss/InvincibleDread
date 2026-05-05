@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-04 11:53:25 -0400" ModID="937089A2-5A40-4B7F-80EE-B43E00DF546A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-05-04 21:15:16 -0400" ModID="F50B973B-1244-4554-BA5B-996B78E8F10A">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -1193,7 +1193,7 @@
                         <TextSelection>24497,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F6234D69-9DA0-4495-B060-89C1C5ECBE57" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-02 11:04:32 -0400">
+                <BinderItem UUID="F6234D69-9DA0-4495-B060-89C1C5ECBE57" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-04 20:35:52 -0400">
                     <Title>Burshegeet</Title>
                     <MetaData>
                         <LabelID>9</LabelID>
@@ -1201,7 +1201,7 @@
                         <NotesTextSelection>178,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>28029,0</TextSelection>
+                        <TextSelection>16449,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6FC9611E-3482-40D1-ABFA-CB051445D15C" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-02 14:59:35 -0400">
@@ -1379,7 +1379,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>19672,202</TextSelection>
+                        <TextSelection>36929,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 12:43:42 -0400" Modified="2026-04-24 16:45:27 -0400">
@@ -1742,13 +1742,13 @@
                                 <TextSelection>89,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3CDB01F6-2F89-40C1-AF42-D5B5389D6BE8" Type="Text" Created="2026-05-02 19:50:13 -0400" Modified="2026-05-02 20:03:00 -0400">
+                        <BinderItem UUID="3CDB01F6-2F89-40C1-AF42-D5B5389D6BE8" Type="Text" Created="2026-05-02 19:50:13 -0400" Modified="2026-05-04 21:15:12 -0400">
                             <Title>Adventures in Patagonia</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5287,0</TextSelection>
+                                <TextSelection>16563,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="5573BE9E-F549-46C3-959D-1326D6C20BDF" Type="Text" Created="2025-09-28 15:51:21 -0400" Modified="2025-09-30 11:24:38 -0400">
@@ -6597,8 +6597,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -8351,15 +8351,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-04 11:53:25 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-04 21:15:16 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-05-04 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-615</OtherWordCount>
-        <OtherCharCount>-3171</OtherCharCount>
+        <OtherWordCount>1383</OtherWordCount>
+        <OtherCharCount>8146</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
