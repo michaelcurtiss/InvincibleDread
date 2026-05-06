@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UIStates>
-    <Binder Show="Yes">
+    <Binder Show="No">
         <ShowCollections>No</ShowCollections>
         <SelectedCollection>0</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
@@ -24,7 +24,7 @@
             <ItemID>ADA0E253-EFF5-4FE9-9D5E-2EF78D82206B</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>D6747253-E8ED-4218-962B-6530BE7FB1B3</ItemID>
+            <ItemID>536C47AE-46BB-47F6-B825-AD0A1FBEF4A5</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -69,7 +69,7 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor1" Active="Editor1">
+    <Editors Primary="Editor1" Active="Editor2">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
@@ -78,10 +78,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>D6747253-E8ED-4218-962B-6530BE7FB1B3</ItemID>
+                    <ItemID>536C47AE-46BB-47F6-B825-AD0A1FBEF4A5</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">E0A6A61B-0DB2-4F57-B22A-BA2DD52F0DD0</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">BF06F47F-175E-4F0F-A7EA-E377CDD3A8C2</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">BC6D86F0-1490-4CC1-B447-DB6720FD2B3F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">787451A8-4BF8-47AF-A936-AECA7391E4AE</HistoryItem>
@@ -281,6 +280,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">F01B84DC-FAF8-4F91-B044-082E72627948</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">C34F143F-2E26-4494-AB6D-CCE75E0CB175</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">D6747253-E8ED-4218-962B-6530BE7FB1B3</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">536C47AE-46BB-47F6-B825-AD0A1FBEF4A5</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -288,7 +288,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>31395,0</Selection>
+                <Selection>41551,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
