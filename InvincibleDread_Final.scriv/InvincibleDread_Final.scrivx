@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-06 20:40:23 -0400" ModID="AC1AF26F-1C97-4C5A-8B9A-3C8CDBE36680">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-05-06 21:14:17 -0400" ModID="DDB1F8B2-0E6F-4329-AB85-FFE422670923">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -1724,13 +1724,13 @@
                                 <TextSelection>9498,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="33D55142-4C92-4973-8E67-FDCBE0ABE6BA" Type="Text" Created="2026-05-06 20:40:01 -0400" Modified="2026-05-06 20:40:21 -0400">
+                        <BinderItem UUID="33D55142-4C92-4973-8E67-FDCBE0ABE6BA" Type="Text" Created="2026-05-06 20:40:01 -0400" Modified="2026-05-06 21:14:14 -0400">
                             <Title>East of Siam</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>372,0</TextSelection>
+                                <TextSelection>8493,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="B1FA7B05-2A75-4A5B-853E-4518C6F09340" Type="Text" Created="2026-04-23 20:26:27 -0400" Modified="2026-04-23 20:42:11 -0400">
@@ -6606,8 +6606,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -8360,15 +8360,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-06 20:40:23 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-06 21:14:17 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-05-06 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>471</OtherWordCount>
-        <OtherCharCount>2551</OtherCharCount>
+        <OtherWordCount>1884</OtherWordCount>
+        <OtherCharCount>10672</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
