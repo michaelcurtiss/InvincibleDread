@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-13 21:38:58 -0400" ModID="09DDA658-81B8-4306-B44E-31E30CAF0703">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-15 14:41:51 -0400" ModID="2D93F1E6-9E14-41FD-AB29-02F6510B3291">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -684,16 +684,16 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>9382,0</TextSelection>
+                        <TextSelection>8571,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9C98F0A1-3B58-432F-A3D4-396CB16B107E" Type="Text" Created="2026-05-12 18:57:34 -0400" Modified="2026-05-12 19:24:54 -0400">
+                <BinderItem UUID="9C98F0A1-3B58-432F-A3D4-396CB16B107E" Type="Text" Created="2026-05-12 18:57:34 -0400" Modified="2026-05-15 12:58:52 -0400">
                     <Title>Mandri's Demon Scratch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1033,0</TextSelection>
+                        <TextSelection>91,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6CFF6D3A-A90A-4BB2-9D52-4F58605A77DF" Type="Text" Created="2026-03-13 16:38:56 -0400" Modified="2026-03-14 16:04:09 -0400">
@@ -1047,7 +1047,7 @@
                                 <TextSelection>631,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="83AF22FB-EAD6-41FE-B98D-4C2185CD54E4" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-03-12 12:54:14 -0400">
+                        <BinderItem UUID="83AF22FB-EAD6-41FE-B98D-4C2185CD54E4" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-15 12:52:21 -0400">
                             <Title>FabledBlack</Title>
                             <MetaData>
                                 <LabelID>9</LabelID>
@@ -1055,18 +1055,18 @@
                                 <NotesTextSelection>806,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9939,0</TextSelection>
+                                <TextSelection>12264,25</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8695B583-42DC-4377-A1CF-7D9ECED3C642" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-12 19:28:34 -0400">
+                        <BinderItem UUID="8695B583-42DC-4377-A1CF-7D9ECED3C642" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-15 14:41:29 -0400">
                             <Title>Mandri's Demon</Title>
                             <MetaData>
                                 <LabelID>9</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>56,0</NotesTextSelection>
+                                <NotesTextSelection>84,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4407,0</TextSelection>
+                                <TextSelection>2708,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="14329F51-A497-4BA3-95AD-9FA815FA1652" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-03-12 12:54:14 -0400">
@@ -8461,15 +8461,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-13 21:38:58 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-15 14:41:51 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-05-13 00:00:00 -0400">
+    <RecentWritingHistory Date="2026-05-15 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>337</OtherWordCount>
-        <OtherCharCount>1928</OtherCharCount>
+        <OtherWordCount>65</OtherWordCount>
+        <OtherCharCount>333</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
