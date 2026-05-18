@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-05-17 17:34:45 -0400" ModID="DDCFF08B-6DF3-42D6-A603-5FF358CF0493">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-05-18 08:59:24 -0400" ModID="A2CF0F5E-F64C-4C84-B35A-D9F46D712EB0">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -1391,13 +1391,13 @@
                         <TextSelection>85821,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="969C0C5C-0608-4216-A67A-CA91D162C91C" Type="Text" Created="2026-05-12 12:56:41 -0400" Modified="2026-05-17 14:25:53 -0400">
+                <BinderItem UUID="969C0C5C-0608-4216-A67A-CA91D162C91C" Type="Text" Created="2026-05-12 12:56:41 -0400" Modified="2026-05-18 08:58:57 -0400">
                     <Title>BPD Conviction</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11080,0</TextSelection>
+                        <TextSelection>16776,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1D9AFFD2-3300-4A45-87C6-9CC45FA89118" Type="Text" Created="2025-06-15 12:43:42 -0400" Modified="2026-05-05 20:58:42 -0400">
@@ -2375,6 +2375,33 @@ MORBID ANATOMY</Title>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>30999,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EF838583-D22F-4A0C-BC32-0A44F3473F64" Type="Text" Created="2026-05-17 18:51:50 -0400" Modified="2026-05-17 19:02:35 -0400">
+                    <Title>Archways of Life</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2114,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E92CEC38-583B-4537-A6DD-F0A4E9632192" Type="Text" Created="2026-05-17 19:06:53 -0400" Modified="2026-05-17 19:07:22 -0400">
+                    <Title>Hungary and Democracy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>959,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AF3D849F-058B-4DC7-AB20-6EC55295DC9F" Type="Text" Created="2026-05-17 19:10:13 -0400" Modified="2026-05-17 19:10:54 -0400">
+                    <Title>The Two Frontiers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="95">0,95</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="3B89B72B-5E23-41D3-A313-16E4DDD1F440" Type="Text" Created="2026-05-15 20:19:41 -0400" Modified="2026-05-15 21:01:35 -0400">
@@ -8487,15 +8514,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-17 17:34:45 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-18 08:59:24 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-05-17 00:00:00 -0400">
+    <RecentWritingHistory Date="2026-05-18 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>639</OtherWordCount>
-        <OtherCharCount>3745</OtherCharCount>
+        <OtherWordCount>880</OtherWordCount>
+        <OtherCharCount>5698</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
