@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-25 15:37:34 -0400" ModID="449D21A6-BB03-4568-A0C4-C3BE946825A9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-25 19:48:54 -0400" ModID="6D2C6EC8-04ED-455A-9EFD-C0AD967AF274">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -1770,6 +1770,42 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="C8DEA8D9-C20E-4A62-8723-EADE5A3E9F9A" Type="Text" Created="2026-05-25 19:21:21 -0400" Modified="2026-05-25 19:32:20 -0400">
+                            <Title>Harmonium</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3598,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="345FA3DE-8D9C-43C5-BDFF-C658A90E966A" Type="Text" Created="2026-05-25 19:34:00 -0400" Modified="2026-05-25 19:34:13 -0400">
+                            <Title>Russian POets</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>424,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7A183897-2282-4B78-BD0E-1DCC7EFF3830" Type="Text" Created="2026-05-25 19:36:13 -0400" Modified="2026-05-25 19:38:44 -0400">
+                            <Title>Sweden</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2483,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1E77E44D-7B2A-4F8F-81BB-F3F38C3D4C9E" Type="Text" Created="2026-05-25 19:48:33 -0400" Modified="2026-05-25 19:48:50 -0400">
+                            <Title>THe Blacker the Berry</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>58,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="05B6D248-E629-4BCD-9B9B-4DA101694E1B" Type="Text" Created="2026-01-02 08:12:36 -0400" Modified="2026-01-02 09:10:40 -0400">
                             <Title>Signs, omens, and superstitions</Title>
                             <MetaData>
@@ -8606,15 +8642,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-25 15:37:34 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-25 19:48:54 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-05-25 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-76</OtherWordCount>
-        <OtherCharCount>-297</OtherCharCount>
+        <OtherWordCount>1037</OtherWordCount>
+        <OtherCharCount>6267</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
