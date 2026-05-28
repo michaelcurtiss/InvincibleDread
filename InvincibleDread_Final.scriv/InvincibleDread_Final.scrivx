@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-05-27 19:43:11 -0400" ModID="85055B58-2C36-4F7C-8037-C38AFFD0484A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-05-27 22:04:16 -0400" ModID="7C52CF57-6F0B-49D3-8F84-2A4F54EB41D6">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -1209,16 +1209,16 @@
                         <TextSelection>34229,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0AB792F6-2A9E-47A9-8413-3171281BE858" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-17 11:14:27 -0400">
+                <BinderItem UUID="0AB792F6-2A9E-47A9-8413-3171281BE858" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-27 22:04:06 -0400">
                     <Title>Shulgi</Title>
                     <MetaData>
                         <LabelID>11</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>240,0</NotesTextSelection>
+                        <NotesTextSelection>204,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2399,0</TextSelection>
+                        <TextSelection>5818,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F6234D69-9DA0-4495-B060-89C1C5ECBE57" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-25 11:24:44 -0400">
@@ -1570,14 +1570,33 @@
                         <TextSelection>5661,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="BE08AB7B-E810-42A2-AFDE-FDCA56358E5D" Type="Text" Created="2026-05-24 20:50:25 -0400" Modified="2026-05-25 21:53:20 -0400">
+                <BinderItem UUID="BE08AB7B-E810-42A2-AFDE-FDCA56358E5D" Type="Text" Created="2026-05-24 20:50:25 -0400" Modified="2026-05-27 21:26:45 -0400">
                     <Title>Crime and PUnishment</Title>
                     <MetaData>
                         <LabelID>7</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11663,0</TextSelection>
+                        <TextSelection>21611,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D9999F69-D349-46E5-924C-38F67BFFF9DB" Type="Text" Created="2026-05-27 20:17:04 -0400" Modified="2026-05-27 20:42:27 -0400">
+                    <Title>The Terrible Meek</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9589,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7C6383B2-89DF-4B47-8023-C73A0DC891F2" Type="Text" Created="2026-05-27 20:17:12 -0400" Modified="2026-05-27 20:17:28 -0400">
+                    <Title>Modern Thinkers</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>95,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="2C9D65E8-3C4E-4751-BD05-11865F94DC03" Type="Text" Created="2025-12-19 20:32:56 -0400" Modified="2025-12-19 20:33:27 -0400">
@@ -8653,15 +8672,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-27 19:43:11 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-27 22:04:16 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-05-27 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>862</OtherWordCount>
-        <OtherCharCount>4813</OtherCharCount>
+        <OtherWordCount>4493</OtherWordCount>
+        <OtherCharCount>24642</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
