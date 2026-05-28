@@ -25,7 +25,7 @@
             <ItemID>ADA0E253-EFF5-4FE9-9D5E-2EF78D82206B</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>0AB792F6-2A9E-47A9-8413-3171281BE858</ItemID>
+            <ItemID>D9999F69-D349-46E5-924C-38F67BFFF9DB</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -80,10 +80,6 @@
                 <SelectionAffects>Current</SelectionAffects>
                 <Content/>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">F01B84DC-FAF8-4F91-B044-082E72627948</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">3DFEEE7B-F7C1-4CC8-8827-3CB151EE508C</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">536C47AE-46BB-47F6-B825-AD0A1FBEF4A5</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">3DFEEE7B-F7C1-4CC8-8827-3CB151EE508C</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">F6234D69-9DA0-4495-B060-89C1C5ECBE57</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">6CFF6D3A-A90A-4BB2-9D52-4F58605A77DF</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">E89C3DB7-F054-49DF-96A8-7D71CEE03869</HistoryItem>
@@ -280,6 +276,10 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">ACA5564D-5210-44C2-A274-371582EC0CC2</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">E0689DAE-3289-47E8-9245-E6E5264C3670</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">ACA5564D-5210-44C2-A274-371582EC0CC2</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A8A6CB7D-7288-4473-B51F-2F4D97CAF4A9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">D9999F69-D349-46E5-924C-38F67BFFF9DB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A8A6CB7D-7288-4473-B51F-2F4D97CAF4A9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">D9999F69-D349-46E5-924C-38F67BFFF9DB</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -287,7 +287,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>5818,0</Selection>
+                <Selection>15927,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -328,12 +328,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>0AB792F6-2A9E-47A9-8413-3171281BE858</ItemID>
+                    <ItemID>A8A6CB7D-7288-4473-B51F-2F4D97CAF4A9</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">F6234D69-9DA0-4495-B060-89C1C5ECBE57</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">AC2D1F57-2D84-42D5-8298-C1F27F60AE41</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">FAFED25D-917E-4A7E-AB00-A2B4F1BED0E0</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">0AB792F6-2A9E-47A9-8413-3171281BE858</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">F6234D69-9DA0-4495-B060-89C1C5ECBE57</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">A7B4E385-9F07-44FB-A476-23D1248962DD</HistoryItem>
@@ -531,6 +528,9 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">0AB792F6-2A9E-47A9-8413-3171281BE858</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">BE08AB7B-E810-42A2-AFDE-FDCA56358E5D</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">0AB792F6-2A9E-47A9-8413-3171281BE858</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A8A6CB7D-7288-4473-B51F-2F4D97CAF4A9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">BE4A56A3-0067-4A07-9F4C-22CD7CB95B32</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A8A6CB7D-7288-4473-B51F-2F4D97CAF4A9</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
