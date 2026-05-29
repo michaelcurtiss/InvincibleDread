@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-28 20:30:45 -0400" ModID="05E7007F-5860-4B18-8988-A25AA47A10C9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-05-28 21:16:51 -0400" ModID="4F5F5C4B-55C2-45B9-AE87-6F631903B03A">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -696,13 +696,13 @@
                         <TextSelection>8457,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3F2F9F8D-2784-4D4F-9C2D-22E0B23BE5C1" Type="Text" Created="2026-03-14 16:45:38 -0400" Modified="2026-03-24 17:17:44 -0400">
+                <BinderItem UUID="3F2F9F8D-2784-4D4F-9C2D-22E0B23BE5C1" Type="Text" Created="2026-03-14 16:45:38 -0400" Modified="2026-05-28 21:16:25 -0400">
                     <Title>Shulgi Scratch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14758,0</TextSelection>
+                        <TextSelection>16124,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A7B4E385-9F07-44FB-A476-23D1248962DD" Type="Text" Created="2026-03-24 17:31:40 -0400" Modified="2026-05-19 16:44:34 -0400">
@@ -729,7 +729,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4279,0</TextSelection>
+                        <TextSelection Caret="8342">8337,5</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="8650F4F4-A36E-4B74-B515-2FFB81F3B482" Type="Text" Created="2026-04-02 15:35:47 -0400" Modified="2026-05-16 14:48:07 -0400">
@@ -1209,7 +1209,7 @@
                         <TextSelection>34229,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0AB792F6-2A9E-47A9-8413-3171281BE858" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-28 20:30:30 -0400">
+                <BinderItem UUID="0AB792F6-2A9E-47A9-8413-3171281BE858" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-28 21:16:23 -0400">
                     <Title>Shulgi</Title>
                     <MetaData>
                         <LabelID>11</LabelID>
@@ -1218,10 +1218,10 @@
                         <NotesTextSelection>430,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>9445,0</TextSelection>
+                        <TextSelection>10220,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F6234D69-9DA0-4495-B060-89C1C5ECBE57" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-25 11:24:44 -0400">
+                <BinderItem UUID="F6234D69-9DA0-4495-B060-89C1C5ECBE57" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-28 20:58:35 -0400">
                     <Title>Burshegeet</Title>
                     <MetaData>
                         <LabelID>9</LabelID>
@@ -1229,7 +1229,7 @@
                         <NotesTextSelection>53,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="28430">28424,6</TextSelection>
+                        <TextSelection>4935,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6FC9611E-3482-40D1-ABFA-CB051445D15C" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-25 14:01:28 -0400">
@@ -6918,8 +6918,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -8672,15 +8672,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-28 20:30:45 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-28 21:16:51 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-05-28 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>382</OtherWordCount>
-        <OtherCharCount>2124</OtherCharCount>
+        <OtherWordCount>368</OtherWordCount>
+        <OtherCharCount>2051</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
