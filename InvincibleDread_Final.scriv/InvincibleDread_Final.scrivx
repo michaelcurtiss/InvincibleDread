@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-28 15:30:55 -0400" ModID="BF9B73C4-1335-4872-96CA-674D09839E4D">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-05-28 20:30:45 -0400" ModID="05E7007F-5860-4B18-8988-A25AA47A10C9">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -779,14 +779,14 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="FE1A04B3-6FC9-4878-8E90-A2FD3861B11C" Type="Text" Created="2026-05-21 10:05:14 -0400" Modified="2026-05-27 18:59:53 -0400">
+                <BinderItem UUID="FE1A04B3-6FC9-4878-8E90-A2FD3861B11C" Type="Text" Created="2026-05-21 10:05:14 -0400" Modified="2026-05-28 16:01:25 -0400">
                     <Title>Prologue</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>15,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>639,0</TextSelection>
+                        <TextSelection>645,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="26FBE32F-BD21-47EF-A775-08EB91C92B7C" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-05-21 19:33:08 -0400">
@@ -1209,16 +1209,16 @@
                         <TextSelection>34229,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0AB792F6-2A9E-47A9-8413-3171281BE858" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-28 15:30:54 -0400">
+                <BinderItem UUID="0AB792F6-2A9E-47A9-8413-3171281BE858" Type="Text" Created="2026-03-12 12:52:45 -0400" Modified="2026-05-28 20:30:30 -0400">
                     <Title>Shulgi</Title>
                     <MetaData>
                         <LabelID>11</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>193,117</NotesTextSelection>
+                        <NotesTextSelection>430,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6133,0</TextSelection>
+                        <TextSelection>9445,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F6234D69-9DA0-4495-B060-89C1C5ECBE57" Type="Text" Created="2026-03-12 12:52:46 -0400" Modified="2026-05-25 11:24:44 -0400">
@@ -1349,11 +1349,11 @@
                         <TextSelection>130,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DEAE8C2D-A542-4530-9E29-557977A9FE6A" Type="Text" Created="2025-06-15 12:41:36 -0400" Modified="2026-05-19 17:23:06 -0400">
+                <BinderItem UUID="DEAE8C2D-A542-4530-9E29-557977A9FE6A" Type="Text" Created="2025-06-15 12:41:36 -0400" Modified="2026-05-28 20:23:18 -0400">
                     <Title>Words&amp;Details</Title>
                     <MetaData/>
                     <TextSettings>
-                        <TextSelection>55,0</TextSelection>
+                        <TextSelection>291,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A19BEBBB-9820-43FB-A84D-C7BD1B86005A" Type="Text" Created="2025-06-15 12:35:44 -0400" Modified="2025-10-15 15:33:51 -0400">
@@ -2009,7 +2009,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>17358,0</TextSelection>
+                                <TextSelection>4280,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="FDCFA832-32EB-4A2A-94A5-8FED6CE5F930" Type="Text" Created="2026-05-11 20:03:37 -0400" Modified="2026-05-11 20:04:44 -0400">
@@ -8672,15 +8672,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-28 15:30:55 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-28 20:30:45 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-05-28 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>101</OtherWordCount>
-        <OtherCharCount>520</OtherCharCount>
+        <OtherWordCount>382</OtherWordCount>
+        <OtherCharCount>2124</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
