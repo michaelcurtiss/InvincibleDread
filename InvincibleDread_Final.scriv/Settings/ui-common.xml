@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UIStates>
-    <Binder Show="Yes">
+    <Binder Show="No">
         <ShowCollections>No</ShowCollections>
         <SelectedCollection>0</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
@@ -29,7 +29,7 @@
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
-    <Inspector Show="Yes" View="Notes">
+    <Inspector Show="Yes" View="Snapshots">
         <ShowProjectBookmarks>No</ShowProjectBookmarks>
         <ShowSimilarTexts>No</ShowSimilarTexts>
         <Collapse>CustomMetaData</Collapse>
@@ -287,7 +287,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>8104,0</Selection>
+                <Selection>9457,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -331,8 +331,6 @@
                     <ItemID>0AB792F6-2A9E-47A9-8413-3171281BE858</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">05B6D248-E629-4BCD-9B9B-4DA101694E1B</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">B1FA7B05-2A75-4A5B-853E-4518C6F09340</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">20C69C5E-D64B-4801-B804-C00355361899</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">CFBC1903-C5B4-4323-B4E3-9AF8694F80E7</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">B1FA7B05-2A75-4A5B-853E-4518C6F09340</HistoryItem>
@@ -529,6 +527,8 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">0AB792F6-2A9E-47A9-8413-3171281BE858</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">A58C735D-9AED-4019-B45D-8CA4ACD6C857</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">5DA96571-5684-44ED-B444-6EC308B3323E</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">FF6283DC-9EF6-4515-B2F8-BB2F77C59670</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0AB792F6-2A9E-47A9-8413-3171281BE858</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">FF6283DC-9EF6-4515-B2F8-BB2F77C59670</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">0AB792F6-2A9E-47A9-8413-3171281BE858</HistoryItem>
                 </NavigationHistory>
