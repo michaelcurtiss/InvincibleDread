@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-06-21 23:22:22 -0400" ModID="2C4E56A1-81B5-4459-A6B8-20215D929C77">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-06-21 23:28:26 -0400" ModID="662604E9-4CBA-436B-A4C4-056DFF33C068">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -834,14 +834,14 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="7EE0DE41-48CF-4C60-A7A4-970B2EF1743F" Type="Text" Created="2026-06-09 17:09:57 -0400" Modified="2026-06-21 23:22:21 -0400">
+                <BinderItem UUID="7EE0DE41-48CF-4C60-A7A4-970B2EF1743F" Type="Text" Created="2026-06-09 17:09:57 -0400" Modified="2026-06-21 23:24:25 -0400">
                     <Title>Prologue</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>25,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4358,0</TextSelection>
+                        <TextSelection>5343,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="26FBE32F-BD21-47EF-A775-08EB91C92B7C" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-05-21 19:33:08 -0400">
@@ -8810,7 +8810,7 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-06-21 23:22:22 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-06-21 23:28:26 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
@@ -8818,7 +8818,7 @@ MORBID ANATOMY,</Title>
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>232</OtherWordCount>
-        <OtherCharCount>1396</OtherCharCount>
+        <OtherCharCount>1394</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
