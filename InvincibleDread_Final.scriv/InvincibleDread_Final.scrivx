@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-08-20 15:45:50 -0400" ModID="27E051E3-09BD-44FD-83B3-3E9CA44A7D3E">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-08-20 19:05:24 -0400" ModID="5BC107AF-5AB4-41FF-B3C2-550F41615E15">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -1244,8 +1244,8 @@
                         <TextSelection>30769,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="BD730B7F-97CA-49CE-8C3A-BD9C38E18044" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-08-20 15:45:40 -0400">
-                    <Title>Pel</Title>
+                <BinderItem UUID="BD730B7F-97CA-49CE-8C3A-BD9C38E18044" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-08-20 19:05:22 -0400">
+                    <Title>Lora</Title>
                     <MetaData>
                         <LabelID>12</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1255,28 +1255,28 @@
                         <TextSelection>25412,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="5E87B96C-6DD9-4352-BD07-4ACC9686F5FF" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-03-12 12:55:46 -0400">
+                <BinderItem UUID="5E87B96C-6DD9-4352-BD07-4ACC9686F5FF" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-08-20 16:18:11 -0400">
                     <Title>Meskalim</Title>
                     <MetaData>
-                        <LabelID>9</LabelID>
+                        <LabelID>12</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                         <NotesTextSelection>294,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11428,0</TextSelection>
+                        <TextSelection>12289,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="D730C3A4-E80F-481B-BACB-19102CAF3D4B" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-04-07 16:32:47 -0400">
+                <BinderItem UUID="D730C3A4-E80F-481B-BACB-19102CAF3D4B" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-08-20 19:02:36 -0400">
                     <Title>Vigram'sPalace</Title>
                     <MetaData>
-                        <LabelID>9</LabelID>
+                        <LabelID>12</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
-                        <NotesTextSelection>295,0</NotesTextSelection>
+                        <NotesTextSelection>57,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>36295,0</TextSelection>
+                        <TextSelection>39272,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="0A5F2493-848E-42FD-9E4B-CCA90EACC02D" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-07-03 20:52:14 -0400">
@@ -10337,15 +10337,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-08-20 15:45:50 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-08-20 19:05:24 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-08-20 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>293</OtherWordCount>
-        <OtherCharCount>1507</OtherCharCount>
+        <OtherWordCount>324</OtherWordCount>
+        <OtherCharCount>1691</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
