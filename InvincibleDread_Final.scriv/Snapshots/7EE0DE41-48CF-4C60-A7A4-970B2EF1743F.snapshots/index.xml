@@ -40,4 +40,8 @@
         <Title>Dont know</Title>
         <Date>2026-09-02 07:07:48 -0400</Date>
     </Snapshot>
+    <Snapshot>
+        <Title>Before triple bump semi-colon</Title>
+        <Date>2026-09-05 09:25:55 -0400</Date>
+    </Snapshot>
 </Snapshots>
