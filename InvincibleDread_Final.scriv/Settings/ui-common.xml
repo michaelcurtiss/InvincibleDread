@@ -28,7 +28,7 @@
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
-    <Inspector Show="Yes" View="Snapshots">
+    <Inspector Show="Yes" View="Notes">
         <ShowProjectBookmarks>No</ShowProjectBookmarks>
         <ShowSimilarTexts>No</ShowSimilarTexts>
         <Collapse>CustomMetaData</Collapse>
@@ -81,8 +81,6 @@
                     <ItemID>26FBE32F-BD21-47EF-A775-08EB91C92B7C</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">37401CEC-7E79-4771-B010-A5102FFB5B10</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">20CC5F75-F20A-4B99-B6EC-49575D845A19</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">D0679FAC-6E4B-49ED-8475-45D2078EBBF2</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">37401CEC-7E79-4771-B010-A5102FFB5B10</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">7EE0DE41-48CF-4C60-A7A4-970B2EF1743F</HistoryItem>
@@ -281,6 +279,8 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">D0F8637D-861B-47B1-A012-A34DB8BD894F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">E6367B1D-D1DD-4976-BFCC-35951152E43F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">26FBE32F-BD21-47EF-A775-08EB91C92B7C</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">F01B84DC-FAF8-4F91-B044-082E72627948</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">26FBE32F-BD21-47EF-A775-08EB91C92B7C</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -288,7 +288,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>10,0</Selection>
+                <Selection>1784,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
