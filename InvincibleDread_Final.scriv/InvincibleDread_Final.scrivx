@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-09-12 12:22:26 -0400" ModID="FEBD23A2-B6C9-4233-B0F6-3813B98C3CFA">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-09-13 16:34:53 -0400" ModID="6584541D-FFF6-46E4-8573-CF5F96DB7EC3">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -91,13 +91,22 @@
                 <TextSelection>6429,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="AE35E8CB-7BE4-470B-9741-C62FB195E1AF" Type="Text" Created="2026-08-10 21:06:58 -0400" Modified="2026-09-07 07:52:59 -0400">
+        <BinderItem UUID="AE35E8CB-7BE4-470B-9741-C62FB195E1AF" Type="Text" Created="2026-08-10 21:06:58 -0400" Modified="2026-09-12 17:46:08 -0400">
             <Title>Easy Access ghost story</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>1910,0</TextSelection>
+                <TextSelection>1981,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="A2AE28EC-9A42-46BC-BDB2-0AEF978A0139" Type="Text" Created="2026-09-13 05:58:49 -0400" Modified="2026-09-13 06:36:17 -0400">
+            <Title>Majesty of Stupidity</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>56,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="E0AF44CE-F0E2-4D64-892E-8E800DE9639A" Type="Text" Created="2026-08-23 10:24:00 -0400" Modified="2026-08-23 10:26:44 -0400">
@@ -1093,13 +1102,15 @@
                                 <TextSelection>354,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ADF4E069-13FF-4B37-ACCA-0A4377506B33" Type="Text" Created="2026-09-11 16:20:06 -0400" Modified="2026-09-11 20:34:06 -0400">
+                        <BinderItem UUID="ADF4E069-13FF-4B37-ACCA-0A4377506B33" Type="Text" Created="2026-09-11 16:20:06 -0400" Modified="2026-09-13 16:34:51 -0400">
                             <Title>New Start</Title>
                             <MetaData>
+                                <LabelID>12</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>854,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1150,0</TextSelection>
+                                <TextSelection>485,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2057,13 +2068,13 @@
                                 <TextSelection>2148,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D0ADCF4B-0465-4382-BC76-B61B9D4522C8" Type="Text" Created="2026-09-12 12:15:11 -0400" Modified="2026-09-12 12:22:02 -0400">
+                        <BinderItem UUID="D0ADCF4B-0465-4382-BC76-B61B9D4522C8" Type="Text" Created="2026-09-12 12:15:11 -0400" Modified="2026-09-12 17:32:49 -0400">
                             <Title>Dumbasses</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2643,0</TextSelection>
+                                <TextSelection>8610,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="F01B84DC-FAF8-4F91-B044-082E72627948" Type="Text" Created="2025-06-15 12:42:30 -0400" Modified="2026-09-10 21:08:12 -0400">
@@ -3329,7 +3340,7 @@
                                 <TextSelection>17898,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C7B608B2-F2DB-4EA2-AFAF-ED6072BD8257" Type="Text" Created="2026-07-06 11:28:45 -0400" Modified="2026-09-10 22:17:26 -0400">
+                        <BinderItem UUID="C7B608B2-F2DB-4EA2-AFAF-ED6072BD8257" Type="Text" Created="2026-07-06 11:28:45 -0400" Modified="2026-09-13 16:33:56 -0400">
                             <Title>Malachi Martin</Title>
                             <MetaData>
                                 <LabelID>7</LabelID>
@@ -3337,7 +3348,7 @@
                                 <NotesTextSelection>190,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>19913,0</TextSelection>
+                                <TextSelection>9261,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D8803D29-9314-4FDA-A308-EAA34A205111" Type="Text" Created="2026-07-06 11:29:09 -0400" Modified="2026-07-06 11:29:09 -0400">
@@ -10738,15 +10749,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-09-12 12:22:26 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-13 16:34:53 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-09-12 00:00:00 -0400">
+    <RecentWritingHistory Date="2026-09-13 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>566</OtherWordCount>
-        <OtherCharCount>3441</OtherCharCount>
+        <OtherWordCount>580</OtherWordCount>
+        <OtherCharCount>3195</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
