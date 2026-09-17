@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-09-15 19:46:40 -0400" ModID="9304BA2B-16D0-45FD-9F16-815586060571">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-09-16 20:14:41 -0400" ModID="13991CA1-7B75-423F-A82F-C43415CF0BD0">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 11:50:52 -0400" Modified="2023-11-05 01:15:51 -0400">
             <Title>Novel Format</Title>
@@ -1084,13 +1084,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="56898D8A-E4F0-4F4F-8326-10D2D764D6E2" Type="Text" Created="2026-09-10 19:40:53 -0400" Modified="2026-09-10 22:11:01 -0400">
+                        <BinderItem UUID="56898D8A-E4F0-4F4F-8326-10D2D764D6E2" Type="Text" Created="2026-09-10 19:40:53 -0400" Modified="2026-09-16 20:02:54 -0400">
                             <Title>Mandri Notes</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6800,1</TextSelection>
+                                <TextSelection>7028,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="70FE6AFB-751D-47A5-AE74-49C3EC8B582C" Type="Text" Created="2026-09-10 11:46:20 -0400" Modified="2026-09-10 13:49:02 -0400">
@@ -1207,14 +1207,14 @@
                         <TextSelection Caret="19257">0,19257</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="7755F63A-D11C-493A-A945-F7BB583BD761" Type="Text" Created="2026-09-15 19:39:07 -0400" Modified="2026-09-15 19:45:53 -0400">
+                <BinderItem UUID="7755F63A-D11C-493A-A945-F7BB583BD761" Type="Text" Created="2026-09-15 19:39:07 -0400" Modified="2026-09-16 15:11:43 -0400">
                     <Title>M_FORCE_3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>291,0</NotesTextSelection>
+                        <NotesTextSelection Caret="1079">1036,43</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1175,0</TextSelection>
+                        <TextSelection Caret="19130">0,19130</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C35B1421-600D-430D-A535-1102B1265B93" Type="Text" Created="2026-09-08 14:51:28 -0400" Modified="2026-09-08 14:51:50 -0400">
@@ -1250,7 +1250,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5497,1843</TextSelection>
+                        <TextSelection>2927,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="FC43521E-34F3-43F4-9D3D-C644566B8306" Type="Text" Created="2026-09-09 09:01:01 -0400" Modified="2026-09-09 09:01:01 -0400">
@@ -1591,7 +1591,7 @@
                         <TextSelection>3959,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="26FBE32F-BD21-47EF-A775-08EB91C92B7C" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-09-15 16:08:48 -0400">
+                <BinderItem UUID="26FBE32F-BD21-47EF-A775-08EB91C92B7C" Type="Text" Created="2026-03-12 12:52:43 -0400" Modified="2026-09-16 15:17:08 -0400">
                     <Title>Mandrameen</Title>
                     <MetaData>
                         <LabelID>12</LabelID>
@@ -1600,7 +1600,7 @@
                         <NotesTextSelection Caret="302">0,302</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1468,0</TextSelection>
+                        <TextSelection>17727,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B2D8BB2C-F3AE-4D6F-904B-A6D3D9FE9F86" Type="Text" Created="2026-09-03 20:47:20 -0400" Modified="2026-09-09 19:56:26 -0400">
@@ -2442,6 +2442,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>15255,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="88280851-8ABD-4CC1-9E60-DB0FC8A3DEA0" Type="Text" Created="2026-09-16 18:45:25 -0400" Modified="2026-09-16 20:14:08 -0400">
+                            <Title>OurMathematicalUnivers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7648,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4B697BF0-DA29-4749-A6C6-AAFC40878B8F" Type="Text" Created="2026-08-10 12:51:04 -0400" Modified="2026-08-10 16:24:14 -0400">
@@ -9034,8 +9043,8 @@ MORBID ANATOMY,</Title>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
                     <FreeformCorkboardDocuments>
-                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.136364,0.263636" TimeStamp="2023-11-09 07:06:45 -0400">68749108-0A95-454F-90A2-3093F16D29D1</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.518182,0.469697" TimeStamp="2023-11-09 07:06:47 -0400">3C7BF77F-04B8-4F24-A529-2910FA9D54D7</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -10789,15 +10798,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-09-15 19:46:40 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-16 20:14:41 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-09-15 00:00:00 -0400">
+    <RecentWritingHistory Date="2026-09-16 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>569</OtherWordCount>
-        <OtherCharCount>3530</OtherCharCount>
+        <OtherWordCount>459</OtherWordCount>
+        <OtherCharCount>3680</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
