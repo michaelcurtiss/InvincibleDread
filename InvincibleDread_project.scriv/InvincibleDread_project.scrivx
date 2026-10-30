@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-07-06 11:35:11 -0400" ModID="A488A0B7-22A1-4E8C-93D5-B6F06C485EA4">
+<ScrivenerProject Template="No" Version="2.0" Identifier="31400F9D-F33E-4C44-821A-E00A916CC8FE" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-10-29 15:23:13 -0400" ModID="A488A0B7-22A1-4E8C-93D5-B6F06C485EA4">
     <Binder>
         <BinderItem UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Type="Text" Created="2007-03-25 20:48:19 -0400" Modified="2023-10-27 00:41:13 -0400">
             <Title>Novel Format</Title>
@@ -706,13 +706,13 @@
             </TextSettings>
             <CorkboardAndOutliner>
                 <OutlinerExpandedState>
-                    <ItemID>00B4FA64-D705-4810-B3FB-C566AF858F74</ItemID>
+                    <ItemID>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
                     <ItemID>00D78C34-591C-4B77-8149-CB18AC21A56C</ItemID>
                 </OutlinerExpandedState>
                 <OutlinerExpandedState>
-                    <ItemID>B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</ItemID>
+                    <ItemID>00B4FA64-D705-4810-B3FB-C566AF858F74</ItemID>
                 </OutlinerExpandedState>
                 <CorkboardSettings>
                     <Arrangement>Linear</Arrangement>
@@ -1592,7 +1592,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>877,0</TextSelection>
+                                <TextSelection>1539,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CEB3355E-7775-4CB3-8CA7-DBB7441989C7" Type="Text" Created="2022-05-11 20:44:01 -0400" Modified="2022-05-11 20:44:08 -0400">
@@ -5831,14 +5831,14 @@ Mandri felt Obo stir in the litter.
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-07-06 11:35:11 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-10-29 15:23:13 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <RecentWritingHistory Date="2026-07-06 00:00:00 -0400">
+    <RecentWritingHistory Date="2026-10-29 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1</OtherWordCount>
-        <OtherCharCount>12</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="Letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
