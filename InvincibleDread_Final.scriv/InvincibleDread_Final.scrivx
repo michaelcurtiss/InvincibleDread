@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-11-08 11:58:43 -0500" ModID="33997419-3324-440B-AC5E-2941EC826945">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-11-08 21:43:08 -0500" ModID="3B42525D-6D53-4B33-968A-722EB0C26348">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 10:50:52 -0500" Modified="2023-11-05 01:15:51 -0500">
             <Title>Novel Format</Title>
@@ -1356,14 +1356,14 @@
                         <TextSelection>3135,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="806CA82F-E056-4313-880C-0159FDE9BC20" Type="Text" Created="2026-10-22 14:52:39 -0500" Modified="2026-11-08 11:58:07 -0500">
+                <BinderItem UUID="806CA82F-E056-4313-880C-0159FDE9BC20" Type="Text" Created="2026-10-22 14:52:39 -0500" Modified="2026-11-08 21:42:58 -0500">
                     <Title>Peddler</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>844,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5658,0</TextSelection>
+                        <TextSelection>6415,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -10981,15 +10981,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-11-08 11:58:43 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-11-08 21:43:08 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2026-11-08 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-22</OtherWordCount>
-        <OtherCharCount>-101</OtherCharCount>
+        <OtherWordCount>-48</OtherWordCount>
+        <OtherCharCount>-238</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
