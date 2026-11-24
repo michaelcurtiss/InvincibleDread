@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-Q9SIJQ0" Modified="2026-11-16 20:16:30 -0500" ModID="83F4E4D5-ABAA-482E-886C-3CFF317EC4E3">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.6.0" Device="DESKTOP-FJNA7F4" Author="Michael Victor Curtiss" Modified="2026-11-23 20:58:58 -0500" ModID="A443807E-6BFC-42D3-86FE-9240FC31D4B3">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 10:50:52 -0500" Modified="2023-11-05 01:15:51 -0500">
             <Title>Novel Format</Title>
@@ -1056,13 +1056,13 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="9FA17878-90B8-4286-B6AC-13B8C5AF0507" Type="Text" Created="2026-10-26 16:06:50 -0500" Modified="2026-10-26 19:03:17 -0500">
+                <BinderItem UUID="9FA17878-90B8-4286-B6AC-13B8C5AF0507" Type="Text" Created="2026-10-26 16:06:50 -0500" Modified="2026-11-17 11:15:56 -0500">
                     <Title>Peddler scratch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>82,0</TextSelection>
+                        <TextSelection>3602,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1D758C48-C70D-4E44-A54B-261C96F07FA3" Type="Text" Created="2026-10-22 14:52:32 -0500" Modified="2026-10-26 16:06:43 -0500">
@@ -1089,7 +1089,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>159,0</TextSelection>
+                        <TextSelection>1369,1</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -11000,15 +11000,15 @@ MORBID ANATOMY,</Title>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2023-11-05 02:47:51 -0400" IgnoreDeadline="Yes">115000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-11-16 20:16:30 -0500"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-11-23 20:58:58 -0500"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2026-11-16 00:00:00 -0500">
+    <RecentWritingHistory Date="2026-11-23 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-230</OtherWordCount>
-        <OtherCharCount>-1288</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
